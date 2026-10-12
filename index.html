@@ -13,20 +13,20 @@ tr.r{cursor:pointer}tr.r:hover{background:#18243f}.dot{display:inline-block;widt
 .green{background:#3ecf8e}.yellow{background:#f0b429}.red{background:#fb7185}
 .chip{display:inline-block;font-size:.72rem;padding:1px 6px;border-radius:9px;margin:1px;white-space:nowrap}
 .c-done{background:#14532d;color:#86efac}.c-open{background:#7f1d1d;color:#fecaca}.c-waiting{background:#713f12;color:#fde68a}.c-na{background:#1f2a40;color:#6b7a94}
-.det td{background:#0e1628;white-space:pre-wrap;font-size:.85rem}.tg{color:#3dd6c6;font-weight:700;margin-right:4px}.top{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px;align-items:flex-start}.lu{background:#152038;border:1px solid #2a3b5c;border-radius:8px;padding:8px 12px;max-width:420px;font-size:.85rem}.lu b{color:#3dd6c6}@media(max-width:640px){.lu{max-width:100%;width:100%}}.flag{color:#f0b429;font-size:.78rem}
+.det td{background:#0e1628;white-space:pre-wrap;font-size:.85rem}.tg{color:#3dd6c6;font-weight:700;margin-right:4px}.top{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px;align-items:flex-start}.lu{background:#152038;border:1px solid #2a3b5c;border-radius:8px;padding:8px 12px;max-width:420px;font-size:.85rem}.lu b{color:#3dd6c6}@media(max-width:640px){.lu{max-width:100%;width:100%}table th:nth-child(3),table td:nth-child(3),table th:nth-child(7),table td:nth-child(7),table th:nth-child(9),table td:nth-child(9),table th:nth-child(13),table td:nth-child(13){display:none}body{padding:10px}}td.own{font-weight:700;white-space:nowrap;color:#fde68a}.flag{color:#f0b429;font-size:.78rem}
 </style></head><body>
 <div class="top"><h1>Tellennium SEO Action Tracker</h1><div class="lu" id="lu"></div></div>
-<div class="muted"><span id="upd"></span> · v2026.10.12j</div>
+<div class="muted"><span id="upd"></span> · v2026.10.12m</div>
 <div class="sum" id="sum"></div>
 <div class="bar" id="who"><b>Show items for:</b></div>
 <div class="bar"><b>Sort:</b>
-<select id="sort"><option value="id-asc">ID ascending</option><option value="id-desc">ID descending</option><option value="pri">Priority (High→Medium→Low)</option><option value="due">Due date</option><option value="light">Status (red→yellow→green)</option><option value="phase">Phase</option></select>
+<select id="sort"><option value="id-asc">ID ascending</option><option value="id-desc">ID descending</option><option value="pri">Priority (High→Medium→Low)</option><option value="due">Due date</option><option value="light">Status (red→yellow→green)</option><option value="phase">Phase</option><option value="owner">Owner (A→Z)</option></select>
 <b>Priority:</b><select id="fp"><option value="">All</option><option>HIGH</option><option>MEDIUM</option><option>LOW</option></select>
 <b>Status:</b><select id="fs"><option value="">All</option><option value="red">Red · Rob to do</option><option value="yellow">Yellow · in motion / waiting</option><option value="green">Green · done</option></select>
 <b>Owner:</b><select id="fo"><option value="">All</option></select>
 <input id="q" placeholder="Search # / action / page / keyword"><button id="reset">Reset</button><button id="xall">Expand all How to Execute</button></div>
 <div class="muted" id="cur"></div>
-<table><thead><tr><th data-s="light">● ⇅</th><th data-s="id">#  ⇅</th><th data-s="phase">Phase ⇅</th><th data-s="pri">Pri ⇅</th><th>Action</th><th>Page / keyword</th><th data-s="due">Due ⇅</th><th>Week</th><th>Rob · Randy · Steve · Dev</th><th>Next step</th><th>Waiting on</th><th>Verified live</th><th>Links</th></tr></thead><tbody id="tb"></tbody></table>
+<table><thead><tr><th data-s="light">● ⇅</th><th data-s="id">#  ⇅</th><th data-s="phase">Phase ⇅</th><th data-s="pri">Pri ⇅</th><th>Action</th><th data-s="owner">Owner ⇅</th><th>Page / keyword</th><th data-s="due">Due ⇅</th><th>Week</th><th>Rob · Randy · Steve · Dev</th><th>Next step</th><th>Waiting on</th><th>Verified live</th><th>Links</th></tr></thead><tbody id="tb"></tbody></table>
 <p class="muted">Green = done and verified · Yellow = in motion or waiting on others · Red = Rob to do. Chips: Done / Open (their step is next) / Waiting (next step is theirs) / N/A. Click ▸ or a row to show How to Execute.</p>
 <script>
 var P={rob:'Rob',randy:'Randy',steve:'Steve',dev:'Dev'},L={done:'Done',open:'Open',waiting:'Waiting',na:'N/A'},ord={red:0,yellow:1,green:2};
@@ -35,7 +35,7 @@ function e(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'
 function involved(i,k){return i.parties[k]&&i.parties[k]!='na'}
 function moveNow(i,k){var s=i.parties[k];return s=='open'||s=='waiting'}
 function dv(x){var m=String(x||'').match(/([A-Z][a-z]{2})\w*\s+(\d+)/);return m?(M[m[1]]||99)*100+ +m[2]:9999}
-var SORTS={'id-asc':(a,b)=>a.id-b.id,'id-desc':(a,b)=>b.id-a.id,pri:(a,b)=>(PR[a.priority]??9)-(PR[b.priority]??9),due:(a,b)=>dv(a.due)-dv(b.due),light:(a,b)=>ord[a.light]-ord[b.light],phase:(a,b)=>(PH[a.phase]??9)-(PH[b.phase]??9)};
+var SORTS={'id-asc':(a,b)=>a.id-b.id,'id-desc':(a,b)=>b.id-a.id,pri:(a,b)=>(PR[a.priority]??9)-(PR[b.priority]??9),due:(a,b)=>dv(a.due)-dv(b.due),light:(a,b)=>ord[a.light]-ord[b.light],owner:(a,b)=>String(a.owner).localeCompare(String(b.owner)),phase:(a,b)=>(PH[a.phase]??9)-(PH[b.phase]??9)};
 /* Pure: state {who,now,q,sort,fp,fs,fo} -> sorted items. Every filter is ANDed. */
 function apply(items,st){var q=(st.q||'').toLowerCase();
  var it=items.filter(i=>(st.who=='all'||(involved(i,st.who)&&(!st.now||moveNow(i,st.who))))&&(!st.fp||i.priority==st.fp)&&(!st.fs||i.light==st.fs)&&(!st.fo||String(i.owner).includes(st.fo))&&(!q||JSON.stringify([i.id,i.action,i.page,i.owner,i.waitingOn,i.nextStep]).toLowerCase().includes(q)));
@@ -68,9 +68,9 @@ var c={red:0,yellow:0,green:0};it.forEach(i=>c[i.light]++);
 g('sum').innerHTML='<span>In this view:</span><span><span class="dot red"></span> '+c.red+' Rob to do</span><span><span class="dot yellow"></span> '+c.yellow+' in motion / waiting</span><span><span class="dot green"></span> '+c.green+' done</span>';
 var h='';it.forEach(i=>{var ch=Object.keys(P).map(k=>'<span class="chip c-'+i.parties[k]+'">'+P[k]+': '+L[i.parties[k]]+'</span>').join('');
 var ln=[];if(i.links.wordDoc)ln.push('<a href="'+e(i.links.wordDoc)+'" target="_blank">Word doc</a>');if(i.links.legacyVercelRevisions)ln.push('<a href="'+e(i.links.legacyVercelRevisions)+'" target="_blank">Legacy Vercel Revisions</a>');
-h+='<tr class="r" data-id="'+i.id+'"><td><span class="tg" title="How to Execute">'+(open[i.id]?'▾':'▸')+'</span> <span class="dot '+i.light+'" title="'+e(i.status)+'"></span></td><td>'+i.id+'</td><td>'+e(i.phase)+'</td><td>'+e(i.priority)+'</td><td>'+e(i.action)+(i.sheetDiff?'<div class="flag">⚑ '+e(i.sheetDiff)+'</div>':'')+'</td><td class="muted">'+e(i.page)+'</td><td>'+e(i.due)+'</td><td class="muted">'+e(i.week)+'</td><td>'+ch+'</td><td>'+e(i.nextStep)+'</td><td>'+e(i.waitingOn)+'</td><td class="muted">'+e(i.verified)+'</td><td onclick="event.stopPropagation()">'+ln.join(' · ')+'</td></tr>';
-if(open[i.id])h+='<tr class="det"><td></td><td colspan="12"><b>How to Execute</b>\n'+e(i.howTo)+'</td></tr>'});
-if(!it.length)h='<tr><td colspan="13" class="muted">No items match these filters. Use Reset to clear them.</td></tr>';
+h+='<tr class="r" data-id="'+i.id+'"><td><span class="tg" title="How to Execute">'+(open[i.id]?'▾':'▸')+'</span> <span class="dot '+i.light+'" title="'+e(i.status)+'"></span></td><td>'+i.id+'</td><td>'+e(i.phase)+'</td><td>'+e(i.priority)+'</td><td>'+e(i.action)+(i.sheetDiff?'<div class="flag">⚑ '+e(i.sheetDiff)+'</div>':'')+'</td><td class="own">'+e(i.owner)+'</td><td class="muted">'+e(i.page)+'</td><td>'+e(i.due)+'</td><td class="muted">'+e(i.week)+'</td><td>'+ch+'</td><td>'+e(i.nextStep)+'</td><td>'+e(i.waitingOn)+'</td><td class="muted">'+e(i.verified)+'</td><td onclick="event.stopPropagation()">'+ln.join(' · ')+'</td></tr>';
+if(open[i.id])h+='<tr class="det"><td></td><td colspan="13"><b>How to Execute</b>\n'+e(i.howTo)+'</td></tr>'});
+if(!it.length)h='<tr><td colspan="14" class="muted">No items match these filters. Use Reset to clear them.</td></tr>';
 var tb=g('tb');tb.innerHTML=h;tb.querySelectorAll('tr.r').forEach(r=>r.onclick=()=>{open[r.dataset.id]=!open[r.dataset.id];draw()})}
 }
 </script></body></html>

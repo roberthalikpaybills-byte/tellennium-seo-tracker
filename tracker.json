@@ -1017,5 +1017,5 @@
   }
  ],
  "lastUpdated": "Oct 12, 2026",
- "updateNote": "Person filters fixed: Rob, Randy, Steve and Dev now show every item they're involved in, with an 'Only their move now' toggle. Filters combine cleanly and Reset clears everything. Steve's new items #32–36 are in; all 36 items have status chips, next steps and Word doc links."
+ "updateNote": "Added an Owner column (from Steve's sheet) next to Action; sortable, and the Owner filter still works. Person filters show every item someone is involved in, with an 'Only their move now' toggle. All 36 items have status chips, next steps and Word doc links."
 }
