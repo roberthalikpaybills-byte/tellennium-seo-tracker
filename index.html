@@ -16,7 +16,7 @@ tr.r{cursor:pointer}tr.r:hover{background:#18243f}.dot{display:inline-block;widt
 .det td{background:#0e1628;white-space:pre-wrap;font-size:.85rem}.tg{color:#3dd6c6;font-weight:700;margin-right:4px}.top{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px;align-items:flex-start}.lu{background:#152038;border:1px solid #2a3b5c;border-radius:8px;padding:8px 12px;max-width:420px;font-size:.85rem}.lu b{color:#3dd6c6}@media(max-width:640px){.lu{max-width:100%;width:100%}}.flag{color:#f0b429;font-size:.78rem}
 </style></head><body>
 <div class="top"><h1>Tellennium SEO Action Tracker</h1><div class="lu" id="lu"></div></div>
-<div class="muted" id="upd"></div>
+<div class="muted"><span id="upd"></span> · v2026.10.12j</div>
 <div class="sum" id="sum"></div>
 <div class="bar" id="who"><b>Show items for:</b></div>
 <div class="bar"><b>Sort:</b>
@@ -30,31 +30,47 @@ tr.r{cursor:pointer}tr.r:hover{background:#18243f}.dot{display:inline-block;widt
 <p class="muted">Green = done and verified · Yellow = in motion or waiting on others · Red = Rob to do. Chips: Done / Open (their step is next) / Waiting (next step is theirs) / N/A. Click ▸ or a row to show How to Execute.</p>
 <script>
 var P={rob:'Rob',randy:'Randy',steve:'Steve',dev:'Dev'},L={done:'Done',open:'Open',waiting:'Waiting',na:'N/A'},ord={red:0,yellow:1,green:2};
-function e(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
-var D,who=new URLSearchParams(location.search).get('who')||(location.hash.replace('#','')||'all'),open={};
-fetch('tracker.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;document.getElementById('upd').textContent='Updated '+d.updated+' · '+d.items.length+' items';
-if(d.lastUpdated||d.updateNote)document.getElementById('lu').innerHTML='<b>Last updated:</b> '+e(d.lastUpdated||d.updated)+(d.updateNote?'<br>'+e(d.updateNote):'');else document.getElementById('lu').style.display='none';
-var b=document.getElementById('who');['all','rob','randy','steve','dev'].forEach(k=>{var x=document.createElement('button');x.textContent=k=='all'?'Everyone':P[k];x.onclick=()=>{who=k;location.hash=k=='all'?'':k;draw()};x.dataset.k=k;b.appendChild(x)});
-var os={};d.items.forEach(i=>String(i.owner).split(/\s*[\/+,]\s*/).forEach(o=>{o=o.trim();if(o)os[o]=1}));var fo=document.getElementById('fo');Object.keys(os).sort().forEach(o=>{var x=document.createElement('option');x.textContent=o;fo.appendChild(x)});
-['q','sort','fp','fs','fo'].forEach(k=>{var el=document.getElementById(k);el.oninput=el.onchange=draw});
-document.getElementById('reset').onclick=()=>{['q','fp','fs','fo'].forEach(k=>document.getElementById(k).value='');document.getElementById('sort').value='light';
-document.getElementById('xall').onclick=function(){var any=D.items.some(i=>!open[i.id]);D.items.forEach(i=>open[i.id]=any);this.textContent=any?'Collapse all How to Execute':'Expand all How to Execute';draw()};who='all';location.hash='';draw()};
-document.getElementById('sort').value='light';
-document.querySelectorAll('th[data-s]').forEach(t=>t.onclick=()=>{var S=document.getElementById('sort'),k=t.dataset.s;S.value=k=='id'?(S.value=='id-asc'?'id-desc':'id-asc'):k;draw()});draw()});
-function hasPart(i,k){var s=i.parties[k];return s=='open'||s=='waiting'}
-function draw(){var g=k=>document.getElementById(k).value,q=g('q').toLowerCase(),so=g('sort'),fp=g('fp'),fs=g('fs'),fo=g('fo');
-document.querySelectorAll('#who button').forEach(x=>x.classList.toggle('on',x.dataset.k==who));
-var it=D.items.filter(i=>(who=='all'||hasPart(i,who))&&(!fp||i.priority==fp)&&(!fs||i.light==fs)&&(!fo||String(i.owner).includes(fo))&&(!q||JSON.stringify([i.id,i.action,i.page,i.owner,i.waitingOn,i.nextStep]).toLowerCase().includes(q)));
 var PR={HIGH:0,MEDIUM:1,LOW:2},PH={July:0,August:1,September:2,October:3},M={Jan:1,Feb:2,Mar:3,Apr:4,May:5,Jun:6,Jul:7,Aug:8,Sep:9,Oct:10,Nov:11,Dec:12};
+function e(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function involved(i,k){return i.parties[k]&&i.parties[k]!='na'}
+function moveNow(i,k){var s=i.parties[k];return s=='open'||s=='waiting'}
 function dv(x){var m=String(x||'').match(/([A-Z][a-z]{2})\w*\s+(\d+)/);return m?(M[m[1]]||99)*100+ +m[2]:9999}
-var f={'id-asc':(a,b)=>a.id-b.id,'id-desc':(a,b)=>b.id-a.id,pri:(a,b)=>(PR[a.priority]??9)-(PR[b.priority]??9),due:(a,b)=>dv(a.due)-dv(b.due),light:(a,b)=>ord[a.light]-ord[b.light],phase:(a,b)=>(PH[a.phase]??9)-(PH[b.phase]??9)}[so];
-it=it.slice().sort((a,b)=>f(a,b)||a.id-b.id);
-var SL=document.getElementById('sort');document.getElementById('cur').textContent='Sorted by: '+SL.options[SL.selectedIndex].text+' · showing '+it.length+' of '+D.items.length+(who!='all'?' · items for '+P[who]:'');
+var SORTS={'id-asc':(a,b)=>a.id-b.id,'id-desc':(a,b)=>b.id-a.id,pri:(a,b)=>(PR[a.priority]??9)-(PR[b.priority]??9),due:(a,b)=>dv(a.due)-dv(b.due),light:(a,b)=>ord[a.light]-ord[b.light],phase:(a,b)=>(PH[a.phase]??9)-(PH[b.phase]??9)};
+/* Pure: state {who,now,q,sort,fp,fs,fo} -> sorted items. Every filter is ANDed. */
+function apply(items,st){var q=(st.q||'').toLowerCase();
+ var it=items.filter(i=>(st.who=='all'||(involved(i,st.who)&&(!st.now||moveNow(i,st.who))))&&(!st.fp||i.priority==st.fp)&&(!st.fs||i.light==st.fs)&&(!st.fo||String(i.owner).includes(st.fo))&&(!q||JSON.stringify([i.id,i.action,i.page,i.owner,i.waitingOn,i.nextStep]).toLowerCase().includes(q)));
+ var f=SORTS[st.sort]||SORTS.light;return it.slice().sort((a,b)=>f(a,b)||a.id-b.id)}
+if(typeof module!='undefined'){module.exports={apply,involved,moveNow}}
+else{
+var D,open={},ST={who:'all',now:false,q:'',sort:'light',fp:'',fs:'',fo:''};
+function g(k){return document.getElementById(k)}
+function fromHash(){var h=location.hash.replace('#','');ST.who=P[h]?h:'all'}
+fetch('tracker.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;g('upd').textContent='Updated '+d.updated+' · '+d.items.length+' items';
+if(d.lastUpdated||d.updateNote)g('lu').innerHTML='<b>Last updated:</b> '+e(d.lastUpdated||d.updated)+(d.updateNote?'<br>'+e(d.updateNote):'');else g('lu').style.display='none';
+var b=g('who');['all','rob','randy','steve','dev'].forEach(k=>{var x=document.createElement('button');x.textContent=k=='all'?'Everyone':P[k];x.dataset.k=k;
+ x.onclick=()=>{ST.who=k;if(k=='all')ST.now=false;history.replaceState(null,'',k=='all'?location.pathname+location.search:'#'+k);draw()};b.appendChild(x)});
+var nl=document.createElement('label');nl.className='muted';nl.innerHTML=' <input type="checkbox" id="now" style="min-width:0"> Only their move now';b.appendChild(nl);
+g('now').onchange=()=>{ST.now=g('now').checked;draw()};
+var os={};d.items.forEach(i=>String(i.owner).split(/\s*[\/+,]\s*/).forEach(o=>{o=o.trim();if(o)os[o]=1}));Object.keys(os).sort().forEach(o=>{var x=document.createElement('option');x.textContent=o;g('fo').appendChild(x)});
+['q','sort','fp','fs','fo'].forEach(k=>{g(k).oninput=g(k).onchange=()=>{ST[k]=g(k).value;draw()}});
+g('reset').onclick=()=>{ST={who:'all',now:false,q:'',sort:'light',fp:'',fs:'',fo:''};history.replaceState(null,'',location.pathname+location.search);draw()};
+g('xall').onclick=function(){var any=D.items.some(i=>!open[i.id]);D.items.forEach(i=>open[i.id]=any);draw()};
+document.querySelectorAll('th[data-s]').forEach(t=>t.onclick=()=>{var k=t.dataset.s;ST.sort=k=='id'?(ST.sort=='id-asc'?'id-desc':'id-asc'):k;draw()});
+window.addEventListener('hashchange',()=>{fromHash();draw()});fromHash();draw()});
+function draw(){['q','sort','fp','fs','fo'].forEach(k=>{if(g(k).value!==ST[k])g(k).value=ST[k]});g('now').checked=ST.now;g('now').disabled=ST.who=='all';
+document.querySelectorAll('#who button').forEach(x=>x.classList.toggle('on',x.dataset.k==ST.who));
+var it=apply(D.items,ST),SL=g('sort'),line='';
+if(ST.who!='all'){var all=D.items.filter(i=>involved(i,ST.who)),mv=all.filter(i=>moveNow(i,ST.who)).length;line=P[ST.who]+': '+all.length+' items ('+mv+' '+(ST.who=='rob'?'his':'their')+' move now) · '}
+var act=[];if(ST.now)act.push('their move now');if(ST.fp)act.push('priority '+ST.fp);if(ST.fs)act.push('status '+ST.fs);if(ST.fo)act.push('owner '+ST.fo);if(ST.q)act.push('search "'+ST.q+'"');
+g('cur').textContent=line+'Showing '+it.length+' of '+D.items.length+' · Sorted by: '+SL.options[SL.selectedIndex].text+(act.length?' · Filters: '+act.join(', '):'');
+g('xall').textContent=D.items.every(i=>open[i.id])?'Collapse all How to Execute':'Expand all How to Execute';
 var c={red:0,yellow:0,green:0};it.forEach(i=>c[i.light]++);
-document.getElementById('sum').innerHTML='<span><span class="dot red"></span> '+c.red+' Rob to do</span><span><span class="dot yellow"></span> '+c.yellow+' in motion / waiting</span><span><span class="dot green"></span> '+c.green+' done</span>';
+g('sum').innerHTML='<span>In this view:</span><span><span class="dot red"></span> '+c.red+' Rob to do</span><span><span class="dot yellow"></span> '+c.yellow+' in motion / waiting</span><span><span class="dot green"></span> '+c.green+' done</span>';
 var h='';it.forEach(i=>{var ch=Object.keys(P).map(k=>'<span class="chip c-'+i.parties[k]+'">'+P[k]+': '+L[i.parties[k]]+'</span>').join('');
 var ln=[];if(i.links.wordDoc)ln.push('<a href="'+e(i.links.wordDoc)+'" target="_blank">Word doc</a>');if(i.links.legacyVercelRevisions)ln.push('<a href="'+e(i.links.legacyVercelRevisions)+'" target="_blank">Legacy Vercel Revisions</a>');
 h+='<tr class="r" data-id="'+i.id+'"><td><span class="tg" title="How to Execute">'+(open[i.id]?'▾':'▸')+'</span> <span class="dot '+i.light+'" title="'+e(i.status)+'"></span></td><td>'+i.id+'</td><td>'+e(i.phase)+'</td><td>'+e(i.priority)+'</td><td>'+e(i.action)+(i.sheetDiff?'<div class="flag">⚑ '+e(i.sheetDiff)+'</div>':'')+'</td><td class="muted">'+e(i.page)+'</td><td>'+e(i.due)+'</td><td class="muted">'+e(i.week)+'</td><td>'+ch+'</td><td>'+e(i.nextStep)+'</td><td>'+e(i.waitingOn)+'</td><td class="muted">'+e(i.verified)+'</td><td onclick="event.stopPropagation()">'+ln.join(' · ')+'</td></tr>';
 if(open[i.id])h+='<tr class="det"><td></td><td colspan="12"><b>How to Execute</b>\n'+e(i.howTo)+'</td></tr>'});
-var tb=document.getElementById('tb');tb.innerHTML=h;tb.querySelectorAll('tr.r').forEach(r=>r.onclick=()=>{open[r.dataset.id]=!open[r.dataset.id];draw()})}
+if(!it.length)h='<tr><td colspan="13" class="muted">No items match these filters. Use Reset to clear them.</td></tr>';
+var tb=g('tb');tb.innerHTML=h;tb.querySelectorAll('tr.r').forEach(r=>r.onclick=()=>{open[r.dataset.id]=!open[r.dataset.id];draw()})}
+}
 </script></body></html>
