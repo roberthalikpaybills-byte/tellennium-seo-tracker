@@ -1,0 +1,1021 @@
+{
+ "updated": "2026-10-12",
+ "title": "Tellennium SEO Action Tracker",
+ "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
+ "legend": {
+  "parties": "done | open (their step is next) | waiting (next step is theirs, pending) | na",
+  "light": "green = done and verified; yellow = in motion or waiting on others; red = Rob to do / stuck"
+ },
+ "items": [
+  {
+   "id": "1",
+   "phase": "July",
+   "priority": "HIGH",
+   "action": "Restrict /what-is-telecom-expense-management-tem/ to definitional queries; remove from broad TEM head-term targeting and link up to the TEM Guide.",
+   "howTo": "1) In the title tag, H1 and meta description, remove 'telecom expense management', 'TEM services' and 'TEM solutions'; reframe to definitional intent (e.g. 'What Is TEM? Definition & Basics').\n2) Keep the body focused on defining TEM; strip commercial/service language.\n3) Add an internal link from this page to /your-guide-to-telecom-expense-management/ with anchor 'telecom expense management'.\n4) Confirm the Guide stays the owner of the 8,100-vol head term.\nDone when: this page targets only definitional queries and links up to the Guide.",
+   "page": "Keyword: telecom expense management (8,100 vol)\nFixes the top cannibalization conflict",
+   "owner": "Rob",
+   "due": "Jul 11",
+   "week": "Wk 02 (Jul 7-11)",
+   "sheetStatus": "Done",
+   "status": "Done",
+   "light": "green",
+   "parties": {
+    "rob": "done",
+    "randy": "done",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "",
+   "verified": "2026-10-08: live text check OK",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seo-1-what-is-tem-v2.vercel.app/"
+   },
+   "nextStep": "Done, verified live 10/8"
+  },
+  {
+   "id": "2",
+   "phase": "July",
+   "priority": "HIGH",
+   "action": "Fix MMS cannibalization. Assign each competing page a unique target keyword; all link to the service-page hub.",
+   "howTo": "Assign one unique primary keyword to each of the 5 competing MMS pages and link each up to /managed-mobility-services/ (hub):\n• /managed-mobility-services/ = 'managed mobility services' (hub)\n• /6-areas-of-managed-mobility-services.../ = 'areas of managed mobility services'\n• /your-guide-to-managed-mobility-services/ = 'managed mobility services guide'\n• /managed-mobility-services-faq/ = 'managed mobility services FAQ'\n• /managed-mobility-services-mms-vs-mdm.../ = 'MMS vs MDM'\nUpdate each page's title/H1/meta to its assigned term.\nDone when: no two MMS pages share a primary keyword and all link to the hub.",
+   "page": "Keyword: managed mobility services (590 vol)\n5 competing URLs",
+   "owner": "Rob",
+   "due": "Jul 11",
+   "week": "Wk 02 (Jul 7-11)",
+   "sheetStatus": "Done",
+   "status": "Follow up",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "na",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "Spot check",
+   "verified": "",
+   "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seoid2cannibal.vercel.app/"
+   },
+   "nextStep": "Done; spot-check the five MMS pages"
+  },
+  {
+   "id": "3",
+   "phase": "July",
+   "priority": "HIGH",
+   "action": "Lock the TEM cluster architecture: one owner page per head term so Google/AI read the clusters clearly; reassign competing URLs.",
+   "howTo": "Apply the master-map owner assignments:\n• 'telecom expense management' (8,100) = owner /your-guide-to-telecom-expense-management/\n• 'telecom expense management services' (2,400) = owner /telecom-expense-management/ (remove the term from the Guide and homepage)\n• 'technology expense management' (1,900) = owner /what-is-the-difference-between-telecom-expense-management-and-technology-expense-management/\nFor each: point competing pages' internal links to the owner and remove the term from competitors' title/H1/meta.\nDone when: each head term has a single owner and competitors link to it.",
+   "page": "TEM cluster (64 pages / ~220 traffic)\nHub: /your-guide-to-telecom-expense-management/",
+   "owner": "Rob",
+   "due": "Jul 18",
+   "week": "Wk 03 (Jul 14-18)",
+   "sheetStatus": "Done",
+   "status": "Done",
+   "light": "green",
+   "parties": {
+    "rob": "done",
+    "randy": "na",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "",
+   "verified": "2026-10-08: partial live check",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://temclusterimplementationguidesingle.vercel.app/"
+   },
+   "nextStep": "Done, partial live check 10/8"
+  },
+  {
+   "id": "4",
+   "phase": "July",
+   "priority": "HIGH",
+   "action": "Rewrite /telecom-expense-management/ service page to own 'telecom expense management services'.",
+   "howTo": "Target 'telecom expense management services' (2,400 vol; currently pos 76 vs Tangoe pos 2).\n1) Put the exact phrase in the title, H1 and first 100 words.\n2) Add a clear above-the-fold CTA (demo/contact).\n3) Add the '28% average savings' proof point and a Management of Things (MoT) platform mention.\n4) Internal-link from the TEM Guide and homepage to this page with anchor 'telecom expense management services'.\nDone when: page is the clear owner and ranking improves off pos 76.",
+   "page": "Keyword: telecom expense management services (2,400 vol)",
+   "owner": "Rob",
+   "due": "Jul 25",
+   "week": "Wk 04 (Jul 21-25)",
+   "sheetStatus": "Done",
+   "status": "Follow up",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve",
+   "verified": "2026-10-08: live check OK (small copy glitch)",
+   "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seoactionitem4temservicepageimpleme.vercel.app/"
+   },
+   "nextStep": "Steve runs live URL test Wed 10/14"
+  },
+  {
+   "id": "5",
+   "phase": "July",
+   "priority": "HIGH",
+   "action": "Add FAQPage schema to all pages that already have FAQ sections.",
+   "howTo": "Using Yoast or RankMath (no code): enable the FAQ schema block on every page that already has a FAQ section — TEM/MMS/UEM FAQ pages, the three Guides, and any blog with FAQs.\nValidate each URL in Google's Rich Results Test.\nDone when: all FAQ pages return valid FAQPage schema.",
+   "page": "All FAQ-containing pages",
+   "owner": "Rob / Dev",
+   "due": "Jul 18",
+   "week": "Wk 03 (Jul 14-18)",
+   "sheetStatus": "Done",
+   "status": "Follow up",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "na",
+    "steve": "na",
+    "dev": "done"
+   },
+   "waitingOn": "Optional schema check",
+   "verified": "",
+   "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seoactionitem5faqschemaimplementati.vercel.app/"
+   },
+   "nextStep": "Done; optional Rich Results schema check"
+  },
+  {
+   "id": "6",
+   "phase": "July",
+   "priority": "HIGH",
+   "action": "Add Article schema with Author markup across blog/article templates.",
+   "howTo": "At the blog template level, add Article (or BlogPosting) JSON-LD with an Author entity (Greg McIntyre or named author) plus datePublished and dateModified.\nImplement once at template level so it applies to all 200+ articles, not page by page.\nValidate in the Rich Results Test.\nDone when: article pages emit valid Article schema with a named author.",
+   "page": "All 200+ blog / article pages",
+   "owner": "Dev",
+   "due": "Jul 25",
+   "week": "Wk 04 (Jul 21-25)",
+   "sheetStatus": "Done",
+   "status": "Follow up",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "na",
+    "dev": "done"
+   },
+   "waitingOn": "Optional schema check",
+   "verified": "",
+   "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seoid6articleschemaimplementationgu.vercel.app/"
+   },
+   "nextStep": "Done; optional Rich Results schema check"
+  },
+  {
+   "id": "7",
+   "phase": "July",
+   "priority": "MEDIUM",
+   "action": "Update Crunchbase profile; replace TIMS with Management of Things (MoT).",
+   "howTo": "Log into crunchbase.com/organization/tellennium.\n1) Replace every TIMS reference with Management of Things (MoT).\n2) Refresh the description to current services (TEM, MMS, UEM, Cloud/SaaS).\n3) Confirm logo, HQ, founding year (1999) and website.\nDone when: profile shows MoT and current services with no TIMS references.",
+   "page": "crunchbase.com/organization/tellennium",
+   "owner": "Rob",
+   "due": "Jul 11",
+   "week": "Wk 02 (Jul 7-11)",
+   "sheetStatus": "In progress",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "na",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "Crunchbase / G2",
+   "verified": "",
+   "sheetDiff": "Sheet says In progress; Rob's part done, waiting on Crunchbase/G2.",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Rob takes G2 call Tue 10/13"
+  },
+  {
+   "id": "8",
+   "phase": "July",
+   "priority": "MEDIUM",
+   "action": "Audit the 97 noindex-tagged pages in GSC; confirm each exclusion is intentional.",
+   "howTo": "1) In GSC > Pages > 'Excluded by noindex tag', export the 97 URLs.\n2) Flag any service, guide or article page noindexed by mistake and remove the noindex on those.\n3) Confirm the rest (tag/category/thin pages) are intentional.\nDone when: no valuable page is accidentally noindexed and the list is reviewed.",
+   "page": "GSC Coverage - 'Excluded by noindex tag' (97)",
+   "owner": "Dev / Rob",
+   "due": "Jul 18",
+   "week": "Wk 03 (Jul 14-18)",
+   "sheetStatus": "Done",
+   "status": "Done",
+   "light": "green",
+   "parties": {
+    "rob": "done",
+    "randy": "done",
+    "steve": "na",
+    "dev": "done"
+   },
+   "waitingOn": "",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seo-id-8.vercel.app/"
+   },
+   "nextStep": "Done, closed Sep 2"
+  },
+  {
+   "id": "9",
+   "phase": "July",
+   "priority": "MEDIUM",
+   "action": "Update the Utility Expense Management page and consolidate the two competing utility hubs into one.",
+   "howTo": "1) Choose one canonical UEM hub (recommend /utility-expense-management/) and refresh its content (utility bill management, utility data management, procurement).\n2) Decide the fate of /your-guide-to-utility-expense-management/: either merge its unique content into the canonical hub and 301-redirect it, OR differentiate it to a distinct sub-topic and internal-link up.\nDone when: one clear UEM hub owns the utility head terms and no two utility pages compete.",
+   "page": "UEM cluster - defend the moat",
+   "owner": "Rob",
+   "due": "Jul 25",
+   "week": "Wk 04 (Jul 21-25)",
+   "sheetStatus": "Done",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "waiting",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "Randy",
+   "verified": "",
+   "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://uemhubconsolidationtellenniumseoact.vercel.app/"
+   },
+   "nextStep": "Waiting on Randy for UEM redirect"
+  },
+  {
+   "id": "10",
+   "phase": "August",
+   "priority": "HIGH",
+   "action": "Submit Tellennium for inclusion in the 2026 TEM/MMS buyer's-guide roundups AI cites.",
+   "howTo": "Outreach to get Tellennium correctly listed in the roundups AI synthesizes: calilio.com, convertermax.com, projectmanagers.net, sociumit.com, lightyear.ai.\n1) First, contact calilio.com to correct the misspelled 'Tellenium' listing.\n2) Send each a short accurate blurb (services, MoT, Gartner/AOTMP recognition) and a logo.\nDone when: Tellennium is correctly listed in at least 3 roundups.",
+   "page": "Target roundup publications\nGoal: AI citations + referral links",
+   "owner": "Steve / Ed Green",
+   "due": "Aug 7",
+   "week": "Wk 06 (Aug 4-8)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve / Ed Green",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Waiting on Steve/Ed for roundup outreach"
+  },
+  {
+   "id": "11",
+   "phase": "August",
+   "priority": "HIGH",
+   "action": "NEW: Produce the Tellennium buyer's guide as a gated, downloadable asset.",
+   "howTo": "1) Build a 'TEM Buyer's Guide' (and/or vendor-evaluation scorecard) with selection criteria, an evaluation checklist, and proprietary framing AI can't replicate.\n2) Gate it behind a short form.\n3) Link it from the TEM Guide, the service page and the ROI calculator.\nDone when: the guide is live, gated and linked from the TEM cluster.",
+   "page": "New downloadable asset",
+   "owner": "Rob",
+   "due": "Aug 28",
+   "week": "Wk 09 (Aug 25-29)",
+   "sheetStatus": "Done",
+   "status": "Done",
+   "light": "green",
+   "parties": {
+    "rob": "done",
+    "randy": "done",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "",
+   "verified": "2026-10-08: Buyer's Guide block live",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seoid11tembuyersguideimplementation.vercel.app/"
+   },
+   "nextStep": "Done, verified live 10/8"
+  },
+  {
+   "id": "12",
+   "phase": "August",
+   "priority": "HIGH",
+   "action": "Rewrite /enterprise-telecom-audits.../ to own 'telecom expense audit'.",
+   "howTo": "Target 'telecom expense audit' (3,600 vol, KD 11; Brightfin pos 9, we have the content but don't rank).\n1) Put the phrase in the title/H1/intro.\n2) Add a downloadable 'Telecom Audit Checklist'.\n3) Internal-link from /your-guide-to-telecom-expense-management/ and /telecom-expense-management/ to this page.\nDone when: page targets the term and earns the checklist download.",
+   "page": "Keyword: telecom expense audit (3,600 vol, KD 11)",
+   "owner": "Rob",
+   "due": "Aug 14",
+   "week": "Wk 07 (Aug 11-15)",
+   "sheetStatus": "Done",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "waiting",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "Randy",
+   "verified": "2026-10-12: audit-guide links NOT live yet",
+   "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open). Link note sent to Randy 10/12 8 AM; Randy out sick.",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seo-id-12.vercel.app/"
+   },
+   "nextStep": "Waiting on Randy to add audit links"
+  },
+  {
+   "id": "13",
+   "phase": "August",
+   "priority": "HIGH",
+   "action": "Publish 'TEM Solutions Compared - What Enterprises Are Choosing in 2026'.",
+   "howTo": "New article targeting 'telecom expense management solutions' (2,400) and supporting the 8,100 head term (Tangoe pos 4, us pos 76).\n1) Include a downloadable 'Vendor Evaluation Scorecard'.\n2) Follow the internal-linking rule: link to the TEM hub + 3-5 related pages and add 2-3 inbound links from existing pages.\nDone when: article is published and linked and the scorecard is gated.",
+   "page": "Keyword: telecom expense management solutions (2,400 vol)",
+   "owner": "Rob",
+   "due": "Aug 21",
+   "week": "Wk 08 (Aug 18-22)",
+   "sheetStatus": "Done",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "waiting",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "Randy",
+   "verified": "2026-10-12: inbound links still missing",
+   "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seo-13v2.vercel.app/"
+   },
+   "nextStep": "Waiting on Randy to add inbound links"
+  },
+  {
+   "id": "14",
+   "phase": "August",
+   "priority": "MEDIUM",
+   "action": "Rewrite /should-we-outsource.../ to consolidate 'outsourced telecom expense management'.",
+   "howTo": "We're pos 16 (striking distance; ahead of Tangoe pos 29 / Calero pos 34).\n1) Make /should-we-outsource-telecom-expense-management/ the owner; point the FAQ and cost pages' links to it and stop them targeting the phrase.\n2) Reframe as 'Outsourced vs In-House TEM: A 2026 Decision Framework' with a downloadable checklist.\nDone when: the page owns the term and competitors link to it.",
+   "page": "Keyword: outsourced TEM (1,300 vol, pos 16)",
+   "owner": "Rob",
+   "due": "Aug 21",
+   "week": "Wk 08 (Aug 18-22)",
+   "sheetStatus": "Done",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "waiting",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "Randy",
+   "verified": "",
+   "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seo-14.vercel.app/"
+   },
+   "nextStep": "Waiting on Randy for outsourcing redirect"
+  },
+  {
+   "id": "15",
+   "phase": "August",
+   "priority": "MEDIUM",
+   "action": "Fix redirect chains (49 redirect pages in GSC).",
+   "howTo": "1) In GSC > 'Page with redirect' (49 pages), map each chain.\n2) Flatten all A->B->C to a direct A->C redirect.\n3) Resolve the 5 known 404s.\nDone when: no multi-hop redirects remain and 404s are fixed or redirected.",
+   "page": "GSC Coverage - 'Page with redirect' (49)",
+   "owner": "Dev",
+   "due": "Aug 14",
+   "week": "Wk 07 (Aug 11-15)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "waiting"
+   },
+   "waitingOn": "Steve names the Dev (Wed 10/14)",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve names developer Wed 10/14"
+  },
+  {
+   "id": "16",
+   "phase": "August",
+   "priority": "MEDIUM",
+   "action": "Add Organization + WebSite schema to the homepage and Speakable markup to service pages.",
+   "howTo": "1) Add Organization + WebSite JSON-LD to the homepage (legal name, logo, sameAs profiles, search action).\n2) Add SpeakableSpecification to /telecom-expense-management/, /managed-mobility-services/ and /utility-expense-management/.\n3) Validate in the Rich Results Test.\nDone when: homepage and service pages emit valid schema.",
+   "page": "Homepage + TEM / MMS / UEM service pages",
+   "owner": "Dev",
+   "due": "Aug 28",
+   "week": "Wk 09 (Aug 25-29)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "waiting"
+   },
+   "waitingOn": "Steve names the Dev (Wed 10/14)",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve names developer Wed 10/14"
+  },
+  {
+   "id": "17",
+   "phase": "September",
+   "priority": "HIGH",
+   "action": "EXPANDED: Build out the Cloud/SaaS cluster around the live SaaS Management service page.",
+   "howTo": "The /enterprise-saas-management.../ page is already pos 2 for a long-tail SaaS query - make it the cluster hub.\n1) Add spokes targeting: saas spend optimization, saas license management, saas contract management, saas vs software asset management.\n2) Add a 'SaaS Spend Audit Checklist' download.\n3) Internal-link the spokes to the live SaaS Management service page and the hub.\nDone when: 4 spokes are published and linked and the hub owns 'saas management'.",
+   "page": "Cloud/SaaS pillar (now 6 pages / ~7 traffic)",
+   "owner": "Rob",
+   "due": "Sep 25",
+   "week": "Wk 13 (Sep 22-26)",
+   "sheetStatus": "In progress",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "waiting",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "Randy",
+   "verified": "2026-10-12: ID10, ID11, ID13 live and linked from SaaS Guide; ID12 not published",
+   "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Randy.",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://uemsaasclustertellenniumseoaction17.vercel.app/"
+   },
+   "nextStep": "Waiting on Randy to publish ID12"
+  },
+  {
+   "id": "18",
+   "phase": "September",
+   "priority": "HIGH",
+   "action": "Build the ROI Calculator as a standalone interactive page.",
+   "howTo": "/estimate-your-companys-cost-savings/ exists but needs expansion into a full interactive calculator (inputs -> estimated savings).\n1) Build the interactive tool.\n2) Link it from /how-much-will-a-telecom-expense-management-service-cost/ and /telecom-expense-management/.\n3) Use it as a primary 'reason to click' CTA in TEM content and Bill's retargeting.\nDone when: the interactive calculator is live and linked from the cost and service pages.",
+   "page": "Page: /estimate-your-companys-cost-savings/",
+   "owner": "Dev + Rob",
+   "due": "Sep 18",
+   "week": "Wk 12 (Sep 15-19)",
+   "sheetStatus": "In progress",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "waiting",
+    "steve": "na",
+    "dev": "waiting"
+   },
+   "waitingOn": "Randy",
+   "verified": "",
+   "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Randy.",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1790797144264&OR=EXCEL%2DWEB%2EBODY%2ENT&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seo-item-18.vercel.app/"
+   },
+   "nextStep": "Waiting on Randy for link and CTA"
+  },
+  {
+   "id": "19",
+   "phase": "September",
+   "priority": "HIGH",
+   "action": "Investigate and resolve the 399 crawled-not-indexed pages.",
+   "howTo": "Dev + Rob export GSC 'Crawled - currently not indexed' (399). Triage each:\n• consolidate near-duplicate/thin pages into the cluster owner (301)\n• improve genuinely valuable pages\n• remove dead weight\nRoot cause is cannibalization/thin content, so coordinate with the cluster work (actions 1-3, 9, 17).\nDone when: index rate rises from 42% and the not-indexed count is trending down.",
+   "page": "GSC Coverage - 'Crawled, currently not indexed' (399)",
+   "owner": "Dev + Rob",
+   "due": "Sep 25",
+   "week": "Wk 13 (Sep 22-26)",
+   "sheetStatus": "In progress",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "waiting"
+   },
+   "waitingOn": "Steve",
+   "verified": "",
+   "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Steve.",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Waiting on Steve for Search Console exports"
+  },
+  {
+   "id": "20",
+   "phase": "September",
+   "priority": "MEDIUM",
+   "action": "Create 'Managed Telecom Services' dedicated page.",
+   "howTo": " I think you worked on this with me before, so let me know. Do you want me to show you an example, or why don't you just take a stab at it again? Make it very clear, because this was SCO item 1, and I'm going to include this in our documentation. ",
+   "page": "Keyword: managed telecom services (2,400 vol)",
+   "owner": "Rob",
+   "due": "Sep 18",
+   "week": "Wk 12 (Sep 15-19)",
+   "sheetStatus": "In progress",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "done",
+    "randy": "waiting",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "Randy",
+   "verified": "2026-10-12: /managed-telecom-services/ returns 404",
+   "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Randy.",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1790797144264&OR=EXCEL%2DWEB%2EBODY%2ENT&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": "https://seo-20managed-telecom-svcs.vercel.app/"
+   },
+   "nextStep": "Waiting on Randy to build page"
+  },
+  {
+   "id": "21",
+   "phase": "September",
+   "priority": "MEDIUM",
+   "action": "Request Gartner Peer Insights and G2 reviews from satisfied clients.",
+   "howTo": "1) Identify satisfied clients with Greg.\n2) Send Gartner Peer Insights and G2 review links.\n3) Target +5 each near-term, building toward 15-20 each (Tangoe/Calero have hundreds; we have 3). Review volume is an AI entity signal.\nDone when: at least 5 new reviews on each platform.",
+   "page": "gartner.com / g2.com vendor profiles",
+   "owner": "Steve / Greg",
+   "due": "Sep 11",
+   "week": "Wk 11 (Sep 8-12)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve / Greg",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve/Greg status check Fri 10/16"
+  },
+  {
+   "id": "22",
+   "phase": "October",
+   "priority": "HIGH",
+   "action": "Build external links to /your-guide-to-telecom-expense-management/ (highest-traffic money page).",
+   "howTo": "Build 2-3+ DA50+ editorial links to the Guide (79 keywords, primary hub).\nTargets: TechTarget, Network World, CIO.com, TelecomRamblings.\nAnchor: 'telecom expense management guide' + variations.\nDone when: 2-3 quality links are live to the Guide.",
+   "page": "Page: /your-guide-to-telecom-expense-management/",
+   "owner": "Steve / Ed Green",
+   "due": "Oct 9",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve / Ed Green",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve/Ed status check Fri 10/16"
+  },
+  {
+   "id": "23",
+   "phase": "October",
+   "priority": "HIGH",
+   "action": "Build external links to /telecom-expense-management/ service page.",
+   "howTo": "Core commercial page (10 clicks / 14,040 impressions).\nTargets: G2, Capterra, Gartner Peer Insights listings (ensure they link to the service page) + one trade-publication PR placement.\nAnchor: 'telecom expense management services'.\nDone when: directory listings + 1 editorial link point to the service page.",
+   "page": "Page: /telecom-expense-management/\nTarget: G2, Gartner, Capterra",
+   "owner": "Steve / Ed Green",
+   "due": "Oct 16",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve / Ed Green",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve/Ed status check Fri 10/16"
+  },
+  {
+   "id": "24",
+   "phase": "October",
+   "priority": "HIGH",
+   "action": "Create a Wikipedia entry for Tellennium.",
+   "howTo": "Draft a Wikipedia article covering company history (founded 1999), the Management of Things (MoT) platform, and service areas.\nCite third-party sources for notability: Gartner Market Guide, Inc. Magazine recognition, AOTMP 2021 award.\nSubmit and respond to editor feedback.\nDone when: the article is live (or in review with cited notability sources).",
+   "page": "wikipedia.org - new article",
+   "owner": "Steve",
+   "due": "Oct 23",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve status check Fri 10/16"
+  },
+  {
+   "id": "25",
+   "phase": "October",
+   "priority": "MEDIUM",
+   "action": "Build external links to /managed-mobility-services/ service page.",
+   "howTo": "Goal: the service page should outrank the /6-areas-of-managed-mobility-services.../ article.\nTargets: mobility/IT publications, carrier partner pages.\nAnchor: 'managed mobility services', 'enterprise managed mobility'.\nDone when: the service page consolidates authority and outranks the article.",
+   "page": "Anchor: 'managed mobility services'",
+   "owner": "Steve / Ed Green",
+   "due": "Oct 16",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve / Ed Green",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve/Ed status check Fri 10/16"
+  },
+  {
+   "id": "26",
+   "phase": "October",
+   "priority": "MEDIUM",
+   "action": "NEW: Establish a quarterly PR cadence with Ed.",
+   "howTo": "Set a recurring rhythm: each quarter produce one data/trend angle (a benchmark or survey) plus any product/platform news.\n1) Distribute via wire as a baseline.\n2) Pitch for earned editorial (the real authority lever).\n3) Maintain a simple PR editorial calendar.\nDone when: a quarterly PR calendar exists and the Q3 angle is in market.",
+   "page": "PR program (recurring)",
+   "owner": "Steve / Ed Green",
+   "due": "Oct 30",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve / Ed Green",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve/Ed status check Fri 10/16"
+  },
+  {
+   "id": "27",
+   "phase": "October",
+   "priority": "MEDIUM",
+   "action": "NEW: Secure podcast appearances for Shawn Veitz and Greg McIntyre.",
+   "howTo": "1) Build a target list of TEM/IT/finance podcasts.\n2) Pitch Shawn and Greg as guests; prioritize shows that publish transcripts (AI-citation value).\n3) Repurpose each appearance on-site (embed + transcript).\nDone when: 1-2 appearances are booked and transcripts published.",
+   "page": "Thought leadership / AEO",
+   "owner": "Steve",
+   "due": "Oct 30",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "In progress",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve status check Fri 10/16"
+  },
+  {
+   "id": "28",
+   "phase": "October",
+   "priority": "HIGH",
+   "action": "NEW (M5): Disavow review of the keyword-domain link network inflating the profile.",
+   "howTo": "1) Export the full referring-domain list from SEMrush.\n2) Isolate the keyword-domain network: free-telecom-expense-management.net/.com, telecom-cost-management.net/.com, telecomexpensemanagement.info, telecommanage.com, invmanage.com and similar auto-generated sites.\n3) Confirm they are non-editorial / low value.\n4) Build a Google disavow file (domain-level) and submit via Search Console.\nDone when: the network is reviewed and disavowed, or documented as safe to leave.",
+   "page": "Referring-domain network (disavow)",
+   "owner": "Dev / Steve",
+   "due": "Oct 9",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "waiting"
+   },
+   "waitingOn": "Steve / Dev",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Waiting on Steve for referring-domain export"
+  },
+  {
+   "id": "29",
+   "phase": "October",
+   "priority": "MEDIUM",
+   "action": "NEW (M5): Expand review-platform coverage and drive review volume.",
+   "howTo": "1) Claim and complete profiles on G2, Capterra, TrustRadius, GetApp and Software Advice (in addition to Gartner Peer Insights, action 21).\n2) With Greg, request reviews from satisfied clients.\n3) Target 15-20 reviews on the priority platforms (currently 3 on Gartner). Review volume is an AI entity signal.\nDone when: profiles complete and review volume climbing toward target.",
+   "page": "G2 / Capterra / TrustRadius / GetApp / Software Advice",
+   "owner": "Steve / Greg",
+   "due": "Oct 16",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve / Greg",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve/Greg status check Fri 10/16"
+  },
+  {
+   "id": "30",
+   "phase": "October",
+   "priority": "MEDIUM",
+   "action": "NEW (M5): Brand-mention reclamation.",
+   "howTo": "1) Search 'Tellennium' across DR 30+ sites for mentions without a link (SEMrush / Google).\n2) Request a link on each.\n3) Contact calilio.com to correct the misspelled 'Tellenium' roundup listing and add a link.\nDone when: outreach sent on all found mentions and calilio listing corrected.",
+   "page": "Unlinked brand mentions; calilio.com",
+   "owner": "Steve / Ed Green",
+   "due": "Oct 23",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve / Ed Green",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve/Ed status check Fri 10/16"
+  },
+  {
+   "id": "31",
+   "phase": "October",
+   "priority": "MEDIUM",
+   "action": "NEW (M5): Stand up the backlink program (roadmap, anchors, monthly cadence).",
+   "howTo": "1) Adopt the quarterly cluster roadmap from the Backlink Strategy (Q3 TEM, Q4 SaaS/MMS, Q1 UEM).\n2) Use branded-heavy anchors to dilute the keyword-domain footprint; avoid new exact-match anchors.\n3) Run the monthly backlink check-in: verify links, log to the tracker, confirm next target.\nDone when: the monthly cadence is running and links are logged.",
+   "page": "Backlink program (M5 roadmap)",
+   "owner": "Steve / Ed Green",
+   "due": "Oct 30",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "waiting",
+    "dev": "na"
+   },
+   "waitingOn": "Steve / Ed Green",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Steve/Ed status check Fri 10/16"
+  },
+  {
+   "id": "32",
+   "phase": "October",
+   "priority": "HIGH",
+   "action": "NEW: Change the TEM service page schema from TechArticle to WebPage + Service; merge the duplicate FAQPage blocks.",
+   "howTo": "1) In Yoast/RankMath for /telecom-expense-management/, set Schema Page Type to WebPage and Article Type to None.\n2) Add Service JSON-LD (serviceType 'Telecom Expense Management Services', provider Tellennium, areaServed US).\n3) The page outputs two FAQPage blocks; keep one that contains all the FAQs.\n4) Validate in Google's Rich Results Test.\nDone when: the page emits WebPage + Service + a single FAQPage, and no TechArticle.",
+   "page": "Page: /telecom-expense-management/\nKeyword: telecom expense management services",
+   "owner": "Dev",
+   "due": "Oct 16",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "open",
+    "dev": "waiting"
+   },
+   "waitingOn": "Dev via Steve",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Developer updates service page schema (via Steve)"
+  },
+  {
+   "id": "33",
+   "phase": "October",
+   "priority": "HIGH",
+   "action": "NEW: Realign the TEM service page copy to 'telecom expense management services'.",
+   "howTo": "1) The exact phrase appears only once (H1). Add it to two H2s (e.g. 'What Makes Our Telecom Expense Management Services Different') and to the first paragraph.\n2) Trim the off-topic content (SaaS x5, utilities x5, the ServiceNow / 'broader expense ecosystem' block) to a short cross-sell line linking to those service pages.\n3) Change the image alt 'How Our TEM Platform Fixes Your Technology Expense Management Problems' to telecom wording.\n4) Replace the vague 'technology' / 'expense management' link anchors with descriptive anchors.\nDone when: the phrase appears in the H1, two H2s and the intro, and the off-topic sections are trimmed.",
+   "page": "Page: /telecom-expense-management/\nKeyword: telecom expense management services",
+   "owner": "Rob",
+   "due": "Oct 23",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Rob to do",
+   "light": "red",
+   "parties": {
+    "rob": "open",
+    "randy": "na",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Rob: rewrite service page H2s and intro"
+  },
+  {
+   "id": "34",
+   "phase": "October",
+   "priority": "MEDIUM",
+   "action": "NEW: Fix two main-menu links: point 'Guides >' at a guides hub and 'FAQs >' at the live TEM FAQ URL.",
+   "howTo": "1) Resources > 'Guides >' currently links to /telecom-expense-management/, so every page sends the service page a link with the anchor 'Guides'. Repoint it to /articles/ or a guides landing page.\n2) Resources > 'FAQs >' links to /telecom-expense-management-faqs/, the old URL in the redirect chain (see #15). Repoint it to /telecom-expense-management-tem-faq/.\nDone when: neither menu item links to the service page or to a redirecting URL.",
+   "page": "Sitewide main navigation (Resources menu)",
+   "owner": "Dev",
+   "due": "Oct 16",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Waiting",
+   "light": "yellow",
+   "parties": {
+    "rob": "na",
+    "randy": "na",
+    "steve": "open",
+    "dev": "waiting"
+   },
+   "waitingOn": "Dev via Steve",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Developer fixes two menu links (via Steve)"
+  },
+  {
+   "id": "35",
+   "phase": "October",
+   "priority": "HIGH",
+   "action": "NEW: Stop two blog posts from competing with the service page for 'telecom expense management services'; link both to it.",
+   "howTo": "Pages: /7-ways-to-streamline-enterprise-expense-management-with-servicenow/ and /5-ways-telecom-expense-management-supports-digital-transformation-for-large-enterprises/\n1) Remove 'telecom expense management services' from each page's title, H1 and meta; keep each focused on its own topic (ServiceNow integration; digital transformation).\n2) Add a contextual link from each to /telecom-expense-management/ with the anchor 'telecom expense management services'.\nDone when: neither page targets the services phrase and both link to the service page.",
+   "page": "Keyword: telecom expense management services\nOwner page: /telecom-expense-management/",
+   "owner": "Rob",
+   "due": "Oct 23",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Rob to do",
+   "light": "red",
+   "parties": {
+    "rob": "open",
+    "randy": "na",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Rob: retarget two blog posts, add links"
+  },
+  {
+   "id": "36",
+   "phase": "October",
+   "priority": "HIGH",
+   "action": "NEW: Update the TEM Guide title and meta so it stops competing for the commercial 'services' terms.",
+   "howTo": "Page: /your-guide-to-telecom-expense-management/\n1) Title: 'Telecom Expense Management: The Enterprise Guide | Tellennium'\n2) Meta: 'How telecom expense management works for enterprises: inventory, invoice audit, cost allocation and mobility, and how to build a TEM program that lasts.'\n3) Rename the H2 'Why is TEM critical? What are the benefits of using a telecom expense management solution?' to 'Why TEM Matters: Benefits for Enterprises'.\n4) Fix the misspelled link anchor 'Telecom Expence Management – Implementation of Outsourced TEM' (points to the service page) to 'telecom expense management services'.\nDone when: the Guide's title and meta no longer reference services or providers, and the anchor is corrected.",
+   "page": "Page: /your-guide-to-telecom-expense-management/\nKeyword: telecom expense management (Guide stays owner per #3)",
+   "owner": "Rob",
+   "due": "Oct 16",
+   "week": "Wk 14+ (Oct)",
+   "sheetStatus": "Not started",
+   "status": "Rob to do",
+   "light": "red",
+   "parties": {
+    "rob": "open",
+    "randy": "na",
+    "steve": "na",
+    "dev": "na"
+   },
+   "waitingOn": "",
+   "verified": "",
+   "sheetDiff": "",
+   "links": {
+    "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
+    "legacyVercelRevisions": ""
+   },
+   "nextStep": "Rob: new TEM Guide title and meta"
+  }
+ ],
+ "lastUpdated": "Oct 12, 2026",
+ "updateNote": "Added Steve's new items #32–36 (TEM service page, from Search Console). Status chips, next steps and Word doc links set for all 36 items."
+}
