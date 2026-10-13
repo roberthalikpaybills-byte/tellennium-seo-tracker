@@ -488,14 +488,14 @@
    "updates": [
     {
      "date": "2026-10-12",
-     "time": "8:00 AM",
-     "text": "Link note sent to Randy. Waiting on Randy.",
+     "time": "",
+     "text": "Live check: audit-guide links on the TEM Guide and service page not live yet.",
      "verified": true
     },
     {
      "date": "2026-10-12",
-     "time": "",
-     "text": "Live check: audit-guide links on the TEM Guide and service page not live yet.",
+     "time": "8:00 AM",
+     "text": "Link note sent to Randy. Waiting on Randy.",
      "verified": true
     },
     {
@@ -722,26 +722,26 @@
     },
     {
      "date": "2026-10-09",
-     "time": "1:09 PM",
-     "text": "Rob sent Randy the SaaS Guide fix list (R-007).",
-     "verified": true
-    },
-    {
-     "date": "2026-10-09",
      "time": "",
      "text": "Rob chose Option A (D-016): ID10-13 are the four spokes; no new writing.",
      "verified": true
     },
     {
-     "date": "2026-10-08",
-     "time": "9:37 AM",
-     "text": "Rob re-sent Randy the overspend-article hub-link sentence (R-004). On hold.",
+     "date": "2026-10-09",
+     "time": "1:09 PM",
+     "text": "Rob sent Randy the SaaS Guide fix list (R-007).",
      "verified": true
     },
     {
      "date": "2026-10-08",
      "time": "",
      "text": "Overspend article FAQ fix (R-001) verified live.",
+     "verified": true
+    },
+    {
+     "date": "2026-10-08",
+     "time": "9:37 AM",
+     "text": "Rob re-sent Randy the overspend-article hub-link sentence (R-004). On hold.",
      "verified": true
     },
     {
