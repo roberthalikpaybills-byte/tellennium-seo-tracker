@@ -186,23 +186,23 @@
    "due": "Jul 11",
    "week": "Wk 02 (Jul 7-11)",
    "sheetStatus": "In progress",
-   "status": "Waiting",
+   "status": "Follow up",
    "light": "yellow",
    "parties": {
-    "rob": "waiting",
+    "rob": "done",
     "randy": "na",
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Crunchbase account review (req #2830932)",
-   "verified": "",
+   "waitingOn": "",
+   "verified": "Saved by Rob 10/13 3:10 PM; public page not yet confirmed (bot-blocked/caching)",
    "sheetDiff": "Sheet says In progress; Rob's part done, waiting on Crunchbase/G2.",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Wed 10/14: Rob pastes MoT copy (SEO07_CRUNCHBASE.md), removes TIMS, saves; B Dub verifies public page. Chase email on #2830932 if edits not enabled by Wed/Thu.",
-   "doneNote": "10/13: Crunchbase account verified 2:47 PM ET; LinkedIn connected. Account review up to 1 business day."
+   "nextStep": "Confirm public page shows no TIMS (manual check).",
+   "doneNote": "10/13: account verified 2:47 PM ET, LinkedIn connected; Rob saved the MoT edits ~3:10 PM ET."
   },
   {
    "id": "8",
@@ -1018,5 +1018,5 @@
   }
  ],
  "lastUpdated": "Oct 13, 2026",
- "updateNote": "Crunchbase (#7) account verified, edit Wed 10/14. G2/Capterra (#21, #29) escalated, waiting on G2."
+ "updateNote": "Crunchbase (#7): Rob saved the MoT edits 10/13; public page check pending. G2/Capterra (#21, #29) escalated, waiting on G2."
 }
