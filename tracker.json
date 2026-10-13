@@ -18,23 +18,29 @@
    "due": "Jul 11",
    "week": "Wk 02 (Jul 7-11)",
    "sheetStatus": "Done",
-   "status": "Done",
-   "light": "green",
+   "status": "Waiting",
+   "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "done",
+    "randy": "waiting",
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "",
+   "waitingOn": "Randy",
    "verified": "2026-10-08: live text check OK",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-1-what-is-tem-v2.vercel.app/"
    },
-   "nextStep": "Done, verified live 10/8",
+   "nextStep": "Randy sets the Yoast title to \"What Is TEM? Definition and Basics\".",
    "updates": [
+    {
+     "date": "2026-10-13",
+     "time": "~3:45 PM",
+     "text": "Live check: Yoast title still \"What Is TEM? - Tellennium\"; spec is \"What Is TEM? Definition and Basics\". Small fix for Randy.",
+     "verified": true
+    },
     {
      "date": "2026-10-08",
      "time": "",
@@ -156,6 +162,12 @@
    "nextStep": "Steve runs live URL test Wed 10/14",
    "updates": [
     {
+     "date": "2026-10-13",
+     "time": "~3:45 PM",
+     "text": "Live check: first paragraph still says \"TEM services\", not \"telecom expense management services\"; the homepage sentence and link to the service page are not there yet.",
+     "verified": true
+    },
+    {
      "date": "2026-10-12",
      "time": "",
      "text": "Waiting on Steve's exports and live URL test; follow up Wed 10/14.",
@@ -186,30 +198,43 @@
    "due": "Jul 18",
    "week": "Wk 03 (Jul 14-18)",
    "sheetStatus": "Done",
-   "status": "Follow up",
+   "status": "Waiting",
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "na",
+    "randy": "waiting",
     "steve": "na",
-    "dev": "done"
+    "dev": "na"
    },
-   "waitingOn": "Optional schema check",
+   "waitingOn": "Randy",
    "verified": "",
    "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoactionitem5faqschemaimplementati.vercel.app/"
    },
-   "nextStep": "Done; optional Rich Results schema check",
+   "nextStep": "Rob follows up with Randy using 10/13 live-check findings.",
    "updates": [
+    {
+     "date": "2026-10-13",
+     "time": "6:13 PM",
+     "text": "Rob's part done; SEO Action 5 FAQ Schema Implementation Guide is on SharePoint for Randy (Yoast/plugin work). Waiting on Randy.",
+     "verified": false
+    },
+    {
+     "date": "2026-10-13",
+     "time": "~3:45 PM",
+     "text": "Live check: core fixes not in. TEM service page still has two FAQPage blocks (1 and 9 Qs); MMS guide FAQ schema has 2 of 7 Qs; TEM Guide has 16 FAQ entries, duplicated (9 unique).",
+     "verified": true
+    },
     {
      "date": "2026-10-12",
      "time": "",
      "text": "Sheet says done; schema not visible to a text fetch. Optional Rich Results Test on 2-3 URLs.",
      "verified": false
     }
-   ]
+   ],
+   "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy."
   },
   {
    "id": "6",
@@ -222,30 +247,43 @@
    "due": "Jul 25",
    "week": "Wk 04 (Jul 21-25)",
    "sheetStatus": "Done",
-   "status": "Follow up",
+   "status": "Waiting",
    "light": "yellow",
    "parties": {
-    "rob": "na",
-    "randy": "na",
+    "rob": "done",
+    "randy": "waiting",
     "steve": "na",
-    "dev": "done"
+    "dev": "na"
    },
-   "waitingOn": "Optional schema check",
+   "waitingOn": "Randy",
    "verified": "",
    "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoid6articleschemaimplementationgu.vercel.app/"
    },
-   "nextStep": "Done; optional Rich Results schema check",
+   "nextStep": "Rob follows up with Randy using 10/13 live-check findings.",
    "updates": [
+    {
+     "date": "2026-10-13",
+     "time": "6:13 PM",
+     "text": "Rob's part done; SEO ID 6 Article Schema Implementation Guide is on SharePoint for Randy. Waiting on Randy.",
+     "verified": false
+    },
+    {
+     "date": "2026-10-13",
+     "time": "~3:45 PM",
+     "text": "Live check: authors show \"transit@twc.com\" (ROI calculator post, 6 TEM strategies post, MMS guide) and \"MediaMngr\" (6 areas of MMS); service page, MMS page and homepage still TechArticle.",
+     "verified": true
+    },
     {
      "date": "2026-10-12",
      "time": "",
      "text": "Sheet says done; Article/author schema not verified live. Optional Rich Results Test.",
      "verified": false
     }
-   ]
+   ],
+   "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy."
   },
   {
    "id": "7",
@@ -846,6 +884,12 @@
    },
    "nextStep": "Waiting on Steve for Search Console exports",
    "updates": [
+    {
+     "date": "2026-10-13",
+     "time": "",
+     "text": "Steve's Search Console export (Sep 20 snapshot) has totals only: 59 crawled-not-indexed, 20 discovered-not-indexed, 8 404s. URL-level exports still needed. Waiting on Steve.",
+     "verified": true
+    },
     {
      "date": "2026-10-12",
      "time": "",
@@ -1546,6 +1590,6 @@
   }
  ],
  "lastUpdated": "Oct 13, 2026",
- "updateNote": "Rob's 10/13 follow-ups to Randy logged (#17 SaaS fixes, #20 managed telecom page, both go Wed 10/14 ~8 AM); #7 logo swap pending Rob + Shawn Wed 10/14.",
+ "updateNote": "10/13 live checks for #1, #4, #5, #6 and #19 logged; #5 and #6 are with Randy (implementation guides on SharePoint).",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026"
 }
