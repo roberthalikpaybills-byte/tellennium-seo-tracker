@@ -898,15 +898,15 @@
    "updates": [
     {
      "date": "2026-10-13",
-     "time": "",
-     "text": "Steve's Search Console export (Sep 20 snapshot) has totals only: 59 crawled-not-indexed, 20 discovered-not-indexed, 8 404s. URL-level exports still needed. Waiting on Steve.",
-     "verified": true
-    },
-    {
-     "date": "2026-10-13",
      "time": "6:36 PM",
      "text": "Rob scheduled check-in note to Steve for Wed 10/14 10:00 AM ET (includes the Search Console / SEMrush exports).",
      "verified": false
+    },
+    {
+     "date": "2026-10-13",
+     "time": "",
+     "text": "Steve's Search Console export (Sep 20 snapshot) has totals only: 59 crawled-not-indexed, 20 discovered-not-indexed, 8 404s. URL-level exports still needed. Waiting on Steve.",
+     "verified": true
     },
     {
      "date": "2026-10-12",
