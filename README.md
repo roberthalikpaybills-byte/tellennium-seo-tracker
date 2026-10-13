@@ -10,3 +10,5 @@ Standalone page for Rob, Steve, Randy and the team. No links into the private hu
 - Last updated box (top right): edit top-level `lastUpdated` and `updateNote` in tracker.json.
 
 - Updates log: each item has `updates` (newest first): `{date, time, text, verified}`. Running updates go here, not in new Word doc versions. SharePoint keeps one Word doc per item for notes; do not re-upload versions.
+
+- Send an update form (top of page): posts to FormSubmit (endpoint id in index.html, activated to bdub@mail.grokbot.com, cc rhalik@tellennium.com). Submissions never edit the tracker; the B Dub inbox is the review queue. Rob or B Dub approves an update by adding it to that item's `updates` in tracker.json.
