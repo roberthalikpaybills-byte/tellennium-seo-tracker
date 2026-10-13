@@ -8,3 +8,5 @@ Standalone page for Rob, Steve, Randy and the team. No links into the private hu
 - Person views: `/seo-tracker/#randy`, `#steve`, `#rob`, `#dev` (items where that person has a part).
 
 - Last updated box (top right): edit top-level `lastUpdated` and `updateNote` in tracker.json.
+
+- Updates log: each item has `updates` (newest first): `{date, time, text, verified}`. Running updates go here, not in new Word doc versions. SharePoint keeps one Word doc per item for notes; do not re-upload versions.
