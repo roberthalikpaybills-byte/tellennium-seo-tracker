@@ -34,7 +34,20 @@
     "legacyVercelRevisions": "https://seo-1-what-is-tem-v2.vercel.app/"
    },
    "nextStep": "Done, verified live 10/8",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-08",
+     "time": "",
+     "text": "Live spot check (text): page is definitional; small typo \"managemen t\" noted (optional fix).",
+     "verified": true
+    },
+    {
+     "date": "2026-07-11",
+     "time": "",
+     "text": "Sheet: done (Rob), due Jul 11.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "2",
@@ -63,7 +76,20 @@
     "legacyVercelRevisions": "https://seoid2cannibal.vercel.app/"
    },
    "nextStep": "Done; spot-check the five MMS pages",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "",
+     "text": "Five-page live spot check not done yet (optional, B Dub).",
+     "verified": false
+    },
+    {
+     "date": "2026-07-16",
+     "time": "",
+     "text": "Implementation record v1.0: QA passed July 16, 2026.",
+     "verified": true
+    }
+   ]
   },
   {
    "id": "3",
@@ -92,7 +118,14 @@
     "legacyVercelRevisions": "https://temclusterimplementationguidesingle.vercel.app/"
    },
    "nextStep": "Done, partial live check 10/8",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-08",
+     "time": "",
+     "text": "Partial live check; missing audit and Solutions Compared links tracked under #12 and #13.",
+     "verified": true
+    }
+   ]
   },
   {
    "id": "4",
@@ -127,6 +160,18 @@
      "time": "",
      "text": "Waiting on Steve's exports and live URL test; follow up Wed 10/14.",
      "verified": false
+    },
+    {
+     "date": "2026-10-09",
+     "time": "1:21 PM",
+     "text": "Rob asked Steve for a Search Console live URL test, Crawl stats and GSC/SEMrush exports. Waiting on Steve; follow up Wed 10/14.",
+     "verified": true
+    },
+    {
+     "date": "2026-10-08",
+     "time": "",
+     "text": "Live spot check: service page rewrite live; small copy glitch (\"Key ROI Metrics:\" label).",
+     "verified": true
     }
    ]
   },
@@ -157,7 +202,14 @@
     "legacyVercelRevisions": "https://seoactionitem5faqschemaimplementati.vercel.app/"
    },
    "nextStep": "Done; optional Rich Results schema check",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "",
+     "text": "Sheet says done; schema not visible to a text fetch. Optional Rich Results Test on 2-3 URLs.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "6",
@@ -186,7 +238,14 @@
     "legacyVercelRevisions": "https://seoid6articleschemaimplementationgu.vercel.app/"
    },
    "nextStep": "Done; optional Rich Results schema check",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "",
+     "text": "Sheet says done; Article/author schema not verified live. Optional Rich Results Test.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "7",
@@ -228,6 +287,24 @@
      "time": "2:47 PM",
      "text": "Crunchbase account verified; LinkedIn connected.",
      "verified": true
+    },
+    {
+     "date": "2026-10-09",
+     "time": "12:05 PM",
+     "text": "Rob filed Crunchbase support request #2830932 (edit access or apply MoT copy, remove TIMS).",
+     "verified": true
+    },
+    {
+     "date": "2026-09-01",
+     "time": "",
+     "text": "Rob emailed Crunchbase; they said about 2 days; edit still pending.",
+     "verified": true
+    },
+    {
+     "date": "2026-08-26",
+     "time": "",
+     "text": "Public audit: Crunchbase still introduced TIMS in the long description.",
+     "verified": true
     }
    ]
   },
@@ -258,7 +335,14 @@
     "legacyVercelRevisions": "https://seo-id-8.vercel.app/"
    },
    "nextStep": "Done, closed Sep 2",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-09-02",
+     "time": "",
+     "text": "Closed in the Sep 2 close-out (noindex audit done; no Randy work).",
+     "verified": true
+    }
+   ]
   },
   {
    "id": "9",
@@ -287,7 +371,20 @@
     "legacyVercelRevisions": "https://uemhubconsolidationtellenniumseoact.vercel.app/"
    },
    "nextStep": "Waiting on Randy for UEM redirect",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "~8:40 AM",
+     "text": "Live check: old UEM Guide URL still live, no 301 yet. Waiting on Randy (on hold, out sick).",
+     "verified": true
+    },
+    {
+     "date": "2026-10-08",
+     "time": "9:37 AM",
+     "text": "Rob sent Randy R-003: copy the PDF form to the UEM hub, then 301 the Guide. On hold while Randy is out sick.",
+     "verified": true
+    }
+   ]
   },
   {
    "id": "10",
@@ -316,7 +413,14 @@
     "legacyVercelRevisions": ""
    },
    "nextStep": "Waiting on Steve/Ed for roundup outreach",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "Company blurb and calilio fix drafted for Steve; nothing sent. Rob decides when to ask.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "11",
@@ -345,7 +449,14 @@
     "legacyVercelRevisions": "https://seoid11tembuyersguideimplementation.vercel.app/"
    },
    "nextStep": "Done, verified live 10/8",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-08",
+     "time": "",
+     "text": "Live spot check: Buyer's Guide block present.",
+     "verified": true
+    }
+   ]
   },
   {
    "id": "12",
@@ -377,14 +488,20 @@
    "updates": [
     {
      "date": "2026-10-12",
+     "time": "8:00 AM",
+     "text": "Link note sent to Randy. Waiting on Randy.",
+     "verified": true
+    },
+    {
+     "date": "2026-10-12",
      "time": "",
      "text": "Live check: audit-guide links on the TEM Guide and service page not live yet.",
      "verified": true
     },
     {
-     "date": "2026-10-12",
-     "time": "8:00 AM",
-     "text": "Link note sent to Randy. Waiting on Randy.",
+     "date": "2026-10-09",
+     "time": "~1:40 PM",
+     "text": "Rob decided the long audit URL stays the owner (D-015); short /telecom-expense-audit/ redirects to it.",
      "verified": true
     }
    ]
@@ -422,6 +539,12 @@
      "time": "",
      "text": "Live check: inbound links from the TEM Guide and service page still missing.",
      "verified": true
+    },
+    {
+     "date": "2026-09-17",
+     "time": "",
+     "text": "Solutions Compared article published.",
+     "verified": false
     }
    ]
   },
@@ -452,7 +575,20 @@
     "legacyVercelRevisions": "https://seo-14.vercel.app/"
    },
    "nextStep": "Waiting on Randy for outsourcing redirect",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "~8:40 AM",
+     "text": "Live check: old outsourced-TEM URL still serves the old article (no 301). Waiting on Randy.",
+     "verified": true
+    },
+    {
+     "date": "2026-10-08",
+     "time": "9:37 AM",
+     "text": "Rob sent Randy R-002: 301 the old article to the 2026 decision framework. On hold while Randy is out sick.",
+     "verified": true
+    }
+   ]
   },
   {
    "id": "15",
@@ -486,6 +622,12 @@
      "date": "2026-10-12",
      "time": "",
      "text": "Rob asks Steve Wed 10/14 to name the developer.",
+     "verified": false
+    },
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "Developer note and redirect worksheet ready for Steve to forward. Count to settle: tracker 49 vs Steve's 9/20 summary 93 redirects + 8 not found.",
      "verified": false
     }
    ]
@@ -523,6 +665,12 @@
      "time": "",
      "text": "Rob asks Steve Wed 10/14 to name the developer.",
      "verified": false
+    },
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "Rob answered all schema questions (D-017): Tellennium, Rob Halik, (502) 538-6069, 1999, no address, current logo.",
+     "verified": true
     }
    ]
   },
@@ -571,6 +719,36 @@
      "time": "",
      "text": "Live check: ID10, ID11 and ID13 live and linked from the SaaS Guide.",
      "verified": true
+    },
+    {
+     "date": "2026-10-09",
+     "time": "1:09 PM",
+     "text": "Rob sent Randy the SaaS Guide fix list (R-007).",
+     "verified": true
+    },
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "Rob chose Option A (D-016): ID10-13 are the four spokes; no new writing.",
+     "verified": true
+    },
+    {
+     "date": "2026-10-08",
+     "time": "9:37 AM",
+     "text": "Rob re-sent Randy the overspend-article hub-link sentence (R-004). On hold.",
+     "verified": true
+    },
+    {
+     "date": "2026-10-08",
+     "time": "",
+     "text": "Overspend article FAQ fix (R-001) verified live.",
+     "verified": true
+    },
+    {
+     "date": "2026-09-01",
+     "time": "",
+     "text": "Implementation record v1.1 approved (SaaS cluster spec).",
+     "verified": true
     }
    ]
   },
@@ -604,9 +782,21 @@
    "updates": [
     {
      "date": "2026-10-12",
+     "time": "~8:40 AM",
+     "text": "Live check: calculator link sentence not yet on the cost article. Waiting on Randy.",
+     "verified": true
+    },
+    {
+     "date": "2026-10-08",
+     "time": "9:37 AM",
+     "text": "Rob re-sent Randy R-005 (calculator link + Calculate ROI button check). On hold.",
+     "verified": true
+    },
+    {
+     "date": "2026-09-30",
      "time": "",
-     "text": "Calculator is live; the cost-article link is not yet verified.",
-     "verified": false
+     "text": "Phase 1 done: Rob confirmed the calculator works live; Phase 2 record v1.4 sent to Randy.",
+     "verified": true
     }
    ]
   },
@@ -643,6 +833,12 @@
      "time": "",
      "text": "Waiting on Steve's exports; follow up Wed 10/14.",
      "verified": false
+    },
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "Rob asked Steve for Search Console Pages/Queries and SEMrush exports. Sort sheet ready. Waiting on Steve; follow up Wed 10/14.",
+     "verified": true
     }
    ]
   },
@@ -678,6 +874,18 @@
      "date": "2026-10-12",
      "time": "",
      "text": "Live check: /managed-telecom-services/ returns 404; page not built yet.",
+     "verified": true
+    },
+    {
+     "date": "2026-09-30",
+     "time": "5:50 PM",
+     "text": "Rob emailed Randy and Steve to build from the approved copy and mockup. Waiting on Randy; final copy approval with Steve Wed 10/14.",
+     "verified": true
+    },
+    {
+     "date": "2026-09-26",
+     "time": "~7:20 PM",
+     "text": "Live check: /managed-telecom-services/ not created (404).",
      "verified": true
     }
    ]
@@ -715,6 +923,12 @@
      "time": "1:06 PM",
      "text": "Rob escalated the Capterra listing to Bhuvi (G2), cc Shawn. Waiting on G2; Shawn follows up Thu 10/15.",
      "verified": true
+    },
+    {
+     "date": "2026-10-09",
+     "time": "12:16 PM",
+     "text": "Rob emailed Bhuvi Gaikwad (G2) the Capterra escalation; call set for Tue 10/13 7:00 AM.",
+     "verified": true
     }
    ]
   },
@@ -745,7 +959,14 @@
     "legacyVercelRevisions": ""
    },
    "nextStep": "Steve/Ed status check Fri 10/16",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "",
+     "text": "Not started; no activity logged. Steve/Ed status check Fri 10/16.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "23",
@@ -774,7 +995,14 @@
     "legacyVercelRevisions": ""
    },
    "nextStep": "Steve/Ed status check Fri 10/16",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "",
+     "text": "Not started; no activity logged. Steve/Ed status check Fri 10/16.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "24",
@@ -803,7 +1031,14 @@
     "legacyVercelRevisions": ""
    },
    "nextStep": "Steve status check Fri 10/16",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "",
+     "text": "Not started. Rob reads the Wikipedia conflict-of-interest caution first. Steve status check Fri 10/16.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "25",
@@ -832,7 +1067,14 @@
     "legacyVercelRevisions": ""
    },
    "nextStep": "Steve/Ed status check Fri 10/16",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "",
+     "text": "Not started; no activity logged. Steve/Ed status check Fri 10/16.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "26",
@@ -861,7 +1103,14 @@
     "legacyVercelRevisions": ""
    },
    "nextStep": "Steve/Ed status check Fri 10/16",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "",
+     "text": "Not started; no activity logged. Steve/Ed status check Fri 10/16.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "27",
@@ -890,7 +1139,14 @@
     "legacyVercelRevisions": ""
    },
    "nextStep": "Steve status check Fri 10/16",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "",
+     "text": "Sheet says In progress; no detail recorded. Steve status check Fri 10/16.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "28",
@@ -924,6 +1180,12 @@
      "date": "2026-10-12",
      "time": "",
      "text": "Waiting on Steve's SEMrush export; follow up Wed 10/14.",
+     "verified": false
+    },
+    {
+     "date": "2026-10-08",
+     "time": "",
+     "text": "Draft disavow list (7 domains) prepared; do not submit. Needs Steve's SEMrush referring-domain export.",
      "verified": false
     }
    ]
@@ -961,6 +1223,12 @@
      "time": "1:06 PM",
      "text": "Rob escalated the Capterra listing to Bhuvi (G2), cc Shawn. Waiting on G2; Shawn follows up Thu 10/15.",
      "verified": true
+    },
+    {
+     "date": "2026-10-09",
+     "time": "12:16 PM",
+     "text": "Rob emailed Bhuvi Gaikwad (G2) the Capterra escalation; call set for Tue 10/13 7:00 AM.",
+     "verified": true
     }
    ]
   },
@@ -991,7 +1259,14 @@
     "legacyVercelRevisions": ""
    },
    "nextStep": "Steve/Ed status check Fri 10/16",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "calilio correction note drafted; not sent. Steve/Ed.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "31",
@@ -1020,7 +1295,14 @@
     "legacyVercelRevisions": ""
    },
    "nextStep": "Steve/Ed status check Fri 10/16",
-   "updates": []
+   "updates": [
+    {
+     "date": "2026-10-12",
+     "time": "",
+     "text": "Not started; no activity logged. Steve/Ed status check Fri 10/16.",
+     "verified": false
+    }
+   ]
   },
   {
    "id": "32",
@@ -1055,6 +1337,12 @@
      "time": "",
      "text": "Rob asks Steve Wed 10/14 to name the developer.",
      "verified": false
+    },
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "Steve added this item to the tracker (GSC review); Dev via Steve, due Oct 16.",
+     "verified": true
     }
    ]
   },
@@ -1091,6 +1379,12 @@
      "time": "",
      "text": "Rob owns this; due 10/23.",
      "verified": false
+    },
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "Steve added this item to the tracker (follow-up to #4); Rob, due Oct 23.",
+     "verified": true
     }
    ]
   },
@@ -1127,6 +1421,12 @@
      "time": "",
      "text": "Rob asks Steve Wed 10/14 to name the developer.",
      "verified": false
+    },
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "Steve added this item to the tracker; Dev via Steve, due Oct 16.",
+     "verified": true
     }
    ]
   },
@@ -1163,6 +1463,12 @@
      "time": "",
      "text": "Rob owns this; due 10/23.",
      "verified": false
+    },
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "Steve added this item to the tracker; Rob, due Oct 23.",
+     "verified": true
     }
    ]
   },
@@ -1199,10 +1505,16 @@
      "time": "",
      "text": "Rob owns this; due 10/16.",
      "verified": false
+    },
+    {
+     "date": "2026-10-09",
+     "time": "",
+     "text": "Steve added this item to the tracker; Rob, due Oct 16.",
+     "verified": true
     }
    ]
   }
  ],
  "lastUpdated": "Oct 13, 2026",
- "updateNote": "Added per-item Updates log."
+ "updateNote": "Backfilled Updates log for all 36 items."
 }
