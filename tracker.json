@@ -273,9 +273,15 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Confirm public page shows no TIMS (manual check).",
+   "nextStep": "Logo swap after Rob talks with Shawn Wed 10/14; public page TIMS check pending.",
    "doneNote": "10/13: account verified 2:47 PM ET, LinkedIn connected; Rob saved the MoT edits ~3:10 PM ET.",
    "updates": [
+    {
+     "date": "2026-10-13",
+     "time": "5:44 PM",
+     "text": "Rob: Crunchbase description edits done. Remaining: replace the Crunchbase logo with the current \"Tellennium, an Optric company\" logo; Rob raises it with Shawn at their 1:1 Wed 10/14.",
+     "verified": false
+    },
     {
      "date": "2026-10-13",
      "time": "~3:10 PM",
@@ -700,8 +706,20 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://uemsaasclustertellenniumseoaction17.vercel.app/"
    },
-   "nextStep": "Waiting on Randy to publish ID12",
+   "nextStep": "B Dub checks live site once Randy confirms.",
    "updates": [
+    {
+     "date": "2026-10-13",
+     "time": "6:04 PM",
+     "text": "Rob scheduled a follow-up note to Randy (goes Wed 10/14 ~8 AM): link the SaaS Guide to ID12 and delete the duplicate \"Why Familiar Tools Fall Short\"; ID13 delete the duplicate \"Establish Your SaaS Spending Baseline\" heading and fix \"ompare\" → \"Compare\" (FAQ + FAQ schema); overspend article: add hub link. Waiting on Randy.",
+     "verified": false
+    },
+    {
+     "date": "2026-10-13",
+     "time": "~5:48 PM",
+     "text": "Live check: ID12 live with checklist PDF, Guide not yet linking to it; ID13 duplicate heading and \"ompare\" typo still there; overspend article still no hub link; Guide \"Why Familiar Tools Fall Short\" appears twice; stray UEM FAQ text gone.",
+     "verified": true
+    },
     {
      "date": "2026-10-13",
      "time": "~8:40 AM",
@@ -868,8 +886,20 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1790797144264&OR=EXCEL%2DWEB%2EBODY%2ENT&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-20managed-telecom-svcs.vercel.app/"
    },
-   "nextStep": "Waiting on Randy to build page",
+   "nextStep": "B Dub checks live site once Randy confirms.",
    "updates": [
+    {
+     "date": "2026-10-13",
+     "time": "6:04 PM",
+     "text": "Rob scheduled a follow-up to Randy (Wed 10/14 ~8 AM): build /managed-telecom-services/ from the copy in the SEO Item 20 folder. Waiting on Randy.",
+     "verified": false
+    },
+    {
+     "date": "2026-10-13",
+     "time": "~5:48 PM",
+     "text": "Live check: /managed-telecom-services/ still 404; not in the Solutions menu.",
+     "verified": true
+    },
     {
      "date": "2026-10-12",
      "time": "",
@@ -1516,6 +1546,6 @@
   }
  ],
  "lastUpdated": "Oct 13, 2026",
- "updateNote": "Backfilled Updates log for all 36 items.",
+ "updateNote": "Rob's 10/13 follow-ups to Randy logged (#17 SaaS fixes, #20 managed telecom page, both go Wed 10/14 ~8 AM); #7 logo swap pending Rob + Shawn Wed 10/14.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026"
 }
