@@ -70,6 +70,9 @@ g('upForm').onsubmit=function(ev){ev.preventDefault();var m=g('f_msg');
  var body={_subject:'SEO tracker update: #'+id+' from '+who,_template:'table',_captcha:'false',_cc:FORM_CC,seo_id:'#'+id+' – '+(it?it.action.slice(0,120):''),name:who,update:txt,done:g('f_done').checked?'yes':'no',submitted:new Date().toLocaleString('en-US',{timeZone:'America/New_York'})+' ET'};
  m.textContent='Sending…';fetch(FORM_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify(body)}).then(r=>r.json()).then(r=>{if(String(r.success)=='true'){m.textContent='Thanks, Rob will review it.';g('f_text').value='';g('f_done').checked=false}else m.textContent='Could not send ('+(r.message||'error')+'). Please email Rob.'}).catch(()=>{m.textContent='Could not send. Please email Rob.'})}}
 
+var D,open={},ST={who:'all',now:false,q:'',sort:'light',fp:'',fs:'',fo:''};
+function g(k){return document.getElementById(k)}
+function fromHash(){var h=location.hash.replace('#','');ST.who=P[h]?h:'all'}
 var ND=null,NW='randy';
 function nkey(x){var m=String(x.time||'').match(/(\d+):(\d+)\s*(AM|PM)/);var t=m?((+m[1]%12)+(m[3]=='PM'?12:0))*60+ +m[2]:0;return x.date+String(t).padStart(5,'0')}
 function ndraw(){g('ntabs').innerHTML=['randy','steve','dev'].map(k=>'<button data-k="'+k+'" class="'+(k==NW?'on':'')+'">'+P[k]+' ('+ND.notes.filter(x=>x.person==k).length+')</button>').join('');
@@ -80,9 +83,6 @@ g('nlist').querySelectorAll('.nid').forEach(b=>b.onclick=ev=>{ev.preventDefault(
 document.addEventListener('DOMContentLoaded',function(){});
 g('notesBtn').onclick=()=>{var b=g('notesBox');if(b.style.display=='none'){b.style.display='';if(!ND)fetch('notes.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{ND=d;g('nabout').textContent=d.about;ndraw()});}else b.style.display='none'};
 g('nold').onchange=()=>{if(ND)ndraw()};
-var D,open={},ST={who:'all',now:false,q:'',sort:'light',fp:'',fs:'',fo:''};
-function g(k){return document.getElementById(k)}
-function fromHash(){var h=location.hash.replace('#','');ST.who=P[h]?h:'all'}
 fetch('tracker.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;g('upd').textContent='Updated '+d.updated+' · '+d.items.length+' items';
 if(d.lastUpdated||d.updateNote)g('lu').innerHTML='<b>Last updated:</b> '+e(d.lastUpdated||d.updated)+(d.updateNote?'<br>'+e(d.updateNote):'');else g('lu').style.display='none';
 if(d.banner){g('bn').textContent=d.banner;g('bn').style.display=''}
