@@ -36,6 +36,12 @@
    "nextStep": "Randy sets the Yoast title to \"What Is TEM? Definition and Basics\".",
    "updates": [
     {
+     "date": "2026-10-14",
+     "time": "10:50 AM",
+     "text": "Yoast title still What Is TEM? - Tellennium, plus managemen t typo; Randy note drafted, not sent",
+     "verified": false
+    },
+    {
      "date": "2026-10-13",
      "time": "~3:45 PM",
      "text": "Live check: Yoast title still \"What Is TEM? - Tellennium\"; spec is \"What Is TEM? Definition and Basics\". Small fix for Randy.",
@@ -951,6 +957,12 @@
    "nextStep": "B Dub checks live site once Randy confirms.",
    "updates": [
     {
+     "date": "2026-10-14",
+     "time": "10:50 AM",
+     "text": "Live check: /managed-telecom-services/ still 404 (Randy note sent this morning)",
+     "verified": false
+    },
+    {
      "date": "2026-10-13",
      "time": "6:04 PM",
      "text": "Rob scheduled a follow-up to Randy (Wed 10/14 ~8 AM): build /managed-telecom-services/ from the copy in the SEO Item 20 folder. Waiting on Randy.",
@@ -1593,6 +1605,12 @@
    "nextStep": "Rob: retarget two blog posts, add links",
    "updates": [
     {
+     "date": "2026-10-14",
+     "time": "10:50 AM",
+     "text": "Live check: neither post has the phrase in title/H1; remaining: one link to service page from each + meta check. Randy note drafted, not sent",
+     "verified": false
+    },
+    {
      "date": "2026-10-12",
      "time": "",
      "text": "Rob owns this; due 10/23.",
@@ -1635,6 +1653,12 @@
    "nextStep": "Randy updates Yoast title/meta, H2 and misspelled anchor on /your-guide-to-telecom-expense-management/; Sunny checks live page.",
    "updates": [
     {
+     "date": "2026-10-14",
+     "time": "10:50 AM",
+     "text": "Live check: TEM Guide title and H2 unchanged (note sent 9:30 AM)",
+     "verified": false
+    },
+    {
      "date": "2026-10-13",
      "time": "6:42 PM",
      "text": "Rob scheduled note to Randy for Wed 10/14 9:30 AM ET with the four TEM Guide changes (Yoast title + meta, H2, misspelled link anchor).",
@@ -1655,7 +1679,7 @@
    ]
   }
  ],
- "lastUpdated": "Oct 13, 2026",
+ "lastUpdated": "2026-10-14 10:55 AM ET",
  "updateNote": "Rob scheduled Wed 10/14 notes: Steve check-in 10:00 AM (#4, 7, 19, 21, 22, 23, 28, 29, 32, 34) and Randy 9:30 AM (#36 TEM Guide changes).",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026"
 }
