@@ -1,0 +1,199 @@
+{
+ "tracker": "Q3-26",
+ "lastUpdated": "2026-10-14 11:10 AM ET",
+ "about": "Notes and asks sent to each person, by SEO ID. Entries marked Summary are condensed from the tracker log, not the exact text sent.",
+ "notes": [
+  {
+   "person": "randy",
+   "date": "2026-09-30",
+   "time": "",
+   "ids": [
+    18
+   ],
+   "subject": "ROI calculator Phase 2 record v1.4",
+   "text": "Summary (from tracker log): Phase 1 done (calculator confirmed working live); Phase 2 record v1.4 sent to Randy.",
+   "channel": "Email",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-09-30",
+   "time": "5:50 PM",
+   "ids": [
+    20
+   ],
+   "subject": "Build /managed-telecom-services/ from approved copy",
+   "text": "Summary (from tracker log): Rob emailed Randy and Steve to build the page from the approved copy and mockup.",
+   "channel": "Email",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "steve",
+   "date": "2026-09-30",
+   "time": "5:50 PM",
+   "ids": [
+    20
+   ],
+   "subject": "Build /managed-telecom-services/ from approved copy",
+   "text": "Summary (from tracker log): Rob emailed Randy and Steve to build the page from the approved copy and mockup. Final copy approval with Steve Wed 10/14.",
+   "channel": "Email",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-08",
+   "time": "9:37 AM",
+   "ids": [
+    14
+   ],
+   "subject": "R-002: 301 old article to 2026 decision framework",
+   "text": "Summary (from tracker log): Rob sent Randy R-002: 301 the old article to the 2026 decision framework. On hold while Randy was out sick.",
+   "channel": "Email",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-08",
+   "time": "9:37 AM",
+   "ids": [
+    9
+   ],
+   "subject": "R-003: PDF form to UEM hub, then 301 the Guide",
+   "text": "Summary (from tracker log): Rob sent Randy R-003: copy the PDF form to the UEM hub, then 301 the Guide. On hold while Randy was out sick.",
+   "channel": "Email",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-08",
+   "time": "9:37 AM",
+   "ids": [
+    17
+   ],
+   "subject": "R-004: overspend article hub-link sentence (re-sent)",
+   "text": "Summary (from tracker log): Rob re-sent Randy the overspend-article hub-link sentence (R-004).",
+   "channel": "Email",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-08",
+   "time": "9:37 AM",
+   "ids": [
+    18
+   ],
+   "subject": "R-005: calculator link + Calculate ROI button check (re-sent)",
+   "text": "Summary (from tracker log): Rob re-sent Randy R-005: add the calculator link and check the Calculate ROI button.",
+   "channel": "Email",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-09",
+   "time": "1:09 PM",
+   "ids": [
+    17
+   ],
+   "subject": "R-007: SaaS Guide fix list",
+   "text": "Summary (from tracker log): Rob sent Randy the SaaS Guide fix list (R-007).",
+   "channel": "Email",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-12",
+   "time": "8:00 AM",
+   "ids": [
+    12
+   ],
+   "subject": "Link note",
+   "text": "Summary (from tracker log): Link note sent to Randy.",
+   "channel": "Email",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-13",
+   "time": "6:13 PM",
+   "ids": [
+    5,
+    6
+   ],
+   "subject": "FAQ and Article schema implementation guides",
+   "text": "Summary (from tracker log): Rob posted the SEO Action 5 FAQ Schema Implementation Guide and the SEO ID 6 Article Schema Implementation Guide on SharePoint for Randy (Yoast/plugin work).",
+   "channel": "SharePoint",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-14",
+   "time": "~8:00 AM",
+   "ids": [
+    17
+   ],
+   "subject": "SaaS Guide, ID13 and overspend article fixes (scheduled follow-up)",
+   "text": "Summary (from tracker log): Link the SaaS Guide to ID12 and delete the duplicate \"Why Familiar Tools Fall Short\"; ID13: delete the duplicate \"Establish Your SaaS Spending Baseline\" heading and fix \"ompare\" to \"Compare\" (FAQ + FAQ schema); overspend article: add the hub link.",
+   "channel": "Email (scheduled 10/13)",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-14",
+   "time": "~8:00 AM",
+   "ids": [
+    20
+   ],
+   "subject": "Build /managed-telecom-services/ (scheduled follow-up)",
+   "text": "Summary (from tracker log): Build /managed-telecom-services/ from the copy in the SEO Item 20 folder.",
+   "channel": "Email (scheduled 10/13)",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-14",
+   "time": "9:30 AM",
+   "ids": [
+    36
+   ],
+   "subject": "Four TEM Guide changes",
+   "text": "Summary (from tracker log): Four changes on /your-guide-to-telecom-expense-management/: Yoast title, Yoast meta description, the H2, and the misspelled link anchor.",
+   "channel": "Email (scheduled 10/13)",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "steve",
+   "date": "2026-10-14",
+   "time": "10:00 AM",
+   "ids": [
+    32,
+    34,
+    22,
+    23,
+    28,
+    4,
+    19,
+    7,
+    21,
+    29
+   ],
+   "subject": "Check-in: open items, exports, Crunchbase, G2",
+   "text": "Summary (from tracker log): Check-in on #32, #34, #22, #23, #28; Search Console / SEMrush exports for #4 and #19; Crunchbase for #7; G2 for #21 and #29.",
+   "channel": "Email (scheduled 10/13)",
+   "status": "Open",
+   "textType": "summary"
+  }
+ ]
+}
