@@ -1289,26 +1289,26 @@
    "action": "NEW (M5): Disavow review of the keyword-domain link network inflating the profile.",
    "howTo": "1) Export the full referring-domain list from SEMrush.\n2) Isolate the keyword-domain network: free-telecom-expense-management.net/.com, telecom-cost-management.net/.com, telecomexpensemanagement.info, telecommanage.com, invmanage.com and similar auto-generated sites.\n3) Confirm they are non-editorial / low value.\n4) Build a Google disavow file (domain-level) and submit via Search Console.\nDone when: the network is reviewed and disavowed, or documented as safe to leave.",
    "page": "Referring-domain network (disavow)",
-   "owner": "Dev / Steve",
+   "owner": "Randy",
    "due": "Oct 9",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
-   "status": "Waiting",
+   "status": "In progress",
    "light": "yellow",
    "parties": {
     "rob": "na",
-    "randy": "na",
-    "steve": "waiting",
+    "randy": "working",
+    "steve": "na",
     "dev": "waiting"
    },
-   "waitingOn": "Steve / Dev",
+   "waitingOn": "",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Waiting on Steve for referring-domain export",
+   "nextStep": "Randy: periodic SEMrush toxic-link report + disavow (Steve 10/15: Randy owns this).",
    "updates": [
     {
      "date": "2026-10-13",
@@ -1389,22 +1389,22 @@
    "due": "Oct 23",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
-   "status": "Waiting",
+   "status": "In progress",
    "light": "yellow",
    "parties": {
     "rob": "na",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "working",
     "dev": "na"
    },
-   "waitingOn": "Steve / Ed Green",
+   "waitingOn": "",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve/Ed status check Fri 10/16",
+   "nextStep": "Steve 10/15: starting research on sites that list Tellennium without a link, then outreach.",
    "updates": [
     {
      "date": "2026-10-09",
@@ -1425,22 +1425,22 @@
    "due": "Oct 30",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
-   "status": "Waiting",
+   "status": "In progress",
    "light": "yellow",
    "parties": {
     "rob": "na",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "working",
     "dev": "na"
    },
-   "waitingOn": "Steve / Ed Green",
+   "waitingOn": "",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve/Ed status check Fri 10/16",
+   "nextStep": "Steve 10/15: in process with Loganix; strategy adjusted in real time from market and SEO metrics.",
    "updates": [
     {
      "date": "2026-10-12",
