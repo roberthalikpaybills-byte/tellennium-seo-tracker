@@ -380,7 +380,12 @@
      "text": "Public audit: Crunchbase still introduced TIMS in the long description.",
      "verified": true
     }
-   ]
+   ],
+   "lastUpdate": {
+    "date": "2026-10-14",
+    "by": "Rob"
+   },
+   "updateText": "#7 Crunchbase logo and description updated; public-page check Fri."
   },
   {
    "id": "8",
@@ -1056,7 +1061,8 @@
    "lastUpdate": {
     "date": "2026-10-15",
     "by": "Steve"
-   }
+   },
+   "updateText": "#21 G2/Gartner review requests reassigned to Greg and Shawn, tied to the NPS survey."
   },
   {
    "id": "22",
@@ -1102,7 +1108,8 @@
    "lastUpdate": {
     "date": "2026-10-15",
     "by": "Steve"
-   }
+   },
+   "updateText": "#22 working with Ed on the next article for links back to the site."
   },
   {
    "id": "23",
@@ -1148,7 +1155,8 @@
    "lastUpdate": {
     "date": "2026-10-15",
     "by": "Steve"
-   }
+   },
+   "updateText": "#23 same as #22, links back via Ed's next article."
   },
   {
    "id": "24",
@@ -1188,7 +1196,8 @@
    "lastUpdate": {
     "date": "2026-10-15",
     "by": "Steve"
-   }
+   },
+   "updateText": "#24 Wikipedia on hold until there is enough third-party coverage."
   },
   {
    "id": "25",
@@ -1228,7 +1237,8 @@
    "lastUpdate": {
     "date": "2026-10-15",
     "by": "Steve"
-   }
+   },
+   "updateText": "#25 links back via Ed; slow process."
   },
   {
    "id": "26",
@@ -1268,7 +1278,8 @@
    "lastUpdate": {
     "date": "2026-10-15",
     "by": "Steve"
-   }
+   },
+   "updateText": "#26 links back via Ed; slow process."
   },
   {
    "id": "27",
@@ -1308,7 +1319,8 @@
    "lastUpdate": {
     "date": "2026-10-15",
     "by": "Steve"
-   }
+   },
+   "updateText": "#27 podcasts pushed to December."
   },
   {
    "id": "28",
@@ -1321,11 +1333,11 @@
    "due": "Oct 9",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
-   "status": "In progress",
+   "status": "Ongoing",
    "light": "yellow",
    "parties": {
     "rob": "na",
-    "randy": "working",
+    "randy": "ongoing",
     "steve": "na",
     "dev": "waiting"
    },
@@ -1336,7 +1348,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Randy: periodic SEMrush toxic-link report + disavow (Steve 10/15: Randy owns this).",
+   "nextStep": "Steve 10/15: Randy runs the periodic SEMrush toxic-link disavow. Confirm with Randy when last run.",
    "updates": [
     {
      "date": "2026-10-13",
@@ -1360,7 +1372,8 @@
    "lastUpdate": {
     "date": "2026-10-15",
     "by": "Steve"
-   }
+   },
+   "updateText": "#28 Randy runs the periodic SEMrush toxic-link disavow (ongoing)."
   },
   {
    "id": "29",
@@ -1408,7 +1421,12 @@
      "text": "Rob emailed Bhuvi Gaikwad (G2) the Capterra escalation; call set for Tue 10/13 7:00 AM.",
      "verified": true
     }
-   ]
+   ],
+   "lastUpdate": {
+    "date": "2026-10-15",
+    "by": "Rob"
+   },
+   "updateText": "#21/#29 G2 seller-name case #00645739 filed; waiting on G2 (~10/20)."
   },
   {
    "id": "30",
@@ -1448,7 +1466,8 @@
    "lastUpdate": {
     "date": "2026-10-15",
     "by": "Steve"
-   }
+   },
+   "updateText": "#30 starting research on sites that list Tellennium without a link, then outreach."
   },
   {
    "id": "31",
@@ -1488,7 +1507,8 @@
    "lastUpdate": {
     "date": "2026-10-15",
     "by": "Steve"
-   }
+   },
+   "updateText": "#31 backlink program in process with Loganix."
   },
   {
    "id": "32",
@@ -1731,7 +1751,7 @@
    ]
   }
  ],
- "lastUpdated": "2026-10-14 11:10 AM ET",
+ "lastUpdated": "2026-10-15 3:55 PM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026"
 }
