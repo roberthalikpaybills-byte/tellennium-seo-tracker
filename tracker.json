@@ -72,7 +72,7 @@
    "due": "Jul 11",
    "week": "Wk 02 (Jul 7-11)",
    "sheetStatus": "Done",
-   "status": "Follow up",
+   "status": "Verify complete",
    "light": "yellow",
    "parties": {
     "rob": "done",
@@ -80,14 +80,14 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Rob/B Dub (verify live)",
+   "waitingOn": "Rob/B Dub (verify)",
    "verified": "",
    "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoid2cannibal.vercel.app/"
    },
-   "nextStep": "Rob/B Dub: verify live on the five MMS pages (optional spot check).",
+   "nextStep": "Rob/B Dub: verify the five MMS pages live.",
    "updates": [
     {
      "date": "2026-10-15",
@@ -124,7 +124,7 @@
    "due": "Jul 18",
    "week": "Wk 03 (Jul 14-18)",
    "sheetStatus": "Done",
-   "status": "Done",
+   "status": "Verify complete",
    "light": "green",
    "parties": {
     "rob": "done",
@@ -132,14 +132,14 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Believed complete (partly verified 10/8)",
+   "waitingOn": "Rob/B Dub (verify)",
    "verified": "2026-10-08: partial live check",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://temclusterimplementationguidesingle.vercel.app/"
    },
-   "nextStep": "Believed complete (partly verified 10/8); missing links tracked under #12 and #13.",
+   "nextStep": "Rob/B Dub: verify the remaining live checks (partly verified 10/8; missing links tracked under #12 and #13).",
    "updates": [
     {
      "date": "2026-10-08",
@@ -343,7 +343,7 @@
    "due": "Jul 11",
    "week": "Wk 02 (Jul 7-11)",
    "sheetStatus": "In progress",
-   "status": "Follow up",
+   "status": "Verify complete",
    "light": "yellow",
    "parties": {
     "rob": "done",
@@ -351,14 +351,14 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Rob/B Dub (verify live)",
+   "waitingOn": "Rob/B Dub (verify)",
    "verified": "Saved by Rob 10/13 3:10 PM; public page not yet confirmed (bot-blocked/caching)",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob/B Dub: verify live Fri 10/16 that the new Crunchbase logo and description show (no TIMS).",
+   "nextStep": "Rob/B Dub: verify Fri 10/16 that the new Crunchbase logo and description show (no TIMS).",
    "doneNote": "10/13: account verified 2:47 PM ET, LinkedIn connected; Rob saved the MoT edits ~3:10 PM ET.",
    "updates": [
     {
@@ -433,22 +433,22 @@
    "due": "Jul 18",
    "week": "Wk 03 (Jul 14-18)",
    "sheetStatus": "Done",
-   "status": "Done",
+   "status": "Verify complete",
    "light": "green",
    "parties": {
     "rob": "done",
-    "randy": "done",
+    "randy": "na",
     "steve": "na",
     "dev": "done"
    },
-   "waitingOn": "Believed complete (GSC; confirm with Steve)",
+   "waitingOn": "Rob/B Dub (verify)",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-id-8.vercel.app/"
    },
-   "nextStep": "Believed complete (GSC); confirm with Steve.",
+   "nextStep": "Rob/B Dub: verify in GSC (noindex audit) and confirm with Steve.",
    "updates": [
     {
      "date": "2026-10-15",
@@ -567,7 +567,7 @@
    "due": "Aug 28",
    "week": "Wk 09 (Aug 25-29)",
    "sheetStatus": "Done",
-   "status": "Done",
+   "status": "Completed",
    "light": "green",
    "parties": {
     "rob": "done",
@@ -575,14 +575,14 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Verified complete (10/8)",
+   "waitingOn": "Completed (live 10/8)",
    "verified": "2026-10-08: Buyer's Guide block live",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoid11tembuyersguideimplementation.vercel.app/"
    },
-   "nextStep": "Verified complete (10/8): Buyer's Guide block live.",
+   "nextStep": "Completed: Buyer's Guide block verified live 10/8.",
    "updates": [
     {
      "date": "2026-10-08",
@@ -1933,7 +1933,7 @@
    }
   }
  ],
- "lastUpdated": "2026-10-15 4:30 PM ET",
+ "lastUpdated": "2026-10-15 4:35 PM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026"
 }
