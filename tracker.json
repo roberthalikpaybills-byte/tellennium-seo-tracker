@@ -122,7 +122,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "",
+   "waitingOn": "Complete; partly verified (10/8)",
    "verified": "2026-10-08: partial live check",
    "sheetDiff": "",
    "links": {
@@ -407,7 +407,7 @@
     "steve": "na",
     "dev": "done"
    },
-   "waitingOn": "",
+   "waitingOn": "Complete per sheet; GSC-only",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -521,7 +521,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "",
+   "waitingOn": "Verified complete (live 10/8)",
    "verified": "2026-10-08: Buyer's Guide block live",
    "sheetDiff": "",
    "links": {
