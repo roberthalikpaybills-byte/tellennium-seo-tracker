@@ -22,7 +22,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -33,7 +33,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-1-what-is-tem-v2.vercel.app/"
    },
-   "nextStep": "Randy sets the Yoast title to \"What Is TEM? Definition and Basics\".",
+   "nextStep": "Randy: set the Yoast title to \"What Is TEM? Definition and Basics\" (Rob note held for review).",
    "updates": [
     {
      "date": "2026-10-14",
@@ -87,7 +87,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoid2cannibal.vercel.app/"
    },
-   "nextStep": "Done; spot-check the five MMS pages",
+   "nextStep": "B Dub: optional spot check of the five MMS pages.",
    "updates": [
     {
      "date": "2026-10-12",
@@ -155,7 +155,7 @@
    "parties": {
     "rob": "done",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "open",
     "dev": "na"
    },
    "waitingOn": "Steve",
@@ -165,7 +165,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoactionitem4temservicepageimpleme.vercel.app/"
    },
-   "nextStep": "Steve runs live URL test Wed 10/14",
+   "nextStep": "Steve: run the live URL test on /telecom-expense-management/ (first paragraph still says TEM services; see #33).",
    "updates": [
     {
      "date": "2026-10-13",
@@ -197,7 +197,8 @@
      "text": "Live spot check: service page rewrite live; small copy glitch (\"Key ROI Metrics:\" label).",
      "verified": true
     }
-   ]
+   ],
+   "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both."
   },
   {
    "id": "5",
@@ -214,7 +215,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -225,7 +226,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoactionitem5faqschemaimplementati.vercel.app/"
    },
-   "nextStep": "Rob follows up with Randy using 10/13 live-check findings.",
+   "nextStep": "Randy: implement the FAQ schema per the SharePoint guide (one FAQPage block per page, full Q sets).",
    "updates": [
     {
      "date": "2026-10-13",
@@ -263,7 +264,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -274,7 +275,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoid6articleschemaimplementationgu.vercel.app/"
    },
-   "nextStep": "Rob follows up with Randy using 10/13 live-check findings.",
+   "nextStep": "Randy: implement Article schema per the SharePoint guide (fix \"transit@twc.com\"/\"MediaMngr\" authors, TechArticle types).",
    "updates": [
     {
      "date": "2026-10-13",
@@ -323,7 +324,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob done (logo and description updated, TIMS removed). Public-page check Fri 10/16.",
+   "nextStep": "B Dub: public-page check Fri 10/16 that the new logo and description show (no TIMS).",
    "doneNote": "10/13: account verified 2:47 PM ET, LinkedIn connected; Rob saved the MoT edits ~3:10 PM ET.",
    "updates": [
     {
@@ -438,7 +439,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -449,7 +450,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://uemhubconsolidationtellenniumseoact.vercel.app/"
    },
-   "nextStep": "Waiting on Randy for UEM redirect",
+   "nextStep": "Randy: copy the PDF form to the UEM hub, then 301 the old UEM Guide (R-003).",
    "updates": [
     {
      "date": "2026-10-12",
@@ -479,19 +480,19 @@
    "status": "Waiting",
    "light": "yellow",
    "parties": {
-    "rob": "na",
+    "rob": "open",
     "randy": "na",
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Steve / Ed Green",
+   "waitingOn": "Rob (when to ask Steve/Ed)",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Waiting on Steve/Ed for roundup outreach",
+   "nextStep": "Rob: decide when to send Steve/Ed the company blurb and calilio fix for roundup outreach.",
    "updates": [
     {
      "date": "2026-10-09",
@@ -552,7 +553,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -563,7 +564,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-id-12.vercel.app/"
    },
-   "nextStep": "Waiting on Randy to add audit links",
+   "nextStep": "Randy: add the audit-guide links on the TEM Guide and service page.",
    "updates": [
     {
      "date": "2026-10-12",
@@ -600,7 +601,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -611,7 +612,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-13v2.vercel.app/"
    },
-   "nextStep": "Waiting on Randy to add inbound links",
+   "nextStep": "Randy: add the inbound links from the TEM Guide and service page.",
    "updates": [
     {
      "date": "2026-10-12",
@@ -642,7 +643,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -653,7 +654,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-14.vercel.app/"
    },
-   "nextStep": "Waiting on Randy for outsourcing redirect",
+   "nextStep": "Randy: 301 the old outsourced-TEM article to the 2026 decision framework (R-002).",
    "updates": [
     {
      "date": "2026-10-12",
@@ -685,7 +686,7 @@
    "parties": {
     "rob": "na",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "open",
     "dev": "waiting"
    },
    "waitingOn": "Steve names the Dev (Wed 10/14)",
@@ -695,7 +696,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve names developer Wed 10/14",
+   "nextStep": "Steve: name the developer; then Dev works the redirect worksheet.",
    "updates": [
     {
      "date": "2026-10-12",
@@ -727,7 +728,7 @@
    "parties": {
     "rob": "na",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "open",
     "dev": "waiting"
    },
    "waitingOn": "Steve names the Dev (Wed 10/14)",
@@ -737,7 +738,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve names developer Wed 10/14",
+   "nextStep": "Steve: name the developer; then Dev picks up this item.",
    "updates": [
     {
      "date": "2026-10-12",
@@ -768,7 +769,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -779,7 +780,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://uemsaasclustertellenniumseoaction17.vercel.app/"
    },
-   "nextStep": "B Dub checks live site once Randy confirms.",
+   "nextStep": "Randy: make the 10/14 SaaS Guide, ID13 and overspend-article fixes; then B Dub checks live.",
    "updates": [
     {
      "date": "2026-10-13",
@@ -858,7 +859,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "waiting"
    },
@@ -869,7 +870,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1790797144264&OR=EXCEL%2DWEB%2EBODY%2ENT&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-item-18.vercel.app/"
    },
-   "nextStep": "Waiting on Randy for link and CTA",
+   "nextStep": "Randy: add the calculator link sentence and check the Calculate ROI button (R-005).",
    "updates": [
     {
      "date": "2026-10-12",
@@ -907,7 +908,7 @@
    "parties": {
     "rob": "done",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "open",
     "dev": "waiting"
    },
    "waitingOn": "Steve",
@@ -917,7 +918,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Waiting on Steve for Search Console exports",
+   "nextStep": "Steve: send the Search Console / SEMrush exports.",
    "updates": [
     {
      "date": "2026-10-13",
@@ -960,7 +961,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -971,7 +972,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1790797144264&OR=EXCEL%2DWEB%2EBODY%2ENT&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-20managed-telecom-svcs.vercel.app/"
    },
-   "nextStep": "B Dub checks live site once Randy confirms.",
+   "nextStep": "Randy: build /managed-telecom-services/ from the SEO Item 20 copy; then B Dub checks live.",
    "updates": [
     {
      "date": "2026-10-14",
@@ -1602,7 +1603,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Developer updates service page schema (via Steve)",
+   "nextStep": "Steve: pass to the developer; Dev updates the service page schema.",
    "updates": [
     {
      "date": "2026-10-13",
@@ -1650,7 +1651,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob: rewrite service page H2s and intro",
+   "nextStep": "Rob: second pass on the TEM service page (phrase in two H2s plus intro, trim SaaS/utility/ServiceNow blocks, alt text, anchors).",
    "updates": [
     {
      "date": "2026-10-12",
@@ -1664,7 +1665,8 @@
      "text": "Steve added this item to the tracker (follow-up to #4); Rob, due Oct 23.",
      "verified": true
     }
-   ]
+   ],
+   "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both."
   },
   {
    "id": "34",
@@ -1692,7 +1694,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Developer fixes two menu links (via Steve)",
+   "nextStep": "Steve: pass to the developer; Dev fixes the two menu links.",
    "updates": [
     {
      "date": "2026-10-13",
@@ -1740,7 +1742,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob: retarget two blog posts, add links",
+   "nextStep": "Rob: add one link from each post to the TEM service page and check both meta descriptions.",
    "updates": [
     {
      "date": "2026-10-14",
@@ -1777,7 +1779,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "waiting",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -1817,7 +1819,7 @@
    ]
   }
  ],
- "lastUpdated": "2026-10-15 4:00 PM ET",
+ "lastUpdated": "2026-10-15 4:10 PM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026"
 }
