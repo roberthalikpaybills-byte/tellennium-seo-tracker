@@ -1017,22 +1017,22 @@
    "due": "Sep 11",
    "week": "Wk 11 (Sep 8-12)",
    "sheetStatus": "Not started",
-   "status": "Waiting",
+   "status": "In progress",
    "light": "yellow",
    "parties": {
-    "rob": "na",
+    "rob": "working",
     "randy": "na",
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "G2 (Bhuvi Gaikwad): named owner for Capterra listing fix",
+   "waitingOn": "",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob escalated 10/13 1:06 PM ET (cc Shawn). If no answer by Thu 10/15, Shawn pushes. G2 launching combined G2/Capterra/Software Advice/GetApp suite in November.",
+   "nextStep": "Rob has G2 vendor access (10/15): change /TIMS/ slug to Management of Things, update listing copy, make searchable as Tellennium.",
    "updates": [
     {
      "date": "2026-10-13",
@@ -1341,22 +1341,22 @@
    "due": "Oct 16",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
-   "status": "Waiting",
+   "status": "In progress",
    "light": "yellow",
    "parties": {
-    "rob": "na",
+    "rob": "working",
     "randy": "na",
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "G2 (Bhuvi Gaikwad): named owner for Capterra listing fix",
+   "waitingOn": "",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob escalated 10/13 1:06 PM ET (cc Shawn). If no answer by Thu 10/15, Shawn pushes. G2 launching combined G2/Capterra/Software Advice/GetApp suite in November.",
+   "nextStep": "Rob has G2 vendor access (10/15): change /TIMS/ slug to Management of Things, update listing copy, make searchable as Tellennium.",
    "updates": [
     {
      "date": "2026-10-13",
