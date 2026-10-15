@@ -316,14 +316,14 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "",
+   "waitingOn": "Public-page check Fri 10/16",
    "verified": "Saved by Rob 10/13 3:10 PM; public page not yet confirmed (bot-blocked/caching)",
-   "sheetDiff": "Sheet says In progress; Rob's part done, waiting on Crunchbase/G2.",
+   "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob done (TIMS removed). Public-page check Fri 10/16.",
+   "nextStep": "Rob done (logo and description updated, TIMS removed). Public-page check Fri 10/16.",
    "doneNote": "10/13: account verified 2:47 PM ET, LinkedIn connected; Rob saved the MoT edits ~3:10 PM ET.",
    "updates": [
     {
@@ -1022,23 +1022,29 @@
    "due": "Sep 11",
    "week": "Wk 11 (Sep 8-12)",
    "sheetStatus": "Not started",
-   "status": "Waiting",
+   "status": "In progress",
    "light": "yellow",
    "parties": {
     "rob": "done",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "G2: M&A case #00645739 (seller name to Tellennium, an OPTRIC company), check ~10/20",
+   "waitingOn": "Greg / Shawn (reviews via NPS survey); G2 case #00645739 for seller name \"Tellennium, an OPTRIC company\" (~10/20)",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve 10/15: reassigned to Greg and Shawn; review requests now tied to the NPS survey. (G2 listing fix: Rob done, case #00645739 waiting on G2 ~10/20.)",
+   "nextStep": "Greg and Shawn run review requests through the NPS survey. G2 listing: Rob filed M&A case #00645739; waiting on G2 (~10/20).",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Steve: reassigned to Greg and Shawn; review requests now tied to the NPS survey. G2 listing case #00645739 filed by Rob, waiting on G2 (~10/20).",
+     "verified": true
+    },
     {
      "date": "2026-10-13",
      "time": "6:36 PM",
@@ -1083,15 +1089,21 @@
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Ed (next article with links back to the site)",
+   "waitingOn": "Ed (next article with links back to the site; slow)",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve 10/15: working with Ed on next article for links back to the site; may not point to the TEM Guide specifically. Ball in Ed's court.",
+   "nextStep": "Steve working with Ed on the next article for links back to the site; may not point to this page specifically. In Ed's court, slow.",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Steve: working with Ed on the next article for links back to the site; may not go to this page specifically. In Ed's court, slow.",
+     "verified": true
+    },
     {
      "date": "2026-10-13",
      "time": "6:36 PM",
@@ -1130,15 +1142,21 @@
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Ed (next article with links back to the site)",
+   "waitingOn": "Ed (next article with links back to the site; slow)",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve 10/15: same as #22, working with Ed on next article for links back; may not point to this page specifically. Ball in Ed's court.",
+   "nextStep": "Steve working with Ed on the next article for links back to the site; may not point to this page specifically. In Ed's court, slow.",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Steve: working with Ed on the next article for links back to the site; may not go to this page specifically. In Ed's court, slow.",
+     "verified": true
+    },
     {
      "date": "2026-10-13",
      "time": "6:36 PM",
@@ -1170,22 +1188,28 @@
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
    "status": "On hold",
-   "light": "yellow",
+   "light": "gray",
    "parties": {
     "rob": "na",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "hold",
     "dev": "na"
    },
-   "waitingOn": "Enough unbiased third-party coverage for Wikipedia standards",
+   "waitingOn": "Enough unbiased third-party articles for Wikipedia",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve 10/15: perpetual hold until there is enough unbiased third-party coverage to meet Wikipedia standards.",
+   "nextStep": "Perpetual hold until there are enough unbiased articles to meet Wikipedia standards.",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Steve: perpetual hold until there are enough unbiased articles for Wikipedia.",
+     "verified": true
+    },
     {
      "date": "2026-10-12",
      "time": "",
@@ -1218,15 +1242,21 @@
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Ed (next article with links back to the site)",
+   "waitingOn": "Ed (next article with links back to the site; slow)",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve 10/15: same as #22, working with Ed on links back; slow process.",
+   "nextStep": "Steve working with Ed on the next article for links back to the site; may not point to this page specifically. In Ed's court, slow.",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Steve: working with Ed on the next article for links back to the site; may not go to this page specifically. In Ed's court, slow.",
+     "verified": true
+    },
     {
      "date": "2026-10-12",
      "time": "",
@@ -1259,15 +1289,21 @@
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Ed (next article with links back to the site)",
+   "waitingOn": "Ed (next article with links back to the site; slow)",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve 10/15: same as #22, working with Ed on links back; slow process.",
+   "nextStep": "Steve working with Ed on the next article for links back to the site; may not point to this page specifically. In Ed's court, slow.",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Steve: working with Ed on the next article for links back to the site; may not go to this page specifically. In Ed's court, slow.",
+     "verified": true
+    },
     {
      "date": "2026-10-12",
      "time": "",
@@ -1291,24 +1327,30 @@
    "owner": "Steve",
    "due": "Dec",
    "week": "Wk 14+ (Oct)",
-   "sheetStatus": "In progress",
+   "sheetStatus": "On hold",
    "status": "On hold",
-   "light": "yellow",
+   "light": "gray",
    "parties": {
     "rob": "na",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "hold",
     "dev": "na"
    },
-   "waitingOn": "Steve",
+   "waitingOn": "December",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve 10/15: pushed back to December.",
+   "nextStep": "Pushed to December.",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Steve: podcasts pushed to December.",
+     "verified": true
+    },
     {
      "date": "2026-10-12",
      "time": "",
@@ -1339,7 +1381,7 @@
     "rob": "na",
     "randy": "ongoing",
     "steve": "na",
-    "dev": "waiting"
+    "dev": "na"
    },
    "waitingOn": "",
    "verified": "",
@@ -1350,6 +1392,12 @@
    },
    "nextStep": "Steve 10/15: Randy runs the periodic SEMrush toxic-link disavow. Confirm with Randy when last run.",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Steve: Randy owns the periodic SEMrush toxic-link disavow (ongoing).",
+     "verified": true
+    },
     {
      "date": "2026-10-13",
      "time": "6:36 PM",
@@ -1382,7 +1430,7 @@
    "action": "NEW (M5): Expand review-platform coverage and drive review volume.",
    "howTo": "1) Claim and complete profiles on G2, Capterra, TrustRadius, GetApp and Software Advice (in addition to Gartner Peer Insights, action 21).\n2) With Greg, request reviews from satisfied clients.\n3) Target 15-20 reviews on the priority platforms (currently 3 on Gartner). Review volume is an AI entity signal.\nDone when: profiles complete and review volume climbing toward target.",
    "page": "G2 / Capterra / TrustRadius / GetApp / Software Advice",
-   "owner": "Steve / Greg",
+   "owner": "Rob",
    "due": "Oct 16",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
@@ -1391,18 +1439,24 @@
    "parties": {
     "rob": "done",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "G2: M&A case #00645739 (seller name to Tellennium, an OPTRIC company), check ~10/20",
+   "waitingOn": "G2: case #00645739 (seller name \"Tellennium, an OPTRIC company\"), check ~10/20",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob done 10/15: G2 case #00645739 + email to support. Waiting on G2 (~10/20). Low priority: G2 description, screenshot, pricing. Capterra/GetApp/Software Advice PARKED: vendor login failed; ask G2 if case carries over, or raise with Bhuvi.",
+   "nextStep": "Rob done 10/15: G2 access plus case #00645739. Waiting on G2 (~10/20). Capterra, GetApp and Software Advice parked: vendor login failed; ask G2 whether the case carries over.",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Rob: G2 access confirmed and case #00645739 filed. Capterra/GetApp/Software Advice parked (vendor login failed); ask G2 whether the case carries over.",
+     "verified": false
+    },
     {
      "date": "2026-10-13",
      "time": "6:36 PM",
@@ -1435,7 +1489,7 @@
    "action": "NEW (M5): Brand-mention reclamation.",
    "howTo": "1) Search 'Tellennium' across DR 30+ sites for mentions without a link (SEMrush / Google).\n2) Request a link on each.\n3) Contact calilio.com to correct the misspelled 'Tellenium' roundup listing and add a link.\nDone when: outreach sent on all found mentions and calilio listing corrected.",
    "page": "Unlinked brand mentions; calilio.com",
-   "owner": "Steve / Ed Green",
+   "owner": "Steve",
    "due": "Oct 23",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
@@ -1454,8 +1508,14 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve 10/15: starting research on sites that list Tellennium without a link, then outreach.",
+   "nextStep": "Steve starting research on sites that list Tellennium without a link, then outreach.",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Steve: starting research on sites listing Tellennium without a link, then outreach.",
+     "verified": true
+    },
     {
      "date": "2026-10-09",
      "time": "",
@@ -1495,8 +1555,14 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve 10/15: in process with Loganix; strategy adjusted in real time from market and SEO metrics.",
+   "nextStep": "In process with Loganix; Steve adjusts strategy in real time from market and SEO metrics.",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "",
+     "text": "Steve: in process with Loganix; strategy adjusted in real time from market and SEO metrics.",
+     "verified": true
+    },
     {
      "date": "2026-10-12",
      "time": "",
@@ -1751,7 +1817,7 @@
    ]
   }
  ],
- "lastUpdated": "2026-10-15 3:55 PM ET",
+ "lastUpdated": "2026-10-15 4:00 PM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026"
 }
