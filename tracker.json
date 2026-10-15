@@ -80,7 +80,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Spot check",
+   "waitingOn": "B Dub",
    "verified": "",
    "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
    "links": {
@@ -317,7 +317,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Public-page check Fri 10/16",
+   "waitingOn": "B Dub (Fri 10/16)",
    "verified": "Saved by Rob 10/13 3:10 PM; public page not yet confirmed (bot-blocked/caching)",
    "sheetDiff": "",
    "links": {
@@ -485,7 +485,7 @@
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Rob (when to ask Steve/Ed)",
+   "waitingOn": "Rob",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -689,7 +689,7 @@
     "steve": "open",
     "dev": "waiting"
    },
-   "waitingOn": "Steve names the Dev (Wed 10/14)",
+   "waitingOn": "Steve, then Dev",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -731,7 +731,7 @@
     "steve": "open",
     "dev": "waiting"
    },
-   "waitingOn": "Steve names the Dev (Wed 10/14)",
+   "waitingOn": "Steve, then Dev",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1031,7 +1031,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Greg / Shawn (reviews via NPS survey); G2 case #00645739 for seller name \"Tellennium, an OPTRIC company\" (~10/20)",
+   "waitingOn": "Greg / Shawn · G2 (~10/20)",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1090,7 +1090,7 @@
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Ed (next article with links back to the site; slow)",
+   "waitingOn": "Ed",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1143,7 +1143,7 @@
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Ed (next article with links back to the site; slow)",
+   "waitingOn": "Ed",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1196,7 +1196,7 @@
     "steve": "hold",
     "dev": "na"
    },
-   "waitingOn": "Enough unbiased third-party articles for Wikipedia",
+   "waitingOn": "On hold",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1243,7 +1243,7 @@
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Ed (next article with links back to the site; slow)",
+   "waitingOn": "Ed",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1290,7 +1290,7 @@
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Ed (next article with links back to the site; slow)",
+   "waitingOn": "Ed",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1337,7 +1337,7 @@
     "steve": "hold",
     "dev": "na"
    },
-   "waitingOn": "December",
+   "waitingOn": "On hold (Dec)",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1384,7 +1384,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "",
+   "waitingOn": "Randy (ongoing)",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1443,7 +1443,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "G2: case #00645739 (seller name \"Tellennium, an OPTRIC company\"), check ~10/20",
+   "waitingOn": "G2 (~10/20)",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1502,7 +1502,7 @@
     "steve": "working",
     "dev": "na"
    },
-   "waitingOn": "",
+   "waitingOn": "Steve",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1549,7 +1549,7 @@
     "steve": "working",
     "dev": "na"
    },
-   "waitingOn": "",
+   "waitingOn": "Steve",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1596,7 +1596,7 @@
     "steve": "open",
     "dev": "waiting"
    },
-   "waitingOn": "Dev via Steve",
+   "waitingOn": "Steve / Dev",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1644,7 +1644,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "",
+   "waitingOn": "Rob",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1687,7 +1687,7 @@
     "steve": "open",
     "dev": "waiting"
    },
-   "waitingOn": "Dev via Steve",
+   "waitingOn": "Steve / Dev",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1735,7 +1735,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "",
+   "waitingOn": "Rob",
    "verified": "",
    "sheetDiff": "",
    "links": {
@@ -1819,7 +1819,7 @@
    ]
   }
  ],
- "lastUpdated": "2026-10-15 4:10 PM ET",
+ "lastUpdated": "2026-10-15 4:20 PM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026"
 }
