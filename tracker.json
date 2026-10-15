@@ -1065,7 +1065,7 @@
    "due": "Oct 9",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
-   "status": "Waiting",
+   "status": "In progress",
    "light": "yellow",
    "parties": {
     "rob": "na",
@@ -1073,14 +1073,14 @@
     "steve": "waiting",
     "dev": "na"
    },
-   "waitingOn": "Steve / Ed Green",
+   "waitingOn": "Ed (next article with links back to the site)",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve/Ed status check Fri 10/16",
+   "nextStep": "Steve 10/15: working with Ed on next article for links back to the site; may not point to the TEM Guide specifically. Ball in Ed's court.",
    "updates": [
     {
      "date": "2026-10-13",
