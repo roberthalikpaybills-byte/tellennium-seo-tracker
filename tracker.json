@@ -107,11 +107,7 @@
      "text": "Implementation record v1.0: QA passed July 16, 2026.",
      "verified": true
     }
-   ],
-   "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+   ]
   },
   {
    "id": "3",
@@ -147,11 +143,7 @@
      "text": "Partial live check; missing audit and Solutions Compared links tracked under #12 and #13.",
      "verified": true
     }
-   ],
-   "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+   ]
   },
   {
    "id": "4",
@@ -267,11 +259,7 @@
      "verified": false
     }
    ],
-   "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy.",
-   "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+   "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy."
   },
   {
    "id": "6",
@@ -326,11 +314,7 @@
      "verified": false
     }
    ],
-   "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy.",
-   "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+   "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy."
   },
   {
    "id": "7",
@@ -417,10 +401,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
+    "date": "2026-10-14",
+    "by": "Rob"
    },
-   "updateText": "#7 Crunchbase logo and description updated; public-page check Fri."
+   "updateText": "#7 Rob updated Crunchbase logo and full description (TIMS and old claims removed)."
   },
   {
    "id": "8",
@@ -462,11 +446,7 @@
      "text": "Closed in the Sep 2 close-out (noindex audit done; no Randy work).",
      "verified": true
     }
-   ],
-   "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+   ]
   },
   {
    "id": "9",
@@ -516,9 +496,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+    "date": "2026-10-08",
+    "by": "Rob"
+   },
+   "updateText": "#9 Rob sent Randy R-003: copy the PDF form to the UEM hub, then 301 the Guide. On hold while Randy is out sick."
   },
   {
    "id": "10",
@@ -590,11 +571,7 @@
      "text": "Live spot check: Buyer's Guide block present.",
      "verified": true
     }
-   ],
-   "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+   ]
   },
   {
    "id": "12",
@@ -734,9 +711,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+    "date": "2026-10-08",
+    "by": "Rob"
+   },
+   "updateText": "#14 Rob sent Randy R-002: 301 the old article to the 2026 decision framework. On hold while Randy is out sick."
   },
   {
    "id": "15",
@@ -780,9 +758,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+    "date": "2026-10-12",
+    "by": "Rob"
+   },
+   "updateText": "#15 Rob asks Steve Wed 10/14 to name the developer."
   },
   {
    "id": "16",
@@ -826,9 +805,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+    "date": "2026-10-12",
+    "by": "Rob"
+   },
+   "updateText": "#16 Rob asks Steve Wed 10/14 to name the developer."
   },
   {
    "id": "17",
@@ -974,9 +954,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+    "date": "2026-10-08",
+    "by": "Rob"
+   },
+   "updateText": "#18 Rob re-sent Randy R-005 (calculator link + Calculate ROI button check). On hold."
   },
   {
    "id": "19",
@@ -1038,9 +1019,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+    "date": "2026-10-13",
+    "by": "Rob"
+   },
+   "updateText": "#19 Rob scheduled check-in note to Steve for Wed 10/14 10:00 AM ET (includes the Search Console / SEMrush exports)"
   },
   {
    "id": "20",
@@ -1163,9 +1145,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Steve"
    },
-   "updateText": "#21 G2/Gartner review requests reassigned to Greg and Shawn, tied to the NPS survey."
+   "updateText": "#21 reassigned to Greg and Shawn; review requests now tied to the NPS survey. G2 listing case #00645739 filed by R"
   },
   {
    "id": "22",
@@ -1216,9 +1198,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Steve"
    },
-   "updateText": "#22 working with Ed on the next article for links back to the site."
+   "updateText": "#22 working with Ed on the next article for links back to the site; may not go to this page specifically. In Ed's "
   },
   {
    "id": "23",
@@ -1269,9 +1251,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Steve"
    },
-   "updateText": "#23 same as #22, links back via Ed's next article."
+   "updateText": "#23 working with Ed on the next article for links back to the site; may not go to this page specifically. In Ed's "
   },
   {
    "id": "24",
@@ -1316,9 +1298,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Steve"
    },
-   "updateText": "#24 Wikipedia on hold until there is enough third-party coverage."
+   "updateText": "#24 perpetual hold until there are enough unbiased articles for Wikipedia."
   },
   {
    "id": "25",
@@ -1363,9 +1345,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Steve"
    },
-   "updateText": "#25 links back via Ed; slow process."
+   "updateText": "#25 working with Ed on the next article for links back to the site; may not go to this page specifically. In Ed's "
   },
   {
    "id": "26",
@@ -1410,9 +1392,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Steve"
    },
-   "updateText": "#26 links back via Ed; slow process."
+   "updateText": "#26 working with Ed on the next article for links back to the site; may not go to this page specifically. In Ed's "
   },
   {
    "id": "27",
@@ -1457,7 +1439,7 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Steve"
    },
    "updateText": "#27 podcasts pushed to December."
   },
@@ -1516,9 +1498,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Steve"
    },
-   "updateText": "#28 Randy runs the periodic SEMrush toxic-link disavow (ongoing)."
+   "updateText": "#28 Randy owns the periodic SEMrush toxic-link disavow (ongoing)."
   },
   {
    "id": "29",
@@ -1575,9 +1557,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Rob"
    },
-   "updateText": "#21/#29 G2 seller-name case #00645739 filed; waiting on G2 (~10/20)."
+   "updateText": "#29 G2 access confirmed and case #00645739 filed. Capterra/GetApp/Software Advice parked (vendor login failed); as"
   },
   {
    "id": "30",
@@ -1622,9 +1604,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Steve"
    },
-   "updateText": "#30 starting research on sites that list Tellennium without a link, then outreach."
+   "updateText": "#30 starting research on sites listing Tellennium without a link, then outreach."
   },
   {
    "id": "31",
@@ -1669,9 +1651,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-15",
-    "by": "B Dub"
+    "by": "Steve"
    },
-   "updateText": "#31 backlink program in process with Loganix."
+   "updateText": "#31 in process with Loganix; strategy adjusted in real time from market and SEO metrics."
   },
   {
    "id": "32",
@@ -1721,9 +1703,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+    "date": "2026-10-13",
+    "by": "Rob"
+   },
+   "updateText": "#32 Rob scheduled check-in note to Steve for Wed 10/14 10:00 AM ET."
   },
   {
    "id": "33",
@@ -1816,9 +1799,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "B Dub"
-   }
+    "date": "2026-10-13",
+    "by": "Rob"
+   },
+   "updateText": "#34 Rob scheduled check-in note to Steve for Wed 10/14 10:00 AM ET."
   },
   {
    "id": "35",
@@ -1942,5 +1926,137 @@
  ],
  "lastUpdated": "2026-10-15 4:42 PM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
- "banner": "Updates log backfilled for all 36 items, Oct 13, 2026"
+ "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
+ "systemUpdates": [
+  {
+   "date": "2026-10-15",
+   "id": "2",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "3",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "5",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "6",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "7",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "8",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "9",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "11",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "14",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "15",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "16",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "18",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "19",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "21",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "22",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "23",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "24",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "25",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "26",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "27",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "28",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "29",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "30",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "31",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "32",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  },
+  {
+   "date": "2026-10-15",
+   "id": "34",
+   "text": "Next Up / Next step / status labels aligned to tracker rules."
+  }
+ ]
 }
