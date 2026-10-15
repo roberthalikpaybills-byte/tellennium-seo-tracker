@@ -1013,7 +1013,7 @@
    "action": "Request Gartner Peer Insights and G2 reviews from satisfied clients.",
    "howTo": "1) Identify satisfied clients with Greg.\n2) Send Gartner Peer Insights and G2 review links.\n3) Target +5 each near-term, building toward 15-20 each (Tangoe/Calero have hundreds; we have 3). Review volume is an AI entity signal.\nDone when: at least 5 new reviews on each platform.",
    "page": "gartner.com / g2.com vendor profiles",
-   "owner": "Steve / Greg",
+   "owner": "Greg / Shawn",
    "due": "Sep 11",
    "week": "Wk 11 (Sep 8-12)",
    "sheetStatus": "Not started",
@@ -1032,7 +1032,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob done 10/15: G2 case #00645739 + email to support. Waiting on G2 (~10/20). Low priority: G2 description, screenshot, pricing. Capterra/GetApp/Software Advice PARKED: vendor login failed; ask G2 if case carries over, or raise with Bhuvi.",
+   "nextStep": "Steve 10/15: reassigned to Greg and Shawn; review requests now tied to the NPS survey. (G2 listing fix: Rob done, case #00645739 waiting on G2 ~10/20.)",
    "updates": [
     {
      "date": "2026-10-13",
