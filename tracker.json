@@ -506,7 +506,7 @@
    "phase": "August",
    "priority": "HIGH",
    "action": "Submit Tellennium for inclusion in the 2026 TEM/MMS buyer's-guide roundups AI cites.",
-   "howTo": "Outreach to get Tellennium correctly listed in the roundups AI synthesizes: calilio.com, convertermax.com, projectmanagers.net, sociumit.com, lightyear.ai.\n1) First, contact calilio.com to correct the misspelled 'Tellenium' listing.\n2) Send each a short accurate blurb (services, MoT, Gartner/AOTMP recognition) and a logo.\nDone when: Tellennium is correctly listed in at least 3 roundups.",
+   "howTo": "com, convertermax.com, projectmanagers.net, sociumit.com, lightyear.ai.\ncom to correct the misspelled 'Tellenium' listing.\n2) Send each a short accurate blurb (services, MoT, Gartner/AOTMP recognition) and a logo.\nDone when: Tellennium is correctly listed in at least 3 roundups.",
    "page": "Target roundup publications\nGoal: AI citations + referral links",
    "owner": "Steve / Ed Green",
    "due": "Aug 7",
@@ -515,27 +515,38 @@
    "status": "Waiting",
    "light": "yellow",
    "parties": {
-    "rob": "open",
+    "rob": "done",
     "randy": "na",
-    "steve": "waiting",
+    "steve": "open",
     "dev": "na"
    },
-   "waitingOn": "Rob",
+   "waitingOn": "Steve / Ed",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob: decide when to send Steve/Ed the company blurb and calilio fix for roundup outreach.",
+   "nextStep": "Steve/Ed: use the blurb in roundup pitches; decide whether to send the Lightyear correction (draft available).",
    "updates": [
+    {
+     "date": "2026-10-15",
+     "time": "4:59 PM",
+     "text": "10/15: Rob sent blurb to Steve",
+     "verified": true
+    },
     {
      "date": "2026-10-09",
      "time": "",
-     "text": "Company blurb and calilio fix drafted for Steve; nothing sent. Rob decides when to ask.",
+     "text": "Company blurb drafted for Steve; nothing sent. Rob decides when to ask.",
      "verified": false
     }
-   ]
+   ],
+   "lastUpdate": {
+    "date": "2026-10-15",
+    "by": "Rob"
+   },
+   "updateText": "#10 company blurb sent to Steve; Lightyear correction available if Steve wants it."
   },
   {
    "id": "11",
@@ -1924,7 +1935,7 @@
    "updateText": "#36 TEM Guide title/meta marked done via form."
   }
  ],
- "lastUpdated": "2026-10-15 4:42 PM ET",
+ "lastUpdated": "2026-10-15 5:02 PM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
  "systemUpdates": [
