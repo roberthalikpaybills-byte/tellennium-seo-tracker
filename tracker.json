@@ -72,7 +72,7 @@
    "due": "Jul 11",
    "week": "Wk 02 (Jul 7-11)",
    "sheetStatus": "Done",
-   "status": "Verify complete",
+   "status": "Verify Complete",
    "light": "vgreen",
    "parties": {
     "rob": "done",
@@ -80,7 +80,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Rob/B Dub (verify)",
+   "waitingOn": "Verify Complete · Rob/B Dub",
    "verified": "",
    "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
    "links": {
@@ -124,7 +124,7 @@
    "due": "Jul 18",
    "week": "Wk 03 (Jul 14-18)",
    "sheetStatus": "Done",
-   "status": "Verify complete",
+   "status": "Verify Complete",
    "light": "vgreen",
    "parties": {
     "rob": "done",
@@ -132,7 +132,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Rob/B Dub (verify)",
+   "waitingOn": "Verify Complete · Rob/B Dub",
    "verified": "2026-10-08: partial live check",
    "sheetDiff": "",
    "links": {
@@ -343,7 +343,7 @@
    "due": "Jul 11",
    "week": "Wk 02 (Jul 7-11)",
    "sheetStatus": "In progress",
-   "status": "Verify complete",
+   "status": "Verify Complete",
    "light": "vgreen",
    "parties": {
     "rob": "done",
@@ -351,7 +351,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Rob/B Dub (verify)",
+   "waitingOn": "Verify Complete · Rob/B Dub",
    "verified": "Saved by Rob 10/13 3:10 PM; public page not yet confirmed (bot-blocked/caching)",
    "sheetDiff": "",
    "links": {
@@ -433,7 +433,7 @@
    "due": "Jul 18",
    "week": "Wk 03 (Jul 14-18)",
    "sheetStatus": "Done",
-   "status": "Verify complete",
+   "status": "Verify Complete",
    "light": "vgreen",
    "parties": {
     "rob": "done",
@@ -441,7 +441,7 @@
     "steve": "na",
     "dev": "done"
    },
-   "waitingOn": "Rob/B Dub (verify)",
+   "waitingOn": "Verify Complete · Rob/B Dub",
    "verified": "",
    "sheetDiff": "",
    "links": {
