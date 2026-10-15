@@ -73,7 +73,7 @@
    "week": "Wk 02 (Jul 7-11)",
    "sheetStatus": "Done",
    "status": "Verify complete",
-   "light": "yellow",
+   "light": "vgreen",
    "parties": {
     "rob": "done",
     "randy": "na",
@@ -125,7 +125,7 @@
    "week": "Wk 03 (Jul 14-18)",
    "sheetStatus": "Done",
    "status": "Verify complete",
-   "light": "green",
+   "light": "vgreen",
    "parties": {
     "rob": "done",
     "randy": "na",
@@ -344,7 +344,7 @@
    "week": "Wk 02 (Jul 7-11)",
    "sheetStatus": "In progress",
    "status": "Verify complete",
-   "light": "yellow",
+   "light": "vgreen",
    "parties": {
     "rob": "done",
     "randy": "na",
@@ -434,7 +434,7 @@
    "week": "Wk 03 (Jul 14-18)",
    "sheetStatus": "Done",
    "status": "Verify complete",
-   "light": "green",
+   "light": "vgreen",
    "parties": {
     "rob": "done",
     "randy": "na",
