@@ -481,11 +481,11 @@
    "due": "Jul 25",
    "week": "Wk 04 (Jul 21-25)",
    "sheetStatus": "Done",
-   "status": "Waiting",
-   "light": "yellow",
+   "status": "Rob to do",
+   "light": "red",
    "parties": {
     "rob": "open",
-    "randy": "open",
+    "randy": "waiting",
     "steve": "na",
     "dev": "na"
    },
