@@ -171,7 +171,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "na",
+    "randy": "open",
     "steve": "open",
     "dev": "na"
    },
@@ -182,7 +182,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoactionitem4temservicepageimpleme.vercel.app/"
    },
-   "nextStep": "Steve: run the live URL test on /telecom-expense-management/ (first paragraph still says TEM services; see #33).",
+   "nextStep": "Steve: run the live URL test on /telecom-expense-management/ (first paragraph still says TEM services; see #33). Randy implements the intro fix with #33.",
    "updates": [
     {
      "date": "2026-10-13",
@@ -443,7 +443,7 @@
    "light": "vgreen",
    "parties": {
     "rob": "done",
-    "randy": "na",
+    "randy": "done",
     "steve": "na",
     "dev": "done"
    },
@@ -1024,7 +1024,7 @@
    "light": "yellow",
    "parties": {
     "rob": "done",
-    "randy": "na",
+    "randy": "open",
     "steve": "open",
     "dev": "waiting"
    },
@@ -1035,7 +1035,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Steve: send the Search Console / SEMrush exports.",
+   "nextStep": "Steve: send the Search Console / SEMrush exports; then Randy makes any page fixes.",
    "updates": [
     {
      "date": "2026-10-15",
@@ -1974,10 +1974,15 @@
    "updateText": "#36 TEM Guide title/meta marked done via form."
   }
  ],
- "lastUpdated": "2026-10-16 9:00 AM ET",
+ "lastUpdated": "2026-10-16 9:02 AM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
  "systemUpdates": [
+  {
+   "date": "2026-10-16",
+   "id": "4, 8, 19",
+   "text": "Rule applied (Rob involved means Randy involved): #4 Randy Open (intro fix rides with #33); #19 Randy Open (Next Up stays Steve, exports first); #8 Randy Done (Verify Complete). Exceptions left N/A (non-site work): #7, #10, #21, #29."
+  },
   {
    "date": "2026-10-16",
    "id": "33, 35, 2, 3",
