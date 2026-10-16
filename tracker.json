@@ -18,23 +18,29 @@
    "due": "Jul 11",
    "week": "Wk 02 (Jul 7-11)",
    "sheetStatus": "Done",
-   "status": "Waiting",
-   "light": "yellow",
+   "status": "Verify Complete",
+   "light": "vgreen",
    "parties": {
     "rob": "done",
-    "randy": "open",
+    "randy": "done",
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Randy",
+   "waitingOn": "Verify Complete · Rob/B Dub",
    "verified": "2026-10-08: live text check OK",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-1-what-is-tem-v2.vercel.app/"
    },
-   "nextStep": "Randy: set the Yoast title to \"What Is TEM? Definition and Basics\" (Rob note held for review).",
+   "nextStep": "Rob/B Dub: verify the Yoast title \"What Is TEM? Definition and Basics\" and the typo fix live.",
    "updates": [
+    {
+     "date": "2026-10-16",
+     "time": "7:58–7:59 AM",
+     "text": "10/16: Randy fixed title and spelling error",
+     "verified": false
+    },
     {
      "date": "2026-10-14",
      "time": "10:50 AM",
@@ -59,7 +65,12 @@
      "text": "Sheet: done (Rob), due Jul 11.",
      "verified": false
     }
-   ]
+   ],
+   "lastUpdate": {
+    "date": "2026-10-16",
+    "by": "Randy"
+   },
+   "updateText": "#1 fixed the What Is TEM title and spelling error."
   },
   {
    "id": "2",
@@ -1935,10 +1946,15 @@
    "updateText": "#36 TEM Guide title/meta marked done via form."
   }
  ],
- "lastUpdated": "2026-10-15 5:02 PM ET",
+ "lastUpdated": "2026-10-16 8:00 AM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
  "systemUpdates": [
+  {
+   "date": "2026-10-16",
+   "id": "1",
+   "text": "Live check 8:05 AM: title \"What Is TEM? Definition and Basics - Tellennium\" (fresh page; cached copy still shows old title for now) and \"Managemen t\" typo gone."
+  },
   {
    "date": "2026-10-15",
    "id": "2",
