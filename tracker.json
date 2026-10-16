@@ -484,20 +484,26 @@
    "status": "Waiting",
    "light": "yellow",
    "parties": {
-    "rob": "done",
+    "rob": "open",
     "randy": "open",
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Randy",
+   "waitingOn": "Rob (plain note to Randy)",
    "verified": "",
    "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://uemhubconsolidationtellenniumseoact.vercel.app/"
    },
-   "nextStep": "Randy: copy the PDF form to the UEM hub, then 301 the old UEM Guide (R-003).",
+   "nextStep": "Rob: send Randy a plain note naming the UEM hub target page (/utility-expense-management/ vs /take-control-of-utility-costs-with-proven-uem-expertise/), then Randy copies the PDF form and 301s the old UEM Guide.",
    "updates": [
+    {
+     "date": "2026-10-16",
+     "time": "AM",
+     "text": "10/16: Randy: blog is posted; could not understand the Hub request (R-003).",
+     "verified": true
+    },
     {
      "date": "2026-10-15",
      "time": "",
@@ -518,10 +524,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-08",
-    "by": "Rob"
+    "date": "2026-10-16",
+    "by": "Randy"
    },
-   "updateText": "#9 Rob sent Randy R-003: copy the PDF form to the UEM hub, then 301 the Guide. On hold while Randy is out sick."
+   "updateText": "#9 Randy could not follow the UEM Hub request; needs a plain note."
   },
   {
    "id": "10",
@@ -1968,7 +1974,7 @@
    "updateText": "#36 TEM Guide title/meta marked done via form."
   }
  ],
- "lastUpdated": "2026-10-16 8:28 AM ET",
+ "lastUpdated": "2026-10-16 8:40 AM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
  "systemUpdates": [
@@ -2111,6 +2117,68 @@
    "date": "2026-10-15",
    "id": "34",
    "text": "Next Up / Next step / status labels aligned to tracker rules."
+  }
+ ],
+ "recheck": [
+  {
+   "ref": "#9",
+   "who": "Rob",
+   "text": "UEM hub target unclear (/utility-expense-management/ has a placeholder H1 vs /take-control-of-utility-costs-with-proven-uem-expertise/). Randy could not follow the request.",
+   "next": "Pick the target page and send Randy a plain note."
+  },
+  {
+   "ref": "#17",
+   "who": "Randy",
+   "text": "Overspending article link: 'Strong SaaS management' to /saas-license-management/ (clarified 10/16 8:26 AM).",
+   "next": "Randy adds the link; Rob/B Dub verify live."
+  },
+  {
+   "ref": "#5",
+   "who": "Randy",
+   "text": "FAQ schema partial: TEM Guide still has duplicate FAQ entries (16 for 10 unique); MMS guide schema has 5 of 7 Qs.",
+   "next": "Rob decides whether to send #5 back to Randy for the two remaining fixes."
+  },
+  {
+   "ref": "ID16",
+   "who": "Rob/B Dub",
+   "text": "Randy posted ID16; live check 10/16 found it on tellennium.com (published 7:16 AM).",
+   "next": "Done: marked Published (verified live 10/16)."
+  },
+  {
+   "ref": "R-007",
+   "who": "Rob/B Dub",
+   "text": "SaaS Guide shows four 'Further Reading' headings.",
+   "next": "Visual check on the live Guide, then tell Randy which to keep."
+  },
+  {
+   "ref": "R-006",
+   "who": "Randy",
+   "text": "www security warning still broken.",
+   "next": "Randy fixes the www certificate; Rob/B Dub recheck."
+  },
+  {
+   "ref": "Verify",
+   "who": "Rob/B Dub",
+   "text": "Verify Complete: #1, 2, 3, 5, 7, 8, 36.",
+   "next": "Live checks, then mark each Completed or send back."
+  },
+  {
+   "ref": "#7",
+   "who": "Rob/B Dub",
+   "text": "Crunchbase public page.",
+   "next": "Check the new logo and description show (no TIMS)."
+  },
+  {
+   "ref": "#33",
+   "who": "Rob",
+   "text": "Open question on the FAQ second sentence.",
+   "next": "Rob answers before the second-pass note goes to Randy."
+  },
+  {
+   "ref": "#10",
+   "who": "Rob/B Dub",
+   "text": "The #10 roundup packet blurb still has the old wording.",
+   "next": "Update the packet blurb to the 10/15 wording Rob sent Steve."
   }
  ]
 }
