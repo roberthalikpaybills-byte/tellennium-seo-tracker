@@ -87,7 +87,7 @@
    "light": "vgreen",
    "parties": {
     "rob": "done",
-    "randy": "na",
+    "randy": "done",
     "steve": "na",
     "dev": "na"
    },
@@ -135,7 +135,7 @@
    "light": "vgreen",
    "parties": {
     "rob": "done",
-    "randy": "na",
+    "randy": "done",
     "steve": "na",
     "dev": "na"
    },
@@ -1773,7 +1773,7 @@
    "light": "red",
    "parties": {
     "rob": "open",
-    "randy": "na",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -1784,7 +1784,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob: second pass on the TEM service page (phrase in two H2s plus intro, trim SaaS/utility/ServiceNow blocks, alt text, anchors).",
+   "nextStep": "Rob: second pass on the TEM service page (phrase in two H2s plus intro, trim SaaS/utility/ServiceNow blocks, alt text, anchors); then Randy implements.",
    "updates": [
     {
      "date": "2026-10-12",
@@ -1869,7 +1869,7 @@
    "light": "red",
    "parties": {
     "rob": "open",
-    "randy": "na",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
@@ -1880,7 +1880,7 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob: add one link from each post to the TEM service page and check both meta descriptions.",
+   "nextStep": "Rob: add one link from each post to the TEM service page and check both meta descriptions; then Randy makes the page changes.",
    "updates": [
     {
      "date": "2026-10-14",
@@ -1974,10 +1974,15 @@
    "updateText": "#36 TEM Guide title/meta marked done via form."
   }
  ],
- "lastUpdated": "2026-10-16 8:40 AM ET",
+ "lastUpdated": "2026-10-16 9:00 AM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
  "systemUpdates": [
+  {
+   "date": "2026-10-16",
+   "id": "33, 35, 2, 3",
+   "text": "Rule applied (Randy implements every page change): #33 and #35 Randy chip N/A to Open (after Rob's copy/approval; Next Up stays Rob); #33 Steve and Dev N/A; #2 and #3 Randy N/A to Done (Verify Complete items, page work believed done)."
+  },
   {
    "date": "2026-10-16",
    "id": "5",
