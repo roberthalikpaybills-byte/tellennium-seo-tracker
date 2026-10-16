@@ -228,23 +228,29 @@
    "due": "Jul 18",
    "week": "Wk 03 (Jul 14-18)",
    "sheetStatus": "Done",
-   "status": "Waiting",
-   "light": "yellow",
+   "status": "Verify Complete",
+   "light": "vgreen",
    "parties": {
     "rob": "done",
-    "randy": "open",
+    "randy": "done",
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Randy",
+   "waitingOn": "Verify Complete · Rob/B Dub",
    "verified": "",
    "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoactionitem5faqschemaimplementati.vercel.app/"
    },
-   "nextStep": "Randy: implement the FAQ schema per the SharePoint guide (one FAQPage block per page, full Q sets).",
+   "nextStep": "Rob/B Dub: verify FAQ schema live (10/16 check: TEM Guide still duplicated, MMS guide partial).",
    "updates": [
+    {
+     "date": "2026-10-16",
+     "time": "8:16 AM",
+     "text": "10/16: Randy marked done via form",
+     "verified": false
+    },
     {
      "date": "2026-10-15",
      "time": "",
@@ -270,7 +276,12 @@
      "verified": false
     }
    ],
-   "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy."
+   "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy.",
+   "lastUpdate": {
+    "date": "2026-10-16",
+    "by": "Randy"
+   },
+   "updateText": "#5 FAQ schema marked done via form."
   },
   {
    "id": "6",
@@ -1946,10 +1957,15 @@
    "updateText": "#36 TEM Guide title/meta marked done via form."
   }
  ],
- "lastUpdated": "2026-10-16 8:00 AM ET",
+ "lastUpdated": "2026-10-16 8:26 AM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
  "systemUpdates": [
+  {
+   "date": "2026-10-16",
+   "id": "5",
+   "text": "Live schema check 8:25 AM: TEM service page now one FAQPage block (9 Qs), fixed. TEM Guide still 16 FAQ entries for 10 unique, not fixed. MMS enterprise guide FAQ schema 5 Qs (was 2; target 7), partial. SaaS blogs ID11, ID12, ID13 each one FAQPage block with 5 Qs, clean."
+  },
   {
    "date": "2026-10-16",
    "id": "1",
