@@ -2155,6 +2155,12 @@
    "next": "Once Randy says done: verify the form records, the right PDF downloads, and both 301s."
   },
   {
+   "ref": "About/AI",
+   "who": "Rob/B Dub",
+   "text": "Verify Complete: About page, Why Tellennium and AI page edits (10/16: Randy confirmed in meeting).",
+   "next": "Verify the three pages live, then mark Completed."
+  },
+  {
    "ref": "#17",
    "who": "Randy",
    "text": "Overspending article link: 'Strong SaaS management' to /saas-license-management/ (clarified 10/16 8:26 AM).",
