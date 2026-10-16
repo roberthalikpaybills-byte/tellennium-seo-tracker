@@ -475,29 +475,35 @@
    "phase": "July",
    "priority": "MEDIUM",
    "action": "Update the Utility Expense Management page and consolidate the two competing utility hubs into one.",
-   "howTo": "1) Choose one canonical UEM hub (recommend /utility-expense-management/) and refresh its content (utility bill management, utility data management, procurement).\n2) Decide the fate of /your-guide-to-utility-expense-management/: either merge its unique content into the canonical hub and 301-redirect it, OR differentiate it to a distinct sub-topic and internal-link up.\nDone when: one clear UEM hub owns the utility head terms and no two utility pages compete.",
+   "howTo": "1) Keep /take-control-of-utility-costs-with-proven-uem-expertise/ as the one UEM hub.\n2) Copy the guide's PDF form there (First Name, Last Name, Email, Organization, Download PDF); test that the submission records and the right PDF downloads.\n3) 301 /your-guide-to-utility-expense-management/ and /utility-expense-management/ to /take-control-of-utility-costs-with-proven-uem-expertise/.\n4) Tell Rob; Rob/B Dub verify the form, PDF download and both 301s live.\nDone when: one UEM hub owns the utility head terms, the form works, and both old URLs 301 to it.",
    "page": "UEM cluster - defend the moat",
    "owner": "Rob",
    "due": "Jul 25",
    "week": "Wk 04 (Jul 21-25)",
    "sheetStatus": "Done",
-   "status": "Rob to do",
-   "light": "red",
+   "status": "Waiting",
+   "light": "yellow",
    "parties": {
-    "rob": "open",
-    "randy": "waiting",
+    "rob": "done",
+    "randy": "open",
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Rob (plain note to Randy)",
+   "waitingOn": "Randy",
    "verified": "",
    "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://uemhubconsolidationtellenniumseoact.vercel.app/"
    },
-   "nextStep": "Rob: send Randy a plain note naming the UEM hub target page (/utility-expense-management/ vs /take-control-of-utility-costs-with-proven-uem-expertise/), then Randy copies the PDF form and 301s the old UEM Guide.",
+   "nextStep": "Randy: add form, test, 301 both old UEM pages, then tell Rob.",
    "updates": [
+    {
+     "date": "2026-10-16",
+     "time": "1:00 PM",
+     "text": "10/16: Rob emailed Randy the plain note: keep /take-control-of-utility-costs-with-proven-uem-expertise/, copy the PDF form there and test it, 301 both old UEM pages to it, then tell Rob.",
+     "verified": true
+    },
     {
      "date": "2026-10-16",
      "time": "AM",
@@ -525,9 +531,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-16",
-    "by": "Randy"
+    "by": "Rob"
    },
-   "updateText": "#9 Randy could not follow the UEM Hub request; needs a plain note."
+   "updateText": "#9 plain note sent to Randy: keep /take-control-of-utility-costs-with-proven-uem-expertise/, add form, 301 both old UEM pages."
   },
   {
    "id": "10",
@@ -1986,7 +1992,7 @@
    "updateText": "#36 TEM Guide title/meta marked done via form."
   }
  ],
- "lastUpdated": "2026-10-16 11:32 AM ET",
+ "lastUpdated": "2026-10-16 1:02 PM ET",
  "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
  "systemUpdates": [
@@ -2144,9 +2150,9 @@
  "recheck": [
   {
    "ref": "#9",
-   "who": "Rob",
-   "text": "UEM hub target unclear (/utility-expense-management/ has a placeholder H1 vs /take-control-of-utility-costs-with-proven-uem-expertise/). Randy could not follow the request.",
-   "next": "Pick the target page and send Randy a plain note."
+   "who": "Rob/B Dub",
+   "text": "Randy is adding the PDF form to /take-control-of-utility-costs-with-proven-uem-expertise/ and 301ing /your-guide-to-utility-expense-management/ and /utility-expense-management/ (note sent 10/16 1:00 PM).",
+   "next": "Once Randy says done: verify the form records, the right PDF downloads, and both 301s."
   },
   {
    "ref": "#17",
@@ -2207,6 +2213,12 @@
    "who": "Rob/B Dub",
    "text": "The #10 roundup packet blurb still has the old wording.",
    "next": "Update the packet blurb to the 10/15 wording Rob sent Steve."
+  },
+  {
+   "ref": "Randy",
+   "who": "Rob",
+   "text": "Randy said 10/16 he may have suggestions for the tracker.",
+   "next": "Ask Randy later for his tracker suggestions."
   }
  ]
 }
