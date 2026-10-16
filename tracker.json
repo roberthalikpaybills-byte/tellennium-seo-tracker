@@ -368,6 +368,12 @@
    "doneNote": "10/13: account verified 2:47 PM ET, LinkedIn connected; Rob saved the MoT edits ~3:10 PM ET.",
    "updates": [
     {
+     "date": "2026-10-16",
+     "time": "PM",
+     "text": "10/16: Planned for Mon 10/19: Rob checks Crunchbase and the directories, then resends the Crunchbase/G2/directory links to the team for review.",
+     "verified": false
+    },
+    {
      "date": "2026-10-14",
      "time": "5:10 PM",
      "text": "Rob updated Crunchbase logo and full description (TIMS and old claims removed).",
@@ -1593,6 +1599,12 @@
    "nextStep": "G2: answer case #00645739 (~10/20). Rob part done; Capterra, GetApp and Software Advice parked (vendor login failed), ask G2 whether the case carries over.",
    "updates": [
     {
+     "date": "2026-10-16",
+     "time": "PM",
+     "text": "10/16: Planned for Mon 10/19: Rob checks Crunchbase and the directories, then resends the Crunchbase/G2/directory links to the team for review.",
+     "verified": false
+    },
+    {
      "date": "2026-10-15",
      "time": "",
      "text": "Rob: G2 access confirmed and case #00645739 filed. Capterra/GetApp/Software Advice parked (vendor login failed); ask G2 whether the case carries over.",
@@ -2181,7 +2193,7 @@
   {
    "ref": "ID17",
    "who": "Rob/B Dub",
-   "text": "Rob sent ID17 to Randy 10/16 ~8:44 AM ET.",
+   "text": "Rob sent ID17 to Randy 10/16 ~8:44 AM ET; post note sent 10/16 PM.",
    "next": "Verify live, then mark Published."
   },
   {
