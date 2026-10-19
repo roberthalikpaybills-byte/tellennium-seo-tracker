@@ -1599,6 +1599,12 @@
    "nextStep": "G2: answer case #00645739 (~10/20). Rob part done; Capterra, GetApp and Software Advice parked (vendor login failed), ask G2 whether the case carries over.",
    "updates": [
     {
+     "date": "2026-10-19",
+     "time": "8:00 AM",
+     "text": "10/19 (Sophie sync, tracking): G2 reply on case #00645739 expected ~Tue 10/20; then ask whether the seller-name change carries over to Capterra, GetApp and Software Advice. Capterra stays parked. Low-priority G2 items open: description (Crunchbase copy), screenshot, pricing.",
+     "verified": false
+    },
+    {
      "date": "2026-10-16",
      "time": "PM",
      "text": "10/16: Planned for Mon 10/19: Rob checks Crunchbase and the directories, then resends the Crunchbase/G2/directory links to the team for review.",
