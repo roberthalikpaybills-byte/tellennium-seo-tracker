@@ -1,6 +1,6 @@
 {
  "tracker": "Q3-26",
- "lastUpdated": "2026-10-14 11:10 AM ET",
+ "lastUpdated": "2026-10-21 4:51 PM ET",
  "about": "Notes and asks sent to each person, by SEO ID. Entries marked Summary are condensed from the tracker log, not the exact text sent.",
  "notes": [
   {
@@ -192,6 +192,23 @@
    "subject": "Check-in: open items, exports, Crunchbase, G2",
    "text": "Summary (from tracker log): Check-in on #32, #34, #22, #23, #28; Search Console / SEMrush exports for #4 and #19; Crunchbase for #7; G2 for #21 and #29.",
    "channel": "Email (scheduled 10/13)",
+   "status": "Open",
+   "textType": "summary"
+  },
+  {
+   "person": "randy",
+   "date": "2026-10-21",
+   "time": "4:24 PM",
+   "ids": [
+    36,
+    9,
+    17,
+    33,
+    35
+   ],
+   "subject": "SEO updates and a few small items",
+   "text": "Summary: short email plus the details doc (filed at /sent/2026-10-21-randy/). Thanks for #1, #5 and #36 (verified live). Asks: #36 hidden \"Expence\" link text; #9 UEM form plus two 301s; #17 \"Strong SaaS management\" link; #33 nine service page edits (FAQ held for #32); #35 two blog links.",
+   "channel": "Email",
    "status": "Open",
    "textType": "summary"
   }

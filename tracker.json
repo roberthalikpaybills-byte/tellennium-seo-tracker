@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13",
+ "updated": "2026-10-21",
  "title": "Tellennium SEO Action Tracker",
  "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
  "legend": {
@@ -26,14 +26,14 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Verify Complete · Rob/B Dub",
+   "waitingOn": "Completed (verified live 10/21)",
    "verified": "2026-10-21: definitional title/H1/meta live, typo gone, links to Guide",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seo-1-what-is-tem-v2.vercel.app/"
    },
-   "nextStep": "Rob/B Dub: verify the Yoast title \"What Is TEM? Definition and Basics\" and the typo fix live.",
+   "nextStep": "Completed: definitional title, H1 and meta verified live 10/21; typo gone; links up to the Guide.",
    "updates": [
     {
      "date": "2026-10-21",
@@ -242,14 +242,14 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Verify Complete · Rob/B Dub",
+   "waitingOn": "Completed (verified live 10/21)",
    "verified": "2026-10-21: FAQPage schema live on TEM FAQ, MMS FAQ, TEM Guide, SaaS Guide",
    "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://seoactionitem5faqschemaimplementati.vercel.app/"
    },
-   "nextStep": "Rob/B Dub: verify FAQ schema live (10/16 check: TEM Guide still duplicated, MMS guide partial).",
+   "nextStep": "Completed: FAQPage schema verified live 10/21 on the TEM FAQ, MMS FAQ, TEM Guide and SaaS Guide. Open question for Rob: the TEM Guide still shows 16 FAQ entries (10/16 duplicate note).",
    "updates": [
     {
      "date": "2026-10-21",
@@ -1138,7 +1138,7 @@
    "priority": "MEDIUM",
    "action": "Create 'Managed Telecom Services' dedicated page.",
    "howTo": " I think you worked on this with me before, so let me know. Do you want me to show you an example, or why don't you just take a stab at it again? Make it very clear, because this was SCO item 1, and I'm going to include this in our documentation. ",
-   "page": "Keyword: managed telecom services (2,400 vol)",
+   "page": "Keyword: managed telecom services (2,400 vol in the May 2026 Semrush data; the July recheck showed 260)",
    "owner": "Rob",
    "due": "Sep 18",
    "week": "Wk 12 (Sep 15-19)",
@@ -1160,6 +1160,12 @@
    },
    "nextStep": "Randy: build /managed-telecom-services/ from the SEO Item 20 copy; then B Dub checks live.",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:51 PM",
+     "text": "Volume note: 2,400 a month is the May 2026 Semrush figure; the July recheck showed 260. Treat 2,400 as unconfirmed until a fresh Semrush pull. An updated page brief is drafted for Rob (internal).",
+     "verified": false
+    },
     {
      "date": "2026-10-21",
      "time": "4:15 PM",
@@ -1202,7 +1208,9 @@
      "text": "Live check: /managed-telecom-services/ not created (404).",
      "verified": true
     }
-   ]
+   ],
+   "lastUpdate": "2026-10-21",
+   "updateText": "Volume note: 2,400 a month is the May 2026 Semrush figure; the July recheck showed 260. Treat 2,400 as unconfirmed until a fresh Semrush pull. An updated page brief is drafted for Rob (internal)."
   },
   {
    "id": "21",
@@ -1223,15 +1231,21 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Greg / Shawn · G2 (~10/20)",
+   "waitingOn": "Greg / Shawn · G2 (no reply since 10/20)",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Greg / Shawn: run review requests through the NPS survey. G2: answer listing case #00645739 (~10/20).",
+   "nextStep": "Greg / Shawn: run review requests through the NPS survey. G2: answer listing case #00645739 (no reply since 10/20).",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:51 PM",
+     "text": "10/21 check: G2 case #00645739 still has no reply (expected 10/20). Capterra, GetApp and Software Advice stay parked behind it.",
+     "verified": false
+    },
     {
      "date": "2026-10-15",
      "time": "",
@@ -1257,11 +1271,8 @@
      "verified": true
     }
    ],
-   "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "Steve"
-   },
-   "updateText": "#21 reassigned to Greg and Shawn; review requests now tied to the NPS survey. G2 listing case #00645739 filed by R"
+   "lastUpdate": "2026-10-21",
+   "updateText": "10/21 check: G2 case #00645739 still has no reply (expected 10/20). Capterra, GetApp and Software Advice stay parked behind it."
   },
   {
    "id": "22",
@@ -1641,15 +1652,21 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "G2 (~10/20)",
+   "waitingOn": "G2 (no reply since 10/20)",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "G2: answer case #00645739 (~10/20). Rob part done; Capterra, GetApp and Software Advice parked (vendor login failed), ask G2 whether the case carries over.",
+   "nextStep": "G2: answer case #00645739 (no reply since 10/20). Rob part done; Capterra, GetApp and Software Advice parked (vendor login failed), ask G2 whether the case carries over.",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:51 PM",
+     "text": "10/21 check: G2 case #00645739 still has no reply (expected 10/20). Capterra, GetApp and Software Advice stay parked behind it.",
+     "verified": false
+    },
     {
      "date": "2026-10-19",
      "time": "8:00 AM",
@@ -1687,11 +1704,8 @@
      "verified": true
     }
    ],
-   "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "Rob"
-   },
-   "updateText": "#29 G2 access confirmed and case #00645739 filed. Capterra/GetApp/Software Advice parked (vendor login failed); as"
+   "lastUpdate": "2026-10-21",
+   "updateText": "10/21 check: G2 case #00645739 still has no reply (expected 10/20). Capterra, GetApp and Software Advice stay parked behind it."
   },
   {
    "id": "30",
@@ -2035,7 +2049,7 @@
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Verify Complete · Rob/B Dub",
+   "waitingOn": "Completed (verified live 10/21) · small leftover with Randy",
    "verified": "2026-10-21: Guide title, meta and H2 live",
    "sheetDiff": "",
    "links": {
@@ -2102,10 +2116,15 @@
    "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
   }
  ],
- "lastUpdated": "2026-10-16 1:02 PM ET",
- "updateNote": "Added Notes (Randy | Steve | Dev): one place to see every note sent to each person, by SEO ID.",
+ "lastUpdated": "2026-10-21 4:51 PM ET",
+ "updateNote": "10/21 full update: #1, #5 and #36 Completed (verified live); #33 and #35 sent to Randy 4:24 PM; G2 still no reply; Recheck list refreshed.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
  "systemUpdates": [
+  {
+   "date": "2026-10-21",
+   "id": "1, 5, 20, 21, 29, 36",
+   "text": "Full update 10/21: #1, #5 and #36 Next Up set to Completed (verified live 10/21). #21 and #29: G2 case still no reply since 10/20. Recheck list refreshed: removed ID16 and R-006 (done); added #33, #35, #36 leftover, ID7, ID18, SaaS Guide leftovers, service page and demo page wording. #20: volume note added (2,400 May Semrush vs 260 July recheck)."
+  },
   {
    "date": "2026-10-16",
    "id": "4, 8, 19",
@@ -2261,32 +2280,50 @@
   {
    "ref": "#9",
    "who": "Rob/B Dub",
-   "text": "Randy is adding the PDF form to /take-control-of-utility-costs-with-proven-uem-expertise/ and 301ing /your-guide-to-utility-expense-management/ and /utility-expense-management/ (note sent 10/16 1:00 PM).",
-   "next": "Once Randy says done: verify the form records, the right PDF downloads, and both 301s."
-  },
-  {
-   "ref": "About/AI",
-   "who": "Rob/B Dub",
-   "text": "Verify Complete: About page, Why Tellennium and AI page edits (10/16: Randy confirmed in meeting).",
-   "next": "Verify the three pages live, then mark Completed."
+   "text": "Rob re-sent the steps 10/21 4:24 PM. Live check 10/21 4:15 PM: /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load (no 301), and no PDF form on the UEM page yet.",
+   "next": "Flag Thu 10/22 if still open. Once Randy says done: verify the form records, the right PDF downloads, and both 301s."
   },
   {
    "ref": "#17",
    "who": "Randy",
-   "text": "Overspending article link: 'Strong SaaS management' to /saas-license-management/ (clarified 10/16 8:26 AM).",
-   "next": "Randy adds the link; Rob/B Dub verify live."
+   "text": "Overspending article: 'Strong SaaS management' still not linked at the 10/21 check. Re-sent 10/21 4:24 PM.",
+   "next": "Randy adds the link to /saas-license-management/; Rob/B Dub verify live."
+  },
+  {
+   "ref": "#33",
+   "who": "Randy",
+   "text": "Nine TEM service page edits sent 10/21 4:24 PM. FAQ answer held until #32 is done.",
+   "next": "Verify the nine edits live once Randy is done; send the FAQ wording after #32."
+  },
+  {
+   "ref": "#35",
+   "who": "Randy",
+   "text": "Two blog links to the TEM service page sent 10/21 4:24 PM (plus the stray \"risks.\" line).",
+   "next": "Verify both links live once Randy is done."
+  },
+  {
+   "ref": "#36",
+   "who": "Randy",
+   "text": "Leftover: hidden link text 'Telecom Expence Management – Implementation of Outsourced TEM' on the TEM Guide. Sent 10/21 4:24 PM.",
+   "next": "Check the page code once Randy fixes it."
   },
   {
    "ref": "#5",
-   "who": "Randy",
-   "text": "FAQ schema partial: TEM Guide still has duplicate FAQ entries (16 for 10 unique); MMS guide schema has 5 of 7 Qs.",
-   "next": "Rob decides whether to send #5 back to Randy for the two remaining fixes."
+   "who": "Rob",
+   "text": "10/21 check: FAQPage schema present on the TEM FAQ, MMS FAQ, TEM Guide and SaaS Guide. The TEM Guide still shows 16 FAQ entries.",
+   "next": "Rob decides whether the TEM Guide duplicate goes back to Randy."
   },
   {
-   "ref": "ID16",
+   "ref": "ID7",
    "who": "Rob/B Dub",
-   "text": "Randy posted ID16; live check 10/16 found it on tellennium.com (published 7:16 AM).",
-   "next": "Done: marked Published (verified live 10/16)."
+   "text": "Sent 10/21; Randy posting planned Thu 10/22.",
+   "next": "Verify live 10/22: slug (proposed /best-utility-expense-management-companies/), checklist PDF, the five links. Then mark Published and add the keyword map row."
+  },
+  {
+   "ref": "ID18",
+   "who": "Rob/B Dub",
+   "text": "Sent to the team 10/20 3:55 PM.",
+   "next": "Verify live, including the checklist PDF. Then mark Published and add keyword map rows."
   },
   {
    "ref": "ID17",
@@ -2296,21 +2333,21 @@
   },
   {
    "ref": "R-007",
-   "who": "Rob/B Dub",
-   "text": "SaaS Guide shows four 'Further Reading' headings.",
-   "next": "Visual check on the live Guide, then tell Randy which to keep."
-  },
-  {
-   "ref": "R-006",
-   "who": "Randy",
-   "text": "www security warning still broken.",
-   "next": "Randy fixes the www certificate; Rob/B Dub recheck."
+   "who": "Rob",
+   "text": "SaaS Guide check 10/21: doubled FAQ, stacked Further Reading headings and Utility link are fixed. Left: the overspending article link points to /saas-license-management/ instead of its own URL; \"SaaS Spend Optimization\" is linked instead of the License Optimization post; ID18 to add once live.",
+   "next": "Rob picks the optimization post (swap or list both), then the leftovers go in the next Randy note."
   },
   {
    "ref": "Verify",
    "who": "Rob/B Dub",
-   "text": "Verify Complete: #1, 2, 3, 5, 7, 8, 36.",
+   "text": "Verify Complete: #2, 3, 7, 8. (#1, 5 and 36 verified live 10/21.)",
    "next": "Live checks, then mark each Completed or send back."
+  },
+  {
+   "ref": "About/AI",
+   "who": "Rob/B Dub",
+   "text": "Verify Complete: About page, Why Tellennium and AI page edits (10/16: Randy confirmed in meeting).",
+   "next": "Verify the three pages live, then mark Completed."
   },
   {
    "ref": "#7",
@@ -2319,10 +2356,16 @@
    "next": "Check the new logo and description show (no TIMS)."
   },
   {
-   "ref": "#33",
+   "ref": "Service page",
    "who": "Rob",
-   "text": "Open question on the FAQ second sentence.",
-   "next": "Rob answers before the second-pass note goes to Randy."
+   "text": "TEM service page still says \"Guaranteed Savings\" and \"100% client satisfaction guarantee\" (checked 10/21). There is no \"This is a title\" text.",
+   "next": "Raise the guarantee wording with Steve."
+  },
+  {
+   "ref": "Demo page",
+   "who": "Rob/B Dub",
+   "text": "Demo page guarantee wording not checked yet.",
+   "next": "Check the live demo page, then raise with Steve if needed."
   },
   {
    "ref": "#10",
