@@ -18,8 +18,8 @@
    "due": "Jul 11",
    "week": "Wk 02 (Jul 7-11)",
    "sheetStatus": "Done",
-   "status": "Verify Complete",
-   "light": "vgreen",
+   "status": "Completed",
+   "light": "green",
    "parties": {
     "rob": "done",
     "randy": "done",
@@ -27,7 +27,7 @@
     "dev": "na"
    },
    "waitingOn": "Verify Complete · Rob/B Dub",
-   "verified": "2026-10-08: live text check OK",
+   "verified": "2026-10-21: definitional title/H1/meta live, typo gone, links to Guide",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -35,6 +35,12 @@
    },
    "nextStep": "Rob/B Dub: verify the Yoast title \"What Is TEM? Definition and Basics\" and the typo fix live.",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:15 PM",
+     "text": "Live check 10/21: old URL redirects to /what-is-tem-definition-and-basics/; title, H1 and meta are definitional; 'managemen t' typo gone; links up to the Guide. Verified.",
+     "verified": true
+    },
     {
      "date": "2026-10-16",
      "time": "7:58–7:59 AM",
@@ -67,10 +73,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-16",
-    "by": "Randy"
+    "date": "2026-10-21",
+    "by": "B Dub"
    },
-   "updateText": "#1 fixed the What Is TEM title and spelling error."
+   "updateText": "#1 Live check 10/21: old URL redirects to /what-is-tem-definition-and-basics/; title, H1 and meta are definitional; 'managemen t' typo gone; links up to the Guide. Verified."
   },
   {
    "id": "2",
@@ -228,8 +234,8 @@
    "due": "Jul 18",
    "week": "Wk 03 (Jul 14-18)",
    "sheetStatus": "Done",
-   "status": "Verify Complete",
-   "light": "vgreen",
+   "status": "Completed",
+   "light": "green",
    "parties": {
     "rob": "done",
     "randy": "done",
@@ -237,7 +243,7 @@
     "dev": "na"
    },
    "waitingOn": "Verify Complete · Rob/B Dub",
-   "verified": "",
+   "verified": "2026-10-21: FAQPage schema live on TEM FAQ, MMS FAQ, TEM Guide, SaaS Guide",
    "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -245,6 +251,12 @@
    },
    "nextStep": "Rob/B Dub: verify FAQ schema live (10/16 check: TEM Guide still duplicated, MMS guide partial).",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:15 PM",
+     "text": "Live check 10/21: FAQPage schema present on TEM FAQ (8), MMS FAQ (10), TEM Guide (16), SaaS Guide (8). Verified on those four.",
+     "verified": true
+    },
     {
      "date": "2026-10-16",
      "time": "8:16 AM",
@@ -278,10 +290,10 @@
    ],
    "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy.",
    "lastUpdate": {
-    "date": "2026-10-16",
-    "by": "Randy"
+    "date": "2026-10-21",
+    "by": "B Dub"
    },
-   "updateText": "#5 FAQ schema marked done via form."
+   "updateText": "#5 Live check 10/21: FAQPage schema present on TEM FAQ (8), MMS FAQ (10), TEM Guide (16), SaaS Guide (8). Verified on those four."
   },
   {
    "id": "6",
@@ -504,6 +516,12 @@
    },
    "nextStep": "Randy: add form, test, 301 both old UEM pages, then tell Rob.",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:15 PM",
+     "text": "Live check 10/21: both old UEM URLs still load (no 301); no PDF form on the UEM hub yet. Re-asked Randy.",
+     "verified": true
+    },
     {
      "date": "2026-10-16",
      "time": "1:00 PM",
@@ -896,6 +914,12 @@
    "nextStep": "Randy: make the 10/14 SaaS Guide, ID13 and overspend-article fixes; then B Dub checks live. Overspending article: link 'Strong SaaS management' (first line under 'What Strong Enterprise SaaS Management Does Differently') to https://tellennium.com/saas-license-management/.",
    "updates": [
     {
+     "date": "2026-10-21",
+     "time": "4:15 PM",
+     "text": "Live check 10/21: 'Strong SaaS management' on the overspending article is not linked yet. Re-asked Randy.",
+     "verified": true
+    },
+    {
      "date": "2026-10-16",
      "time": "8:26 AM",
      "text": "10/16: Rob emailed Randy: overspending-article link goes on 'Strong SaaS management' (first line under 'What Strong Enterprise SaaS Management Does Differently') to https://tellennium.com/saas-license-management/.",
@@ -1120,6 +1144,12 @@
    },
    "nextStep": "Randy: build /managed-telecom-services/ from the SEO Item 20 copy; then B Dub checks live.",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:15 PM",
+     "text": "Live check 10/21: /managed-telecom-services/ still 404.",
+     "verified": true
+    },
     {
      "date": "2026-10-14",
      "time": "10:50 AM",
@@ -1955,8 +1985,8 @@
    "due": "Oct 16",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
-   "status": "Verify Complete",
-   "light": "vgreen",
+   "status": "Completed",
+   "light": "green",
    "parties": {
     "rob": "done",
     "randy": "done",
@@ -1964,7 +1994,7 @@
     "dev": "na"
    },
    "waitingOn": "Verify Complete · Rob/B Dub",
-   "verified": "",
+   "verified": "2026-10-21: Guide title, meta and H2 live",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1972,6 +2002,12 @@
    },
    "nextStep": "Rob/B Dub: verify the TEM Guide Yoast title/meta, H2 and link anchor live.",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:15 PM",
+     "text": "Live check 10/21: title, meta and new H2 live. One leftover: hidden link text 'Telecom Expence Management' still in page source; asked Randy to fix.",
+     "verified": true
+    },
     {
      "date": "2026-10-15",
      "time": "4:40 PM",
@@ -2010,10 +2046,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-15",
-    "by": "Randy"
+    "date": "2026-10-21",
+    "by": "B Dub"
    },
-   "updateText": "#36 TEM Guide title/meta marked done via form."
+   "updateText": "#36 Live check 10/21: title, meta and new H2 live. One leftover: hidden link text 'Telecom Expence Management' still in page source; asked Randy to fix."
   }
  ],
  "lastUpdated": "2026-10-16 1:02 PM ET",
