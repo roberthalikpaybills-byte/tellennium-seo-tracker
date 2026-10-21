@@ -514,8 +514,14 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://uemhubconsolidationtellenniumseoact.vercel.app/"
    },
-   "nextStep": "Randy: add form, test, 301 both old UEM pages, then tell Rob.",
+   "nextStep": "Randy: copy the guide's download form (First Name, Last Name, Email, Organization, Download PDF) onto /take-control-of-utility-costs-with-proven-uem-expertise/ and test it, then 301 /utility-expense-management/ and /your-guide-to-utility-expense-management/ to it.",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:25 PM",
+     "text": "Rob re-sent Randy the #9 steps in the 10/21 note.",
+     "verified": true
+    },
     {
      "date": "2026-10-21",
      "time": "4:15 PM",
@@ -554,10 +560,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-16",
+    "date": "2026-10-21",
     "by": "Rob"
    },
-   "updateText": "#9 plain note sent to Randy: keep /take-control-of-utility-costs-with-proven-uem-expertise/, add form, 301 both old UEM pages."
+   "updateText": "#9 Rob re-sent Randy the #9 steps in the 10/21 note."
   },
   {
    "id": "10",
@@ -911,8 +917,14 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": "https://uemsaasclustertellenniumseoaction17.vercel.app/"
    },
-   "nextStep": "Randy: make the 10/14 SaaS Guide, ID13 and overspend-article fixes; then B Dub checks live. Overspending article: link 'Strong SaaS management' (first line under 'What Strong Enterprise SaaS Management Does Differently') to https://tellennium.com/saas-license-management/.",
+   "nextStep": "Randy: on the SaaS overspending article, link 'Strong SaaS management' (first line under 'What Strong Enterprise SaaS Management Does Differently') to https://tellennium.com/saas-license-management/.",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:25 PM",
+     "text": "Rob re-sent Randy the #17 link request in the 10/21 note.",
+     "verified": true
+    },
     {
      "date": "2026-10-21",
      "time": "4:15 PM",
@@ -987,10 +999,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-16",
+    "date": "2026-10-21",
     "by": "Rob"
    },
-   "updateText": "#17 overspending-article link anchor clarified to Randy: 'Strong SaaS management' to /saas-license-management/."
+   "updateText": "#17 Rob re-sent Randy the #17 link request in the 10/21 note."
   },
   {
    "id": "18",
@@ -1835,29 +1847,35 @@
    "phase": "October",
    "priority": "HIGH",
    "action": "NEW: Realign the TEM service page copy to 'telecom expense management services'.",
-   "howTo": "1) The exact phrase appears only once (H1). Add it to two H2s (e.g. 'What Makes Our Telecom Expense Management Services Different') and to the first paragraph.\n2) Trim the off-topic content (SaaS x5, utilities x5, the ServiceNow / 'broader expense ecosystem' block) to a short cross-sell line linking to those service pages.\n3) Change the image alt 'How Our TEM Platform Fixes Your Technology Expense Management Problems' to telecom wording.\n4) Replace the vague 'technology' / 'expense management' link anchors with descriptive anchors.\nDone when: the phrase appears in the H1, two H2s and the intro, and the off-topic sections are trimmed.",
+   "howTo": "Randy instructions sent 10/21 (exact wording, checked against the live page):\n1. First paragraph under \"The Painful Reality for Most Enterprises\":\n   Current: \"Without proper telecom expense management, you're likely paying for services you don't use...\"\n   New: \"Without the right telecom expense management services, you're likely paying for services you don't use...\" (rest of the sentence stays the same)\n2. Heading \"What Makes Our TEM Services Different\" becomes \"What Makes Our Telecom Expense Management Services Different.\"\n3. Heading \"How Our TEM Platform Improves Expense Visibility and Control\" becomes \"How Our Telecom Expense Management Services Improve Visibility and Control.\"\n4. Intro under \"What Makes Our TEM Services Different\":\n   Current: \"...our cloud-native MoT® Platform manages everything in one place. Telecom, mobility, cloud, utilities, and SaaS – unified visibility without complexity.\"\n   New: \"...our cloud-native MoT® Platform manages everything in one place, with unified visibility across telecom, mobility and cloud and none of the complexity.\"\n5. In the \"You get immediate results\" dropdown:\n   Current: \"The platform handles telecom, mobile managed services, wireless expense management, cloud, utilities, and SaaS expenses in one unified system.\"\n   New: \"The platform handles telecom, mobile managed services, wireless expense management and cloud expenses in one unified system.\"\n6. Remove the \"How TEM Fits Within Your Broader Expense Management Ecosystem\" heading and paragraph, and put this one line in its place:\n   \"The same MoT® platform also covers SaaS license management (https://tellennium.com/saas-license-management/) and utility expense management (https://tellennium.com/take-control-of-utility-costs-with-proven-uem-expertise/) if you want to bring those expenses under one roof.\"\n7. Shorten the \"ServiceNow® Integration for Enterprise Mobility, Wireline, and all other Services' Management\" section. Rename the heading to \"ServiceNow® Integration\" and replace the paragraph, the \"What This Means For You\" list and the closing paragraph with:\n   \"Already using ServiceNow? Our telecom expense management capabilities plug into your existing workflows through pre-built, certified integrations, so you can provision services and report on telecom assets without building anything custom. Learn more about our ServiceNow integration (https://tellennium.com/7-ways-to-streamline-enterprise-expense-management-with-servicenow/).\"\n8. Remove the \"MOT® Platform Overview:\" and \"Access Through ServiceNow:\" sections. Both repeat text from earlier on the page.\n9. Image alt text: change \"How Our TEM Platform Fixes Your Technology Expense Management Problems\" to \"How our telecom expense management services fix enterprise telecom billing problems.\"\n\nPlease hold off on the FAQ answer \"What expenses does the TEM platform manage?\" for now. Steve's developer item on this page (SEO #32) merges the FAQ blocks, so I'll send that wording after it's done.",
    "page": "Page: /telecom-expense-management/\nKeyword: telecom expense management services",
    "owner": "Rob",
    "due": "Oct 23",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
-   "status": "Rob to do",
-   "light": "red",
+   "status": "Waiting",
+   "light": "yellow",
    "parties": {
-    "rob": "open",
+    "rob": "done",
     "randy": "open",
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Rob",
+   "waitingOn": "Randy",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob: second pass on the TEM service page (phrase in two H2s plus intro, trim SaaS/utility/ServiceNow blocks, alt text, anchors); then Randy implements.",
+   "nextStep": "Randy: make the 9 copy changes listed in How to Execute (sent 10/21). FAQ wording waits for #32.",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:25 PM",
+     "text": "Rob sent Randy the #33 changes (9 edits; FAQ held until #32). Full wording in How to Execute.",
+     "verified": true
+    },
     {
      "date": "2026-10-12",
      "time": "",
@@ -1871,7 +1889,12 @@
      "verified": true
     }
    ],
-   "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both."
+   "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
+   "lastUpdate": {
+    "date": "2026-10-21",
+    "by": "Rob"
+   },
+   "updateText": "#33 Rob sent Randy the #33 changes (9 edits; FAQ held until #32). Full wording in How to Execute."
   },
   {
    "id": "34",
@@ -1931,29 +1954,35 @@
    "phase": "October",
    "priority": "HIGH",
    "action": "NEW: Stop two blog posts from competing with the service page for 'telecom expense management services'; link both to it.",
-   "howTo": "Pages: /7-ways-to-streamline-enterprise-expense-management-with-servicenow/ and /5-ways-telecom-expense-management-supports-digital-transformation-for-large-enterprises/\n1) Remove 'telecom expense management services' from each page's title, H1 and meta; keep each focused on its own topic (ServiceNow integration; digital transformation).\n2) Add a contextual link from each to /telecom-expense-management/ with the anchor 'telecom expense management services'.\nDone when: neither page targets the services phrase and both link to the service page.",
+   "howTo": "Randy instructions sent 10/21 (exact wording, checked against the live posts):\n- 5 Ways Telecom Expense Management Supports Digital Transformation (https://tellennium.com/5-ways-telecom-expense-management-supports-digital-transformation-for-large-enterprises/): the last line of \"Final Thoughts on TEM and Digital Transformation\" currently reads \"If you'd like to include Tellennium in your telecom expense management provider comparisons, contact us to schedule a brief demo of our solution.\"\n  New: \"If you'd like to include Tellennium in your telecom expense management provider comparisons, take a look at our telecom expense management services or contact us to schedule a brief demo of our solution.\"\n  Please link \"telecom expense management services\" to the TEM service page (https://tellennium.com/telecom-expense-management/) and keep the existing demo link.\n- 7 Ways to Streamline Enterprise Expense Management with ServiceNow (https://tellennium.com/7-ways-to-streamline-enterprise-expense-management-with-servicenow/): in \"Closing Thoughts on the Value of ServiceNow for Enterprises,\" keep the sentence \"Integrating ServiceNow with an expense management platform like Tellennium's MoT offers a robust solution for handling telecom, technology, and utility expenses.\" and add this one right after it:\n  \"For telecom specifically, that integration is backed by our telecom expense management services.\"\n  Please link \"telecom expense management services\" to the TEM service page (https://tellennium.com/telecom-expense-management/).\n  While you're in there, there's a stray one-word paragraph, \"risks.\", further down in that section that can be deleted.\n\nTitles, headings and meta descriptions on both posts are already fine, so nothing else needs to change.",
    "page": "Keyword: telecom expense management services\nOwner page: /telecom-expense-management/",
    "owner": "Rob",
    "due": "Oct 23",
    "week": "Wk 14+ (Oct)",
    "sheetStatus": "Not started",
-   "status": "Rob to do",
-   "light": "red",
+   "status": "Waiting",
+   "light": "yellow",
    "parties": {
-    "rob": "open",
+    "rob": "done",
     "randy": "open",
     "steve": "na",
     "dev": "na"
    },
-   "waitingOn": "Rob",
+   "waitingOn": "Randy",
    "verified": "",
    "sheetDiff": "",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob: add one link from each post to the TEM service page and check both meta descriptions; then Randy makes the page changes.",
+   "nextStep": "Randy: add the one link in each post listed in How to Execute (sent 10/21).",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:25 PM",
+     "text": "Rob sent Randy the #35 link changes. Meta descriptions checked live: neither uses the phrase, so no meta change needed.",
+     "verified": true
+    },
     {
      "date": "2026-10-14",
      "time": "10:50 AM",
@@ -1972,7 +2001,12 @@
      "text": "Steve added this item to the tracker; Rob, due Oct 23.",
      "verified": true
     }
-   ]
+   ],
+   "lastUpdate": {
+    "date": "2026-10-21",
+    "by": "Rob"
+   },
+   "updateText": "#35 Rob sent Randy the #35 link changes. Meta descriptions checked live: neither uses the phrase, so no meta change needed."
   },
   {
    "id": "36",
@@ -2000,8 +2034,14 @@
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
     "legacyVercelRevisions": ""
    },
-   "nextStep": "Rob/B Dub: verify the TEM Guide Yoast title/meta, H2 and link anchor live.",
+   "nextStep": "Randy (small leftover): change the hidden link text 'Telecom Expence Management – Implementation of Outsourced TEM' (to the service page) to 'telecom expense management services'.",
    "updates": [
+    {
+     "date": "2026-10-21",
+     "time": "4:25 PM",
+     "text": "Rob sent Randy the hidden-typo leftover in the 10/21 note.",
+     "verified": true
+    },
     {
      "date": "2026-10-21",
      "time": "4:15 PM",
@@ -2047,9 +2087,9 @@
    ],
    "lastUpdate": {
     "date": "2026-10-21",
-    "by": "B Dub"
+    "by": "Rob"
    },
-   "updateText": "#36 Live check 10/21: title, meta and new H2 live. One leftover: hidden link text 'Telecom Expence Management' still in page source; asked Randy to fix."
+   "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
   }
  ],
  "lastUpdated": "2026-10-16 1:02 PM ET",
