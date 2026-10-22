@@ -89,23 +89,29 @@
       "due": "Jul 11",
       "week": "Wk 02 (Jul 7-11)",
       "sheetStatus": "Done",
-      "status": "Verify Complete",
-      "light": "vgreen",
+      "status": "Completed",
+      "light": "green",
       "parties": {
         "rob": "done",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Verify Complete · Rob/B Dub",
-      "verified": "",
+      "waitingOn": "Completed (verified live 10/22)",
+      "verified": "2026-10-22: five MMS pages, distinct titles/H1s, assigned phrases, links to the MMS hub",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoid2cannibal.vercel.app/"
       },
-      "nextStep": "Rob/B Dub: verify the five MMS pages live.",
+      "nextStep": "Completed: five MMS pages verified live 10/22 (distinct titles and H1s, assigned phrases, all link to the hub). Optional: shorten the MDM page meta description (about 330 characters).",
       "updates": [
+        {
+          "date": "2026-10-22",
+          "time": "1:28 PM",
+          "text": "Live check 10/22 (box browser): all five MMS pages have distinct titles and H1s, each carries its assigned phrase, and all four non-hub pages link to /managed-mobility-services/. Hub title is 'Managed Mobility Services (MMS) - Tellennium'. Guide, FAQ and 6 Areas match their phrases. The MMS vs MDM page uses the spelled-out 'Managed Mobility Services (MMS) vs. Mobile Device Management (MDM)'. Minor optional note: the MDM page's meta description is overlong (about 330 characters). Verified.",
+          "verified": true
+        },
         {
           "date": "2026-10-15",
           "time": "",
@@ -124,7 +130,12 @@
           "text": "Implementation record v1.0: QA passed July 16, 2026.",
           "verified": true
         }
-      ]
+      ],
+      "lastUpdate": {
+        "date": "2026-10-22",
+        "by": "B Dub"
+      },
+      "updateText": "#2 Live check 10/22 (box browser): all five MMS pages have distinct titles and H1s, each carries its assigned phrase, and all four non-hub pages link to /managed-mobility-services/. Hub title is 'Managed Mobility Services (MMS) - Tellennium'. Guide, FAQ and 6 Areas match their phrases. The MMS vs MDM page uses the spelled-out 'Managed Mobility Services (MMS) vs. Mobile Device Management (MDM)'. Minor optional note: the MDM page's meta description is overlong (about 330 characters). Verified."
     },
     {
       "id": "3",
@@ -137,30 +148,41 @@
       "due": "Jul 18",
       "week": "Wk 03 (Jul 14-18)",
       "sheetStatus": "Done",
-      "status": "Verify Complete",
-      "light": "vgreen",
+      "status": "Completed",
+      "light": "green",
       "parties": {
         "rob": "done",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Verify Complete · Rob/B Dub",
-      "verified": "2026-10-08: partial live check",
+      "waitingOn": "Completed (verified live 10/22)",
+      "verified": "2026-10-22: head-term owners clean in title, H1 and meta",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://temclusterimplementationguidesingle.vercel.app/"
       },
-      "nextStep": "Rob/B Dub: verify the remaining live checks (partly verified 10/8; missing links tracked under #12 and #13).",
+      "nextStep": "Completed: head-term owners verified live 10/22; inbound links tracked under #12 and #13. Small Randy fix on the Recheck list: homepage title doubled suffix.",
       "updates": [
+        {
+          "date": "2026-10-22",
+          "time": "1:28 PM",
+          "text": "Live check 10/22 (box browser): head-term owners clean in title, H1 and meta. The homepage and the TEM Guide don't use 'telecom expense management services'; /telecom-expense-management/ carries it in its title, H1 and meta; the technology expense management page carries 'technology expense management' in its title, H1 and meta. Remaining inbound links tracked under #12 and #13. New small finding: homepage title shows a doubled suffix ('...Lifecycle Management - Tellennium - Tellennium'), added to the Recheck list for Randy. Verified.",
+          "verified": true
+        },
         {
           "date": "2026-10-08",
           "time": "",
           "text": "Partial live check; missing audit and Solutions Compared links tracked under #12 and #13.",
           "verified": true
         }
-      ]
+      ],
+      "lastUpdate": {
+        "date": "2026-10-22",
+        "by": "B Dub"
+      },
+      "updateText": "#3 Live check 10/22 (box browser): head-term owners clean in title, H1 and meta. The homepage and the TEM Guide don't use 'telecom expense management services'; /telecom-expense-management/ carries it in its title, H1 and meta; the technology expense management page carries 'technology expense management' in its title, H1 and meta. Remaining inbound links tracked under #12 and #13. New small finding: homepage title shows a doubled suffix ('...Lifecycle Management - Tellennium - Tellennium'), added to the Recheck list for Randy. Verified."
     },
     {
       "id": "4",
@@ -361,24 +383,32 @@
       "due": "Jul 11",
       "week": "Wk 02 (Jul 7-11)",
       "sheetStatus": "In progress",
-      "status": "Verify Complete",
-      "light": "vgreen",
+      "status": "Completed",
+      "light": "green",
       "parties": {
         "rob": "done",
         "randy": "na",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Verify Complete · Rob/B Dub",
-      "verified": "Saved by Rob 10/13 3:10 PM; public page not yet confirmed (bot-blocked/caching)",
+      "waitingOn": "Completed (verified live 10/22)",
+      "verified": "2026-10-22: public profile, no TIMS, MoT descriptions, Optric logo (screenshot)",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
-        "legacyVercelRevisions": ""
+        "legacyVercelRevisions": "",
+        "sent": "/evidence/crunchbase_2026-10-22.png",
+        "sentLabel": "Screenshot 10/22"
       },
-      "nextStep": "Rob/B Dub: verify Fri 10/16 that the new Crunchbase logo and description show (no TIMS).",
+      "nextStep": "Completed: public Crunchbase profile verified live 10/22 (no TIMS, MoT descriptions, Optric logo).",
       "doneNote": "10/13: account verified 2:47 PM ET, LinkedIn connected; Rob saved the MoT edits ~3:10 PM ET.",
       "updates": [
+        {
+          "date": "2026-10-22",
+          "time": "1:28 PM",
+          "text": "Live check 10/22 (box browser): public Crunchbase profile has no 'TIMS'. Short and long descriptions use Management of Things® (MoT®) and list current services (telecom, mobility, utility, cloud, SaaS). Optric logo shows, HQ Louisville, KY, website www.tellennium.com, 'Founded in 1999' in the description. Screenshot: /evidence/crunchbase_2026-10-22.png. Verified.",
+          "verified": true
+        },
         {
           "date": "2026-10-16",
           "time": "PM",
@@ -441,10 +471,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-14",
-        "by": "Rob"
+        "date": "2026-10-22",
+        "by": "B Dub"
       },
-      "updateText": "#7 Rob updated Crunchbase logo and full description (TIMS and old claims removed)."
+      "updateText": "#7 Live check 10/22 (box browser): public Crunchbase profile has no 'TIMS'. Short and long descriptions use Management of Things® (MoT®) and list current services (telecom, mobility, utility, cloud, SaaS). Optric logo shows, HQ Louisville, KY, website www.tellennium.com, 'Founded in 1999' in the description. Screenshot: /evidence/crunchbase_2026-10-22.png. Verified."
     },
     {
       "id": "8",
@@ -475,6 +505,12 @@
       "nextStep": "Rob/B Dub: verify in GSC (noindex audit) and confirm with Steve.",
       "updates": [
         {
+          "date": "2026-10-22",
+          "time": "1:28 PM",
+          "text": "10/22: needs Search Console (Rob/Steve); B Dub can't verify from the site.",
+          "verified": false
+        },
+        {
           "date": "2026-10-15",
           "time": "",
           "text": "10/15: Rob part marked done; to confirm in review with Rob.",
@@ -486,7 +522,12 @@
           "text": "Closed in the Sep 2 close-out (noindex audit done; no Randy work).",
           "verified": true
         }
-      ]
+      ],
+      "lastUpdate": {
+        "date": "2026-10-22",
+        "by": "B Dub"
+      },
+      "updateText": "#8 10/22: needs Search Console (Rob/Steve); B Dub can't verify from the site."
     },
     {
       "id": "9",
@@ -643,30 +684,41 @@
       "due": "Aug 28",
       "week": "Wk 09 (Aug 25-29)",
       "sheetStatus": "Done",
-      "status": "Completed",
-      "light": "green",
+      "status": "Needs check",
+      "light": "yellow",
       "parties": {
-        "rob": "done",
+        "rob": "open",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Completed (live 10/8)",
-      "verified": "2026-10-08: Buyer's Guide block live",
+      "waitingOn": "Rob",
+      "verified": "2026-10-22: Buyer's Guide block links to the ungated TEM Guide; no gate or scorecard found",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoid11tembuyersguideimplementation.vercel.app/"
       },
-      "nextStep": "Completed: Buyer's Guide block verified live 10/8.",
+      "nextStep": "Rob: decide whether the ungated guide counts as done or the gated Buyer's Guide/scorecard is still wanted.",
       "updates": [
+        {
+          "date": "2026-10-22",
+          "time": "1:28 PM",
+          "text": "Live check 10/22 (box browser): the TEM service page has a 'TEM Buyer's Guide' block whose 'Get the Report' button goes to /your-guide-to-telecom-expense-management/, an ungated web page. No form gate found and no vendor evaluation scorecard found. The TEM Guide itself shows 'Read Below or Download the Report PDF' but no visible Buyer's Guide block. Needs check.",
+          "verified": true
+        },
         {
           "date": "2026-10-08",
           "time": "",
           "text": "Live spot check: Buyer's Guide block present.",
           "verified": true
         }
-      ]
+      ],
+      "lastUpdate": {
+        "date": "2026-10-22",
+        "by": "B Dub"
+      },
+      "updateText": "#11 Live check 10/22 (box browser): the TEM service page has a 'TEM Buyer's Guide' block whose 'Get the Report' button goes to /your-guide-to-telecom-expense-management/, an ungated web page. No form gate found and no vendor evaluation scorecard found. The TEM Guide itself shows 'Read Below or Download the Report PDF' but no visible Buyer's Guide block. Needs check."
     },
     {
       "id": "12",
@@ -2176,10 +2228,15 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-22 1:26 PM ET",
-  "updateNote": "10/22 1:24 PM: focus note sent to Randy (#33/#35, #9, #17, plus ID7). 10/22 live checks (1:18 PM, box browser): #9, #17, #33, #35 not live yet (Waiting on Randy); #20 still 404; #14 no 301. ID17 verified live (Published). Short Rob/Randy sync planned later today or Fri 10/23 morning: #33/#35, #9 and #17, plus ID7 posting.",
+  "lastUpdated": "2026-10-22 1:30 PM ET",
+  "updateNote": "10/22 1:28 PM live checks (box browser): #2 MMS pages, #3 TEM head-term owners and #7 Crunchbase verified live, now Completed (Crunchbase screenshot linked on #7). #11 moved to Needs check: the Buyer's Guide block links to the ungated TEM Guide, no gate or scorecard found; Rob decides. #8 needs Search Console (Rob/Steve). New small Randy fix on the Recheck list: homepage title doubled suffix. Earlier today: 1:24 PM focus note to Randy (#33/#35, #9, #17, plus ID7); Rob/Randy sync later today or Fri 10/23 morning.",
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-10-22",
+      "id": "2, 3, 7, 8, 11",
+      "text": "10/22 1:28 PM live checks (box browser): #2, #3, #7 Completed (verified live; Crunchbase screenshot saved to /evidence/). #11 moved from Completed to Needs check (ungated guide, no gate or scorecard found; Rob decides). #8 stays Verify Complete (needs Search Console). Homepage title doubled suffix added to the Recheck list."
+    },
     {
       "date": "2026-10-22",
       "id": "9, 17, 33, 35",
@@ -2376,6 +2433,12 @@
       "who": "Randy",
       "text": "Leftover: hidden link text 'Telecom Expence Management – Implementation of Outsourced TEM' on the TEM Guide. Sent 10/21 4:24 PM.",
       "next": "Check the page code once Randy fixes it."
+    },
+    {
+      "ref": "Homepage title",
+      "who": "Randy",
+      "text": "Live check 10/22 1:28 PM (found during #3): homepage title shows a doubled suffix, '...Lifecycle Management - Tellennium - Tellennium'.",
+      "next": "Small Randy fix: drop the extra ' - Tellennium'. Verify the title live once done."
     },
     {
       "ref": "#5",
