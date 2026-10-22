@@ -2473,20 +2473,14 @@
     {
       "ref": "Verify",
       "who": "Rob/B Dub",
-      "text": "Verify Complete: #2, 3, 7, 8. (#1, 5 and 36 verified live 10/21.)",
-      "next": "Live checks, then mark each Completed or send back."
+      "text": "Verify Complete: #8 left (needs Search Console, Rob/Steve). #1, 5 and 36 verified live 10/21; #2, 3 and 7 verified live 10/22.",
+      "next": "Rob/Steve: noindex check in Search Console, then mark #8 Completed or send back."
     },
     {
       "ref": "About/AI",
       "who": "Rob/B Dub",
       "text": "Verify Complete: About page, Why Tellennium and AI page edits (10/16: Randy confirmed in meeting).",
       "next": "Verify the three pages live, then mark Completed."
-    },
-    {
-      "ref": "#7",
-      "who": "Rob/B Dub",
-      "text": "Crunchbase public page.",
-      "next": "Check the new logo and description show (no TIMS)."
     },
     {
       "ref": "Service page",
