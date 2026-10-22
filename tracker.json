@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "title": "Tellennium SEO Action Tracker",
  "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
  "legend": {
@@ -519,6 +519,12 @@
    "nextStep": "Randy: copy the guide's download form (First Name, Last Name, Email, Organization, Download PDF) onto /take-control-of-utility-costs-with-proven-uem-expertise/ and test it, then 301 /utility-expense-management/ and /your-guide-to-utility-expense-management/ to it.",
    "updates": [
     {
+     "date": "2026-10-22",
+     "time": "1:18 PM",
+     "text": "Live check 10/22 (box browser): both old UEM URLs still load with no redirect; no PDF form on the take-control UEM page. Still waiting on Randy.",
+     "verified": true
+    },
+    {
      "date": "2026-10-21",
      "time": "4:24 PM",
      "text": "Rob re-sent Randy the #9 steps in the 10/21 note.",
@@ -562,10 +568,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-21",
-    "by": "Rob"
+    "date": "2026-10-22",
+    "by": "B Dub"
    },
-   "updateText": "#9 Rob re-sent Randy the #9 steps in the 10/21 note."
+   "updateText": "Live check 10/22 (box browser): both old UEM URLs still load with no redirect; no PDF form on the take-control UEM page. Still waiting on Randy."
   },
   {
    "id": "10",
@@ -775,6 +781,12 @@
    "nextStep": "Randy: 301 the old outsourced-TEM article to the 2026 decision framework (R-002).",
    "updates": [
     {
+     "date": "2026-10-22",
+     "time": "1:18 PM",
+     "text": "Live check 10/22 (box browser): /should-we-outsource-telecom-expense-management/ still returns 200, no 301.",
+     "verified": true
+    },
+    {
      "date": "2026-10-15",
      "time": "",
      "text": "10/15: Rob part marked done; to confirm in review with Rob.",
@@ -794,10 +806,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-08",
-    "by": "Rob"
+    "date": "2026-10-22",
+    "by": "B Dub"
    },
-   "updateText": "#14 Rob sent Randy R-002: 301 the old article to the 2026 decision framework. On hold while Randy is out sick."
+   "updateText": "Live check 10/22 (box browser): /should-we-outsource-telecom-expense-management/ still returns 200, no 301."
   },
   {
    "id": "15",
@@ -924,6 +936,12 @@
    "nextStep": "Randy: on the SaaS overspending article, link 'Strong SaaS management' (first line under 'What Strong Enterprise SaaS Management Does Differently') to https://tellennium.com/saas-license-management/.",
    "updates": [
     {
+     "date": "2026-10-22",
+     "time": "1:18 PM",
+     "text": "Live check 10/22 (box browser): 'Strong SaaS management' on the overspending article is still plain text, no link. Still waiting on Randy.",
+     "verified": true
+    },
+    {
      "date": "2026-10-21",
      "time": "4:24 PM",
      "text": "Rob re-sent Randy the #17 link request in the 10/21 note.",
@@ -1003,10 +1021,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-21",
-    "by": "Rob"
+    "date": "2026-10-22",
+    "by": "B Dub"
    },
-   "updateText": "#17 Rob re-sent Randy the #17 link request in the 10/21 note."
+   "updateText": "Live check 10/22 (box browser): 'Strong SaaS management' on the overspending article is still plain text, no link. Still waiting on Randy."
   },
   {
    "id": "18",
@@ -1152,7 +1170,7 @@
     "dev": "na"
    },
    "waitingOn": "Randy",
-   "verified": "2026-10-12: /managed-telecom-services/ returns 404",
+   "verified": "2026-10-22: /managed-telecom-services/ returns 404",
    "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Randy.",
    "links": {
     "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1790797144264&OR=EXCEL%2DWEB%2EBODY%2ENT&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1160,6 +1178,12 @@
    },
    "nextStep": "Randy: build /managed-telecom-services/ from the SEO Item 20 copy; then B Dub checks live.",
    "updates": [
+    {
+     "date": "2026-10-22",
+     "time": "1:18 PM",
+     "text": "Live check 10/22 (box browser): /managed-telecom-services/ still 404.",
+     "verified": true
+    },
     {
      "date": "2026-10-21",
      "time": "4:51 PM",
@@ -1209,8 +1233,8 @@
      "verified": true
     }
    ],
-   "lastUpdate": "2026-10-21",
-   "updateText": "Volume note: 2,400 a month is the May 2026 Semrush figure; the July recheck showed 260. Treat 2,400 as unconfirmed until a fresh Semrush pull. An updated page brief is drafted for Rob (internal)."
+   "lastUpdate": "2026-10-22",
+   "updateText": "Live check 10/22 (box browser): /managed-telecom-services/ still 404."
   },
   {
    "id": "21",
@@ -1891,6 +1915,12 @@
    "nextStep": "Randy: make the 9 copy changes listed in How to Execute (sent 10/21). FAQ wording waits for #32.",
    "updates": [
     {
+     "date": "2026-10-22",
+     "time": "1:18 PM",
+     "text": "Live check 10/22 (box browser): none of the 9 edits are live. Old intro, old headings, the Ecosystem section, and the MOT Platform Overview and Access Through ServiceNow sections are all still there. Still waiting on Randy (sent 10/21).",
+     "verified": true
+    },
+    {
      "date": "2026-10-21",
      "time": "4:24 PM",
      "text": "Rob sent Randy the #33 changes (9 edits; FAQ held until #32). Full wording in How to Execute.",
@@ -1911,10 +1941,10 @@
    ],
    "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
    "lastUpdate": {
-    "date": "2026-10-21",
-    "by": "Rob"
+    "date": "2026-10-22",
+    "by": "B Dub"
    },
-   "updateText": "#33 Rob sent Randy the #33 changes (9 edits; FAQ held until #32). Full wording in How to Execute."
+   "updateText": "Live check 10/22 (box browser): none of the 9 edits are live. Old intro, old headings, the Ecosystem section, and the MOT Platform Overview and Access Through ServiceNow sections are all still there. Still waiting on Randy (sent 10/21)."
   },
   {
    "id": "34",
@@ -2000,6 +2030,12 @@
    "nextStep": "Randy: add the one link in each post listed in How to Execute (sent 10/21).",
    "updates": [
     {
+     "date": "2026-10-22",
+     "time": "1:18 PM",
+     "text": "Live check 10/22 (box browser): neither blog post has the new line or link to the service page; \"risks.\" is still there. Still waiting on Randy.",
+     "verified": true
+    },
+    {
      "date": "2026-10-21",
      "time": "4:24 PM",
      "text": "Rob sent Randy the #35 link changes. Meta descriptions checked live: neither uses the phrase, so no meta change needed.",
@@ -2025,10 +2061,10 @@
     }
    ],
    "lastUpdate": {
-    "date": "2026-10-21",
-    "by": "Rob"
+    "date": "2026-10-22",
+    "by": "B Dub"
    },
-   "updateText": "#35 Rob sent Randy the #35 link changes. Meta descriptions checked live: neither uses the phrase, so no meta change needed."
+   "updateText": "Live check 10/22 (box browser): neither blog post has the new line or link to the service page; \"risks.\" is still there. Still waiting on Randy."
   },
   {
    "id": "36",
@@ -2116,10 +2152,15 @@
    "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
   }
  ],
- "lastUpdated": "2026-10-21 4:51 PM ET",
- "updateNote": "10/21 full update: #1, #5 and #36 Completed (verified live); #33 and #35 sent to Randy 4:24 PM; G2 still no reply; Recheck list refreshed.",
+ "lastUpdated": "2026-10-22 1:21 PM ET",
+ "updateNote": "10/22 live checks (1:18 PM, box browser): #9, #17, #33, #35 not live yet (Waiting on Randy); #20 still 404; #14 no 301. ID17 verified live (Published). Short Rob/Randy sync planned later today or Fri 10/23 morning: #33/#35, #9 and #17, plus ID7 posting.",
  "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
  "systemUpdates": [
+  {
+   "date": "2026-10-22",
+   "id": "9, 14, 17, 20, 33, 35",
+   "text": "10/22 1:18 PM live checks logged as verified updates. Recheck list: ID17 now Published (links and FAQ check to do); ID7 still 404; ID18 not live; #9, #17, #33, #35 on the Rob/Randy sync agenda."
+  },
   {
    "date": "2026-10-21",
    "id": "1, 5, 20, 21, 29, 36",
@@ -2280,26 +2321,26 @@
   {
    "ref": "#9",
    "who": "Rob/B Dub",
-   "text": "Rob re-sent the steps 10/21 4:24 PM. Live check 10/21 4:15 PM: /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load (no 301), and no PDF form on the UEM page yet.",
-   "next": "Flag Thu 10/22 if still open. Once Randy says done: verify the form records, the right PDF downloads, and both 301s."
+   "text": "Live check 10/22 1:18 PM: /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load (no redirect), and no PDF form on the take-control UEM page. Re-sent 10/21 4:24 PM.",
+   "next": "On the Rob/Randy sync agenda (later today or Fri 10/23 AM). Once Randy says done: verify the form records, the right PDF downloads, and both 301s."
   },
   {
    "ref": "#17",
    "who": "Randy",
-   "text": "Overspending article: 'Strong SaaS management' still not linked at the 10/21 check. Re-sent 10/21 4:24 PM.",
-   "next": "Randy adds the link to /saas-license-management/; Rob/B Dub verify live."
+   "text": "Overspending article: 'Strong SaaS management' still plain text at the 10/22 1:18 PM check. Re-sent 10/21 4:24 PM.",
+   "next": "On the Rob/Randy sync agenda. Randy adds the link to /saas-license-management/; Rob/B Dub verify live."
   },
   {
    "ref": "#33",
    "who": "Randy",
-   "text": "Nine TEM service page edits sent 10/21 4:24 PM. FAQ answer held until #32 is done.",
-   "next": "Verify the nine edits live once Randy is done; send the FAQ wording after #32."
+   "text": "Nine TEM service page edits sent 10/21 4:24 PM; none live at the 10/22 1:18 PM check. FAQ answer held until #32 is done.",
+   "next": "On the Rob/Randy sync agenda (due 10/23). Verify the nine edits live once Randy is done; send the FAQ wording after #32."
   },
   {
    "ref": "#35",
    "who": "Randy",
-   "text": "Two blog links to the TEM service page sent 10/21 4:24 PM (plus the stray \"risks.\" line).",
-   "next": "Verify both links live once Randy is done."
+   "text": "Two blog links to the TEM service page sent 10/21 4:24 PM (plus the stray \"risks.\" line); neither live at the 10/22 1:18 PM check.",
+   "next": "On the Rob/Randy sync agenda (due 10/23). Verify both links live once Randy is done."
   },
   {
    "ref": "#36",
@@ -2316,20 +2357,20 @@
   {
    "ref": "ID7",
    "who": "Rob/B Dub",
-   "text": "Sent 10/21; Randy posting planned Thu 10/22.",
-   "next": "Verify live 10/22: slug (proposed /best-utility-expense-management-companies/), checklist PDF, the five links. Then mark Published and add the keyword map row."
+   "text": "Sent 10/21; posting planned Thu 10/22. /best-utility-expense-management-companies/ still 404 at 1:18 PM 10/22.",
+   "next": "Verify live once posted: slug, checklist PDF, the five links. Then mark Published and add the keyword map row."
   },
   {
    "ref": "ID18",
    "who": "Rob/B Dub",
-   "text": "Sent to the team 10/20 3:55 PM.",
+   "text": "Sent to the team 10/20 3:55 PM. Not on /articles/ page 1 at the 10/22 1:18 PM check.",
    "next": "Verify live, including the checklist PDF. Then mark Published and add keyword map rows."
   },
   {
    "ref": "ID17",
-   "who": "Rob/B Dub",
-   "text": "Rob sent ID17 to Randy 10/16 ~8:44 AM ET; post note sent 10/16 PM.",
-   "next": "Verify live, then mark Published."
+   "who": "B Dub",
+   "text": "Published: verified live 10/22 1:18 PM at https://tellennium.com/employee-offboarding-the-licenses-youre-still-paying-for/ (newest post on /articles/).",
+   "next": "Check the post's internal links and FAQ."
   },
   {
    "ref": "R-007",
