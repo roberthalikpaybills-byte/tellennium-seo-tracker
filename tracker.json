@@ -2228,8 +2228,8 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-22 1:30 PM ET",
-  "updateNote": "10/22 1:28 PM live checks (box browser): #2 MMS pages, #3 TEM head-term owners and #7 Crunchbase verified live, now Completed (Crunchbase screenshot linked on #7). #11 moved to Needs check: the Buyer's Guide block links to the ungated TEM Guide, no gate or scorecard found; Rob decides. #8 needs Search Console (Rob/Steve). New small Randy fix on the Recheck list: homepage title doubled suffix. Earlier today: 1:24 PM focus note to Randy (#33/#35, #9, #17, plus ID7); Rob/Randy sync later today or Fri 10/23 morning.",
+  "lastUpdated": "2026-10-22 4:40 PM ET",
+  "updateNote": "10/22 4:40 PM: ID7 (sent to Randy to post) and ID20 (sent out) are both Sent (pending publish), not live at the 10/22 4:40 PM WordPress REST check; Recheck list updated. 10/22 1:28 PM live checks (box browser): #2 MMS pages, #3 TEM head-term owners and #7 Crunchbase verified live, now Completed (Crunchbase screenshot linked on #7). #11 moved to Needs check: the Buyer's Guide block links to the ungated TEM Guide, no gate or scorecard found; Rob decides. #8 needs Search Console (Rob/Steve). New small Randy fix on the Recheck list: homepage title doubled suffix. Earlier today: 1:24 PM focus note to Randy (#33/#35, #9, #17, plus ID7); Rob/Randy sync later today or Fri 10/23 morning.",
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
     {
@@ -2449,8 +2449,14 @@
     {
       "ref": "ID7",
       "who": "Rob/B Dub",
-      "text": "Sent 10/21; posting planned Thu 10/22. /best-utility-expense-management-companies/ still 404 at 1:18 PM 10/22.",
+      "text": "Sent (pending publish): sent 10/21 for review, then to Randy to post 10/22. /best-utility-expense-management-companies/ still 404 at 1:18 PM 10/22; not live at the 10/22 4:40 PM WordPress REST check.",
       "next": "Verify live once posted: slug, checklist PDF, the five links. Then mark Published and add the keyword map row."
+    },
+    {
+      "ref": "ID20",
+      "who": "Rob/B Dub",
+      "text": "Sent (pending publish): Rob sent out ID20 (Overlapping SaaS Applications: How to Consolidate Duplicate Tools) 10/22; not live at the 10/22 4:40 PM WordPress REST check.",
+      "next": "Verify live once posted: slug, checklist PDF, the five links. Then mark Published and add the keyword map row (duplicate SaaS applications)."
     },
     {
       "ref": "ID18",
