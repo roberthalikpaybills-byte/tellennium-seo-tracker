@@ -2360,8 +2360,8 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-23 4:22 PM ET",
-  "updateNote": "10/23 4:17 PM: Top three focus for the week of 10/26: #35, #33, #17 (SEO Pipeline at the top). #8 Completed 10/23: Steve agreed to leave all 160 noindexed URLs as is. #11 Completed (confirm gating). ID18 live, verifying (not marked Published).",
+  "lastUpdated": "2026-10-23 4:34 PM ET",
+  "updateNote": "10/23 4:34 PM: Top three focus for the week of 10/26: #4, #6, #35 (SEO Pipeline and Focus: Rob / Randy show the same three). #8 Completed 10/23: Steve agreed to leave all 160 noindexed URLs as is. #11 Completed (confirm gating). ID18 live, verifying (not marked Published).",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2371,22 +2371,44 @@
         "label": "Wk of 10/26",
         "items": [
           {
+            "id": "4",
+            "title": "TEM service page rewrite",
+            "owner": "Randy"
+          },
+          {
+            "id": "6",
+            "title": "Article schema with author markup",
+            "owner": "Randy"
+          },
+          {
             "id": "35",
             "title": "Link two TEM blog posts to the TEM service page",
-            "owner": "Randy"
-          },
-          {
-            "id": "33",
-            "title": "TEM service page copy edits",
-            "owner": "Randy"
-          },
-          {
-            "id": "17",
-            "title": "SaaS overspending article link",
             "owner": "Randy"
           }
         ],
         "final": ""
+      }
+    ],
+    "bench": [
+      {
+        "id": "17",
+        "title": "SaaS overspending article link",
+        "owner": "Randy"
+      },
+      {
+        "id": "33",
+        "title": "TEM service page copy edits",
+        "owner": "Randy"
+      },
+      {
+        "id": "12",
+        "title": "Audit-guide links on the TEM Guide and service page",
+        "owner": "Randy"
+      },
+      {
+        "id": "14",
+        "title": "301 the old outsourced-TEM article to the 2026 decision framework",
+        "owner": "Randy"
       }
     ]
   },
