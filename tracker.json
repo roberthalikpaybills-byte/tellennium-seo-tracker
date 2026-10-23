@@ -405,6 +405,12 @@
       "updates": [
         {
           "date": "2026-10-23",
+          "time": "10:29 AM",
+          "text": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Rob to set the employee count to 185 (Optric) on every platform. The 10/23 Crunchbase screenshot shows 51-100. TIMS cleanup stays Completed.",
+          "verified": false
+        },
+        {
+          "date": "2026-10-23",
           "time": "10:05 AM",
           "text": "Live check 10/23 ~10:05 AM (box browser): public Crunchbase profile still has no 'TIMS' and no 'procurement consulting'. Short description: 'Tellennium manages enterprise telecom, mobility, utility, cloud, and SaaS expenses on its Management of Things® (MoT®) platform.' About says 'Tellennium, an Optric company...'. Logo shows Tellennium with 'An Optric Company'. Products: MoT platform and TEM. Screenshot: /evidence/crunchbase_2026-10-23.png. Verified.",
           "verified": true
@@ -478,9 +484,9 @@
       ],
       "lastUpdate": {
         "date": "2026-10-23",
-        "by": "B Dub"
+        "by": "Meeting 10/23"
       },
-      "updateText": "#7 Live check 10/23 ~10:05 AM (box browser): public Crunchbase profile still has no 'TIMS' and no 'procurement consulting'. Short description: 'Tellennium manages enterprise telecom, mobility, utility, cloud, and SaaS expenses on its Management of Things® (MoT®) platform.' About says 'Tellennium, an Optric company...'. Logo shows Tellennium with 'An Optric Company'. Products: MoT platform and TEM. Screenshot: /evidence/crunchbase_2026-10-23.png. Verified."
+      "updateText": "#7 10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Rob to set the employee count to 185 (Optric) on every platform. The 10/23 Crunchbase screenshot shows 51-100. TIMS cleanup stays Completed."
     },
     {
       "id": "8",
@@ -679,6 +685,12 @@
       "nextStep": "Steve/Ed: finish the outreach to top-provider roundup lists and the Lightyear spelling correction.",
       "updates": [
         {
+          "date": "2026-10-23",
+          "time": "10:29 AM",
+          "text": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): listicles and best-of comparison articles are high priority for AI discoverability; outreach planned to fix the Tellennium misspelling on lists like Lightyear (ties to the next comparison article decision, A-032).",
+          "verified": false
+        },
+        {
           "date": "2026-10-21",
           "time": "1:57 PM",
           "text": "Steve (tracker form): working on outreach to the top providers' lists and getting the Tellennium spelling corrected on Lightyear. Not done yet.",
@@ -698,10 +710,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-21",
-        "by": "Steve"
+        "date": "2026-10-23",
+        "by": "Meeting 10/23"
       },
-      "updateText": "#10 Steve (tracker form): working on outreach to the top providers' lists and getting the Tellennium spelling corrected on Lightyear. Not done yet."
+      "updateText": "#10 10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): listicles and best-of comparison articles are high priority for AI discoverability; outreach planned to fix the Tellennium misspelling on lists like Lightyear (ties to the next comparison article decision, A-032)."
     },
     {
       "id": "11",
@@ -1030,6 +1042,12 @@
       "nextStep": "Randy: on the SaaS overspending article, link 'Strong SaaS management' (first line under 'What Strong Enterprise SaaS Management Does Differently') to https://tellennium.com/saas-license-management/.",
       "updates": [
         {
+          "date": "2026-10-23",
+          "time": "10:29 AM",
+          "text": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Randy reports all new AI SEO posts live and site health and AI discoverability at 100% (Randy reports live, verify). A SaaS FAQ page was named the only remaining site gap; Rob creates it (hub A-041).",
+          "verified": false
+        },
+        {
           "date": "2026-10-22",
           "time": "1:24 PM",
           "text": "Focus note sent to Randy (B Dub for Rob, 'SEO Items: Few Focus Items for Today'): #17 is priority 3, the one link on the SaaS overspending article. Rob/Randy sync soon.",
@@ -1121,10 +1139,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-22",
-        "by": "B Dub"
+        "date": "2026-10-23",
+        "by": "Meeting 10/23"
       },
-      "updateText": "Focus note sent to Randy (B Dub for Rob, 'SEO Items: Few Focus Items for Today'): #17 is priority 3, the one link on the SaaS overspending article. Rob/Randy sync soon."
+      "updateText": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Randy reports all new AI SEO posts live and site health and AI discoverability at 100% (Randy reports live, verify). A SaaS FAQ page was named the only remaining site gap; Rob creates it (hub A-041)."
     },
     {
       "id": "18",
@@ -1366,6 +1384,12 @@
       "updates": [
         {
           "date": "2026-10-23",
+          "time": "10:29 AM",
+          "text": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Shawn sends the NPS survey email to the contact list, with follow-ups to non-responders and completers filtered out (A-036).",
+          "verified": false
+        },
+        {
+          "date": "2026-10-23",
           "time": "10:21 AM",
           "text": "10/23 10:21 AM: Rob emailed Bhuvi Gaikwad (bgaikwad@g2.com), 'Capterra and GetApp listing updates for Tellennium (case #00645739)': match the G2 name 'Tellennium Management of Things (MoT)' and description on Capterra and GetApp, change the /TIMS/ slugs, confirm vendor access, and asked about a Software Advice listing. Context: on 10/13 Bhuvi (SDR) said she can't help with Capterra and pointed to G2 Digital Markets (https://www.g2digitalmarkets.com/) and support.g2.com; the full Capterra/Software Advice/GetApp/G2 suite launches in November. If no reply by Wed 10/28, route via G2 Digital Markets.",
           "verified": true
@@ -1414,7 +1438,7 @@
         }
       ],
       "lastUpdate": "2026-10-23",
-      "updateText": "10/23 10:21 AM: Rob emailed Bhuvi Gaikwad (bgaikwad@g2.com), 'Capterra and GetApp listing updates for Tellennium (case #00645739)': match the G2 name 'Tellennium Management of Things (MoT)' and description on Capterra and GetApp, change the /TIMS/ slugs, confirm vendor access, and asked about a Software Advice listing. Context: on 10/13 Bhuvi (SDR) said she can't help with Capterra and pointed to G2 Digital Markets (https://www.g2digitalmarkets.com/) and support.g2.com; the full Capterra/Software Advice/GetApp/G2 suite launches in November. If no reply by Wed 10/28, route via G2 Digital Markets."
+      "updateText": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Shawn sends the NPS survey email to the contact list, with follow-ups to non-responders and completers filtered out (A-036)."
     },
     {
       "id": "22",
@@ -1805,6 +1829,12 @@
       "updates": [
         {
           "date": "2026-10-23",
+          "time": "10:29 AM",
+          "text": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Rob continues on Crunchbase, Capterra and G2, including the employee count of 185 (Optric) on every platform. CONFLICT: the notes say Capterra was updated with current descriptions and logos, but the 10/23 ~10:14 AM box-browser check found Capterra and GetApp still on the old description and /TIMS/ slugs, pending Bhuvi/G2. Status unchanged.",
+          "verified": false
+        },
+        {
+          "date": "2026-10-23",
           "time": "10:21 AM",
           "text": "10/23 10:21 AM: Rob emailed Bhuvi Gaikwad (bgaikwad@g2.com), 'Capterra and GetApp listing updates for Tellennium (case #00645739)': match the G2 name 'Tellennium Management of Things (MoT)' and description on Capterra and GetApp, change the /TIMS/ slugs, confirm vendor access, and asked about a Software Advice listing. Context: on 10/13 Bhuvi (SDR) said she can't help with Capterra and pointed to G2 Digital Markets (https://www.g2digitalmarkets.com/) and support.g2.com; the full Capterra/Software Advice/GetApp/G2 suite launches in November. If no reply by Wed 10/28, route via G2 Digital Markets.",
           "verified": true
@@ -1865,7 +1895,7 @@
         }
       ],
       "lastUpdate": "2026-10-23",
-      "updateText": "10/23 10:21 AM: Rob emailed Bhuvi Gaikwad (bgaikwad@g2.com), 'Capterra and GetApp listing updates for Tellennium (case #00645739)': match the G2 name 'Tellennium Management of Things (MoT)' and description on Capterra and GetApp, change the /TIMS/ slugs, confirm vendor access, and asked about a Software Advice listing. Context: on 10/13 Bhuvi (SDR) said she can't help with Capterra and pointed to G2 Digital Markets (https://www.g2digitalmarkets.com/) and support.g2.com; the full Capterra/Software Advice/GetApp/G2 suite launches in November. If no reply by Wed 10/28, route via G2 Digital Markets."
+      "updateText": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Rob continues on Crunchbase, Capterra and G2, including the employee count of 185 (Optric) on every platform. CONFLICT: the notes say Capterra was updated with current descriptions and logos, but the 10/23 ~10:14 AM box-browser check found Capterra and GetApp still on the old description and /TIMS/ slugs, pending Bhuvi/G2. Status unchanged."
     },
     {
       "id": "30",
@@ -1940,8 +1970,14 @@
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": ""
       },
-      "nextStep": "Steve: follow up with Loganix and order backlinks.",
+      "nextStep": "Steve: finalize the vetted shortlist with Loganix and place the order (10/23 sync).",
       "updates": [
+        {
+          "date": "2026-10-23",
+          "time": "10:29 AM",
+          "text": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Steve finalizes the vetted backlink shortlist with Loganix (notes: Logantics) and places the order.",
+          "verified": false
+        },
         {
           "date": "2026-10-16",
           "time": "10:31 AM",
@@ -1962,10 +1998,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-16",
-        "by": "Meeting 10/16"
+        "date": "2026-10-23",
+        "by": "Meeting 10/23"
       },
-      "updateText": "#31 Steve to follow up with Loganix and order backlinks."
+      "updateText": "#31 10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Steve finalizes the vetted backlink shortlist with Loganix (notes: Logantics) and places the order."
     },
     {
       "id": "32",
@@ -2300,7 +2336,7 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-23 10:24 AM ET",
+  "lastUpdated": "2026-10-23 1:15 PM ET",
   "updateNote": "10/23 9:55 AM: #11 is Completed (confirm gating), flagged: treated as complete (ungated TEM Guide live); Rob to confirm no gating needed. #8 moved to Needs check, waiting on Steve: Rob emailed him 10/23 9:50 AM for the GSC noindex export. ID18 is live, verifying (not marked Published): links, PDF and FAQs check out; swapped ID17/ID18 images, wrong schema author, a duplicated paragraph block and the newsletter line to fix. 10/23 9:50 AM REST recheck of Randy items (#9, #14, #17, #20, #33, #35, #36, homepage title, R-007): nothing confirmed live; ID7 and ID20 still not posted.",
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
