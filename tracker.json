@@ -496,20 +496,26 @@
       "status": "Needs check",
       "light": "yellow",
       "parties": {
-        "rob": "open",
+        "rob": "done",
         "randy": "done",
-        "steve": "done",
+        "steve": "open",
         "dev": "done"
       },
-      "waitingOn": "Rob (OK to close)",
+      "waitingOn": "Steve (confirm close)",
       "verified": "",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-id-8.vercel.app/"
       },
-      "nextStep": "Rob: OK to mark Completed; B Dub review found no valuable page noindexed.",
+      "nextStep": "Steve: confirm recommendation; then close #8.",
       "updates": [
+        {
+          "date": "2026-10-23",
+          "time": "10:12 AM",
+          "text": "10/23 10:12 AM: Rob emailed Steve Phipps (Re: Quick Search Console export (SEO #8)) with the recommendation: all 160 noindexed URLs are feeds (88), tags (55), search results (13) and 4 other intentional pages; leave as is and close #8. Asked Steve for his thoughts.",
+          "verified": true
+        },
         {
           "date": "2026-10-23",
           "time": "10:08 AM",
@@ -551,7 +557,7 @@
         "date": "2026-10-23",
         "by": "B Dub"
       },
-      "updateText": "#8 10/23 ~10:08 AM: Steve sent the GSC 'Excluded by noindex tag' export (/evidence/GSC_noindex_export_2026-10-23_Steve.xlsx). 160 noindexed URLs as of 10/15: 88 /feed/ copies, 55 /tag/ archives, 13 ?s= search results, 4 others (/tellennium-502sday-at-churchill-downs/, /tellennium-bourbon-tasting/, /agent-hub-and-quarterly-overview/, /demo-sign-up-follow-up/). B Dub review: no article, service page or guide noindexed by mistake. Trend 99 (Aug 4) to 160 (Oct 15), driven by feeds and tags."
+      "updateText": "#8 10/23 10:12 AM: Rob emailed Steve Phipps (Re: Quick Search Console export (SEO #8)) with the recommendation: all 160 noindexed URLs are feeds (88), tags (55), search results (13) and 4 other intentional pages; leave as is and close #8. Asked Steve for his thoughts."
     },
     {
       "id": "9",
@@ -2270,7 +2276,7 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-23 10:12 AM ET",
+  "lastUpdated": "2026-10-23 10:14 AM ET",
   "updateNote": "10/23 9:55 AM: #11 is Completed (confirm gating), flagged: treated as complete (ungated TEM Guide live); Rob to confirm no gating needed. #8 moved to Needs check, waiting on Steve: Rob emailed him 10/23 9:50 AM for the GSC noindex export. ID18 is live, verifying (not marked Published): links, PDF and FAQs check out; swapped ID17/ID18 images, wrong schema author, a duplicated paragraph block and the newsletter line to fix. 10/23 9:50 AM REST recheck of Randy items (#9, #14, #17, #20, #33, #35, #36, homepage title, R-007): nothing confirmed live; ID7 and ID20 still not posted.",
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
@@ -2525,9 +2531,9 @@
     },
     {
       "ref": "Verify",
-      "who": "Rob",
-      "text": "Verify Complete: none left. #8 Needs check: Steve sent the GSC noindex export 10/23 ~10:08 AM; B Dub review found 160 URLs (feeds, tags, search results, 4 event/internal pages), no valuable page noindexed. #1, 5 and 36 verified live 10/21; #2, 3 and 7 verified live 10/22.",
-      "next": "Rob: OK to mark #8 Completed."
+      "who": "Steve",
+      "text": "Verify Complete: none left. #8 Needs check: Steve sent the GSC noindex export 10/23 ~10:08 AM; B Dub review found 160 URLs (feeds, tags, search results, 4 event/internal pages), no valuable page noindexed. Rob emailed Steve the leave-as-is recommendation 10/23 10:12 AM. #1, 5 and 36 verified live 10/21; #2, 3 and 7 verified live 10/22.",
+      "next": "Steve: confirm recommendation; then close #8."
     },
     {
       "ref": "About/AI",
