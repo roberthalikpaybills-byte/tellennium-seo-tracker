@@ -404,6 +404,12 @@
       "doneNote": "10/13: account verified 2:47 PM ET, LinkedIn connected; Rob saved the MoT edits ~3:10 PM ET.",
       "updates": [
         {
+          "date": "2026-10-23",
+          "time": "10:05 AM",
+          "text": "Live check 10/23 ~10:05 AM (box browser): public Crunchbase profile still has no 'TIMS' and no 'procurement consulting'. Short description: 'Tellennium manages enterprise telecom, mobility, utility, cloud, and SaaS expenses on its Management of Things® (MoT®) platform.' About says 'Tellennium, an Optric company...'. Logo shows Tellennium with 'An Optric Company'. Products: MoT platform and TEM. Screenshot: /evidence/crunchbase_2026-10-23.png. Verified.",
+          "verified": true
+        },
+        {
           "date": "2026-10-22",
           "time": "1:28 PM",
           "text": "Live check 10/22 (box browser): public Crunchbase profile has no 'TIMS'. Short and long descriptions use Management of Things® (MoT®) and list current services (telecom, mobility, utility, cloud, SaaS). Optric logo shows, HQ Louisville, KY, website www.tellennium.com, 'Founded in 1999' in the description. Screenshot: /evidence/crunchbase_2026-10-22.png. Verified.",
@@ -471,10 +477,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "by": "B Dub"
       },
-      "updateText": "#7 Live check 10/22 (box browser): public Crunchbase profile has no 'TIMS'. Short and long descriptions use Management of Things® (MoT®) and list current services (telecom, mobility, utility, cloud, SaaS). Optric logo shows, HQ Louisville, KY, website www.tellennium.com, 'Founded in 1999' in the description. Screenshot: /evidence/crunchbase_2026-10-22.png. Verified."
+      "updateText": "#7 Live check 10/23 ~10:05 AM (box browser): public Crunchbase profile still has no 'TIMS' and no 'procurement consulting'. Short description: 'Tellennium manages enterprise telecom, mobility, utility, cloud, and SaaS expenses on its Management of Things® (MoT®) platform.' About says 'Tellennium, an Optric company...'. Logo shows Tellennium with 'An Optric Company'. Products: MoT platform and TEM. Screenshot: /evidence/crunchbase_2026-10-23.png. Verified."
     },
     {
       "id": "8",
@@ -1347,6 +1353,12 @@
       "nextStep": "Greg / Shawn: run review requests through the NPS survey. G2: answer listing case #00645739 (no reply since 10/20).",
       "updates": [
         {
+          "date": "2026-10-23",
+          "time": "10:08 AM",
+          "text": "10/23 10:08 AM: G2 listing name and description verified via Rob's screenshot (/evidence/g2_2026-10-23.png; B Dub's box browser gets G2 403). Product 'Tellennium Management of Things (MoT)', 'By Tellennium, an OPTRIC company', Claimed, 4.9/5 (9), logo with 'An OPTRIC Company'. New description covers telecom, mobility, utility and cloud expenses plus SaaS licenses, the MoT platform and SaaS license management services. No TIMS in the visible top section. Lower page and review titles not checked. Still open: Capterra /p/86514/TIMS/ slug and G2 case #00645739.",
+          "verified": true
+        },
+        {
           "date": "2026-10-21",
           "time": "4:51 PM",
           "text": "10/21 check: G2 case #00645739 still has no reply (expected 10/20). Capterra, GetApp and Software Advice stay parked behind it.",
@@ -1377,8 +1389,8 @@
           "verified": true
         }
       ],
-      "lastUpdate": "2026-10-21",
-      "updateText": "10/21 check: G2 case #00645739 still has no reply (expected 10/20). Capterra, GetApp and Software Advice stay parked behind it."
+      "lastUpdate": "2026-10-23",
+      "updateText": "10/23 10:08 AM: G2 listing name and description verified via Rob's screenshot (/evidence/g2_2026-10-23.png; B Dub's box browser gets G2 403). Product 'Tellennium Management of Things (MoT)', 'By Tellennium, an OPTRIC company', Claimed, 4.9/5 (9), logo with 'An OPTRIC Company'. New description covers telecom, mobility, utility and cloud expenses plus SaaS licenses, the MoT platform and SaaS license management services. No TIMS in the visible top section. Lower page and review titles not checked. Still open: Capterra /p/86514/TIMS/ slug and G2 case #00645739."
     },
     {
       "id": "22",
@@ -1768,6 +1780,12 @@
       "nextStep": "G2: answer case #00645739 (no reply since 10/20). Rob part done; Capterra, GetApp and Software Advice parked (vendor login failed), ask G2 whether the case carries over.",
       "updates": [
         {
+          "date": "2026-10-23",
+          "time": "10:08 AM",
+          "text": "10/23 10:08 AM: G2 listing name and description verified via Rob's screenshot (/evidence/g2_2026-10-23.png; B Dub's box browser gets G2 403). Product 'Tellennium Management of Things (MoT)', 'By Tellennium, an OPTRIC company', Claimed, 4.9/5 (9), logo with 'An OPTRIC Company'. New description covers telecom, mobility, utility and cloud expenses plus SaaS licenses, the MoT platform and SaaS license management services. No TIMS in the visible top section. Lower page and review titles not checked. Still open: Capterra /p/86514/TIMS/ slug and G2 case #00645739.",
+          "verified": true
+        },
+        {
           "date": "2026-10-21",
           "time": "4:51 PM",
           "text": "10/21 check: G2 case #00645739 still has no reply (expected 10/20). Capterra, GetApp and Software Advice stay parked behind it.",
@@ -1810,8 +1828,8 @@
           "verified": true
         }
       ],
-      "lastUpdate": "2026-10-21",
-      "updateText": "10/21 check: G2 case #00645739 still has no reply (expected 10/20). Capterra, GetApp and Software Advice stay parked behind it."
+      "lastUpdate": "2026-10-23",
+      "updateText": "10/23 10:08 AM: G2 listing name and description verified via Rob's screenshot (/evidence/g2_2026-10-23.png; B Dub's box browser gets G2 403). Product 'Tellennium Management of Things (MoT)', 'By Tellennium, an OPTRIC company', Claimed, 4.9/5 (9), logo with 'An OPTRIC Company'. New description covers telecom, mobility, utility and cloud expenses plus SaaS licenses, the MoT platform and SaaS license management services. No TIMS in the visible top section. Lower page and review titles not checked. Still open: Capterra /p/86514/TIMS/ slug and G2 case #00645739."
     },
     {
       "id": "30",
@@ -2246,7 +2264,7 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-23 9:55 AM ET",
+  "lastUpdated": "2026-10-23 10:10 AM ET",
   "updateNote": "10/23 9:55 AM: #11 is Completed (confirm gating), flagged: treated as complete (ungated TEM Guide live); Rob to confirm no gating needed. #8 moved to Needs check, waiting on Steve: Rob emailed him 10/23 9:50 AM for the GSC noindex export. ID18 is live, verifying (not marked Published): links, PDF and FAQs check out; swapped ID17/ID18 images, wrong schema author, a duplicated paragraph block and the newsletter line to fix. 10/23 9:50 AM REST recheck of Randy items (#9, #14, #17, #20, #33, #35, #36, homepage title, R-007): nothing confirmed live; ID7 and ID20 still not posted.",
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
