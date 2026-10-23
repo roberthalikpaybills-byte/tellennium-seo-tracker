@@ -1355,15 +1355,27 @@
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Greg / Shawn · G2 (no reply since 10/20)",
+      "waitingOn": "Greg / Shawn · Bhuvi/G2 (Capterra/GetApp emailed 10/23)",
       "verified": "",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": ""
       },
-      "nextStep": "Greg / Shawn: run review requests through the NPS survey. G2: answer listing case #00645739 (no reply since 10/20).",
+      "nextStep": "Greg / Shawn: run review requests through the NPS survey. Bhuvi/G2: Capterra/GetApp name, description and /TIMS/ slugs (Rob emailed 10/23 10:21 AM); if no reply by Wed 10/28, route via G2 Digital Markets.",
       "updates": [
+        {
+          "date": "2026-10-23",
+          "time": "10:21 AM",
+          "text": "10/23 10:21 AM: Rob emailed Bhuvi Gaikwad (bgaikwad@g2.com), 'Capterra and GetApp listing updates for Tellennium (case #00645739)': match the G2 name 'Tellennium Management of Things (MoT)' and description on Capterra and GetApp, change the /TIMS/ slugs, confirm vendor access, and asked about a Software Advice listing. Context: on 10/13 Bhuvi (SDR) said she can't help with Capterra and pointed to G2 Digital Markets (https://www.g2digitalmarkets.com/) and support.g2.com; the full Capterra/Software Advice/GetApp/G2 suite launches in November. If no reply by Wed 10/28, route via G2 Digital Markets.",
+          "verified": true
+        },
+        {
+          "date": "2026-10-23",
+          "time": "10:14 AM",
+          "text": "10/23 ~10:14 AM (box browser): Capterra https://www.capterra.com/p/86514/TIMS/ product renamed 'Management of Things' (4.6, 7 reviews); slug still /TIMS/; description still old (TEM company, AOTMP 2021 award, no cloud/SaaS/Optric); no 'Tellennium' in the name, so a Capterra search for Tellennium doesn't find it. GetApp https://www.getapp.com/it-communications-software/a/tims/ has the same listing and reviews, slug /tims/. Software Advice: no listing found. Screenshots: /evidence/capterra_2026-10-23.png, /evidence/getapp_2026-10-23.png, /evidence/softwareadvice_2026-10-23.png.",
+          "verified": true
+        },
         {
           "date": "2026-10-23",
           "time": "10:08 AM",
@@ -1402,7 +1414,7 @@
         }
       ],
       "lastUpdate": "2026-10-23",
-      "updateText": "10/23 10:08 AM: G2 listing name and description verified via Rob's screenshot (/evidence/g2_2026-10-23.png; B Dub's box browser gets G2 403). Product 'Tellennium Management of Things (MoT)', 'By Tellennium, an OPTRIC company', Claimed, 4.9/5 (9), logo with 'An OPTRIC Company'. New description covers telecom, mobility, utility and cloud expenses plus SaaS licenses, the MoT platform and SaaS license management services. No TIMS in the visible top section. Lower page and review titles not checked. Still open: Capterra /p/86514/TIMS/ slug and G2 case #00645739."
+      "updateText": "10/23 10:21 AM: Rob emailed Bhuvi Gaikwad (bgaikwad@g2.com), 'Capterra and GetApp listing updates for Tellennium (case #00645739)': match the G2 name 'Tellennium Management of Things (MoT)' and description on Capterra and GetApp, change the /TIMS/ slugs, confirm vendor access, and asked about a Software Advice listing. Context: on 10/13 Bhuvi (SDR) said she can't help with Capterra and pointed to G2 Digital Markets (https://www.g2digitalmarkets.com/) and support.g2.com; the full Capterra/Software Advice/GetApp/G2 suite launches in November. If no reply by Wed 10/28, route via G2 Digital Markets."
     },
     {
       "id": "22",
@@ -1782,15 +1794,27 @@
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "G2 (no reply since 10/20)",
+      "waitingOn": "Bhuvi/G2 (Capterra/GetApp emailed 10/23)",
       "verified": "",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": ""
       },
-      "nextStep": "G2: answer case #00645739 (no reply since 10/20). Rob part done; Capterra, GetApp and Software Advice parked (vendor login failed), ask G2 whether the case carries over.",
+      "nextStep": "Bhuvi/G2: match the G2 name and description on Capterra and GetApp, change the /TIMS/ slugs, confirm vendor access, answer on Software Advice (Rob emailed 10/23 10:21 AM). If no reply by Wed 10/28, route via G2 Digital Markets (https://www.g2digitalmarkets.com/).",
       "updates": [
+        {
+          "date": "2026-10-23",
+          "time": "10:21 AM",
+          "text": "10/23 10:21 AM: Rob emailed Bhuvi Gaikwad (bgaikwad@g2.com), 'Capterra and GetApp listing updates for Tellennium (case #00645739)': match the G2 name 'Tellennium Management of Things (MoT)' and description on Capterra and GetApp, change the /TIMS/ slugs, confirm vendor access, and asked about a Software Advice listing. Context: on 10/13 Bhuvi (SDR) said she can't help with Capterra and pointed to G2 Digital Markets (https://www.g2digitalmarkets.com/) and support.g2.com; the full Capterra/Software Advice/GetApp/G2 suite launches in November. If no reply by Wed 10/28, route via G2 Digital Markets.",
+          "verified": true
+        },
+        {
+          "date": "2026-10-23",
+          "time": "10:14 AM",
+          "text": "10/23 ~10:14 AM (box browser): Capterra https://www.capterra.com/p/86514/TIMS/ product renamed 'Management of Things' (4.6, 7 reviews); slug still /TIMS/; description still old (TEM company, AOTMP 2021 award, no cloud/SaaS/Optric); no 'Tellennium' in the name, so a Capterra search for Tellennium doesn't find it. GetApp https://www.getapp.com/it-communications-software/a/tims/ has the same listing and reviews, slug /tims/. Software Advice: no listing found. Screenshots: /evidence/capterra_2026-10-23.png, /evidence/getapp_2026-10-23.png, /evidence/softwareadvice_2026-10-23.png.",
+          "verified": true
+        },
         {
           "date": "2026-10-23",
           "time": "10:08 AM",
@@ -1841,7 +1865,7 @@
         }
       ],
       "lastUpdate": "2026-10-23",
-      "updateText": "10/23 10:08 AM: G2 listing name and description verified via Rob's screenshot (/evidence/g2_2026-10-23.png; B Dub's box browser gets G2 403). Product 'Tellennium Management of Things (MoT)', 'By Tellennium, an OPTRIC company', Claimed, 4.9/5 (9), logo with 'An OPTRIC Company'. New description covers telecom, mobility, utility and cloud expenses plus SaaS licenses, the MoT platform and SaaS license management services. No TIMS in the visible top section. Lower page and review titles not checked. Still open: Capterra /p/86514/TIMS/ slug and G2 case #00645739."
+      "updateText": "10/23 10:21 AM: Rob emailed Bhuvi Gaikwad (bgaikwad@g2.com), 'Capterra and GetApp listing updates for Tellennium (case #00645739)': match the G2 name 'Tellennium Management of Things (MoT)' and description on Capterra and GetApp, change the /TIMS/ slugs, confirm vendor access, and asked about a Software Advice listing. Context: on 10/13 Bhuvi (SDR) said she can't help with Capterra and pointed to G2 Digital Markets (https://www.g2digitalmarkets.com/) and support.g2.com; the full Capterra/Software Advice/GetApp/G2 suite launches in November. If no reply by Wed 10/28, route via G2 Digital Markets."
     },
     {
       "id": "30",
@@ -2276,7 +2300,7 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-23 10:14 AM ET",
+  "lastUpdated": "2026-10-23 10:24 AM ET",
   "updateNote": "10/23 9:55 AM: #11 is Completed (confirm gating), flagged: treated as complete (ungated TEM Guide live); Rob to confirm no gating needed. #8 moved to Needs check, waiting on Steve: Rob emailed him 10/23 9:50 AM for the GSC noindex export. ID18 is live, verifying (not marked Published): links, PDF and FAQs check out; swapped ID17/ID18 images, wrong schema author, a duplicated paragraph block and the newsletter line to fix. 10/23 9:50 AM REST recheck of Randy items (#9, #14, #17, #20, #33, #35, #36, homepage title, R-007): nothing confirmed live; ID7 and ID20 still not posted.",
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
