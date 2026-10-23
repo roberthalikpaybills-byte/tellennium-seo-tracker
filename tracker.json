@@ -200,18 +200,24 @@
       "parties": {
         "rob": "done",
         "randy": "open",
-        "steve": "open",
+        "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Steve",
+      "waitingOn": "Randy",
       "verified": "2026-10-08: live check OK (small copy glitch)",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoactionitem4temservicepageimpleme.vercel.app/"
       },
-      "nextStep": "Steve: run the live URL test on /telecom-expense-management/ (first paragraph still says TEM services; see #33). Randy implements the intro fix with #33.",
+      "nextStep": "Randy: in the intro, change 'Our TEM services' to 'telecom expense management services' (same edit as the #33 intro), and add the homepage link to this page with the anchor 'telecom expense management services'. Then B Dub checks the page live.",
       "updates": [
+        {
+          "date": "2026-10-23",
+          "time": "4:56 PM",
+          "text": "10/23 4:56 PM: B Dub live check in the box browser (www redirects to tellennium.com): title and H1 carry 'telecom expense management services', Request a Demo above the fold, 28% and MoT present, robots index/follow, canonical OK, TEM Guide links here with the exact anchor. Still open (Randy): the intro says 'Our TEM services', and the homepage has no link with the exact anchor. The Search Console live URL test was a site-wide check that Google gets past the site's security check (homepage and a blog post), not a #4 step; it moves off #4 and stays with Steve for after 10/26 (Rob 4:48 PM).",
+          "verified": true
+        },
         {
           "date": "2026-10-13",
           "time": "6:36 PM",
@@ -243,7 +249,12 @@
           "verified": true
         }
       ],
-      "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both."
+      "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
+      "lastUpdate": {
+        "date": "2026-10-23",
+        "by": "B Dub"
+      },
+      "updateText": "#4 10/23 4:56 PM: B Dub live check in the box browser (www redirects to tellennium.com): title and H1 carry 'telecom expense management services', Request a Demo above the fold, 28% and MoT present, robots index/follow, canonical OK, TEM Guide links here with the exact anchor. Still open (Randy): the intro says 'Our TEM services', and the homepage has no link with the exact anchor. The Search Console live URL test was a site-wide check that Google gets past the site's security check (homepage and a blog post), not a #4 step; it moves off #4 and stays with Steve for after 10/26 (Rob 4:48 PM)."
     },
     {
       "id": "5",
@@ -2360,8 +2371,8 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-23 4:34 PM ET",
-  "updateNote": "10/23 4:34 PM: Top three focus for the week of 10/26: #4, #6, #35 (SEO Pipeline and Focus: Rob / Randy show the same three). #8 Completed 10/23: Steve agreed to leave all 160 noindexed URLs as is. #11 Completed (confirm gating). ID18 live, verifying (not marked Published).",
+  "lastUpdated": "2026-10-23 4:57 PM ET",
+  "updateNote": "10/23 4:57 PM: Top three focus for the week of 10/26: #4, #6, #35 (SEO Pipeline and Focus: Rob / Randy show the same three). #4 no longer waits on Steve: Randy does the intro fix and the homepage link. #8 Completed 10/23: Steve agreed to leave all 160 noindexed URLs as is. #11 Completed (confirm gating). ID18 live, verifying (not marked Published).",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
