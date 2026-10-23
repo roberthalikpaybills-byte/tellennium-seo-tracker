@@ -2360,8 +2360,38 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-23 4:10 PM ET",
-  "updateNote": "10/23 9:55 AM: #11 is Completed (confirm gating), flagged: treated as complete (ungated TEM Guide live); Rob to confirm no gating needed. #8 moved to Needs check, waiting on Steve: Rob emailed him 10/23 9:50 AM for the GSC noindex export. ID18 is live, verifying (not marked Published): links, PDF and FAQs check out; swapped ID17/ID18 images, wrong schema author, a duplicated paragraph block and the newsletter line to fix. 10/23 9:50 AM REST recheck of Randy items (#9, #14, #17, #20, #33, #35, #36, homepage title, R-007): nothing confirmed live; ID7 and ID20 still not posted.",
+  "lastUpdated": "2026-10-23 4:17 PM ET",
+  "updateNote": "10/23 4:17 PM: Next week's close-out goal set with Randy (week of 10/26): #35, #33, #17. #8 Completed 10/23: Steve agreed to leave all 160 noindexed URLs as is. #11 Completed (confirm gating). ID18 live, verifying (not marked Published).",
+  "weekGoal": {
+    "title": "Next week's close-out goal: 3 items (week of 10/26)",
+    "note": "Rob and Randy close at least three SEO items a week to full green, so nothing lingers. Set 10/23 by Rob. Full green = the change is live, B Dub verifies it on the live site, and every chip is Done.",
+    "items": [
+      {
+        "id": "35",
+        "title": "Link two TEM blog posts to the TEM service page",
+        "why": "HIGH, due 10/23 (overdue); smallest job: one sentence and one link in each of two posts, exact wording sent 10/21.",
+        "green": "Both posts (5 Ways TEM Supports Digital Transformation; 7 Ways to Streamline with ServiceNow) show the new sentence with 'telecom expense management services' linked to /telecom-expense-management/, the demo link kept, and the stray 'risks.' line removed.",
+        "randy": "Make the two edits in WordPress and tell Rob when they are up.",
+        "rob": "B Dub checks both posts live; Rob marks #35 Completed."
+      },
+      {
+        "id": "33",
+        "title": "TEM service page copy realignment (9 edits)",
+        "why": "HIGH, due 10/23 (overdue); one page, exact wording for all 9 edits sent 10/21; also clears the intro fix #4 is waiting on.",
+        "green": "All 9 edits in How to Execute are live on /telecom-expense-management/ (intro, two headings, platform intro, results dropdown, Ecosystem section replaced, ServiceNow section shortened, the two repeat sections removed, image alt text). The FAQ answer stays with #32 and is not part of this week.",
+        "randy": "Make the 9 edits in WordPress; flag any wording that will not fit.",
+        "rob": "B Dub checks the page live against the 9 edits; Rob marks #33 Completed."
+      },
+      {
+        "id": "17",
+        "title": "SaaS cluster: the last link on the SaaS overspending article",
+        "why": "HIGH, due Sep 25 (overdue); mostly done: the ID10 to ID13 spokes were verified live 10/12 to 10/15, and the one remaining step is a single link (asked 10/21 and 10/22).",
+        "green": "On the SaaS overspending article, 'Strong SaaS management' (first line under 'What Strong Enterprise SaaS Management Does Differently') links to https://tellennium.com/saas-license-management/, and the spokes are still live and linked from the SaaS Guide.",
+        "randy": "Add the one link.",
+        "rob": "B Dub checks the link and the spoke links live; Rob marks #17 Completed."
+      }
+    ]
+  },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
     {
