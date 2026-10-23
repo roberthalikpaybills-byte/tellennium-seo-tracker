@@ -663,27 +663,33 @@
       "action": "Submit Tellennium for inclusion in the 2026 TEM/MMS buyer's-guide roundups AI cites.",
       "howTo": "Outreach to get Tellennium correctly listed in the roundups AI synthesizes: lightyear.ai, projectmanagers.net, convertermax.com, sociumit.com.\n1) First, ask lightyear.ai to correct the misspelled 'Tellenium' listing (correction note drafted; Steve's call).\n2) Send each a short accurate blurb (services, MoT, Gartner/AOTMP recognition) and a logo.\nDone when: Tellennium is correctly listed in at least 3 roundups.",
       "page": "Target roundup publications\nGoal: AI citations + referral links",
-      "owner": "Rob",
+      "owner": "Steve / Ed Green",
       "due": "Oct 27",
       "week": "Wk 06 (Aug 4-8)",
       "sheetStatus": "Not started",
-      "status": "In progress",
+      "status": "Waiting",
       "light": "yellow",
       "parties": {
-        "rob": "open",
+        "rob": "done",
         "randy": "na",
         "steve": "open",
         "dev": "na"
       },
-      "waitingOn": "Rob (due 10/27)",
+      "waitingOn": "Steve / Ed (Steve out the week of 10/26)",
       "verified": "",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": ""
       },
-      "nextStep": "Rob: directory and provider listings by Tue 10/27: Crunchbase, Capterra and G2 (employee count 185, Optric, everywhere; Capterra/GetApp also with Bhuvi), plus the roundup outreach and Lightyear spelling fix with Steve.",
+      "nextStep": "Steve/Wayfind: outreach to the top-provider roundup lists and the Lightyear spelling fix, from the blurb Rob emailed 10/15. Due Oct 27 is from the 1:1 AI notes. Rob's listing cleanup (employee count 185 on Crunchbase, Capterra, G2) is on the hub as A-046 and under #29.",
       "updates": [
+        {
+          "date": "2026-10-23",
+          "time": "1:30 PM",
+          "text": "10/23 transcript check (1:30 PM): ownership corrected. Steve/Wayfind runs #10, not Rob. 10/21 1:1, Steve: 'You emailed me that blurb last week. So we'll run with that on our end.' 10/23 meeting, Steve: 'a list of other articles and whatnot that we're going to try to reach out to in the weeks and see if we can't get Telenium listed there.' Rob's part (blurb) was done 10/15. Transcript: hub meetings folder.",
+          "verified": false
+        },
         {
           "date": "2026-10-23",
           "time": "10:29 AM",
@@ -717,9 +723,9 @@
       ],
       "lastUpdate": {
         "date": "2026-10-23",
-        "by": "Meeting 10/23"
+        "by": "Transcript check 10/23"
       },
-      "updateText": "#10 10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): listicles and best-of comparison articles are high priority for AI discoverability; outreach planned to fix the Tellennium misspelling on lists like Lightyear (ties to the next comparison article decision, A-032)."
+      "updateText": "#10 10/23 transcript check (1:30 PM): ownership corrected. Steve/Wayfind runs #10, not Rob. 10/21 1:1, Steve: 'You emailed me that blurb last week. So we'll run with that on our end.' 10/23 meeting, Steve: 'a list of other articles and whatnot that we're going to try to reach out to in the weeks and see if we can't get Telenium listed there.' Rob's part (blurb) was done 10/15. Transcript: hub meetings folder."
     },
     {
       "id": "11",
@@ -1969,15 +1975,21 @@
         "steve": "open",
         "dev": "na"
       },
-      "waitingOn": "Steve",
+      "waitingOn": "Loganix (more options), then Steve orders",
       "verified": "",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": ""
       },
-      "nextStep": "Steve: finalize the vetted shortlist with Loganix and place the order (10/23 sync).",
+      "nextStep": "Steve: get Loganix's additional options, then place the order (10/23 transcript: 'waiting on them to get back to me with a few additional options so I can get something ordered'). Steve is out the week of 10/26.",
       "updates": [
+        {
+          "date": "2026-10-23",
+          "time": "1:30 PM",
+          "text": "10/23 transcript check (1:30 PM): vendor is Loganix (the transcript says 'Logantics'; Steve's 10/15 update and the 10/16 agenda say Loganix). Steve: 'waiting on them to get back to me with a few additional options so I can get something ordered.'",
+          "verified": false
+        },
         {
           "date": "2026-10-23",
           "time": "10:29 AM",
@@ -2005,9 +2017,9 @@
       ],
       "lastUpdate": {
         "date": "2026-10-23",
-        "by": "Meeting 10/23"
+        "by": "Transcript check 10/23"
       },
-      "updateText": "#31 10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Steve finalizes the vetted backlink shortlist with Loganix (notes: Logantics) and places the order."
+      "updateText": "#31 10/23 transcript check (1:30 PM): vendor is Loganix (the transcript says 'Logantics'; Steve's 10/15 update and the 10/16 agenda say Loganix). Steve: 'waiting on them to get back to me with a few additional options so I can get something ordered.'"
     },
     {
       "id": "32",
@@ -2342,7 +2354,7 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-23 1:10 PM ET",
+  "lastUpdated": "2026-10-23 1:30 PM ET",
   "updateNote": "10/23 9:55 AM: #11 is Completed (confirm gating), flagged: treated as complete (ungated TEM Guide live); Rob to confirm no gating needed. #8 moved to Needs check, waiting on Steve: Rob emailed him 10/23 9:50 AM for the GSC noindex export. ID18 is live, verifying (not marked Published): links, PDF and FAQs check out; swapped ID17/ID18 images, wrong schema author, a duplicated paragraph block and the newsletter line to fix. 10/23 9:50 AM REST recheck of Randy items (#9, #14, #17, #20, #33, #35, #36, homepage title, R-007): nothing confirmed live; ID7 and ID20 still not posted.",
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
