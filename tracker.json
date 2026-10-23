@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -487,23 +487,35 @@
       "due": "Jul 18",
       "week": "Wk 03 (Jul 14-18)",
       "sheetStatus": "Done",
-      "status": "Verify Complete",
-      "light": "vgreen",
+      "status": "Needs check",
+      "light": "yellow",
       "parties": {
         "rob": "done",
         "randy": "done",
-        "steve": "na",
+        "steve": "open",
         "dev": "done"
       },
-      "waitingOn": "Verify Complete · Rob/B Dub",
+      "waitingOn": "Steve (GSC export requested 10/23)",
       "verified": "",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-id-8.vercel.app/"
       },
-      "nextStep": "Rob/B Dub: verify in GSC (noindex audit) and confirm with Steve.",
+      "nextStep": "Steve: export GSC Pages > Excluded by noindex tag list and send to Rob/B Dub; B Dub sorts intentional vs mistakes.",
       "updates": [
+        {
+          "date": "2026-10-23",
+          "time": "9:55 AM",
+          "text": "10/23: GSC export owner is now Steve (Rob has no Search Console access). Steve exports GSC Pages > Excluded by noindex tag and sends it to Rob/B Dub; B Dub sorts intentional vs mistakes.",
+          "verified": false
+        },
+        {
+          "date": "2026-10-23",
+          "time": "9:50 AM",
+          "text": "10/23 9:50 AM: Rob emailed Steve Phipps (steve@wayfindmarketing.com) asking for the GSC 'Excluded by noindex tag' export (source: Rob's bcc'd email).",
+          "verified": true
+        },
         {
           "date": "2026-10-22",
           "time": "1:28 PM",
@@ -524,10 +536,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "by": "B Dub"
       },
-      "updateText": "#8 10/22: needs Search Console (Rob/Steve); B Dub can't verify from the site."
+      "updateText": "#8 10/23: Rob emailed Steve Phipps 9:50 AM for the GSC 'Excluded by noindex tag' export (Rob has no Search Console access). Steve sends it to Rob/B Dub; B Dub sorts intentional vs mistakes."
     },
     {
       "id": "9",
@@ -684,23 +696,29 @@
       "due": "Aug 28",
       "week": "Wk 09 (Aug 25-29)",
       "sheetStatus": "Done",
-      "status": "Needs check",
-      "light": "yellow",
+      "status": "Completed (confirm gating)",
+      "light": "vgreen",
       "parties": {
         "rob": "open",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob",
+      "waitingOn": "Rob (confirm gating)",
       "verified": "2026-10-22: Buyer's Guide block links to the ungated TEM Guide; no gate or scorecard found",
-      "sheetDiff": "",
+      "sheetDiff": "Sheet says Done; dashboard shows Completed (confirm gating). Treated as complete; Rob to confirm no gating needed.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoid11tembuyersguideimplementation.vercel.app/"
       },
-      "nextStep": "Rob: decide whether the ungated guide counts as done or the gated Buyer's Guide/scorecard is still wanted.",
+      "nextStep": "Rob: confirm no gating needed (otherwise reopen).",
       "updates": [
+        {
+          "date": "2026-10-23",
+          "time": "9:55 AM",
+          "text": "10/23: Treated as complete: ungated TEM Guide is live and Tellennium hasn't been gating content. Original spec called for a gated guide/scorecard; Rob to confirm whether gating is wanted.",
+          "verified": false
+        },
         {
           "date": "2026-10-22",
           "time": "1:28 PM",
@@ -715,10 +733,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-22",
+        "date": "2026-10-23",
         "by": "B Dub"
       },
-      "updateText": "#11 Live check 10/22 (box browser): the TEM service page has a 'TEM Buyer's Guide' block whose 'Get the Report' button goes to /your-guide-to-telecom-expense-management/, an ungated web page. No form gate found and no vendor evaluation scorecard found. The TEM Guide itself shows 'Read Below or Download the Report PDF' but no visible Buyer's Guide block. Needs check."
+      "updateText": "#11 10/23: Treated as complete: ungated TEM Guide is live and Tellennium hasn't been gating content. Original spec called for a gated guide/scorecard; Rob to confirm whether gating is wanted."
     },
     {
       "id": "12",
@@ -2228,10 +2246,15 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-22 4:40 PM ET",
-  "updateNote": "10/22 4:40 PM: ID7 (sent to Randy to post) and ID20 (sent out) are both Sent (pending publish), not live at the 10/22 4:40 PM WordPress REST check; Recheck list updated. 10/22 1:28 PM live checks (box browser): #2 MMS pages, #3 TEM head-term owners and #7 Crunchbase verified live, now Completed (Crunchbase screenshot linked on #7). #11 moved to Needs check: the Buyer's Guide block links to the ungated TEM Guide, no gate or scorecard found; Rob decides. #8 needs Search Console (Rob/Steve). New small Randy fix on the Recheck list: homepage title doubled suffix. Earlier today: 1:24 PM focus note to Randy (#33/#35, #9, #17, plus ID7); Rob/Randy sync later today or Fri 10/23 morning.",
+  "lastUpdated": "2026-10-23 9:55 AM ET",
+  "updateNote": "10/23 9:55 AM: #11 is Completed (confirm gating), flagged: treated as complete (ungated TEM Guide live); Rob to confirm no gating needed. #8 moved to Needs check, waiting on Steve: Rob emailed him 10/23 9:50 AM for the GSC noindex export. ID18 is live, verifying (not marked Published): links, PDF and FAQs check out; swapped ID17/ID18 images, wrong schema author, a duplicated paragraph block and the newsletter line to fix. 10/23 9:50 AM REST recheck of Randy items (#9, #14, #17, #20, #33, #35, #36, homepage title, R-007): nothing confirmed live; ID7 and ID20 still not posted.",
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-10-23",
+      "id": "8, 11",
+      "text": "10/23 9:55 AM: #11 Completed (confirm gating), flagged for Rob. #8 to Needs check, Rob emailed Steve 10/23 9:50 AM for the GSC noindex export. Blog ID18 live, verifying (Recheck list). REST recheck of open Randy items and ID7/ID20: no changes live."
+    },
     {
       "date": "2026-10-22",
       "id": "2, 3, 7, 8, 11",
@@ -2407,37 +2430,37 @@
     {
       "ref": "#9",
       "who": "Rob/B Dub",
-      "text": "Live check 10/22 1:18 PM: /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load (no redirect), and no PDF form on the take-control UEM page. Re-sent 10/21 4:24 PM.",
+      "text": "Live check 10/22 1:18 PM: /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load (no redirect), and no PDF form on the take-control UEM page. Re-sent 10/21 4:24 PM. Checked 10/23 9:50 AM (REST): both old URLs still return their own content; take-control page last modified 10/14, so no change.",
       "next": "On the Rob/Randy sync agenda (later today or Fri 10/23 AM). Once Randy says done: verify the form records, the right PDF downloads, and both 301s."
     },
     {
       "ref": "#17",
       "who": "Randy",
-      "text": "Overspending article: 'Strong SaaS management' still plain text at the 10/22 1:18 PM check. Re-sent 10/21 4:24 PM.",
+      "text": "Overspending article: 'Strong SaaS management' still plain text at the 10/22 1:18 PM check. Re-sent 10/21 4:24 PM. Checked 10/23 9:50 AM (REST): still unlinked.",
       "next": "On the Rob/Randy sync agenda. Randy adds the link to /saas-license-management/; Rob/B Dub verify live."
     },
     {
       "ref": "#33",
       "who": "Randy",
-      "text": "Nine TEM service page edits sent 10/21 4:24 PM; none live at the 10/22 1:18 PM check. FAQ answer held until #32 is done.",
+      "text": "Nine TEM service page edits sent 10/21 4:24 PM; none live at the 10/22 1:18 PM check. FAQ answer held until #32 is done. Checked 10/23 9:50 AM (REST): page last modified 10/16; intro, Ecosystem, MOT Platform Overview and Access Through ServiceNow sections unchanged, so none live.",
       "next": "On the Rob/Randy sync agenda (due 10/23). Verify the nine edits live once Randy is done; send the FAQ wording after #32."
     },
     {
       "ref": "#35",
       "who": "Randy",
-      "text": "Two blog links to the TEM service page sent 10/21 4:24 PM (plus the stray \"risks.\" line); neither live at the 10/22 1:18 PM check.",
+      "text": "Two blog links to the TEM service page sent 10/21 4:24 PM (plus the stray \"risks.\" line); neither live at the 10/22 1:18 PM check. Checked 10/23 9:50 AM (REST): both posts last modified 10/14, so not live.",
       "next": "On the Rob/Randy sync agenda (due 10/23). Verify both links live once Randy is done."
     },
     {
       "ref": "#36",
       "who": "Randy",
-      "text": "Leftover: hidden link text 'Telecom Expence Management – Implementation of Outsourced TEM' on the TEM Guide. Sent 10/21 4:24 PM.",
+      "text": "Leftover: hidden link text 'Telecom Expence Management – Implementation of Outsourced TEM' on the TEM Guide. Sent 10/21 4:24 PM. Checked 10/23 9:50 AM: the TEM Guide was edited 10/23 about 6:54 AM ET, but a site search for 'Expence' still returns it (and the TEM FAQ post).",
       "next": "Check the page code once Randy fixes it."
     },
     {
       "ref": "Homepage title",
       "who": "Randy",
-      "text": "Live check 10/22 1:28 PM (found during #3): homepage title shows a doubled suffix, '...Lifecycle Management - Tellennium - Tellennium'.",
+      "text": "Live check 10/22 1:28 PM (found during #3): homepage title shows a doubled suffix, '...Lifecycle Management - Tellennium - Tellennium'. Checked 10/23 9:50 AM: still doubled.",
       "next": "Small Randy fix: drop the extra ' - Tellennium'. Verify the title live once done."
     },
     {
@@ -2449,20 +2472,20 @@
     {
       "ref": "ID7",
       "who": "Rob/B Dub",
-      "text": "Sent (pending publish): sent 10/21 for review, then to Randy to post 10/22. /best-utility-expense-management-companies/ still 404 at 1:18 PM 10/22; not live at the 10/22 4:40 PM WordPress REST check.",
+      "text": "Sent (pending publish): sent 10/21 for review, then to Randy to post 10/22. /best-utility-expense-management-companies/ still 404 at 1:18 PM 10/22; not live at the 10/22 4:40 PM or 10/23 9:50 AM WordPress REST check (no new post besides ID18).",
       "next": "Verify live once posted: slug, checklist PDF, the five links. Then mark Published and add the keyword map row."
     },
     {
       "ref": "ID20",
       "who": "Rob/B Dub",
-      "text": "Sent (pending publish): Rob sent out ID20 (Overlapping SaaS Applications: How to Consolidate Duplicate Tools) 10/22; not live at the 10/22 4:40 PM WordPress REST check.",
+      "text": "Sent (pending publish): Rob sent out ID20 (Overlapping SaaS Applications: How to Consolidate Duplicate Tools) 10/22; not live at the 10/22 4:40 PM or 10/23 9:50 AM WordPress REST check.",
       "next": "Verify live once posted: slug, checklist PDF, the five links. Then mark Published and add the keyword map row (duplicate SaaS applications)."
     },
     {
       "ref": "ID18",
       "who": "Rob/B Dub",
-      "text": "Sent to the team 10/20 3:55 PM. Not on /articles/ page 1 at the 10/22 1:18 PM check.",
-      "next": "Verify live, including the checklist PDF. Then mark Published and add keyword map rows."
+      "text": "Live, verifying (not marked Published): live at /how-to-evaluate-a-saas-license-management-provider/ (REST status publish). 10/23 9:50 AM REST check: the 4 editorial links (Guide, ID11, ID12, ID13) and the demo link go to published pages; checklist PDF linked and in the media library; 5 FAQs with matching FAQPage schema; title and meta fine. Issues: featured/og image is ID17's (and ID17 shows ID18's, so the two are swapped); schema author shows 'transit@twc.com' on ID18 and ID17 instead of Rob Halik; five paragraphs under 'Which Capabilities Matter, and How Do You Verify Them?' appear twice (first copy missing its final period, so the ID12 link shows twice); the banned 'Not quite ready for a demo?' newsletter line is still in (one of the two required fixes; the Section 3 fix is in).",
+      "next": "Rob confirms in the box browser. Fixes for Randy: swap the ID17/ID18 images, remove the duplicate paragraph block, fix the author, reword the newsletter line. Then mark Published and add keyword map rows."
     },
     {
       "ref": "ID17",
@@ -2473,14 +2496,14 @@
     {
       "ref": "R-007",
       "who": "Rob",
-      "text": "SaaS Guide check 10/21: doubled FAQ, stacked Further Reading headings and Utility link are fixed. Left: the overspending article link points to /saas-license-management/ instead of its own URL; \"SaaS Spend Optimization\" is linked instead of the License Optimization post; ID18 to add once live.",
+      "text": "SaaS Guide check 10/21: doubled FAQ, stacked Further Reading headings and Utility link are fixed. Left: the overspending article link points to /saas-license-management/ instead of its own URL; \"SaaS Spend Optimization\" is linked instead of the License Optimization post; ID18 to add once live. 10/23: the Guide was edited about 9:05 AM ET; Further Reading not readable in the REST check, so the leftovers need a browser check.",
       "next": "Rob picks the optimization post (swap or list both), then the leftovers go in the next Randy note."
     },
     {
       "ref": "Verify",
-      "who": "Rob/B Dub",
-      "text": "Verify Complete: #8 left (needs Search Console, Rob/Steve). #1, 5 and 36 verified live 10/21; #2, 3 and 7 verified live 10/22.",
-      "next": "Rob/Steve: noindex check in Search Console, then mark #8 Completed or send back."
+      "who": "Steve, then B Dub",
+      "text": "Verify Complete: none left. #8 moved to Needs check 10/23 (Rob emailed Steve 10/23 9:50 AM for the GSC noindex export). #1, 5 and 36 verified live 10/21; #2, 3 and 7 verified live 10/22.",
+      "next": "Steve: export the GSC noindex list to Rob/B Dub; B Dub sorts intentional vs mistakes, then #8 is marked Completed or sent back."
     },
     {
       "ref": "About/AI",
