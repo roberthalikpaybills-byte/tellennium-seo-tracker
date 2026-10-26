@@ -755,23 +755,29 @@
       "due": "Aug 28",
       "week": "Wk 09 (Aug 25-29)",
       "sheetStatus": "Done",
-      "status": "Completed (confirm gating)",
-      "light": "vgreen",
+      "status": "Completed",
+      "light": "green",
       "parties": {
-        "rob": "open",
+        "rob": "done",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob (confirm gating)",
-      "verified": "2026-10-22: Buyer's Guide block links to the ungated TEM Guide; no gate or scorecard found",
+      "waitingOn": "",
+      "verified": "2026-10-26: Closed ungated by design (Rob 10/23; Mon Sophie sync). TEM Guide live ungated (checked 10/22).",
       "sheetDiff": "Sheet says Done; dashboard shows Completed (confirm gating). Treated as complete; Rob to confirm no gating needed.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoid11tembuyersguideimplementation.vercel.app/"
       },
-      "nextStep": "Rob: confirm no gating needed (otherwise reopen).",
+      "nextStep": "",
       "updates": [
+        {
+          "date": "2026-10-26",
+          "time": "7:59 AM",
+          "text": "10/26 7:59 AM: Closed as Completed (ungated by design). Rob 10/23: Tellennium is not gating content; buyer's guides and similar are meant to be ungated, so the original gated how-to does not apply. Ungated TEM Guide already live (verified 10/22). Mon Sophie sync.",
+          "verified": true
+        },
         {
           "date": "2026-10-23",
           "time": "9:55 AM",
@@ -792,10 +798,11 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-23",
+        "date": "2026-10-26",
         "by": "B Dub"
       },
-      "updateText": "#11 10/23: Treated as complete: ungated TEM Guide is live and Tellennium hasn't been gating content. Original spec called for a gated guide/scorecard; Rob to confirm whether gating is wanted."
+      "updateText": "#11 10/26 7:59 AM: Closed as Completed (ungated by design). Rob 10/23: Tellennium is not gating content; buyer's guides and similar are meant to be ungated, so the original gated how-to does not apply. Ungated TEM Guide already live (verified 10/22). Mon Sophie sync.",
+      "note": "Original how-to said gate behind a form; Rob 10/23: Tellennium is not gating content, so that step does not apply."
     },
     {
       "id": "12",
@@ -2371,8 +2378,8 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-23 4:57 PM ET",
-  "updateNote": "10/23 4:57 PM: Top three focus for the week of 10/26: #4, #6, #35 (SEO Pipeline and Focus: Rob / Randy show the same three). #4 no longer waits on Steve: Randy does the intro fix and the homepage link. #8 Completed 10/23: Steve agreed to leave all 160 noindexed URLs as is. #11 Completed (confirm gating). ID18 live, verifying (not marked Published).",
+  "lastUpdated": "2026-10-26 7:59 AM ET",
+  "updateNote": "10/26 7:59 AM: #11 Completed (ungated by design; Rob 10/23). 10/23 4:57 PM: Top three focus for the week of 10/26: #4, #6, #35 (SEO Pipeline and Focus: Rob / Randy show the same three). #4 no longer waits on Steve: Randy does the intro fix and the homepage link. #8 Completed 10/23: Steve agreed to leave all 160 noindexed URLs as is. #11 Completed (confirm gating). ID18 live, verifying (not marked Published).",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
