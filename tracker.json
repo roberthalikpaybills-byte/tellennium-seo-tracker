@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-28",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -2378,8 +2378,8 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-26 7:59 AM ET",
-  "updateNote": "10/26 7:59 AM: #11 Completed (ungated by design; Rob 10/23). 10/23 4:57 PM: Top three focus for the week of 10/26: #4, #6, #35 (SEO Pipeline and Focus: Rob / Randy show the same three). #4 no longer waits on Steve: Randy does the intro fix and the homepage link. #8 Completed 10/23: Steve agreed to leave all 160 noindexed URLs as is. #11 Completed (confirm gating). ID18 live, verifying (not marked Published).",
+  "lastUpdated": "2026-10-28 12:15 PM ET",
+  "updateNote": "10/28 ~12:15 PM: Dashboard refresh for Rob/Randy sync. Top three for full green close this week unchanged: #4 (TEM service page intro + homepage link), #6 (Article schema with author markup), #35 (link two TEM blogs to TEM service page). Bench: #17, #33, #12, #14. Steve out this week — no Steve-dependent closes.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2432,6 +2432,11 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-10-28",
+      "time": "12:15 PM",
+      "text": "10/28 ~12:15 PM: Dashboard refresh for Rob/Randy sync. Top three for full green close this week unchanged: #4 (TEM service page intro + homepage link), #6 (Article schema with author markup), #35 (link two TEM blogs to TEM service page). Bench: #17, #33, #12, #14. Steve out this week — no Steve-dependent closes."
+    },
     {
       "date": "2026-10-23",
       "id": "8, 11",
