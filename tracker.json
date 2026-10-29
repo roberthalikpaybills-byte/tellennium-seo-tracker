@@ -2259,15 +2259,15 @@
       "due": "Oct 23",
       "week": "Wk 14+ (Oct)",
       "sheetStatus": "Not started",
-      "status": "Completed",
-      "light": "green",
+      "status": "Verify complete",
+      "light": "vgreen",
       "parties": {
         "rob": "done",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "",
+      "waitingOn": "Rob",
       "verified": "2026-10-29: both blog links to the TEM service page live (uncached); stray 'risks.' removed",
       "sheetDiff": "",
       "links": {
@@ -2276,7 +2276,7 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Purge the SiteGround cache so the public copy updates.",
+      "nextStep": "Rob: mark Completed (B Dub verified live 10/29). Purge the site cache so the public copy updates.",
       "updates": [
         {
           "date": "2026-10-29",
@@ -2331,7 +2331,7 @@
         "date": "2026-10-29",
         "by": "Randy"
       },
-      "updateText": "#35 10/29: Randy reported Done; both blog links verified live (cache purge pending)."
+      "updateText": "#35 10/29: Randy reported Done; B Dub verified both blog links live; Rob to mark Completed."
     },
     {
       "id": "36",
@@ -2420,7 +2420,7 @@
     }
   ],
   "lastUpdated": "2026-10-29 4:55 PM ET",
-  "updateNote": "10/29 4:55 PM: Randy reported #4, #6 and #35 Done (by email to Rob; the Send an update form could not send because FormSubmit, the form's email service, was down). B Dub checked live: #35 verified and closed. #4 intro fixed, homepage link still open. #6 author schema live on 294 of 300 posts, 6 newest still show transit@twc.com. Site cache still showing older copies; purge pending. The form now offers a prefilled email to Rob and B Dub if it cannot send.",
+  "updateNote": "10/29 4:55 PM: Randy reported #4, #6 and #35 Done (by email to Rob; the Send an update form could not send because FormSubmit, the form's email service, was down). B Dub checked live: #35 verified live, ready for Rob to mark Completed. #4 intro fixed, homepage link still open. #6 author schema live on 294 of 300 posts, 6 newest still show transit@twc.com. Site cache still showing older copies; purge pending. The form now offers a prefilled email to Rob and B Dub if it cannot send.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2476,7 +2476,7 @@
     {
       "date": "2026-10-29",
       "time": "4:55 PM",
-      "text": "10/29 4:55 PM: Randy reported #4, #6 and #35 Done (by email to Rob; the Send an update form could not send because FormSubmit, the form's email service, was down). B Dub checked live: #35 verified and closed. #4 intro fixed, homepage link still open. #6 author schema live on 294 of 300 posts, 6 newest still show transit@twc.com. Site cache still showing older copies; purge pending. The form now offers a prefilled email to Rob and B Dub if it cannot send."
+      "text": "10/29 4:55 PM: Randy reported #4, #6 and #35 Done (by email to Rob; the Send an update form could not send because FormSubmit, the form's email service, was down). B Dub checked live: #35 verified live, ready for Rob to mark Completed. #4 intro fixed, homepage link still open. #6 author schema live on 294 of 300 posts, 6 newest still show transit@twc.com. Site cache still showing older copies; purge pending. The form now offers a prefilled email to Rob and B Dub if it cannot send."
     },
     {
       "date": "2026-10-28",
