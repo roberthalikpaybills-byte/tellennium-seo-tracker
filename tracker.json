@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -204,14 +204,26 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "2026-10-08: live check OK (small copy glitch)",
+      "verified": "2026-10-29: intro fixed (uncached page); homepage exact-anchor link not found",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoactionitem4temservicepageimpleme.vercel.app/"
       },
-      "nextStep": "Randy: in the intro, change 'Our TEM services' to 'telecom expense management services' (same edit as the #33 intro), and add the homepage link to this page with the anchor 'telecom expense management services'. Then B Dub checks the page live.",
+      "nextStep": "Randy: add the homepage link to this page with the anchor 'telecom expense management services', then purge the SiteGround cache. Then B Dub checks live.",
       "updates": [
+        {
+          "date": "2026-10-29",
+          "time": "4:55 PM",
+          "text": "10/29 4:55 PM: B Dub live check. Intro now reads 'Telecom Expense Management services help clients recover an average of 28%...' (page saved 10/29 3:29 PM ET). The public page was still serving the old cached copy ('Our TEM services') at 4:45 PM ET; a cache-bypassed load shows the new intro, so a SiteGround cache purge is needed. Still open: the homepage has no link with the anchor 'telecom expense management services' (only the menu 'Telecom Expense Management' and 'TEM Control' links; homepage last saved 10/28).",
+          "verified": true
+        },
+        {
+          "date": "2026-10-29",
+          "time": "4:55 PM",
+          "text": "10/29: Randy reported Done (Done? checked). Source: Randy email to Rob 10/29 with a screenshot of the Send an update form (the form could not send that day: FormSubmit outage).",
+          "verified": false
+        },
         {
           "date": "2026-10-23",
           "time": "4:56 PM",
@@ -251,10 +263,10 @@
       ],
       "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
       "lastUpdate": {
-        "date": "2026-10-23",
-        "by": "B Dub"
+        "date": "2026-10-29",
+        "by": "Randy"
       },
-      "updateText": "#4 10/23 4:56 PM: B Dub live check in the box browser (www redirects to tellennium.com): title and H1 carry 'telecom expense management services', Request a Demo above the fold, 28% and MoT present, robots index/follow, canonical OK, TEM Guide links here with the exact anchor. Still open (Randy): the intro says 'Our TEM services', and the homepage has no link with the exact anchor. The Search Console live URL test was a site-wide check that Google gets past the site's security check (homepage and a blog post), not a #4 step; it moves off #4 and stays with Steve for after 10/26 (Rob 4:48 PM)."
+      "updateText": "#4 10/29: Randy reported Done; intro fixed live (cache purge pending), homepage exact-anchor link still missing."
     },
     {
       "id": "5",
@@ -339,7 +351,7 @@
       "due": "Jul 25",
       "week": "Wk 04 (Jul 21-25)",
       "sheetStatus": "Done",
-      "status": "Waiting",
+      "status": "Follow up",
       "light": "yellow",
       "parties": {
         "rob": "done",
@@ -348,14 +360,26 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "",
+      "verified": "2026-10-29: Article + named author on 294/300 posts; 6 newest show transit@twc.com",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoid6articleschemaimplementationgu.vercel.app/"
       },
-      "nextStep": "Randy: implement Article schema per the SharePoint guide (fix \"transit@twc.com\"/\"MediaMngr\" authors, TechArticle types).",
+      "nextStep": "Randy: set author to Rob Halik on the 6 newest posts and fix the transit@twc.com user's display name so new posts get a real author.",
       "updates": [
+        {
+          "date": "2026-10-29",
+          "time": "4:55 PM",
+          "text": "10/29 4:55 PM: B Dub live check (WordPress REST, Yoast schema, 300 most recent posts): every post emits Article schema (282 Article, 18 TechArticle) with a named Person author. 294 show 'Rob Halik'; the old 'transit@twc.com' and 'MediaMngr' authors from the 10/13 check are fixed. Exception: the 6 newest posts (10/21-10/29) still show author 'transit@twc.com': in-house-vs-outsourced-utility-bill-management, utility-expense-management-companies-how-providers-compare, overlapping-saas-applications-how-to-consolidate-duplicate-tools, how-to-evaluate-a-saas-license-management-provider, employee-offboarding-the-licenses-youre-still-paying-for, what-to-do-when-a-major-saas-renewal-is-90-days-out.",
+          "verified": true
+        },
+        {
+          "date": "2026-10-29",
+          "time": "4:55 PM",
+          "text": "10/29: Randy reported Done (Done? checked). Source: Randy email to Rob 10/29 with a screenshot of the Send an update form (the form could not send that day: FormSubmit outage).",
+          "verified": false
+        },
         {
           "date": "2026-10-15",
           "time": "",
@@ -381,7 +405,12 @@
           "verified": false
         }
       ],
-      "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy."
+      "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy.",
+      "lastUpdate": {
+        "date": "2026-10-29",
+        "by": "Randy"
+      },
+      "updateText": "#6 10/29: Randy reported Done; schema with named author live on 294 of 300 posts; 6 newest still show transit@twc.com."
     },
     {
       "id": "7",
@@ -2230,16 +2259,16 @@
       "due": "Oct 23",
       "week": "Wk 14+ (Oct)",
       "sheetStatus": "Not started",
-      "status": "Waiting",
-      "light": "yellow",
+      "status": "Completed",
+      "light": "green",
       "parties": {
         "rob": "done",
-        "randy": "open",
+        "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Randy",
-      "verified": "",
+      "waitingOn": "",
+      "verified": "2026-10-29: both blog links to the TEM service page live (uncached); stray 'risks.' removed",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -2247,8 +2276,20 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Randy: add the one link in each post listed in How to Execute (sent 10/21).",
+      "nextStep": "Purge the SiteGround cache so the public copy updates.",
       "updates": [
+        {
+          "date": "2026-10-29",
+          "time": "4:55 PM",
+          "text": "10/29 4:55 PM: B Dub live check, verified. 5 Ways post (saved 10/29 3:51 PM ET): last line of Final Thoughts now reads '...take a look at our telecom expense management services or contact us...' with the link to /telecom-expense-management/; demo link kept. 7 Ways ServiceNow post (saved 10/29 3:56 PM ET): new sentence 'For telecom specifically, that integration is backed by our telecom expense management services.' links to /telecom-expense-management/; stray 'risks.' paragraph removed. Note: at 4:45 PM ET the public cached copies still showed the old text; cache-bypassed loads show the new text. Purge the SiteGround cache (or it expires on its own).",
+          "verified": true
+        },
+        {
+          "date": "2026-10-29",
+          "time": "4:55 PM",
+          "text": "10/29: Randy reported Done (Done? checked). Source: Randy email to Rob 10/29 with a screenshot of the Send an update form (the form could not send that day: FormSubmit outage).",
+          "verified": false
+        },
         {
           "date": "2026-10-22",
           "time": "1:24 PM",
@@ -2287,10 +2328,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-22",
-        "by": "B Dub"
+        "date": "2026-10-29",
+        "by": "Randy"
       },
-      "updateText": "Focus note sent to Randy (B Dub for Rob, 'SEO Items: Few Focus Items for Today'): #35 is priority 1 with #33, the one link in each of the two blog posts from the 10/21 doc. Rob/Randy sync soon."
+      "updateText": "#35 10/29: Randy reported Done; both blog links verified live (cache purge pending)."
     },
     {
       "id": "36",
@@ -2378,8 +2419,8 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-28 12:15 PM ET",
-  "updateNote": "10/28 ~12:15 PM: Dashboard refresh for Rob/Randy sync. Top three for full green close this week unchanged: #4 (TEM service page intro + homepage link), #6 (Article schema with author markup), #35 (link two TEM blogs to TEM service page). Bench: #17, #33, #12, #14. Steve out this week — no Steve-dependent closes.",
+  "lastUpdated": "2026-10-29 4:55 PM ET",
+  "updateNote": "10/29 4:55 PM: Randy reported #4, #6 and #35 Done (by email to Rob; the Send an update form could not send because FormSubmit, the form's email service, was down). B Dub checked live: #35 verified and closed. #4 intro fixed, homepage link still open. #6 author schema live on 294 of 300 posts, 6 newest still show transit@twc.com. Site cache still showing older copies; purge pending. The form now offers a prefilled email to Rob and B Dub if it cannot send.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2432,6 +2473,11 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-10-29",
+      "time": "4:55 PM",
+      "text": "10/29 4:55 PM: Randy reported #4, #6 and #35 Done (by email to Rob; the Send an update form could not send because FormSubmit, the form's email service, was down). B Dub checked live: #35 verified and closed. #4 intro fixed, homepage link still open. #6 author schema live on 294 of 300 posts, 6 newest still show transit@twc.com. Site cache still showing older copies; purge pending. The form now offers a prefilled email to Rob and B Dub if it cannot send."
+    },
     {
       "date": "2026-10-28",
       "time": "12:15 PM",
@@ -2631,12 +2677,6 @@
       "who": "Randy",
       "text": "Nine TEM service page edits sent 10/21 4:24 PM; none live at the 10/22 1:18 PM check. FAQ answer held until #32 is done. Checked 10/23 9:50 AM (REST): page last modified 10/16; intro, Ecosystem, MOT Platform Overview and Access Through ServiceNow sections unchanged, so none live.",
       "next": "On the Rob/Randy sync agenda (due 10/23). Verify the nine edits live once Randy is done; send the FAQ wording after #32."
-    },
-    {
-      "ref": "#35",
-      "who": "Randy",
-      "text": "Two blog links to the TEM service page sent 10/21 4:24 PM (plus the stray \"risks.\" line); neither live at the 10/22 1:18 PM check. Checked 10/23 9:50 AM (REST): both posts last modified 10/14, so not live.",
-      "next": "On the Rob/Randy sync agenda (due 10/23). Verify both links live once Randy is done."
     },
     {
       "ref": "#36",
