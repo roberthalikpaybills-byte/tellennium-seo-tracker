@@ -204,14 +204,20 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "2026-10-29: intro fixed (uncached page); homepage exact-anchor link not found",
+      "verified": "2026-10-30: intro live; homepage exact-anchor link still missing",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoactionitem4temservicepageimpleme.vercel.app/"
       },
-      "nextStep": "Randy: add the homepage link to this page with the anchor 'telecom expense management services', then purge the SiteGround cache. Then B Dub checks live.",
+      "nextStep": "Remaining gap (Randy): add a link on the homepage to /telecom-expense-management/ with the anchor text 'telecom expense management services'. Then B Dub checks live and Rob marks Completed.",
       "updates": [
+        {
+          "date": "2026-10-30",
+          "time": "9:11 AM",
+          "text": "#4 re-check 10/30 9:11 AM: Randy's part reported done 10/29; intro verified live. Remaining gap: the homepage still has no link with the anchor 'telecom expense management services' (homepage saved 10/29 5:01 PM ET, only the menu 'Telecom Expense Management' and 'TEM Control' links point to the page). Item stays amber until that link is live.",
+          "verified": true
+        },
         {
           "date": "2026-10-29",
           "time": "4:45 PM",
@@ -263,10 +269,11 @@
       ],
       "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
       "lastUpdate": {
-        "date": "2026-10-29",
-        "by": "Randy"
+        "date": "2026-10-30",
+        "by": "B Dub live check"
       },
-      "updateText": "#4 10/29: Randy reported Done; intro fixed live (cache purge pending), homepage exact-anchor link still missing."
+      "updateText": "#4 re-check 10/30 9:11 AM: Randy's part reported done 10/29; intro verified live. Remaining gap: the homepage still has no link with the anchor 'telecom expense management services' (homepage saved 10/29 5:01 PM ET, only the menu 'Telecom Expense Management' and 'TEM Control' links point to the page). Item stays amber until that link is live.",
+      "doneNote": "Randy's part reported done 10/29. Verified: new intro ('Telecom Expense Management services help clients recover an average of 28%...') live, public copy refreshed by 10/30."
     },
     {
       "id": "5",
@@ -360,14 +367,20 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "2026-10-29: Article + named author on 294/300 posts; 6 newest show transit@twc.com",
+      "verified": "2026-10-30: 294/300 posts OK; 6 newest still show transit@twc.com",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoid6articleschemaimplementationgu.vercel.app/"
       },
-      "nextStep": "Randy: set author to Rob Halik on the 6 newest posts and fix the transit@twc.com user's display name so new posts get a real author.",
+      "nextStep": "Remaining gap (Randy): set the author to Rob Halik on the 6 newest posts (10/21-10/29), fix the transit@twc.com user's display name so new posts get a real author, then purge the SiteGround cache. Then B Dub checks live and Rob marks Completed.",
       "updates": [
+        {
+          "date": "2026-10-30",
+          "time": "9:11 AM",
+          "text": "#6 re-check 10/30 9:11 AM: Randy's part reported done 10/29; schema verified on 294 of 300 posts. Remaining gap: the 6 newest posts still show author 'transit@twc.com'. Item stays amber until those 6 are fixed.",
+          "verified": true
+        },
         {
           "date": "2026-10-29",
           "time": "4:45 PM",
@@ -407,10 +420,11 @@
       ],
       "note": "Why it's with Randy: Rob's part is done and the implementation guide is on SharePoint for Randy.",
       "lastUpdate": {
-        "date": "2026-10-29",
-        "by": "Randy"
+        "date": "2026-10-30",
+        "by": "B Dub live check"
       },
-      "updateText": "#6 10/29: Randy reported Done; schema with named author live on 294 of 300 posts; 6 newest still show transit@twc.com."
+      "updateText": "#6 re-check 10/30 9:11 AM: Randy's part reported done 10/29; schema verified on 294 of 300 posts. Remaining gap: the 6 newest posts still show author 'transit@twc.com'. Item stays amber until those 6 are fixed.",
+      "doneNote": "Randy's part reported done 10/29. Verified: Article schema with a named author on 294 of the 300 newest posts."
     },
     {
       "id": "7",
@@ -1096,7 +1110,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "2026-10-12: ID10, ID11, ID13 live and linked from SaaS Guide; ID12 not published",
+      "verified": "2026-10-30: link still missing on the overspending article",
       "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Randy.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1106,6 +1120,12 @@
       },
       "nextStep": "Randy: on the SaaS overspending article, link 'Strong SaaS management' (first line under 'What Strong Enterprise SaaS Management Does Differently') to https://tellennium.com/saas-license-management/.",
       "updates": [
+        {
+          "date": "2026-10-30",
+          "time": "9:11 AM",
+          "text": "#17 check 10/30 9:11 AM: 'Strong SaaS management' on the SaaS overspending article is still plain text (post last saved 10/14). Now in the top three: one link, HIGH, Randy only.",
+          "verified": true
+        },
         {
           "date": "2026-10-23",
           "time": "10:29 AM",
@@ -1204,10 +1224,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-23",
-        "by": "Meeting 10/23"
+        "date": "2026-10-30",
+        "by": "B Dub live check"
       },
-      "updateText": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Randy reports all new AI SEO posts live and site health and AI discoverability at 100% (Randy reports live, verify). A SaaS FAQ page was named the only remaining site gap; Rob creates it (hub A-041)."
+      "updateText": "#17 check 10/30 9:11 AM: 'Strong SaaS management' on the SaaS overspending article is still plain text (post last saved 10/14). Now in the top three: one link, HIGH, Randy only."
     },
     {
       "id": "18",
@@ -2259,16 +2279,16 @@
       "due": "Oct 23",
       "week": "Wk 14+ (Oct)",
       "sheetStatus": "Not started",
-      "status": "Verify complete",
-      "light": "vgreen",
+      "status": "Completed",
+      "light": "green",
       "parties": {
         "rob": "done",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob",
-      "verified": "2026-10-29: both blog links to the TEM service page live (uncached); stray 'risks.' removed",
+      "waitingOn": "",
+      "verified": "2026-10-29: verified live by B Dub; Rob approved Completed 10/30",
       "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -2276,8 +2296,14 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Rob: mark Completed (B Dub verified live 10/29). Purge the site cache so the public copy updates.",
+      "nextStep": "Done. Verified live 10/29 by B Dub, Rob approved 10/30.",
       "updates": [
+        {
+          "date": "2026-10-30",
+          "time": "9:11 AM",
+          "text": "#35 Completed 10/30: verified live 10/29 by B Dub, Rob approved 10/30. Re-check 10/30 9:11 AM: the 7 Ways public page now shows the new link; the 5 Ways public copy is still the old cached version (the saved page has the link), so a cache purge is still worth doing.",
+          "verified": true
+        },
         {
           "date": "2026-10-29",
           "time": "4:45 PM",
@@ -2328,10 +2354,11 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-29",
-        "by": "Randy"
+        "date": "2026-10-30",
+        "by": "Rob"
       },
-      "updateText": "#35 10/29: Randy reported Done; B Dub verified both blog links live; Rob to mark Completed."
+      "updateText": "#35 Completed 10/30: verified live 10/29 by B Dub, Rob approved 10/30. Re-check 10/30 9:11 AM: the 7 Ways public page now shows the new link; the 5 Ways public copy is still the old cached version (the saved page has the link), so a cache purge is still worth doing.",
+      "doneNote": "Both blog posts link to the TEM service page (verified live 10/29 by B Dub, Rob approved 10/30)."
     },
     {
       "id": "36",
@@ -2419,8 +2446,8 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-10-29 4:45 PM ET",
-  "updateNote": "10/29 4:45 PM: Randy reported #4, #6 and #35 Done (by email to Rob; the Send an update form could not send because FormSubmit, the form's email service, was down). B Dub checked live: #35 verified live, ready for Rob to mark Completed. #4 intro fixed, homepage link still open. #6 author schema live on 294 of 300 posts, 6 newest still show transit@twc.com. Site cache still showing older copies; purge pending. The form now offers a prefilled email to Rob and B Dub if it cannot send.",
+  "lastUpdated": "2026-10-30 9:11 AM ET",
+  "updateNote": "10/30 9:11 AM: Rob approved #35 Completed (green). #4 and #6: Randy's part reported done 10/29 and verified where live, but each still has one gap, so both stay amber (see Next step). New top three: #4 (homepage link), #6 (6 newest post authors), #17 (one link on the SaaS overspending article). Row colors now follow each item's status, so the top panels and the table always agree.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2445,15 +2472,32 @@
             "owner": "Randy"
           }
         ],
+        "final": "1/3"
+      },
+      {
+        "monday": "2026-10-30",
+        "label": "Wk of 11/2 (set Fri 10/30)",
+        "items": [
+          {
+            "id": "4",
+            "title": "TEM service page: homepage link (last gap)",
+            "owner": "Randy"
+          },
+          {
+            "id": "6",
+            "title": "Article author: fix the 6 newest posts",
+            "owner": "Randy"
+          },
+          {
+            "id": "17",
+            "title": "SaaS overspending article link",
+            "owner": "Randy"
+          }
+        ],
         "final": ""
       }
     ],
     "bench": [
-      {
-        "id": "17",
-        "title": "SaaS overspending article link",
-        "owner": "Randy"
-      },
       {
         "id": "33",
         "title": "TEM service page copy edits",
@@ -2473,6 +2517,11 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-10-30",
+      "time": "9:11 AM",
+      "text": "10/30 9:11 AM: Rob approved #35 Completed (green). #4 and #6: Randy's part reported done 10/29 and verified where live, but each still has one gap, so both stay amber (see Next step). New top three: #4 (homepage link), #6 (6 newest post authors), #17 (one link on the SaaS overspending article). Row colors now follow each item's status, so the top panels and the table always agree."
+    },
     {
       "date": "2026-10-29",
       "time": "4:45 PM",
@@ -2669,8 +2718,8 @@
     {
       "ref": "#17",
       "who": "Randy",
-      "text": "Overspending article: 'Strong SaaS management' still plain text at the 10/22 1:18 PM check. Re-sent 10/21 4:24 PM. Checked 10/23 9:50 AM (REST): still unlinked.",
-      "next": "On the Rob/Randy sync agenda. Randy adds the link to /saas-license-management/; Rob/B Dub verify live."
+      "text": "Overspending article: 'Strong SaaS management' still plain text at the 10/22 1:18 PM check. Re-sent 10/21 4:24 PM. Checked 10/23 9:50 AM (REST): still unlinked. Checked 10/30 9:11 AM: still unlinked (post last saved 10/14).",
+      "next": "Top three as of 10/30. Randy adds the link to /saas-license-management/; B Dub verifies live; Rob marks Completed."
     },
     {
       "ref": "#33",
