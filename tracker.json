@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-05 12:20 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -204,14 +204,20 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "2026-10-30: intro live; homepage exact-anchor link still missing",
-      "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
+      "verified": "2026-11-05 ~12:16 PM ET: Randy reported Done; homepage still missing the exact-anchor link \"telecom expense management services\" (B Dub page fetch).",
+      "sheetDiff": "Sheet says Done; dashboard shows Follow up (exact-anchor homepage link still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoactionitem4temservicepageimpleme.vercel.app/"
       },
-      "nextStep": "Remaining gap (Randy): add a link on the homepage to /telecom-expense-management/ with the anchor text 'telecom expense management services'. Then B Dub checks live and Rob marks Completed.",
+      "nextStep": "Remaining gap (Randy): add a homepage link to /telecom-expense-management/ whose visible text is \"telecom expense management services\". Randy reported Done 11/5 12:14 PM ET; B Dub's 12:16 PM ET homepage check did not find that exact link text. Rob reviews before Completed.",
       "updates": [
+        {
+          "date": "2026-11-05",
+          "time": "12:16 PM",
+          "text": "11/5 12:14 PM ET: Randy emailed Rob (cc B Dub) that #4 is Done, via the fallback SEO tracker form (subject: SEO tracker update: #4 from Randy; note: Form could not send: Failed to fetch). 11/5 ~12:16 PM ET: B Dub checked the public homepage (page fetch; the WordPress data feed was blocked by the site captcha). The page still has no link whose visible text is \"telecom expense management services\". Visible TEM links and headings still use \"Telecom Expense Management\" and \"TEM Control\", which matches B Dub's 11/4 1:50 PM ET WordPress check (homepage last saved 11/4 2:57 PM ET that day, two links to /telecom-expense-management/). Remaining gap is unchanged. Item stays Follow up / amber. Rob reviews before Completed.",
+          "verified": true
+        },
         {
           "date": "2026-10-30",
           "time": "9:11 AM",
@@ -2446,8 +2452,8 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-11-05 12:05 PM ET",
-  "updateNote": "11/5 ~12:05 PM ET scheduled refresh by B Dub: no new emails or work-log changes since 9:15 AM; WordPress REST (checked by B Dub at 12:05 PM) shows the same newest posts as this morning, so no status changes. Consistency check run. Earlier today (9:15 AM, B Dub): ID2 and ID9 confirmed live; ID4 and ID8 Sent.",
+  "lastUpdated": "2026-11-05 12:20 PM ET",
+  "updateNote": "11/5 12:14 PM ET: Randy emailed that SEO #4 is Done (fallback form to Rob, cc B Dub; form could not send). B Dub checked the public homepage at about 12:16 PM ET: the exact link text \"telecom expense management services\" is still not there (visible text is still \"Telecom Expense Management\" and \"TEM Control\"). #4 stays Follow up pending Rob's review. #6 and #17 unchanged.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
