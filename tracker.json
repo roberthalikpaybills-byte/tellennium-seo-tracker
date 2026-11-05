@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-05 6:10 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -43,7 +43,7 @@
         },
         {
           "date": "2026-10-16",
-          "time": "7:58–7:59 AM",
+          "time": "7:58\u20137:59 AM",
           "text": "10/16: Randy fixed title and spelling error",
           "verified": false
         },
@@ -83,7 +83,7 @@
       "phase": "July",
       "priority": "HIGH",
       "action": "Fix MMS cannibalization. Assign each competing page a unique target keyword; all link to the service-page hub.",
-      "howTo": "Assign one unique primary keyword to each of the 5 competing MMS pages and link each up to /managed-mobility-services/ (hub):\n• /managed-mobility-services/ = 'managed mobility services' (hub)\n• /6-areas-of-managed-mobility-services.../ = 'areas of managed mobility services'\n• /your-guide-to-managed-mobility-services/ = 'managed mobility services guide'\n• /managed-mobility-services-faq/ = 'managed mobility services FAQ'\n• /managed-mobility-services-mms-vs-mdm.../ = 'MMS vs MDM'\nUpdate each page's title/H1/meta to its assigned term.\nDone when: no two MMS pages share a primary keyword and all link to the hub.",
+      "howTo": "Assign one unique primary keyword to each of the 5 competing MMS pages and link each up to /managed-mobility-services/ (hub):\n\u2022 /managed-mobility-services/ = 'managed mobility services' (hub)\n\u2022 /6-areas-of-managed-mobility-services.../ = 'areas of managed mobility services'\n\u2022 /your-guide-to-managed-mobility-services/ = 'managed mobility services guide'\n\u2022 /managed-mobility-services-faq/ = 'managed mobility services FAQ'\n\u2022 /managed-mobility-services-mms-vs-mdm.../ = 'MMS vs MDM'\nUpdate each page's title/H1/meta to its assigned term.\nDone when: no two MMS pages share a primary keyword and all link to the hub.",
       "page": "Keyword: managed mobility services (590 vol)\n5 competing URLs",
       "owner": "Rob",
       "due": "Jul 11",
@@ -142,7 +142,7 @@
       "phase": "July",
       "priority": "HIGH",
       "action": "Lock the TEM cluster architecture: one owner page per head term so Google/AI read the clusters clearly; reassign competing URLs.",
-      "howTo": "Apply the master-map owner assignments:\n• 'telecom expense management' (8,100) = owner /your-guide-to-telecom-expense-management/\n• 'telecom expense management services' (2,400) = owner /telecom-expense-management/ (remove the term from the Guide and homepage)\n• 'technology expense management' (1,900) = owner /what-is-the-difference-between-telecom-expense-management-and-technology-expense-management/\nFor each: point competing pages' internal links to the owner and remove the term from competitors' title/H1/meta.\nDone when: each head term has a single owner and competitors link to it.",
+      "howTo": "Apply the master-map owner assignments:\n\u2022 'telecom expense management' (8,100) = owner /your-guide-to-telecom-expense-management/\n\u2022 'telecom expense management services' (2,400) = owner /telecom-expense-management/ (remove the term from the Guide and homepage)\n\u2022 'technology expense management' (1,900) = owner /what-is-the-difference-between-telecom-expense-management-and-technology-expense-management/\nFor each: point competing pages' internal links to the owner and remove the term from competitors' title/H1/meta.\nDone when: each head term has a single owner and competitors link to it.",
       "page": "TEM cluster (64 pages / ~220 traffic)\nHub: /your-guide-to-telecom-expense-management/",
       "owner": "Rob",
       "due": "Jul 18",
@@ -199,19 +199,25 @@
       "light": "yellow",
       "parties": {
         "rob": "done",
-        "randy": "open",
+        "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Randy",
-      "verified": "2026-11-05 about 3:10 PM ET: homepage still missing the exact-anchor link \"telecom expense management services\" (SEO Sunny browser check).",
+      "waitingOn": "Rob",
+      "verified": "2026-11-05 about 6:10 PM ET: homepage shows title-case \"Telecom Expense Management Services\" linking to /telecom-expense-management/ (B Dub browser check). Exact lowercase anchor not used.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (exact-anchor homepage link still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoactionitem4temservicepageimpleme.vercel.app/"
       },
-      "nextStep": "Remaining gap (Randy): add a homepage link to /telecom-expense-management/ whose visible text is \"telecom expense management services\". Rechecked about 3:10 PM ET on 11/5; still missing. Rob reviews before Completed.",
+      "nextStep": "Rob reviews whether the title-case homepage anchor closes #4 (phrase words present, destination correct). Rechecked about 6:10 PM ET on 11/5. Do not mark Completed until Rob reviews.",
       "updates": [
+        {
+          "date": "2026-11-05",
+          "time": "6:10 PM",
+          "text": "11/5 about 6:10 PM ET: B Dub browser check on the public homepage. A visible link \"Telecom Expense Management Services\" now goes to /telecom-expense-management/. The exact all-lowercase anchor \"telecom expense management services\" is not used (title case). Nearby links still include \"Telecom Expense Management\", \"TEM Control\", and \"What a TEM delivers\". Randy's remaining homepage-link gap looks closed on case-insensitive phrase match. Item stays Follow up for Rob's review before Completed.",
+          "verified": true
+        },
         {
           "date": "2026-11-05",
           "time": "3:10 PM",
@@ -282,9 +288,9 @@
       "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
       "lastUpdate": {
         "date": "2026-11-05",
-        "by": "SEO Sunny live check"
+        "by": "B Dub browser check"
       },
-      "updateText": "11/5 about 3:10 PM ET: SEO Sunny rechecked the public homepage in a real browser. There is still no link whose visible text is \"telecom expense management services\", and that phrase does not appear in the homepage body. Nearby links still use \"Telecom Expense Management\" (nav and elsewhere) and \"TEM Control\", both pointing to /telecom-expense-management/. Item stays Follow up, waiting on Randy. Do not mark Completed.",
+      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the public homepage. A visible link \"Telecom Expense Management Services\" now goes to /telecom-expense-management/. The exact all-lowercase anchor \"telecom expense management services\" is not used (title case). Nearby links still include \"Telecom Expense Management\", \"TEM Control\", and \"What a TEM delivers\". Randy's remaining homepage-link gap looks closed on case-insensitive phrase match. Item stays Follow up for Rob's review before Completed.",
       "doneNote": "Randy's part reported done 10/29. Verified: new intro ('Telecom Expense Management services help clients recover an average of 28%...') live, public copy refreshed by 10/30."
     },
     {
@@ -292,7 +298,7 @@
       "phase": "July",
       "priority": "HIGH",
       "action": "Add FAQPage schema to all pages that already have FAQ sections.",
-      "howTo": "Using Yoast or RankMath (no code): enable the FAQ schema block on every page that already has a FAQ section — TEM/MMS/UEM FAQ pages, the three Guides, and any blog with FAQs.\nValidate each URL in Google's Rich Results Test.\nDone when: all FAQ pages return valid FAQPage schema.",
+      "howTo": "Using Yoast or RankMath (no code): enable the FAQ schema block on every page that already has a FAQ section \u2014 TEM/MMS/UEM FAQ pages, the three Guides, and any blog with FAQs.\nValidate each URL in Google's Rich Results Test.\nDone when: all FAQ pages return valid FAQPage schema.",
       "page": "All FAQ-containing pages",
       "owner": "Rob / Dev",
       "due": "Jul 18",
@@ -484,13 +490,13 @@
         {
           "date": "2026-10-23",
           "time": "10:05 AM",
-          "text": "Live check 10/23 ~10:05 AM (box browser): public Crunchbase profile still has no 'TIMS' and no 'procurement consulting'. Short description: 'Tellennium manages enterprise telecom, mobility, utility, cloud, and SaaS expenses on its Management of Things® (MoT®) platform.' About says 'Tellennium, an Optric company...'. Logo shows Tellennium with 'An Optric Company'. Products: MoT platform and TEM. Screenshot: /evidence/crunchbase_2026-10-23.png. Verified.",
+          "text": "Live check 10/23 ~10:05 AM (box browser): public Crunchbase profile still has no 'TIMS' and no 'procurement consulting'. Short description: 'Tellennium manages enterprise telecom, mobility, utility, cloud, and SaaS expenses on its Management of Things\u00ae (MoT\u00ae) platform.' About says 'Tellennium, an Optric company...'. Logo shows Tellennium with 'An Optric Company'. Products: MoT platform and TEM. Screenshot: /evidence/crunchbase_2026-10-23.png. Verified.",
           "verified": true
         },
         {
           "date": "2026-10-22",
           "time": "1:28 PM",
-          "text": "Live check 10/22 (box browser): public Crunchbase profile has no 'TIMS'. Short and long descriptions use Management of Things® (MoT®) and list current services (telecom, mobility, utility, cloud, SaaS). Optric logo shows, HQ Louisville, KY, website www.tellennium.com, 'Founded in 1999' in the description. Screenshot: /evidence/crunchbase_2026-10-22.png. Verified.",
+          "text": "Live check 10/22 (box browser): public Crunchbase profile has no 'TIMS'. Short and long descriptions use Management of Things\u00ae (MoT\u00ae) and list current services (telecom, mobility, utility, cloud, SaaS). Optric logo shows, HQ Louisville, KY, website www.tellennium.com, 'Founded in 1999' in the description. Screenshot: /evidence/crunchbase_2026-10-22.png. Verified.",
           "verified": true
         },
         {
@@ -675,6 +681,12 @@
       "updates": [
         {
           "date": "2026-11-05",
+          "time": "6:10 PM",
+          "text": "11/5 about 6:10 PM ET: B Dub browser check. The take-control UEM page still has no PDF download form (First Name / Last Name / Email / Organization / Download PDF). /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. On /utility-expense-management/, the string \"This is a title\" remains in markup but is hidden; the visible H1 is the efficiencies and savings line. Still waiting on Randy.",
+          "verified": true
+        },
+        {
+          "date": "2026-11-05",
           "time": "3:10 PM",
           "text": "11/5 about 3:10 PM ET: SEO Sunny live check. The take-control UEM page loads at /take-control-of-utility-costs-with-proven-uem-expertise/ with H1 \"Take Control of Utility Costs with Proven UEM Expertise\" (not the placeholder title). There is still no PDF form or downloadable form on that page. /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. The old /utility-expense-management/ page still has an H1 that reads \"This is a title\". The take-control page still has a \"Your Guide to Utility Expense Management\" button pointing at the old guide URL. The homepage still has a \"Utility Expense Management\" link to the old /utility-expense-management/ URL as well as one to the take-control page. Still waiting on Randy.",
           "verified": true
@@ -736,9 +748,9 @@
       ],
       "lastUpdate": {
         "date": "2026-11-05",
-        "by": "SEO Sunny live check"
+        "by": "B Dub browser check"
       },
-      "updateText": "11/5 about 3:10 PM ET: SEO Sunny live check. The take-control UEM page loads at /take-control-of-utility-costs-with-proven-uem-expertise/ with H1 \"Take Control of Utility Costs with Proven UEM Expertise\" (not the placeholder title). There is still no PDF form or downloadable form on that page. /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. The old /utility-expense-management/ page still has an H1 that reads \"This is a title\". The take-control page still has a \"Your Guide to Utility Expense Management\" button pointing at the old guide URL. The homepage still has a \"Utility Expense Management\" link to the old /utility-expense-management/ URL as well as one to the take-control page. Still waiting on Randy."
+      "updateText": "11/5 about 6:10 PM ET: B Dub browser check. The take-control UEM page still has no PDF download form (First Name / Last Name / Email / Organization / Download PDF). /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. On /utility-expense-management/, the string \"This is a title\" remains in markup but is hidden; the visible H1 is the efficiencies and savings line. Still waiting on Randy."
     },
     {
       "id": "10",
@@ -891,14 +903,20 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "2026-11-05 about 3:10 PM ET: audit-guide inbound links still missing on the TEM Guide and TEM service page (SEO Sunny browser check).",
+      "verified": "2026-11-05 about 6:10 PM ET: audit-guide inbound links live on the TEM Guide and TEM service page; checklist download still missing (B Dub browser check).",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (audit-guide links still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-id-12.vercel.app/"
       },
-      "nextStep": "Remaining gap (Randy): add the audit-guide links on the TEM Guide and the TEM service page to /telecom-expense-audit-a-practical-guide-for-enterprises/. Rechecked about 3:10 PM ET on 11/5; still missing on the public pages. Rob reviews before Completed.",
+      "nextStep": "Remaining gap (Randy): add the Telecom Audit Checklist download on /telecom-expense-audit-a-practical-guide-for-enterprises/ (button, form, or PDF). Inbound links from the TEM Guide and service page were verified live about 6:10 PM ET on 11/5. Rob reviews before Completed.",
       "updates": [
+        {
+          "date": "2026-11-05",
+          "time": "6:10 PM",
+          "text": "11/5 about 6:10 PM ET: B Dub browser check. The TEM Guide and the TEM service page both now link to /telecom-expense-audit-a-practical-guide-for-enterprises/ via a \"See Also: Telecom Expense Audit: A Practical Guide for Enterprises\" block. The older \"Want to learn more about telecom expense audits\" wording is not used. The Telecom Audit Checklist download on the audit guide is still missing (plain text CTA only). Item stays Follow up, waiting on Randy for the checklist asset.",
+          "verified": true
+        },
         {
           "date": "2026-11-05",
           "time": "3:10 PM",
@@ -930,10 +948,10 @@
           "verified": true
         }
       ],
-      "updateText": "11/5 about 3:10 PM ET: SEO Sunny rechecked the public TEM Guide (/your-guide-to-telecom-expense-management/) and TEM service page (/telecom-expense-management/) in a real browser. Neither page has a link to /telecom-expense-audit-a-practical-guide-for-enterprises/, and neither has the \"Want to learn more about telecom expense audits\" block. A WordPress data feed earlier today suggested the service page content (last saved about 12:53 PM ET) may include that audit-guide link, but it is not visible on the public page this afternoon. Item stays Follow up, waiting on Randy.",
+      "updateText": "11/5 about 6:10 PM ET: B Dub browser check. The TEM Guide and the TEM service page both now link to /telecom-expense-audit-a-practical-guide-for-enterprises/ via a \"See Also: Telecom Expense Audit: A Practical Guide for Enterprises\" block. The older \"Want to learn more about telecom expense audits\" wording is not used. The Telecom Audit Checklist download on the audit guide is still missing (plain text CTA only). Item stays Follow up, waiting on Randy for the checklist asset.",
       "lastUpdate": {
         "date": "2026-11-05",
-        "by": "SEO Sunny live check"
+        "by": "B Dub browser check"
       }
     },
     {
@@ -1151,7 +1169,7 @@
         "dev": "na"
       },
       "waitingOn": "Rob",
-      "verified": "2026-11-05 about 3:10 PM ET: public page still shows \"Strong SaaS management\" as plain text; this morning's WordPress check had shown the link to /saas-license-management/ (SEO Sunny browser check).",
+      "verified": "2026-11-05 about 6:10 PM ET: public page shows \"Strong SaaS management\" linking to https://tellennium.com/saas-license-management/ (B Dub browser check).",
       "sheetDiff": "Sheet said In progress; Randy reported Done 11/5 and B Dub verified the remaining-gap link. Dashboard shows Follow up pending Rob review.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1159,8 +1177,14 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Public page still shows \"Strong SaaS management\" as plain text (rechecked about 3:10 PM ET on 11/5). This morning's WordPress check had shown the link. A SiteGround cache purge may be needed. Rob reviews before Completed.",
+      "nextStep": "Rob reviews the live \"Strong SaaS management\" link on the overspending article and marks Completed if it looks good. Rechecked about 6:10 PM ET on 11/5.",
       "updates": [
+        {
+          "date": "2026-11-05",
+          "time": "6:10 PM",
+          "text": "11/5 about 6:10 PM ET: B Dub browser check on the public overspending article. \"Strong SaaS management\" is a real link to https://tellennium.com/saas-license-management/, not plain text. This clears the afternoon cache/plain-text gap from about 3:10 PM ET. Item stays Follow up, waiting on Rob to review and mark Completed.",
+          "verified": true
+        },
         {
           "date": "2026-11-05",
           "time": "3:10 PM",
@@ -1218,7 +1242,7 @@
         {
           "date": "2026-10-13",
           "time": "6:04 PM",
-          "text": "Rob scheduled a follow-up note to Randy (goes Wed 10/14 ~8 AM): link the SaaS Guide to ID12 and delete the duplicate \"Why Familiar Tools Fall Short\"; ID13 delete the duplicate \"Establish Your SaaS Spending Baseline\" heading and fix \"ompare\" → \"Compare\" (FAQ + FAQ schema); overspend article: add hub link. Waiting on Randy.",
+          "text": "Rob scheduled a follow-up note to Randy (goes Wed 10/14 ~8 AM): link the SaaS Guide to ID12 and delete the duplicate \"Why Familiar Tools Fall Short\"; ID13 delete the duplicate \"Establish Your SaaS Spending Baseline\" heading and fix \"ompare\" \u2192 \"Compare\" (FAQ + FAQ schema); overspend article: add hub link. Waiting on Randy.",
           "verified": false
         },
         {
@@ -1278,9 +1302,9 @@
       ],
       "lastUpdate": {
         "date": "2026-11-05",
-        "by": "SEO Sunny live check"
+        "by": "B Dub browser check"
       },
-      "updateText": "11/5 about 3:10 PM ET: SEO Sunny checked the public overspending article (/enterprise-saas-management-how-to-stop-overspending-on-cloud-subscriptions/) in a real browser. The words \"Strong SaaS management\" appear as plain text in the sentence starting \"Strong SaaS management is not a cleanup exercise\", and no link containing \"SaaS management\" was found on the public page. This morning's WordPress check (about 12:20 PM ET, post saved 12:11 PM ET) had shown those words linking to https://tellennium.com/saas-license-management/. The public page does not match that this afternoon, so this may be a SiteGround cache issue like earlier items, or the link may not be rendering. Item stays Follow up, waiting on Rob. Do not mark Completed."
+      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the public overspending article. \"Strong SaaS management\" is a real link to https://tellennium.com/saas-license-management/, not plain text. This clears the afternoon cache/plain-text gap from about 3:10 PM ET. Item stays Follow up, waiting on Rob to review and mark Completed."
     },
     {
       "id": "18",
@@ -1346,7 +1370,7 @@
       "phase": "September",
       "priority": "HIGH",
       "action": "Investigate and resolve the 399 crawled-not-indexed pages.",
-      "howTo": "Dev + Rob export GSC 'Crawled - currently not indexed' (399). Triage each:\n• consolidate near-duplicate/thin pages into the cluster owner (301)\n• improve genuinely valuable pages\n• remove dead weight\nRoot cause is cannibalization/thin content, so coordinate with the cluster work (actions 1-3, 9, 17).\nDone when: index rate rises from 42% and the not-indexed count is trending down.",
+      "howTo": "Dev + Rob export GSC 'Crawled - currently not indexed' (399). Triage each:\n\u2022 consolidate near-duplicate/thin pages into the cluster owner (301)\n\u2022 improve genuinely valuable pages\n\u2022 remove dead weight\nRoot cause is cannibalization/thin content, so coordinate with the cluster work (actions 1-3, 9, 17).\nDone when: index rate rises from 42% and the not-indexed count is trending down.",
       "page": "GSC Coverage - 'Crawled, currently not indexed' (399)",
       "owner": "Dev + Rob",
       "due": "Sep 25",
@@ -1511,7 +1535,7 @@
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Greg / Shawn · Bhuvi/G2 (Capterra/GetApp emailed 10/23)",
+      "waitingOn": "Greg / Shawn \u00b7 Bhuvi/G2 (Capterra/GetApp emailed 10/23)",
       "verified": "",
       "sheetDiff": "",
       "links": {
@@ -2205,7 +2229,7 @@
       "phase": "October",
       "priority": "HIGH",
       "action": "NEW: Realign the TEM service page copy to 'telecom expense management services'.",
-      "howTo": "Randy instructions sent 10/21 (exact wording, checked against the live page):\n1. First paragraph under \"The Painful Reality for Most Enterprises\":\n   Current: \"Without proper telecom expense management, you're likely paying for services you don't use...\"\n   New: \"Without the right telecom expense management services, you're likely paying for services you don't use...\" (rest of the sentence stays the same)\n2. Heading \"What Makes Our TEM Services Different\" becomes \"What Makes Our Telecom Expense Management Services Different.\"\n3. Heading \"How Our TEM Platform Improves Expense Visibility and Control\" becomes \"How Our Telecom Expense Management Services Improve Visibility and Control.\"\n4. Intro under \"What Makes Our TEM Services Different\":\n   Current: \"...our cloud-native MoT® Platform manages everything in one place. Telecom, mobility, cloud, utilities, and SaaS – unified visibility without complexity.\"\n   New: \"...our cloud-native MoT® Platform manages everything in one place, with unified visibility across telecom, mobility and cloud and none of the complexity.\"\n5. In the \"You get immediate results\" dropdown:\n   Current: \"The platform handles telecom, mobile managed services, wireless expense management, cloud, utilities, and SaaS expenses in one unified system.\"\n   New: \"The platform handles telecom, mobile managed services, wireless expense management and cloud expenses in one unified system.\"\n6. Remove the \"How TEM Fits Within Your Broader Expense Management Ecosystem\" heading and paragraph, and put this one line in its place:\n   \"The same MoT® platform also covers SaaS license management (https://tellennium.com/saas-license-management/) and utility expense management (https://tellennium.com/take-control-of-utility-costs-with-proven-uem-expertise/) if you want to bring those expenses under one roof.\"\n7. Shorten the \"ServiceNow® Integration for Enterprise Mobility, Wireline, and all other Services' Management\" section. Rename the heading to \"ServiceNow® Integration\" and replace the paragraph, the \"What This Means For You\" list and the closing paragraph with:\n   \"Already using ServiceNow? Our telecom expense management capabilities plug into your existing workflows through pre-built, certified integrations, so you can provision services and report on telecom assets without building anything custom. Learn more about our ServiceNow integration (https://tellennium.com/7-ways-to-streamline-enterprise-expense-management-with-servicenow/).\"\n8. Remove the \"MOT® Platform Overview:\" and \"Access Through ServiceNow:\" sections. Both repeat text from earlier on the page.\n9. Image alt text: change \"How Our TEM Platform Fixes Your Technology Expense Management Problems\" to \"How our telecom expense management services fix enterprise telecom billing problems.\"\n\nPlease hold off on the FAQ answer \"What expenses does the TEM platform manage?\" for now. Steve's developer item on this page (SEO #32) merges the FAQ blocks, so I'll send that wording after it's done.",
+      "howTo": "Randy instructions sent 10/21 (exact wording, checked against the live page):\n1. First paragraph under \"The Painful Reality for Most Enterprises\":\n   Current: \"Without proper telecom expense management, you're likely paying for services you don't use...\"\n   New: \"Without the right telecom expense management services, you're likely paying for services you don't use...\" (rest of the sentence stays the same)\n2. Heading \"What Makes Our TEM Services Different\" becomes \"What Makes Our Telecom Expense Management Services Different.\"\n3. Heading \"How Our TEM Platform Improves Expense Visibility and Control\" becomes \"How Our Telecom Expense Management Services Improve Visibility and Control.\"\n4. Intro under \"What Makes Our TEM Services Different\":\n   Current: \"...our cloud-native MoT\u00ae Platform manages everything in one place. Telecom, mobility, cloud, utilities, and SaaS \u2013 unified visibility without complexity.\"\n   New: \"...our cloud-native MoT\u00ae Platform manages everything in one place, with unified visibility across telecom, mobility and cloud and none of the complexity.\"\n5. In the \"You get immediate results\" dropdown:\n   Current: \"The platform handles telecom, mobile managed services, wireless expense management, cloud, utilities, and SaaS expenses in one unified system.\"\n   New: \"The platform handles telecom, mobile managed services, wireless expense management and cloud expenses in one unified system.\"\n6. Remove the \"How TEM Fits Within Your Broader Expense Management Ecosystem\" heading and paragraph, and put this one line in its place:\n   \"The same MoT\u00ae platform also covers SaaS license management (https://tellennium.com/saas-license-management/) and utility expense management (https://tellennium.com/take-control-of-utility-costs-with-proven-uem-expertise/) if you want to bring those expenses under one roof.\"\n7. Shorten the \"ServiceNow\u00ae Integration for Enterprise Mobility, Wireline, and all other Services' Management\" section. Rename the heading to \"ServiceNow\u00ae Integration\" and replace the paragraph, the \"What This Means For You\" list and the closing paragraph with:\n   \"Already using ServiceNow? Our telecom expense management capabilities plug into your existing workflows through pre-built, certified integrations, so you can provision services and report on telecom assets without building anything custom. Learn more about our ServiceNow integration (https://tellennium.com/7-ways-to-streamline-enterprise-expense-management-with-servicenow/).\"\n8. Remove the \"MOT\u00ae Platform Overview:\" and \"Access Through ServiceNow:\" sections. Both repeat text from earlier on the page.\n9. Image alt text: change \"How Our TEM Platform Fixes Your Technology Expense Management Problems\" to \"How our telecom expense management services fix enterprise telecom billing problems.\"\n\nPlease hold off on the FAQ answer \"What expenses does the TEM platform manage?\" for now. Steve's developer item on this page (SEO #32) merges the FAQ blocks, so I'll send that wording after it's done.",
       "page": "Page: /telecom-expense-management/\nKeyword: telecom expense management services",
       "owner": "Rob",
       "due": "Oct 23",
@@ -2230,6 +2254,12 @@
       },
       "nextStep": "Randy: make the 9 copy changes listed in How to Execute (sent 10/21). FAQ wording waits for #32.",
       "updates": [
+        {
+          "date": "2026-11-05",
+          "time": "6:10 PM",
+          "text": "11/5 about 6:10 PM ET: B Dub browser check on the TEM service page. The requested #33 wording is still not live. The first body paragraph still starts \"Without proper telecom expense management, you're likely paying for services you don't use...\" rather than \"Without the right telecom expense management services\". No in-body links to /saas-license-management/ or /take-control-of-utility-costs-with-proven-uem-expertise/ (a \"utilities\" link still points at /utility-expense-management/). Still waiting on Randy.",
+          "verified": true
+        },
         {
           "date": "2026-11-05",
           "time": "3:10 PM",
@@ -2270,9 +2300,9 @@
       "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
       "lastUpdate": {
         "date": "2026-11-05",
-        "by": "SEO Sunny live check"
+        "by": "B Dub browser check"
       },
-      "updateText": "11/5 about 3:10 PM ET: SEO Sunny glanced at the public TEM service page. The requested #33 wording is still not live. The first body paragraph still starts \"Without proper telecom expense management, you're likely paying for services you don't use...\" rather than \"Without the right telecom expense management services\". The headings are still \"What Makes Our TEM Services Different\" and \"How Our TEM Platform Improves Expense Visibility and Control\". There are no in-body links to /saas-license-management/ or /take-control-of-utility-costs-with-proven-uem-expertise/ (a body link \"utilities\" still points at /utility-expense-management/). The FAQ question \"What expenses does the TEM platform manage?\" is still present with the old answer, which is expected until #32. Still waiting on Randy for the nine copy edits."
+      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM service page. The requested #33 wording is still not live. The first body paragraph still starts \"Without proper telecom expense management, you're likely paying for services you don't use...\" rather than \"Without the right telecom expense management services\". No in-body links to /saas-license-management/ or /take-control-of-utility-costs-with-proven-uem-expertise/ (a \"utilities\" link still points at /utility-expense-management/). Still waiting on Randy."
     },
     {
       "id": "34",
@@ -2424,7 +2454,7 @@
       "phase": "October",
       "priority": "HIGH",
       "action": "NEW: Update the TEM Guide title and meta so it stops competing for the commercial 'services' terms.",
-      "howTo": "Page: /your-guide-to-telecom-expense-management/\n1) Title: 'Telecom Expense Management: The Enterprise Guide | Tellennium'\n2) Meta: 'How telecom expense management works for enterprises: inventory, invoice audit, cost allocation and mobility, and how to build a TEM program that lasts.'\n3) Rename the H2 'Why is TEM critical? What are the benefits of using a telecom expense management solution?' to 'Why TEM Matters: Benefits for Enterprises'.\n4) Fix the misspelled link anchor 'Telecom Expence Management – Implementation of Outsourced TEM' (points to the service page) to 'telecom expense management services'.\nDone when: the Guide's title and meta no longer reference services or providers, and the anchor is corrected.",
+      "howTo": "Page: /your-guide-to-telecom-expense-management/\n1) Title: 'Telecom Expense Management: The Enterprise Guide | Tellennium'\n2) Meta: 'How telecom expense management works for enterprises: inventory, invoice audit, cost allocation and mobility, and how to build a TEM program that lasts.'\n3) Rename the H2 'Why is TEM critical? What are the benefits of using a telecom expense management solution?' to 'Why TEM Matters: Benefits for Enterprises'.\n4) Fix the misspelled link anchor 'Telecom Expence Management \u2013 Implementation of Outsourced TEM' (points to the service page) to 'telecom expense management services'.\nDone when: the Guide's title and meta no longer reference services or providers, and the anchor is corrected.",
       "page": "Page: /your-guide-to-telecom-expense-management/\nKeyword: telecom expense management (Guide stays owner per #3)",
       "owner": "Rob",
       "due": "Oct 16",
@@ -2438,7 +2468,7 @@
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Completed (verified live 10/21) · small leftover with Randy",
+      "waitingOn": "Completed (verified live 10/21) \u00b7 small leftover with Randy",
       "verified": "2026-10-21: Guide title, meta and H2 live",
       "sheetDiff": "",
       "links": {
@@ -2447,12 +2477,18 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Randy (small leftover): change the hidden link text 'Telecom Expence Management – Implementation of Outsourced TEM' (to the service page) to 'telecom expense management services'. Rechecked 11/5 about 3:10 PM ET; still there.",
+      "nextStep": "Randy (small leftover): change the hidden/collapsed link text 'Telecom Expence Management \u2013 Implementation of Outsourced TEM' (to the service page) to 'telecom expense management services'. Rechecked 11/5 about 6:10 PM ET; still there.",
       "updates": [
         {
           "date": "2026-11-05",
+          "time": "6:10 PM",
+          "text": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management \u2013 Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy.",
+          "verified": true
+        },
+        {
+          "date": "2026-11-05",
           "time": "3:10 PM",
-          "text": "11/5 about 3:10 PM ET: SEO Sunny rechecked the TEM Guide. The leftover typo is still present: hidden or collapsed link text \"Telecom Expence Management – Implementation of Outsourced TEM\" pointing to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy.",
+          "text": "11/5 about 3:10 PM ET: SEO Sunny rechecked the TEM Guide. The leftover typo is still present: hidden or collapsed link text \"Telecom Expence Management \u2013 Implementation of Outsourced TEM\" pointing to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy.",
           "verified": true
         },
         {
@@ -2506,13 +2542,13 @@
       ],
       "lastUpdate": {
         "date": "2026-11-05",
-        "by": "SEO Sunny live check"
+        "by": "B Dub browser check"
       },
-      "updateText": "11/5 about 3:10 PM ET: SEO Sunny rechecked the TEM Guide. The leftover typo is still present: hidden or collapsed link text \"Telecom Expence Management – Implementation of Outsourced TEM\" pointing to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
+      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management \u2013 Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "2026-11-05 3:58 PM ET",
-  "updateNote": "11/5 ~3:58 PM ET: Rob emailed Randy confirmation on this week’s three (#4/#6/#17) plus #12 and audit-guide download (R-008). 11/5 about 3:10 PM ET: Afternoon live recheck (SEO Sunny, real browser). #4 homepage exact-anchor still missing. #12 audit-guide inbound links still missing on the TEM Guide and service page. #9 still has no PDF form and no UEM redirects; the old utility page H1 still reads \"This is a title\". #33 copy edits still not live. #36 Expence leftover still on the TEM Guide. #17: public overspending article still shows \"Strong SaaS management\" as plain text (this morning's WordPress check had shown the link). #6 unchanged, pending Rob review.",
+  "lastUpdated": "2026-11-05 6:10 PM ET",
+  "updateNote": "11/5 about 6:10 PM ET: B Dub browser live recheck. #4 homepage title-case \"Telecom Expense Management Services\" link is live (waiting on Rob). #12 audit-guide inbound links are live on the TEM Guide and service page; checklist download still missing. #17 public \"Strong SaaS management\" link is live (waiting on Rob). #9 still has no PDF form and no UEM redirects. #33 copy edits still not live. #36 Expence leftover still on the TEM Guide. #6 unchanged, pending Rob review.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2610,7 +2646,7 @@
     {
       "date": "2026-10-28",
       "time": "12:15 PM",
-      "text": "10/28 ~12:15 PM: Dashboard refresh for Rob/Randy sync. Top three for full green close this week unchanged: #4 (TEM service page intro + homepage link), #6 (Article schema with author markup), #35 (link two TEM blogs to TEM service page). Bench: #17, #33, #12, #14. Steve out this week — no Steve-dependent closes."
+      "text": "10/28 ~12:15 PM: Dashboard refresh for Rob/Randy sync. Top three for full green close this week unchanged: #4 (TEM service page intro + homepage link), #6 (Article schema with author markup), #35 (link two TEM blogs to TEM service page). Bench: #17, #33, #12, #14. Steve out this week \u2014 no Steve-dependent closes."
     },
     {
       "date": "2026-10-23",
@@ -2792,31 +2828,31 @@
     {
       "ref": "Audit guide asset",
       "who": "Randy",
-      "text": "11/5 about 3:10 PM ET: SEO Sunny opened the live audit guide at /telecom-expense-audit-a-practical-guide-for-enterprises/. The full article body is present. The text mentions \"Download the Telecom Audit Checklist\", but there is no visible download link, button, form, or PDF for that checklist (the only PDF links are two external citations). This 11/3 downloadable-asset recheck stays open. Rob emailed Randy 11/3 6:55 PM: the downloadable asset is not on the Telecom Expense Audit guide article. Rob sent Randy the asset file 11/3 7:06 PM ET (per Sophie, 11/4).",
+      "text": "11/5 about 6:10 PM ET: B Dub opened the live audit guide. The article mentions \"Download the Telecom Audit Checklist\", but there is still no visible download link, button, form, or checklist PDF (only external citation PDFs and the footer newsletter). This 11/3 downloadable-asset recheck stays open. 11/5 about 3:10 PM ET: SEO Sunny opened the live audit guide at /telecom-expense-audit-a-practical-guide-for-enterprises/. The full article body is present. The text mentions \"Download the Telecom Audit Checklist\", but there is no visible download link, button, form, or PDF for that checklist (the only PDF links are two external citations). This 11/3 downloadable-asset recheck stays open. Rob emailed Randy 11/3 6:55 PM: the downloadable asset is not on the Telecom Expense Audit guide article. Rob sent Randy the asset file 11/3 7:06 PM ET (per Sophie, 11/4).",
       "next": "Randy adds the asset; B Dub checks the download works live; Rob confirms."
     },
     {
       "ref": "#9",
       "who": "Rob/B Dub",
-      "text": "11/5 about 3:10 PM ET: SEO Sunny live check. The take-control UEM page loads at /take-control-of-utility-costs-with-proven-uem-expertise/ with H1 \"Take Control of Utility Costs with Proven UEM Expertise\" (not the placeholder title). There is still no PDF form or downloadable form on that page. /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. The old /utility-expense-management/ page still has an H1 that reads \"This is a title\". The take-control page still has a \"Your Guide to Utility Expense Management\" button pointing at the old guide URL. The homepage still has a \"Utility Expense Management\" link to the old /utility-expense-management/ URL as well as one to the take-control page. Still waiting on Randy. Live check 10/22 1:18 PM: /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load (no redirect), and no PDF form on the take-control UEM page. Re-sent 10/21 4:24 PM. Checked 10/23 9:50 AM (REST): both old URLs still return their own content; take-control page last modified 10/14, so no change.",
+      "text": "11/5 about 6:10 PM ET: B Dub browser check. The take-control UEM page still has no PDF download form (First Name / Last Name / Email / Organization / Download PDF). /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. On /utility-expense-management/, the string \"This is a title\" remains in markup but is hidden; the visible H1 is the efficiencies and savings line. Still waiting on Randy. 11/5 about 3:10 PM ET: SEO Sunny live check. The take-control UEM page loads at /take-control-of-utility-costs-with-proven-uem-expertise/ with H1 \"Take Control of Utility Costs with Proven UEM Expertise\" (not the placeholder title). There is still no PDF form or downloadable form on that page. /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. The old /utility-expense-management/ page still has an H1 that reads \"This is a title\". The take-control page still has a \"Your Guide to Utility Expense Management\" button pointing at the old guide URL. The homepage still has a \"Utility Expense Management\" link to the old /utility-expense-management/ URL as well as one to the take-control page. Still waiting on Randy. Live check 10/22 1:18 PM: /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load (no redirect), and no PDF form on the take-control UEM page. Re-sent 10/21 4:24 PM. Checked 10/23 9:50 AM (REST): both old URLs still return their own content; take-control page last modified 10/14, so no change.",
       "next": "On the Rob/Randy sync agenda (later today or Fri 10/23 AM). Once Randy says done: verify the form records, the right PDF downloads, and both 301s."
     },
     {
       "ref": "#17",
       "who": "Randy",
-      "text": "Overspending article: Randy reported Done 11/5 12:15 PM ET. 11/5 about 12:20 PM ET: B Dub's WordPress check (post saved 12:11 PM ET) showed \"Strong SaaS management\" linking to https://tellennium.com/saas-license-management/. 11/5 about 3:10 PM ET: SEO Sunny's real-browser check of the public page showed the words as plain text, with no link containing \"SaaS management\". Possible SiteGround cache issue, or the link is not rendering. Earlier checks (10/22, 10/23, 10/30) had found it unlinked.",
-      "next": "Confirm the link shows on the public page (a SiteGround cache purge may be needed); then Rob reviews and marks Completed."
+      "text": "Overspending article: Randy reported Done 11/5 12:15 PM ET. 11/5 about 12:20 PM ET: B Dub WordPress check showed the link. 11/5 about 3:10 PM ET: SEO Sunny public page showed plain text. 11/5 about 6:10 PM ET: B Dub browser check confirmed \"Strong SaaS management\" links to https://tellennium.com/saas-license-management/ on the public page.",
+      "next": "Rob reviews the live public link and marks Completed."
     },
     {
       "ref": "#33",
       "who": "Randy",
-      "text": "11/5 about 3:10 PM ET: SEO Sunny glanced at the public TEM service page. The requested #33 wording is still not live. The first body paragraph still starts \"Without proper telecom expense management, you're likely paying for services you don't use...\" rather than \"Without the right telecom expense management services\". The headings are still \"What Makes Our TEM Services Different\" and \"How Our TEM Platform Improves Expense Visibility and Control\". There are no in-body links to /saas-license-management/ or /take-control-of-utility-costs-with-proven-uem-expertise/ (a body link \"utilities\" still points at /utility-expense-management/). The FAQ question \"What expenses does the TEM platform manage?\" is still present with the old answer, which is expected until #32. Still waiting on Randy for the nine copy edits. Nine TEM service page edits sent 10/21 4:24 PM; none live at the 10/22 1:18 PM check. FAQ answer held until #32 is done. Checked 10/23 9:50 AM (REST): page last modified 10/16; intro, Ecosystem, MOT Platform Overview and Access Through ServiceNow sections unchanged, so none live.",
+      "text": "11/5 about 6:10 PM ET: B Dub browser check on the TEM service page. The requested #33 wording is still not live. The first body paragraph still starts \"Without proper telecom expense management, you're likely paying for services you don't use...\" rather than \"Without the right telecom expense management services\". No in-body links to /saas-license-management/ or /take-control-of-utility-costs-with-proven-uem-expertise/ (a \"utilities\" link still points at /utility-expense-management/). Still waiting on Randy. 11/5 about 3:10 PM ET: SEO Sunny glanced at the public TEM service page. The requested #33 wording is still not live. The first body paragraph still starts \"Without proper telecom expense management, you're likely paying for services you don't use...\" rather than \"Without the right telecom expense management services\". The headings are still \"What Makes Our TEM Services Different\" and \"How Our TEM Platform Improves Expense Visibility and Control\". There are no in-body links to /saas-license-management/ or /take-control-of-utility-costs-with-proven-uem-expertise/ (a body link \"utilities\" still points at /utility-expense-management/). The FAQ question \"What expenses does the TEM platform manage?\" is still present with the old answer, which is expected until #32. Still waiting on Randy for the nine copy edits. Nine TEM service page edits sent 10/21 4:24 PM; none live at the 10/22 1:18 PM check. FAQ answer held until #32 is done. Checked 10/23 9:50 AM (REST): page last modified 10/16; intro, Ecosystem, MOT Platform Overview and Access Through ServiceNow sections unchanged, so none live.",
       "next": "On the Rob/Randy sync agenda (due 10/23). Verify the nine edits live once Randy is done; send the FAQ wording after #32."
     },
     {
       "ref": "#36",
       "who": "Randy",
-      "text": "11/5 about 3:10 PM ET: SEO Sunny rechecked the TEM Guide. The leftover typo is still present: hidden or collapsed link text \"Telecom Expence Management – Implementation of Outsourced TEM\" pointing to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy. Leftover: hidden link text 'Telecom Expence Management – Implementation of Outsourced TEM' on the TEM Guide. Sent 10/21 4:24 PM. Checked 10/23 9:50 AM: the TEM Guide was edited 10/23 about 6:54 AM ET, but a site search for 'Expence' still returns it (and the TEM FAQ post).",
+      "text": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management \u2013 Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy. 11/5 about 3:10 PM ET: SEO Sunny rechecked the TEM Guide. The leftover typo is still present: hidden or collapsed link text \"Telecom Expence Management \u2013 Implementation of Outsourced TEM\" pointing to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy. Leftover: hidden link text 'Telecom Expence Management \u2013 Implementation of Outsourced TEM' on the TEM Guide. Sent 10/21 4:24 PM. Checked 10/23 9:50 AM: the TEM Guide was edited 10/23 about 6:54 AM ET, but a site search for 'Expence' still returns it (and the TEM FAQ post).",
       "next": "Check the page code once Randy fixes it."
     },
     {
