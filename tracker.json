@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 12:20 PM ET",
+  "updated": "2026-11-05 12:28 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -368,19 +368,25 @@
       "light": "yellow",
       "parties": {
         "rob": "done",
-        "randy": "open",
+        "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Randy",
-      "verified": "2026-10-30: 294/300 posts OK; 6 newest still show transit@twc.com",
-      "sheetDiff": "Sheet says Done; dashboard shows Follow up (follow-up still open).",
+      "waitingOn": "Rob",
+      "verified": "2026-11-05 ~12:25 PM ET: Yoast author meta shows Rob Halik (not transit@twc.com) on ID2, ID9, employee-offboarding, utility-expense-management-companies, and how-to-evaluate-a-saas-license-management-provider (B Dub, WordPress REST). Full 300-post scan not rerun.",
+      "sheetDiff": "Sheet says Done; dashboard shows Follow up pending Rob review after Randy's 11/5 Done report and B Dub's partial live check.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoid6articleschemaimplementationgu.vercel.app/"
       },
-      "nextStep": "Remaining gap (Randy): set the author to Rob Halik on the 6 newest posts (10/21-10/29), fix the transit@twc.com user's display name so new posts get a real author, then purge the SiteGround cache. Then B Dub checks live and Rob marks Completed.",
+      "nextStep": "Rob reviews the author fix on the newest posts and marks Completed if it looks good. B Dub checked Yoast author metadata on five posts at about 12:25 PM ET on 11/5 (all showed Rob Halik) and did not rerun the full 300-post scan.",
       "updates": [
+        {
+          "date": "2026-11-05",
+          "time": "12:25 PM",
+          "text": "11/5 12:16 PM ET: Randy emailed Rob (cc B Dub) that #6 is Done, via the fallback SEO tracker form (subject: SEO tracker update: #6 from Randy; note: Form could not send: Failed to fetch). 11/5 ~12:25 PM ET: B Dub checked WordPress and Yoast author metadata. Posts that showed \"Rob Halik\" (and not transit@twc.com) included 2027-technology-expense-budget-planning-a-checklist-for-it-and-finance (ID2, saved 12:06 PM ET), utility-bill-audit-cost-what-you-pay-for-and-what-you-can-recover (ID9, saved 12:06 PM ET), employee-offboarding-the-licenses-youre-still-paying-for (saved 12:06 PM ET), utility-expense-management-companies-how-providers-compare, and how-to-evaluate-a-saas-license-management-provider. Several of the original six problem posts were also saved between 12:06 and 12:07 PM ET. B Dub did not rerun the full 300-post scan from 10/29. Rob reviews before Completed.",
+          "verified": true
+        },
         {
           "date": "2026-10-30",
           "time": "9:11 AM",
@@ -1107,25 +1113,31 @@
       "due": "Sep 25",
       "week": "Wk 13 (Sep 22-26)",
       "sheetStatus": "In progress",
-      "status": "Waiting",
+      "status": "Follow up",
       "light": "yellow",
       "parties": {
         "rob": "done",
-        "randy": "open",
+        "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Randy",
-      "verified": "2026-10-30: link still missing on the overspending article",
-      "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Randy.",
+      "waitingOn": "Rob",
+      "verified": "2026-11-05 ~12:20 PM ET: \"Strong SaaS management\" links to https://tellennium.com/saas-license-management/ on the overspending article (B Dub, WordPress REST; post saved 12:11 PM ET).",
+      "sheetDiff": "Sheet said In progress; Randy reported Done 11/5 and B Dub verified the remaining-gap link. Dashboard shows Follow up pending Rob review.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://uemsaasclustertellenniumseoaction17.vercel.app/",
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Randy: on the SaaS overspending article, link 'Strong SaaS management' (first line under 'What Strong Enterprise SaaS Management Does Differently') to https://tellennium.com/saas-license-management/.",
+      "nextStep": "Rob reviews the live SaaS overspending link and marks Completed if it looks good. B Dub verified the remaining-gap link at about 12:20 PM ET on 11/5.",
       "updates": [
+        {
+          "date": "2026-11-05",
+          "time": "12:20 PM",
+          "text": "11/5 12:15 PM ET: Randy emailed Rob (cc B Dub) that #17 is Done, via the fallback SEO tracker form (subject: SEO tracker update: #17 from Randy; note: Form could not send: Failed to fetch). 11/5 ~12:20 PM ET: B Dub checked the SaaS overspending article through WordPress (post 46618, /enterprise-saas-management-how-to-stop-overspending-on-cloud-subscriptions/, saved 12:11 PM ET). The words \"Strong SaaS management\" now link to https://tellennium.com/saas-license-management/, which was the remaining gap. Rob reviews before Completed.",
+          "verified": true
+        },
         {
           "date": "2026-10-30",
           "time": "9:11 AM",
@@ -2452,8 +2464,8 @@
       "updateText": "#36 Rob sent Randy the hidden-typo leftover in the 10/21 note."
     }
   ],
-  "lastUpdated": "2026-11-05 12:20 PM ET",
-  "updateNote": "11/5 12:14 PM ET: Randy emailed that SEO #4 is Done (fallback form to Rob, cc B Dub; form could not send). B Dub checked the public homepage at about 12:16 PM ET: the exact link text \"telecom expense management services\" is still not there (visible text is still \"Telecom Expense Management\" and \"TEM Control\"). #4 stays Follow up pending Rob's review. #6 and #17 unchanged.",
+  "lastUpdated": "2026-11-05 12:28 PM ET",
+  "updateNote": "11/5 12:14-12:16 PM ET: Randy emailed that #4, #6 and #17 are Done (fallback forms to Rob, cc B Dub). #4 stays Follow up: homepage still missing the exact-anchor text \"telecom expense management services\" (B Dub page fetch ~12:16 PM ET). #6: Yoast author meta shows Rob Halik on the posts B Dub could read, including ID2 and ID9; waiting on Rob review. #17: B Dub verified the \"Strong SaaS management\" link on the overspending article (~12:20 PM ET); waiting on Rob review.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
