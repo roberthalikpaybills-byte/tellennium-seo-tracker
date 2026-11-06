@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 6:10 PM ET",
+  "updated": "11/6 ~9:10 AM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -204,7 +204,7 @@
         "dev": "na"
       },
       "waitingOn": "Rob",
-      "verified": "2026-11-05 about 6:10 PM ET (reconfirmed 2026-11-06 about 8:00 AM ET): homepage shows title-case \"Telecom Expense Management Services\" linking to /telecom-expense-management/ (B Dub browser check). Exact lowercase anchor not used.",
+      "verified": "2026-11-05 about 6:10 PM ET (reconfirmed 2026-11-06 about 8:00 AM ET): homepage shows title-case \"Telecom Expense Management Services\" linking to /telecom-expense-management/ (B Dub browser check). Exact lowercase anchor not used. Not re-fetched 11/6 ~9:10 AM ET (SiteGuard captcha on homepage/pages).",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (exact-anchor homepage link still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -296,7 +296,7 @@
         "date": "2026-11-05",
         "by": "B Dub browser check"
       },
-      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the public homepage. A visible link \"Telecom Expense Management Services\" now goes to /telecom-expense-management/. The exact all-lowercase anchor \"telecom expense management services\" is not used (title case). Nearby links still include \"Telecom Expense Management\", \"TEM Control\", and \"What a TEM delivers\". Randy's remaining homepage-link gap looks closed on case-insensitive phrase match. Item stays Follow up for Rob's review before Completed.",
+      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the public homepage. A visible link \"Telecom Expense Management Services\" now goes to /telecom-expense-management/. The exact all-lowercase anchor \"telecom expense management services\" is not used (title case). Nearby links still include \"Telecom Expense Management\", \"TEM Control\", and \"What a TEM delivers\". Randy's remaining homepage-link gap looks closed on case-insensitive phrase match. Item stays Follow up for Rob's review before Completed. 11/6 ~9:10 AM ET scheduled refresh: SiteGuard captcha blocked homepage recheck this pass; prior live confirm stands (waiting Rob Completed).",
       "doneNote": "Randy's part reported done 10/29. Verified: new intro ('Telecom Expense Management services help clients recover an average of 28%...') live, public copy refreshed by 10/30."
     },
     {
@@ -909,13 +909,13 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "2026-11-05 about 6:10 PM ET: audit-guide inbound links live on the TEM Guide and TEM service page; checklist download still missing (reconfirmed missing 2026-11-06 about 8:00 AM ET; B Dub browser).",
+      "verified": "2026-11-05 about 6:10 PM ET: audit-guide inbound links live on the TEM Guide and TEM service page. Checklist download still missing (reconfirmed 11/6 ~9:10 AM ET via WP REST content on the audit guide; B Dub: phrase present, no Tellennium checklist PDF or form link).",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (audit-guide links still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-id-12.vercel.app/"
       },
-      "nextStep": "Remaining gap (Randy): add the Telecom Audit Checklist download on /telecom-expense-audit-a-practical-guide-for-enterprises/ (button, form, or PDF). Inbound links from the TEM Guide and service page were verified live about 6:10 PM ET on 11/5. Rob reviews before Completed.",
+      "nextStep": "Remaining gap (Randy): add the Telecom Audit Checklist download on the audit guide (button, form, or PDF). Inbound links from TEM Guide and service page were live as of 11/5 ~6:10 PM ET. Hold further Randy nudges.",
       "updates": [
         {
           "date": "2026-11-06",
@@ -960,10 +960,10 @@
           "verified": true
         }
       ],
-      "updateText": "11/5 about 6:10 PM ET: B Dub browser check. The TEM Guide and the TEM service page both now link to /telecom-expense-audit-a-practical-guide-for-enterprises/ via a \"See Also: Telecom Expense Audit: A Practical Guide for Enterprises\" block. The older \"Want to learn more about telecom expense audits\" wording is not used. The Telecom Audit Checklist download on the audit guide is still missing (plain text CTA only). Item stays Follow up, waiting on Randy for the checklist asset.",
+      "updateText": "11/6 ~9:10 AM ET: B Dub WP REST content check on /telecom-expense-audit-a-practical-guide-for-enterprises/. Download the Telecom Audit Checklist text is present; PDF hrefs on the page were external only (worldcc, aotmp). No Tellennium checklist download link or form found. Inbound links not rechecked this pass (SiteGuard). Remaining gap unchanged: Randy adds the checklist download (R-009). Hold further Randy nudges per Rob 11/5.",
       "lastUpdate": {
-        "date": "2026-11-05",
-        "by": "B Dub browser check"
+        "date": "2026-11-06",
+        "by": "B Dub WP REST"
       }
     },
     {
@@ -1181,7 +1181,7 @@
         "dev": "na"
       },
       "waitingOn": "Rob",
-      "verified": "2026-11-05 about 6:10 PM ET (reconfirmed 2026-11-06 about 8:00 AM ET): public page shows \"Strong SaaS management\" linking to https://tellennium.com/saas-license-management/ (B Dub browser check).",
+      "verified": "2026-11-05 about 6:10 PM ET (reconfirmed 2026-11-06 about 8:00 AM ET): public page shows \"Strong SaaS management\" linking to https://tellennium.com/saas-license-management/ (B Dub browser check). Not re-fetched 11/6 ~9:10 AM ET (SiteGuard captcha).",
       "sheetDiff": "Sheet said In progress; Randy reported Done 11/5 and B Dub verified the remaining-gap link. Dashboard shows Follow up pending Rob review.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1322,7 +1322,7 @@
         "date": "2026-11-05",
         "by": "B Dub browser check"
       },
-      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the public overspending article. \"Strong SaaS management\" is a real link to https://tellennium.com/saas-license-management/, not plain text. This clears the afternoon cache/plain-text gap from about 3:10 PM ET. Item stays Follow up, waiting on Rob to review and mark Completed."
+      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the public overspending article. \"Strong SaaS management\" is a real link to https://tellennium.com/saas-license-management/, not plain text. This clears the afternoon cache/plain-text gap from about 3:10 PM ET. Item stays Follow up, waiting on Rob to review and mark Completed. 11/6 ~9:10 AM ET scheduled refresh: SiteGuard captcha blocked overspending-article recheck this pass; prior live confirm stands (waiting Rob Completed)."
     },
     {
       "id": "18",
@@ -1468,7 +1468,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "2026-10-22: /managed-telecom-services/ returns 404",
+      "verified": "11/6 ~9:10 AM ET: /managed-telecom-services/ slug empty via WP REST (?rest_route=; B Dub). Still not built.",
       "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Randy.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1790797144264&OR=EXCEL%2DWEB%2EBODY%2ENT&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1531,8 +1531,11 @@
           "verified": true
         }
       ],
-      "lastUpdate": "2026-10-22",
-      "updateText": "Live check 10/22 (box browser): /managed-telecom-services/ still 404."
+      "lastUpdate": {
+        "date": "2026-11-06",
+        "by": "B Dub WP REST"
+      },
+      "updateText": "11/6 ~9:10 AM ET: B Dub WP REST (?rest_route=) slug lookup for managed-telecom-services returned []. SEO #20 page still not published. Separate: blog ID25 is Sent (Rob 11/5) with planned post 11/6; same slug empty so the blog is not live either. Publish lag for the blog is not escalated."
     },
     {
       "id": "21",
@@ -2566,7 +2569,7 @@
     }
   ],
   "lastUpdated": "2026-11-06",
-  "updateNote": "11/6 ~8:00 AM ET: #4 and #17 reconfirmed live (waiting Rob Completed); ID25 Sent not live yet; R-009 checklist still missing. Sophie sync folded into hub (nothing new from Rob).",
+  "updateNote": "11/6 ~9:10 AM ET: scheduled hub refresh. ID25 slug managed-telecom-services still empty via WP REST (?rest_route=, B Dub). Audit guide content check: Telecom Audit Checklist download phrase present; no Tellennium checklist PDF/form link (R-009 still open). SiteGuard captcha blocked homepage and overspending rechecks this pass; #4 and #17 stay on prior live confirms (waiting Rob Completed). Hold further Randy nudges.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
