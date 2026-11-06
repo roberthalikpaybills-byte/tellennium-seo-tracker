@@ -1,5 +1,5 @@
 {
-  "updated": "11/6 ~12:13 PM ET",
+  "updated": "11/6 ~3:15 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -43,7 +43,7 @@
         },
         {
           "date": "2026-10-16",
-          "time": "7:58–7:59 AM",
+          "time": "7:58\u20137:59 AM",
           "text": "10/16: Randy fixed title and spelling error",
           "verified": false
         },
@@ -83,7 +83,7 @@
       "phase": "July",
       "priority": "HIGH",
       "action": "Fix MMS cannibalization. Assign each competing page a unique target keyword; all link to the service-page hub.",
-      "howTo": "Assign one unique primary keyword to each of the 5 competing MMS pages and link each up to /managed-mobility-services/ (hub):\n• /managed-mobility-services/ = 'managed mobility services' (hub)\n• /6-areas-of-managed-mobility-services.../ = 'areas of managed mobility services'\n• /your-guide-to-managed-mobility-services/ = 'managed mobility services guide'\n• /managed-mobility-services-faq/ = 'managed mobility services FAQ'\n• /managed-mobility-services-mms-vs-mdm.../ = 'MMS vs MDM'\nUpdate each page's title/H1/meta to its assigned term.\nDone when: no two MMS pages share a primary keyword and all link to the hub.",
+      "howTo": "Assign one unique primary keyword to each of the 5 competing MMS pages and link each up to /managed-mobility-services/ (hub):\n\u2022 /managed-mobility-services/ = 'managed mobility services' (hub)\n\u2022 /6-areas-of-managed-mobility-services.../ = 'areas of managed mobility services'\n\u2022 /your-guide-to-managed-mobility-services/ = 'managed mobility services guide'\n\u2022 /managed-mobility-services-faq/ = 'managed mobility services FAQ'\n\u2022 /managed-mobility-services-mms-vs-mdm.../ = 'MMS vs MDM'\nUpdate each page's title/H1/meta to its assigned term.\nDone when: no two MMS pages share a primary keyword and all link to the hub.",
       "page": "Keyword: managed mobility services (590 vol)\n5 competing URLs",
       "owner": "Rob",
       "due": "Jul 11",
@@ -142,7 +142,7 @@
       "phase": "July",
       "priority": "HIGH",
       "action": "Lock the TEM cluster architecture: one owner page per head term so Google/AI read the clusters clearly; reassign competing URLs.",
-      "howTo": "Apply the master-map owner assignments:\n• 'telecom expense management' (8,100) = owner /your-guide-to-telecom-expense-management/\n• 'telecom expense management services' (2,400) = owner /telecom-expense-management/ (remove the term from the Guide and homepage)\n• 'technology expense management' (1,900) = owner /what-is-the-difference-between-telecom-expense-management-and-technology-expense-management/\nFor each: point competing pages' internal links to the owner and remove the term from competitors' title/H1/meta.\nDone when: each head term has a single owner and competitors link to it.",
+      "howTo": "Apply the master-map owner assignments:\n\u2022 'telecom expense management' (8,100) = owner /your-guide-to-telecom-expense-management/\n\u2022 'telecom expense management services' (2,400) = owner /telecom-expense-management/ (remove the term from the Guide and homepage)\n\u2022 'technology expense management' (1,900) = owner /what-is-the-difference-between-telecom-expense-management-and-technology-expense-management/\nFor each: point competing pages' internal links to the owner and remove the term from competitors' title/H1/meta.\nDone when: each head term has a single owner and competitors link to it.",
       "page": "TEM cluster (64 pages / ~220 traffic)\nHub: /your-guide-to-telecom-expense-management/",
       "owner": "Rob",
       "due": "Jul 18",
@@ -215,7 +215,7 @@
         {
           "date": "2026-11-06",
           "time": "8:00 AM",
-          "text": "11/6 about 8:00 AM ET: B Dub browser reconfirm on the public homepage. Title-case \"Telecom Expense Management Services\" still links to /telecom-expense-management/. Item stays Follow up for Rob’s review before Completed.",
+          "text": "11/6 about 8:00 AM ET: B Dub browser reconfirm on the public homepage. Title-case \"Telecom Expense Management Services\" still links to /telecom-expense-management/. Item stays Follow up for Rob\u2019s review before Completed.",
           "verified": true
         },
         {
@@ -304,7 +304,7 @@
       "phase": "July",
       "priority": "HIGH",
       "action": "Add FAQPage schema to all pages that already have FAQ sections.",
-      "howTo": "Using Yoast or RankMath (no code): enable the FAQ schema block on every page that already has a FAQ section — TEM/MMS/UEM FAQ pages, the three Guides, and any blog with FAQs.\nValidate each URL in Google's Rich Results Test.\nDone when: all FAQ pages return valid FAQPage schema.",
+      "howTo": "Using Yoast or RankMath (no code): enable the FAQ schema block on every page that already has a FAQ section \u2014 TEM/MMS/UEM FAQ pages, the three Guides, and any blog with FAQs.\nValidate each URL in Google's Rich Results Test.\nDone when: all FAQ pages return valid FAQPage schema.",
       "page": "All FAQ-containing pages",
       "owner": "Rob / Dev",
       "due": "Jul 18",
@@ -453,7 +453,7 @@
         "date": "2026-11-05",
         "by": "B Dub Yoast spot-check (pre R-008)"
       },
-      "updateText": "11/5 ~12:25 PM ET (before Rob's R-008 email ~3:58 PM ET): Randy emailed that #6 is Done (12:16 PM ET); B Dub WordPress/Yoast author metadata spot-check showed Rob Halik (not transit@twc.com) on ID2, ID9, employee-offboarding, utility-expense-management-companies, and how-to-evaluate-a-saas-license-management-provider. Several of the original six problem posts were also saved ~12:06–12:07 PM ET. Full 300-post scan not rerun. Remaining gap: Rob review before Completed. 11/6 ~10:32 AM ET refresh: no new author scan; prior spot-check stands.",
+      "updateText": "11/5 ~12:25 PM ET (before Rob's R-008 email ~3:58 PM ET): Randy emailed that #6 is Done (12:16 PM ET); B Dub WordPress/Yoast author metadata spot-check showed Rob Halik (not transit@twc.com) on ID2, ID9, employee-offboarding, utility-expense-management-companies, and how-to-evaluate-a-saas-license-management-provider. Several of the original six problem posts were also saved ~12:06\u201312:07 PM ET. Full 300-post scan not rerun. Remaining gap: Rob review before Completed. 11/6 ~10:32 AM ET refresh: no new author scan; prior spot-check stands.",
       "doneNote": "Randy's part reported done 10/29. Verified: Article schema with a named author on 294 of the 300 newest posts."
     },
     {
@@ -496,13 +496,13 @@
         {
           "date": "2026-10-23",
           "time": "10:05 AM",
-          "text": "Live check 10/23 ~10:05 AM (box browser): public Crunchbase profile still has no 'TIMS' and no 'procurement consulting'. Short description: 'Tellennium manages enterprise telecom, mobility, utility, cloud, and SaaS expenses on its Management of Things® (MoT®) platform.' About says 'Tellennium, an Optric company...'. Logo shows Tellennium with 'An Optric Company'. Products: MoT platform and TEM. Screenshot: /evidence/crunchbase_2026-10-23.png. Verified.",
+          "text": "Live check 10/23 ~10:05 AM (box browser): public Crunchbase profile still has no 'TIMS' and no 'procurement consulting'. Short description: 'Tellennium manages enterprise telecom, mobility, utility, cloud, and SaaS expenses on its Management of Things\u00ae (MoT\u00ae) platform.' About says 'Tellennium, an Optric company...'. Logo shows Tellennium with 'An Optric Company'. Products: MoT platform and TEM. Screenshot: /evidence/crunchbase_2026-10-23.png. Verified.",
           "verified": true
         },
         {
           "date": "2026-10-22",
           "time": "1:28 PM",
-          "text": "Live check 10/22 (box browser): public Crunchbase profile has no 'TIMS'. Short and long descriptions use Management of Things® (MoT®) and list current services (telecom, mobility, utility, cloud, SaaS). Optric logo shows, HQ Louisville, KY, website www.tellennium.com, 'Founded in 1999' in the description. Screenshot: /evidence/crunchbase_2026-10-22.png. Verified.",
+          "text": "Live check 10/22 (box browser): public Crunchbase profile has no 'TIMS'. Short and long descriptions use Management of Things\u00ae (MoT\u00ae) and list current services (telecom, mobility, utility, cloud, SaaS). Optric logo shows, HQ Louisville, KY, website www.tellennium.com, 'Founded in 1999' in the description. Screenshot: /evidence/crunchbase_2026-10-22.png. Verified.",
           "verified": true
         },
         {
@@ -920,7 +920,7 @@
         {
           "date": "2026-11-06",
           "time": "8:00 AM",
-          "text": "11/6 about 8:00 AM ET: B Dub browser — Telecom Audit Checklist download on the audit guide still plain text (no form/PDF). Inbound links status unchanged from 11/5 ~6:10 PM ET. Hold further Randy nudges per Rob 11/5. Waiting on Randy for checklist asset (R-009).",
+          "text": "11/6 about 8:00 AM ET: B Dub browser \u2014 Telecom Audit Checklist download on the audit guide still plain text (no form/PDF). Inbound links status unchanged from 11/5 ~6:10 PM ET. Hold further Randy nudges per Rob 11/5. Waiting on Randy for checklist asset (R-009).",
           "verified": true
         },
         {
@@ -1201,7 +1201,7 @@
         {
           "date": "2026-11-06",
           "time": "8:00 AM",
-          "text": "11/6 about 8:00 AM ET: B Dub browser reconfirm — \"Strong SaaS management\" still a real link to https://tellennium.com/saas-license-management/ on the public overspending article. Sophie’s 11/6 morning sync still listed #17 as plain text on the public page; hub keeps verified-live (this recheck). Status/waitingOn unchanged: Follow up / Rob.",
+          "text": "11/6 about 8:00 AM ET: B Dub browser reconfirm \u2014 \"Strong SaaS management\" still a real link to https://tellennium.com/saas-license-management/ on the public overspending article. Sophie\u2019s 11/6 morning sync still listed #17 as plain text on the public page; hub keeps verified-live (this recheck). Status/waitingOn unchanged: Follow up / Rob.",
           "verified": true
         },
         {
@@ -1267,7 +1267,7 @@
         {
           "date": "2026-10-13",
           "time": "6:04 PM",
-          "text": "Rob scheduled a follow-up note to Randy (goes Wed 10/14 ~8 AM): link the SaaS Guide to ID12 and delete the duplicate \"Why Familiar Tools Fall Short\"; ID13 delete the duplicate \"Establish Your SaaS Spending Baseline\" heading and fix \"ompare\" → \"Compare\" (FAQ + FAQ schema); overspend article: add hub link. Waiting on Randy.",
+          "text": "Rob scheduled a follow-up note to Randy (goes Wed 10/14 ~8 AM): link the SaaS Guide to ID12 and delete the duplicate \"Why Familiar Tools Fall Short\"; ID13 delete the duplicate \"Establish Your SaaS Spending Baseline\" heading and fix \"ompare\" \u2192 \"Compare\" (FAQ + FAQ schema); overspend article: add hub link. Waiting on Randy.",
           "verified": false
         },
         {
@@ -1395,7 +1395,7 @@
       "phase": "September",
       "priority": "HIGH",
       "action": "Investigate and resolve the 399 crawled-not-indexed pages.",
-      "howTo": "Dev + Rob export GSC 'Crawled - currently not indexed' (399). Triage each:\n• consolidate near-duplicate/thin pages into the cluster owner (301)\n• improve genuinely valuable pages\n• remove dead weight\nRoot cause is cannibalization/thin content, so coordinate with the cluster work (actions 1-3, 9, 17).\nDone when: index rate rises from 42% and the not-indexed count is trending down.",
+      "howTo": "Dev + Rob export GSC 'Crawled - currently not indexed' (399). Triage each:\n\u2022 consolidate near-duplicate/thin pages into the cluster owner (301)\n\u2022 improve genuinely valuable pages\n\u2022 remove dead weight\nRoot cause is cannibalization/thin content, so coordinate with the cluster work (actions 1-3, 9, 17).\nDone when: index rate rises from 42% and the not-indexed count is trending down.",
       "page": "GSC Coverage - 'Crawled, currently not indexed' (399)",
       "owner": "Dev + Rob",
       "due": "Sep 25",
@@ -1563,7 +1563,7 @@
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Greg / Shawn · Bhuvi/G2 (Capterra/GetApp emailed 10/23)",
+      "waitingOn": "Greg / Shawn \u00b7 Bhuvi/G2 (Capterra/GetApp emailed 10/23)",
       "verified": "",
       "sheetDiff": "",
       "links": {
@@ -2257,7 +2257,7 @@
       "phase": "October",
       "priority": "HIGH",
       "action": "NEW: Realign the TEM service page copy to 'telecom expense management services'.",
-      "howTo": "Randy instructions sent 10/21 (exact wording, checked against the live page):\n1. First paragraph under \"The Painful Reality for Most Enterprises\":\n   Current: \"Without proper telecom expense management, you're likely paying for services you don't use...\"\n   New: \"Without the right telecom expense management services, you're likely paying for services you don't use...\" (rest of the sentence stays the same)\n2. Heading \"What Makes Our TEM Services Different\" becomes \"What Makes Our Telecom Expense Management Services Different.\"\n3. Heading \"How Our TEM Platform Improves Expense Visibility and Control\" becomes \"How Our Telecom Expense Management Services Improve Visibility and Control.\"\n4. Intro under \"What Makes Our TEM Services Different\":\n   Current: \"...our cloud-native MoT® Platform manages everything in one place. Telecom, mobility, cloud, utilities, and SaaS – unified visibility without complexity.\"\n   New: \"...our cloud-native MoT® Platform manages everything in one place, with unified visibility across telecom, mobility and cloud and none of the complexity.\"\n5. In the \"You get immediate results\" dropdown:\n   Current: \"The platform handles telecom, mobile managed services, wireless expense management, cloud, utilities, and SaaS expenses in one unified system.\"\n   New: \"The platform handles telecom, mobile managed services, wireless expense management and cloud expenses in one unified system.\"\n6. Remove the \"How TEM Fits Within Your Broader Expense Management Ecosystem\" heading and paragraph, and put this one line in its place:\n   \"The same MoT® platform also covers SaaS license management (https://tellennium.com/saas-license-management/) and utility expense management (https://tellennium.com/take-control-of-utility-costs-with-proven-uem-expertise/) if you want to bring those expenses under one roof.\"\n7. Shorten the \"ServiceNow® Integration for Enterprise Mobility, Wireline, and all other Services' Management\" section. Rename the heading to \"ServiceNow® Integration\" and replace the paragraph, the \"What This Means For You\" list and the closing paragraph with:\n   \"Already using ServiceNow? Our telecom expense management capabilities plug into your existing workflows through pre-built, certified integrations, so you can provision services and report on telecom assets without building anything custom. Learn more about our ServiceNow integration (https://tellennium.com/7-ways-to-streamline-enterprise-expense-management-with-servicenow/).\"\n8. Remove the \"MOT® Platform Overview:\" and \"Access Through ServiceNow:\" sections. Both repeat text from earlier on the page.\n9. Image alt text: change \"How Our TEM Platform Fixes Your Technology Expense Management Problems\" to \"How our telecom expense management services fix enterprise telecom billing problems.\"\n\nPlease hold off on the FAQ answer \"What expenses does the TEM platform manage?\" for now. Steve's developer item on this page (SEO #32) merges the FAQ blocks, so I'll send that wording after it's done.",
+      "howTo": "Randy instructions sent 10/21 (exact wording, checked against the live page):\n1. First paragraph under \"The Painful Reality for Most Enterprises\":\n   Current: \"Without proper telecom expense management, you're likely paying for services you don't use...\"\n   New: \"Without the right telecom expense management services, you're likely paying for services you don't use...\" (rest of the sentence stays the same)\n2. Heading \"What Makes Our TEM Services Different\" becomes \"What Makes Our Telecom Expense Management Services Different.\"\n3. Heading \"How Our TEM Platform Improves Expense Visibility and Control\" becomes \"How Our Telecom Expense Management Services Improve Visibility and Control.\"\n4. Intro under \"What Makes Our TEM Services Different\":\n   Current: \"...our cloud-native MoT\u00ae Platform manages everything in one place. Telecom, mobility, cloud, utilities, and SaaS \u2013 unified visibility without complexity.\"\n   New: \"...our cloud-native MoT\u00ae Platform manages everything in one place, with unified visibility across telecom, mobility and cloud and none of the complexity.\"\n5. In the \"You get immediate results\" dropdown:\n   Current: \"The platform handles telecom, mobile managed services, wireless expense management, cloud, utilities, and SaaS expenses in one unified system.\"\n   New: \"The platform handles telecom, mobile managed services, wireless expense management and cloud expenses in one unified system.\"\n6. Remove the \"How TEM Fits Within Your Broader Expense Management Ecosystem\" heading and paragraph, and put this one line in its place:\n   \"The same MoT\u00ae platform also covers SaaS license management (https://tellennium.com/saas-license-management/) and utility expense management (https://tellennium.com/take-control-of-utility-costs-with-proven-uem-expertise/) if you want to bring those expenses under one roof.\"\n7. Shorten the \"ServiceNow\u00ae Integration for Enterprise Mobility, Wireline, and all other Services' Management\" section. Rename the heading to \"ServiceNow\u00ae Integration\" and replace the paragraph, the \"What This Means For You\" list and the closing paragraph with:\n   \"Already using ServiceNow? Our telecom expense management capabilities plug into your existing workflows through pre-built, certified integrations, so you can provision services and report on telecom assets without building anything custom. Learn more about our ServiceNow integration (https://tellennium.com/7-ways-to-streamline-enterprise-expense-management-with-servicenow/).\"\n8. Remove the \"MOT\u00ae Platform Overview:\" and \"Access Through ServiceNow:\" sections. Both repeat text from earlier on the page.\n9. Image alt text: change \"How Our TEM Platform Fixes Your Technology Expense Management Problems\" to \"How our telecom expense management services fix enterprise telecom billing problems.\"\n\nPlease hold off on the FAQ answer \"What expenses does the TEM platform manage?\" for now. Steve's developer item on this page (SEO #32) merges the FAQ blocks, so I'll send that wording after it's done.",
       "page": "Page: /telecom-expense-management/\nKeyword: telecom expense management services",
       "owner": "Rob",
       "due": "Oct 23",
@@ -2482,7 +2482,7 @@
       "phase": "October",
       "priority": "HIGH",
       "action": "NEW: Update the TEM Guide title and meta so it stops competing for the commercial 'services' terms.",
-      "howTo": "Page: /your-guide-to-telecom-expense-management/\n1) Title: 'Telecom Expense Management: The Enterprise Guide | Tellennium'\n2) Meta: 'How telecom expense management works for enterprises: inventory, invoice audit, cost allocation and mobility, and how to build a TEM program that lasts.'\n3) Rename the H2 'Why is TEM critical? What are the benefits of using a telecom expense management solution?' to 'Why TEM Matters: Benefits for Enterprises'.\n4) Fix the misspelled link anchor 'Telecom Expence Management – Implementation of Outsourced TEM' (points to the service page) to 'telecom expense management services'.\nDone when: the Guide's title and meta no longer reference services or providers, and the anchor is corrected.",
+      "howTo": "Page: /your-guide-to-telecom-expense-management/\n1) Title: 'Telecom Expense Management: The Enterprise Guide | Tellennium'\n2) Meta: 'How telecom expense management works for enterprises: inventory, invoice audit, cost allocation and mobility, and how to build a TEM program that lasts.'\n3) Rename the H2 'Why is TEM critical? What are the benefits of using a telecom expense management solution?' to 'Why TEM Matters: Benefits for Enterprises'.\n4) Fix the misspelled link anchor 'Telecom Expence Management \u2013 Implementation of Outsourced TEM' (points to the service page) to 'telecom expense management services'.\nDone when: the Guide's title and meta no longer reference services or providers, and the anchor is corrected.",
       "page": "Page: /your-guide-to-telecom-expense-management/\nKeyword: telecom expense management (Guide stays owner per #3)",
       "owner": "Rob",
       "due": "Oct 16",
@@ -2496,7 +2496,7 @@
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Completed (verified live 10/21) · small leftover with Randy",
+      "waitingOn": "Completed (verified live 10/21) \u00b7 small leftover with Randy",
       "verified": "2026-10-21: Guide title, meta and H2 live",
       "sheetDiff": "",
       "links": {
@@ -2505,18 +2505,18 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Randy (small leftover): change the hidden/collapsed link text 'Telecom Expence Management – Implementation of Outsourced TEM' (to the service page) to 'telecom expense management services'. Rechecked 11/5 about 6:10 PM ET; still there.",
+      "nextStep": "Randy (small leftover): change the hidden/collapsed link text 'Telecom Expence Management \u2013 Implementation of Outsourced TEM' (to the service page) to 'telecom expense management services'. Rechecked 11/5 about 6:10 PM ET; still there.",
       "updates": [
         {
           "date": "2026-11-05",
           "time": "6:10 PM",
-          "text": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management – Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy.",
+          "text": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management \u2013 Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy.",
           "verified": true
         },
         {
           "date": "2026-11-05",
           "time": "3:10 PM",
-          "text": "11/5 about 3:10 PM ET: SEO Sunny rechecked the TEM Guide. The leftover typo is still present: hidden or collapsed link text \"Telecom Expence Management – Implementation of Outsourced TEM\" pointing to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy.",
+          "text": "11/5 about 3:10 PM ET: SEO Sunny rechecked the TEM Guide. The leftover typo is still present: hidden or collapsed link text \"Telecom Expence Management \u2013 Implementation of Outsourced TEM\" pointing to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy.",
           "verified": true
         },
         {
@@ -2572,11 +2572,11 @@
         "date": "2026-11-05",
         "by": "B Dub browser check"
       },
-      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management – Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
+      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management \u2013 Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
   "lastUpdated": "2026-11-06",
-  "updateNote": "Fri 11/6 ~12:13 PM ET scheduled noon hub refresh. No SEO item status changes. Post-meeting top-4 (A-050/A-041/A-040/A-051) already locked ~11:20 AM ET on the hub. Week-45 blogs ID4/ID8/ID25 remain Sent. B Dub browser ~12:15 PM ET: ID25 still 404 at /managed-telecom-services/ (exact-title search empty); R-009 checklist on audit guide still plain text (hold Randy nudges). #4 and #17 still Follow up / waiting Rob (prior live confirms 11/5 ~6:10 PM and 11/6 ~8:00 AM ET). #14 still Waiting on Randy (R-002 On hold; Sunny ~10:32 AM ET browser still 200 / no 301). #6 waiting Rob. Consistency script OK.",
+  "updateNote": "Fri 11/6 ~3:15 PM ET scheduled 3 PM hub refresh. No SEO item status changes. Post-meeting top-4 (A-050/A-041/A-040/A-051) already locked ~11:20 AM ET on the hub. Week-45 blogs ID4/ID8/ID25 remain Sent. B Dub via jina reader ~3:10 PM ET: ID25 still 404 at /managed-telecom-services/; ID8 target still old 2015 Technology Waste article. R-009 checklist: prior noon browser plain text stands (not re-fetched this pass). #4 and #17 still Follow up / waiting Rob (prior live confirms 11/5 ~6:10 PM and 11/6 ~8:00 AM ET). #14 still Waiting on Randy (R-002 On hold; Sunny ~10:32 AM ET browser still 200 / no 301). #6 waiting Rob. Consistency script OK.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2648,6 +2648,12 @@
   "systemUpdates": [
     {
       "date": "2026-11-06",
+      "time": "3:15 PM ET",
+      "by": "B Dub",
+      "text": "Fri 11/6 ~3:15 PM ET scheduled 3 PM refresh: stamps; jina reader ~3:10 PM ET ID25 404 + ID8 old article; R-009 prior noon stands; consistency OK."
+    },
+    {
+      "date": "2026-11-06",
       "time": "12:13 PM ET",
       "by": "B Dub",
       "text": "Fri 11/6 ~12:13 PM ET noon scheduled refresh: stamps; B Dub browser ~12:15 PM ET ID25 404 + R-009 plain text; consistency OK."
@@ -2680,7 +2686,7 @@
     {
       "date": "2026-10-28",
       "time": "12:15 PM",
-      "text": "10/28 ~12:15 PM: Dashboard refresh for Rob/Randy sync. Top three for full green close this week unchanged: #4 (TEM service page intro + homepage link), #6 (Article schema with author markup), #35 (link two TEM blogs to TEM service page). Bench: #17, #33, #12, #14. Steve out this week — no Steve-dependent closes."
+      "text": "10/28 ~12:15 PM: Dashboard refresh for Rob/Randy sync. Top three for full green close this week unchanged: #4 (TEM service page intro + homepage link), #6 (Article schema with author markup), #35 (link two TEM blogs to TEM service page). Bench: #17, #33, #12, #14. Steve out this week \u2014 no Steve-dependent closes."
     },
     {
       "date": "2026-10-23",
@@ -2776,7 +2782,7 @@
     {
       "ref": "#36",
       "who": "Randy",
-      "text": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management – Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy. 11/5 about 3:10 PM ET: SEO Sunny rechecked the TEM Guide. The leftover typo is still present: hidden or collapsed link text \"Telecom Expence Management – Implementation of Outsourced TEM\" pointing to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy. Leftover: hidden link text 'Telecom Expence Management – Implementation of Outsourced TEM' on the TEM Guide. Sent 10/21 4:24 PM. Checked 10/23 9:50 AM: the TEM Guide was edited 10/23 about 6:54 AM ET, but a site search for 'Expence' still returns it (and the TEM FAQ post).",
+      "text": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management \u2013 Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy. 11/5 about 3:10 PM ET: SEO Sunny rechecked the TEM Guide. The leftover typo is still present: hidden or collapsed link text \"Telecom Expence Management \u2013 Implementation of Outsourced TEM\" pointing to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy. Leftover: hidden link text 'Telecom Expence Management \u2013 Implementation of Outsourced TEM' on the TEM Guide. Sent 10/21 4:24 PM. Checked 10/23 9:50 AM: the TEM Guide was edited 10/23 about 6:54 AM ET, but a site search for 'Expence' still returns it (and the TEM FAQ post).",
       "next": "Check the page code once Randy fixes it."
     },
     {
