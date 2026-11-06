@@ -1,5 +1,5 @@
 {
-  "updated": "11/6 ~6:15 PM ET",
+  "updated": "11/6 ~6:20 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -2576,7 +2576,7 @@
     }
   ],
   "lastUpdated": "2026-11-06",
-  "updateNote": "Fri 11/6 ~6:15 PM ET scheduled 6 PM hub refresh. No SEO item status changes. A-051 HubSpot renewal note closed on the hub (sent 5:04 PM ET; Rob confirmed ~5:06 PM ET). Week-45 blogs ID4/ID8/ID25 remain Sent; calendar/priorities Sent restored after build_plan wipe. Live findings: prior B Dub browser 11/6 ~3:10–3:15 PM ET stands (ID25 still 404; ID8 still old 2015 article; R-009 checklist still plain text; #4 and #17 live waiting Rob Completed). 6 PM WP REST SiteGuard-blocked; 6 PM browser recheck pending/in progress. Hold Randy nudges. Consistency check run this pass.",
+  "updateNote": "Fri 11/6 ~6:20 PM ET: folded B Dub box-browser ~6:10 PM ET hub recheck into stamp. No SEO item status changes. ID25 still 404; ID8 still old 2015 article; R-009 checklist still plain text; #4 and #17 reconfirmed live (waiting Rob Completed). Hold Randy nudges. A-051 stays Done on the hub. Consistency check run this pass.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2764,7 +2764,7 @@
     {
       "ref": "Audit guide asset",
       "who": "Randy",
-      "text": "11/6 about 3:10–3:15 PM ET: B Dub opened the live audit guide. The article mentions \"Download the Telecom Audit Checklist\", but there is still no visible download link, button, form, or checklist PDF (only external citation PDFs). 11/5 about 6:10 PM ET: B Dub opened the live audit guide. The article mentions \"Download the Telecom Audit Checklist\", but there is still no visible download link, button, form, or checklist PDF (only external citation PDFs and the footer newsletter). This 11/3 downloadable-asset recheck stays open. 11/5 about 3:10 PM ET: SEO Sunny opened the live audit guide at /telecom-expense-audit-a-practical-guide-for-enterprises/. The full article body is present. The text mentions \"Download the Telecom Audit Checklist\", but there is no visible download link, button, form, or PDF for that checklist (the only PDF links are two external citations). This 11/3 downloadable-asset recheck stays open. Rob emailed Randy 11/3 6:55 PM: the downloadable asset is not on the Telecom Expense Audit guide article. Rob sent Randy the asset file 11/3 7:06 PM ET (per Sophie, 11/4).",
+      "text": "11/6 about 6:10 PM ET: B Dub opened the live audit guide (/telecom-expense-audit/ redirected to /telecom-expense-audit-a-practical-guide-for-enterprises/). The article mentions \"Download the Telecom Audit Checklist\", but there is still no visible download link, button, form, or checklist PDF (only external citation PDFs). Hold further Randy nudges per Rob 11/5.",
       "next": "Randy adds the asset; B Dub checks the download works live; Rob confirms."
     },
     {
