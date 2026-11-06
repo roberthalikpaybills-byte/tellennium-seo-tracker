@@ -1,5 +1,5 @@
 {
-  "updated": "11/6 ~10:32 AM ET",
+  "updated": "11/6 ~12:13 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -2576,7 +2576,7 @@
     }
   ],
   "lastUpdated": "2026-11-06",
-  "updateNote": "11/6 ~10:32 AM ET: Rob pre-meeting refresh. All three week-45 blogs confirmed Sent (ID4, ID8, ID25); ID25 stays Sent (Rob will email Randy the publish note after today's meeting). #4 and #17 remain Follow up / waiting Rob (prior live confirms 11/5 ~6:10 PM and 11/6 ~8:00 AM ET). #12: inbound audit-guide links live; only leftover is checklist download R-009 (hold Randy nudges). #14: SEO Sunny browser ~10:32 AM ET recheck: old outsourced-TEM URL still 200 / no 301; stays Waiting on Randy (R-002 On hold). #6: Randy Done + B Dub 11/5 ~12:25 PM ET Yoast spot-check (pre R-008) surfaced; waiting Rob. A-050 (= Tue 11/10 Managed Mobility / MMS newsletter) is Rob's main personal item today.",
+  "updateNote": "Fri 11/6 ~12:13 PM ET scheduled noon hub refresh. No SEO item status changes. Post-meeting top-4 (A-050/A-041/A-040/A-051) already locked ~11:20 AM ET on the hub. Week-45 blogs ID4/ID8/ID25 remain Sent. B Dub browser ~12:15 PM ET: ID25 still 404 at /managed-telecom-services/ (exact-title search empty); R-009 checklist on audit guide still plain text (hold Randy nudges). #4 and #17 still Follow up / waiting Rob (prior live confirms 11/5 ~6:10 PM and 11/6 ~8:00 AM ET). #14 still Waiting on Randy (R-002 On hold; Sunny ~10:32 AM ET browser still 200 / no 301). #6 waiting Rob. Consistency script OK.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2646,6 +2646,12 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-11-06",
+      "time": "12:13 PM ET",
+      "by": "B Dub",
+      "text": "Fri 11/6 ~12:13 PM ET noon scheduled refresh: stamps; B Dub browser ~12:15 PM ET ID25 404 + R-009 plain text; consistency OK."
+    },
     {
       "date": "2026-11-03",
       "time": "6:55 PM",
@@ -2739,116 +2745,6 @@
     {
       "date": "2026-10-15",
       "id": "6",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "7",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "8",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "9",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "11",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "14",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "15",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "16",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "18",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "19",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "21",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "22",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "23",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "24",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "25",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "26",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "27",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "28",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "29",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "30",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "31",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "32",
-      "text": "Next Up / Next step / status labels aligned to tracker rules."
-    },
-    {
-      "date": "2026-10-15",
-      "id": "34",
       "text": "Next Up / Next step / status labels aligned to tracker rules."
     }
   ],
