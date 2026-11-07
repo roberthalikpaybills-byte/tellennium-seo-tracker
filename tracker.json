@@ -1,5 +1,5 @@
 {
-  "updated": "Sat 11/7 ~12:15 PM ET",
+  "updated": "Sat 11/7 ~3:15 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -204,7 +204,7 @@
         "dev": "na"
       },
       "waitingOn": "Rob",
-      "verified": "Sat 11/7 ~12:15 PM ET (B Dub via WebFetch + jina reader 11/7 ~12:05-12:15 PM ET): homepage still shows title-case \"Telecom Expense Management Services\" linking to /telecom-expense-management/ (jina markdown). Status unchanged: Follow up / waiting Rob Completed.",
+      "verified": "Sat 11/7 ~3:15 PM ET (B Dub via WebFetch + jina reader 11/7 ~3:05-3:15 PM ET): homepage still shows title-case \"Telecom Expense Management Services\" (WebFetch New to TEM section). SiteGuard blocked jina/curl/playwright raw href HTML this pass. Prior noon jina had link to /telecom-expense-management/. Status unchanged: Follow up / waiting Rob Completed.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (exact-anchor homepage link still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -212,6 +212,12 @@
       },
       "nextStep": "Rob reviews whether the title-case homepage anchor closes #4 (phrase words present, destination correct). Rechecked about 8:00 AM ET on 11/6. Do not mark Completed until Rob reviews.",
       "updates": [
+        {
+          "date": "2026-11-07",
+          "time": "3:15 PM",
+          "text": "Sat 11/7 ~3:15 PM ET: 3 PM recheck via WebFetch/jina. Title-case \"Telecom Expense Management Services\" still present on homepage (WebFetch). Href HTML blocked by SiteGuard this pass. Item stays Follow up for Rob review before Completed.",
+          "verified": true
+        },
         {
           "date": "2026-11-07",
           "time": "12:15 PM",
@@ -921,7 +927,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy (checklist download only)",
-      "verified": "Inbound audit-guide links: live as of 2026-11-05 ~6:10 PM ET (B Dub browser). Checklist download (R-009): still plain text as of Sat 11/7 ~12:15 PM ET (B Dub via WebFetch + jina reader 11/7 ~12:05-12:15 PM ET; curl HTML no PDF/Download anchors). Hold further Randy nudges.",
+      "verified": "Inbound audit-guide links: live as of 2026-11-05 ~6:10 PM ET (B Dub browser). Checklist download (R-009): still plain text as of Sat 11/7 ~3:15 PM ET (B Dub via WebFetch + jina reader 11/7 ~3:05-3:15 PM ET; jina: no PDF/Download anchors). Hold further Randy nudges.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (audit-guide links still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -929,6 +935,12 @@
       },
       "nextStep": "Only leftover (Randy): add the Telecom Audit Checklist download on the audit guide (button, form, or PDF). Inbound links are already live. Hold further Randy nudges on R-009 per Rob 11/5.",
       "updates": [
+        {
+          "date": "2026-11-07",
+          "time": "3:15 PM",
+          "text": "Sat 11/7 ~3:15 PM ET: B Dub via WebFetch + jina reader 11/7 ~3:05-3:15 PM ET - Telecom Audit Checklist download on the audit guide still plain text (jina: no form/PDF/Download anchors). Hold further Randy nudges per Rob 11/5. Waiting on Randy for checklist asset (R-009).",
+          "verified": true
+        },
         {
           "date": "2026-11-07",
           "time": "12:15 PM",
@@ -1212,7 +1224,7 @@
         "dev": "na"
       },
       "waitingOn": "Rob",
-      "verified": "Sat 11/7 ~12:15 PM ET (B Dub via WebFetch + jina reader 11/7 ~12:05-12:15 PM ET): overspending article shows \"Strong SaaS management\" linking to https://tellennium.com/saas-license-management/ (jina markdown). Status unchanged: Follow up / waiting Rob Completed.",
+      "verified": "Sat 11/7 ~3:15 PM ET (B Dub via WebFetch + jina reader 11/7 ~3:05-3:15 PM ET): overspending article shows \"Strong SaaS management\" linking to https://tellennium.com/saas-license-management/ (jina markdown). Status unchanged: Follow up / waiting Rob Completed.",
       "sheetDiff": "Sheet said In progress; Randy reported Done 11/5 and B Dub verified the remaining-gap link. Dashboard shows Follow up pending Rob review.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1222,6 +1234,12 @@
       },
       "nextStep": "Rob reviews the live \"Strong SaaS management\" link on the overspending article and marks Completed if it looks good. Rechecked about 8:00 AM ET on 11/6.",
       "updates": [
+        {
+          "date": "2026-11-07",
+          "time": "3:15 PM",
+          "text": "Sat 11/7 ~3:15 PM ET: 3 PM recheck via WebFetch/jina. \"Strong SaaS management\" still linked to https://tellennium.com/saas-license-management/ on the public overspending article. Status/waitingOn unchanged: Follow up / Rob.",
+          "verified": true
+        },
         {
           "date": "2026-11-07",
           "time": "12:15 PM",
@@ -2617,8 +2635,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Sat 11/7 ~12:15 PM ET",
-  "updateNote": "Sat 11/7 ~12:15 PM ET: Saturday noon hub refresh stamp. WP REST returned [] for ID25 slug (SiteGuard may still block other REST); live recheck via B Dub via WebFetch + jina reader 11/7 ~12:05-12:15 PM ET. No SEO item status changes. ID25 /managed-telecom-services/ still 404 (jina http Page not found; exact-title site search and WebSearch empty). ID8 target still old 2015 Technology Waste article (WebFetch H1 Technology Waste Can Cost Companies Millions). R-009 checklist still plain text (curl HTML: no Tellennium checklist PDF href / no Download anchors). #4 title-case homepage link Telecom Expense Management Services -> /telecom-expense-management/ reconfirmed (jina); #17 Strong SaaS management -> /saas-license-management/ reconfirmed on overspending article (jina). Waiting Rob Completed for #4/#17/#6. Hold Randy nudges. Consistency check OK this pass.",
+  "lastUpdated": "Sat 11/7 ~3:15 PM ET",
+  "updateNote": "Sat 11/7 ~3:15 PM ET: Saturday 3 PM hub refresh stamp. WP REST SiteGuard-blocked from box; live recheck via B Dub via WebFetch + jina reader 11/7 ~3:05-3:15 PM ET. No SEO item status changes. ID25 /managed-telecom-services/ still 404 (jina http Page not found; exact-title site search empty of that article). ID8 target still old 2015 Technology Waste article (WebFetch H1 Technology Waste Can Cost Companies Millions). R-009 checklist still plain text (jina: no Tellennium checklist PDF href / no Download anchors). #4 title-case homepage phrase Telecom Expense Management Services reconfirmed present (WebFetch; SiteGuard blocked href HTML this pass); #17 Strong SaaS management -> /saas-license-management/ reconfirmed on overspending article (jina). Waiting Rob Completed for #4/#17/#6. Hold Randy nudges. Consistency check OK this pass.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2688,6 +2706,11 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-11-07",
+      "time": "3:15 PM",
+      "text": "Sat 11/7 ~3:15 PM ET: Saturday 3 PM scheduled refresh stamps; B Dub via WebFetch + jina reader 11/7 ~3:05-3:15 PM ET live recheck (ID25 404, ID8 old, R-009 plain text, #4 phrase present, #17 live); consistency OK."
+    },
     {
       "date": "2026-11-07",
       "time": "12:15 PM",
