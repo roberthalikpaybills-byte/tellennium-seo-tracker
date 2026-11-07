@@ -1,5 +1,5 @@
 {
-  "updated": "Sat 11/7 ~3:15 PM ET",
+  "updated": "Sat 11/7 ~6:15 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -307,6 +307,12 @@
           "time": "",
           "text": "Live spot check: service page rewrite live; small copy glitch (\"Key ROI Metrics:\" label).",
           "verified": true
+        },
+        {
+          "date": "2026-11-07",
+          "time": "6:15 PM",
+          "text": "Sat 11/7 ~6:15 PM ET: homepage SiteGuard-blocked to jina this pass; #4 not rechecked (last confirmed ~3:05-3:15 PM ET). Item stays Follow up for Rob review before Completed.",
+          "verified": false
         }
       ],
       "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
@@ -927,7 +933,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy (checklist download only)",
-      "verified": "Inbound audit-guide links: live as of 2026-11-05 ~6:10 PM ET (B Dub browser). Checklist download (R-009): still plain text as of Sat 11/7 ~3:15 PM ET (B Dub via WebFetch + jina reader 11/7 ~3:05-3:15 PM ET; jina: no PDF/Download anchors). Hold further Randy nudges.",
+      "verified": "Inbound audit-guide links: live as of 2026-11-05 ~6:10 PM ET (B Dub browser). Checklist download (R-009): still plain text as of Sat 11/7 ~6:15 PM ET (B Dub via jina reader 11/7 ~6:05-6:15 PM ET; jina: no PDF/Download anchors). Hold further Randy nudges.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (audit-guide links still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -993,6 +999,12 @@
           "date": "2026-10-09",
           "time": "~1:40 PM",
           "text": "Rob decided the long audit URL stays the owner (D-015); short /telecom-expense-audit/ redirects to it.",
+          "verified": true
+        },
+        {
+          "date": "2026-11-07",
+          "time": "6:15 PM",
+          "text": "Sat 11/7 ~6:15 PM ET: B Dub via jina reader 11/7 ~6:05-6:15 PM ET - Telecom Audit Checklist download on the audit guide still plain text (no link or PDF). Hold further Randy nudges per Rob 11/5. Waiting on Randy for checklist asset (R-009).",
           "verified": true
         }
       ],
@@ -1224,7 +1236,7 @@
         "dev": "na"
       },
       "waitingOn": "Rob",
-      "verified": "Sat 11/7 ~3:15 PM ET (B Dub via WebFetch + jina reader 11/7 ~3:05-3:15 PM ET): overspending article shows \"Strong SaaS management\" linking to https://tellennium.com/saas-license-management/ (jina markdown). Status unchanged: Follow up / waiting Rob Completed.",
+      "verified": "Sat 11/7 ~6:15 PM ET (B Dub via jina reader 11/7 ~6:05-6:15 PM ET): overspending article shows \"Strong SaaS management\" linking to https://tellennium.com/saas-license-management/ (jina markdown). Status unchanged: Follow up / waiting Rob Completed.",
       "sheetDiff": "Sheet said In progress; Randy reported Done 11/5 and B Dub verified the remaining-gap link. Dashboard shows Follow up pending Rob review.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1376,6 +1388,12 @@
           "date": "2026-09-01",
           "time": "",
           "text": "Implementation record v1.1 approved (SaaS cluster spec).",
+          "verified": true
+        },
+        {
+          "date": "2026-11-07",
+          "time": "6:15 PM",
+          "text": "Sat 11/7 ~6:15 PM ET: 6 PM recheck via jina. \"Strong SaaS management\" still linked to https://tellennium.com/saas-license-management/ on the public overspending article. Status/waitingOn unchanged: Follow up / Rob.",
           "verified": true
         }
       ],
@@ -2635,8 +2653,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Sat 11/7 ~3:15 PM ET",
-  "updateNote": "Sat 11/7 ~3:15 PM ET: Saturday 3 PM hub refresh stamp. WP REST SiteGuard-blocked from box; live recheck via B Dub via WebFetch + jina reader 11/7 ~3:05-3:15 PM ET. No SEO item status changes. ID25 /managed-telecom-services/ still 404 (jina http Page not found; exact-title site search empty of that article). ID8 target still old 2015 Technology Waste article (WebFetch H1 Technology Waste Can Cost Companies Millions). R-009 checklist still plain text (jina: no Tellennium checklist PDF href / no Download anchors). #4 title-case homepage phrase Telecom Expense Management Services reconfirmed present (WebFetch; SiteGuard blocked href HTML this pass); #17 Strong SaaS management -> /saas-license-management/ reconfirmed on overspending article (jina). Waiting Rob Completed for #4/#17/#6. Hold Randy nudges. Consistency check OK this pass.",
+  "lastUpdated": "Sat 11/7 ~6:15 PM ET",
+  "updateNote": "Sat 11/7 ~6:15 PM ET: Saturday 6 PM hub refresh stamp. Live recheck by B Dub via jina reader 11/7 ~6:05-6:15 PM ET. No SEO item status changes. ID25 /managed-telecom-services/ still 404 (WP REST slug [] via jina). #12 R-009 checklist download still plain text. #17 Strong SaaS management link still live. #4 homepage was SiteGuard-blocked this pass, so it was not rechecked (last confirmed ~3:05-3:15 PM ET). Consistency OK.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2834,6 +2852,11 @@
       "date": "2026-10-15",
       "id": "6",
       "text": "Next Up / Next step / status labels aligned to tracker rules."
+    },
+    {
+      "date": "2026-11-07",
+      "time": "6:15 PM",
+      "text": "Sat 11/7 ~6:15 PM ET: Saturday 6 PM scheduled refresh stamps; B Dub via jina reader 11/7 ~6:05-6:15 PM ET live recheck (ID25 404, ID8 old, R-009 plain text, #17 live; #4 homepage blocked, not rechecked); consistency OK."
     }
   ],
   "recheck": [
