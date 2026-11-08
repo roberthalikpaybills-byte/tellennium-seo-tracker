@@ -1,5 +1,5 @@
 {
-  "updated": "Sun 11/8 ~12:15 PM ET",
+  "updated": "Sun 11/8 ~3:15 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -939,7 +939,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy (checklist download only)",
-      "verified": "Inbound audit-guide links: live as of 2026-11-05 ~6:10 PM ET (B Dub browser). Checklist download (R-009): still plain text as of Sun 11/8 ~12:15 PM ET (B Dub via WebFetch + jina reader 11/8 ~9:08-9:15 AM ET; jina: no PDF/Download anchors). Hold further Randy nudges.",
+      "verified": "Inbound audit-guide links: live as of 2026-11-05 ~6:10 PM ET (B Dub browser). Checklist download (R-009): still plain text as of Sun 11/8 ~3:15 PM ET (B Dub via WebFetch 11/8 ~3:02-3:10 PM ET: no download button, form, or PDF in page text). Hold further Randy nudges.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (audit-guide links still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -947,6 +947,12 @@
       },
       "nextStep": "Only leftover (Randy): add the Telecom Audit Checklist download on the audit guide (button, form, or PDF). Inbound links are already live. Hold further Randy nudges on R-009 per Rob 11/5.",
       "updates": [
+        {
+          "date": "2026-11-08",
+          "time": "3:15 PM",
+          "text": "Sun 11/8 ~3:15 PM ET: B Dub via WebFetch 11/8 ~3:02-3:10 PM ET - Telecom Audit Checklist download on the audit guide still plain text (no download button, form, or checklist PDF in page text). Hold further Randy nudges per Rob 11/5.",
+          "verified": true
+        },
         {
           "date": "2026-11-08",
           "time": "12:15 PM",
@@ -1571,7 +1577,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "Sun 11/8 ~12:15 PM ET: /managed-telecom-services/ still not live (B Dub, WP REST slug [] via jina http; direct WebFetch returned a server error page). Sat 11/7 ~9:15 AM ET: /managed-telecom-services/ still 404 via jina http (title Page not found - Tellennium). Exact-title WebSearch empty. WP REST SiteGuard-blocked. Still not built/live.",
+      "verified": "Sun 11/8 ~3:15 PM ET: /managed-telecom-services/ still not live (B Dub, WP REST slug [] via jina http; jina page title Page not found). Sun 11/8 ~12:15 PM ET: /managed-telecom-services/ still not live (B Dub, WP REST slug [] via jina http; direct WebFetch returned a server error page). Sat 11/7 ~9:15 AM ET: /managed-telecom-services/ still 404 via jina http (title Page not found - Tellennium). Exact-title WebSearch empty. WP REST SiteGuard-blocked. Still not built/live.",
       "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Randy.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1790797144264&OR=EXCEL%2DWEB%2EBODY%2ENT&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1579,6 +1585,12 @@
       },
       "nextStep": "Randy: build /managed-telecom-services/ from the SEO Item 20 copy; then B Dub checks live.",
       "updates": [
+        {
+          "date": "2026-11-08",
+          "time": "3:15 PM",
+          "text": "Sun 11/8 ~3:15 PM ET: 3 PM recheck - /managed-telecom-services/ still not live (WP REST slug []). Keep Waiting on Randy / ID25 Sent on hub.",
+          "verified": true
+        },
         {
           "date": "2026-11-08",
           "time": "12:15 PM",
@@ -2683,8 +2695,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Sun 11/8 ~12:15 PM ET",
-  "updateNote": "Sun 11/8 ~12:15 PM ET: Sunday noon hub refresh stamp. Live recheck by B Dub via WebFetch + jina reader 11/8 ~12:02-12:10 PM ET. No SEO item status changes. ID25 /managed-telecom-services/ still not live (WP REST slug [] via jina http). #12 R-009 checklist download still plain text (WebFetch page text). #4 and #17 not rechecked this pass (jina reader IP-blocked for page reads); last confirmed live 11/8 ~9:08-9:15 AM ET; waiting Rob Completed.",
+  "lastUpdated": "Sun 11/8 ~3:15 PM ET",
+  "updateNote": "Sun 11/8 ~3:15 PM ET: Sunday 3 PM hub refresh stamp. Live recheck by B Dub via WebFetch + jina reader 11/8 ~3:02-3:10 PM ET. No SEO item status changes. ID25 /managed-telecom-services/ still not live (WP REST slug [] via jina http; jina page title Page not found). #12 R-009 checklist download still plain text (WebFetch page text). #4 homepage title-case Telecom Expense Management Services reconfirmed linked to /telecom-expense-management/ (jina markdown ~3:02 PM ET). #17 Strong SaaS management phrase still present (WebFetch); link target last confirmed 11/8 ~9:08-9:15 AM ET (jina blocked again). Waiting Rob Completed.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2754,6 +2766,11 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-11-08",
+      "time": "3:15 PM",
+      "text": "Sun 11/8 ~3:15 PM ET: Sunday 3 PM scheduled refresh stamps; B Dub via WebFetch + jina reader 11/8 ~3:02-3:10 PM ET live recheck (ID25 not live, R-009 plain text, #4 link reconfirmed, #17 phrase present with link last confirmed 9 AM); consistency OK."
+    },
     {
       "date": "2026-11-08",
       "time": "12:15 PM",
