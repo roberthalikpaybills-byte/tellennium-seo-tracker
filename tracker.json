@@ -1,5 +1,5 @@
 {
-  "updated": "Mon 11/9 ~3:15 PM ET",
+  "updated": "Mon 11/9 ~6:15 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -2707,8 +2707,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Mon 11/9 ~3:15 PM ET",
-  "updateNote": "Mon 11/9 ~3:15 PM ET: Monday 3 PM scheduled hub refresh. B Dub 3:05-3:10 PM ET: ID25 /managed-telecom-services/ could not be confirmed live (WebFetch 500; direct curl returned the SiteGuard captcha page, HTTP 202; WP REST also captcha-blocked); last confirmed 404 at 9:10 AM ET 11/9, so it stays Sent, not Published. ID8, ID4, #4, #17 and R-009 not rechecked this pass; last confirmed 11/8. No new B Dub inbox mail (SearchEmailThreads ~3:06 PM ET; newest items are from 10/23 or earlier). No status changes. Hold Randy nudges.",
+  "lastUpdated": "Mon 11/9 ~6:15 PM ET",
+  "updateNote": "Mon 11/9 ~6:15 PM ET: Monday 6 PM scheduled hub refresh. B Dub 6:03-6:08 PM ET: ID25 /managed-telecom-services/ could not be confirmed live (WebFetch 500; direct curl returned the SiteGuard captcha page, HTTP 202; WP REST also captcha-blocked); last confirmed 404 at 9:10 AM ET 11/9, so it stays Sent, not Published. ID8, ID4, #4, #17 and R-009 not rechecked this pass; last confirmed 11/8. No new B Dub inbox mail (not rechecked this pass; newest items are from 10/23 or earlier). No status changes. Hold Randy nudges.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
