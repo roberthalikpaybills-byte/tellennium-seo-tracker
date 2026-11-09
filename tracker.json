@@ -1,5 +1,5 @@
 {
-  "updated": "Sun 11/8 ~6:15 PM ET",
+  "updated": "Mon 11/9 ~9:10 AM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -2707,8 +2707,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Sun 11/8 ~6:15 PM ET",
-  "updateNote": "Sun 11/8 ~6:15 PM ET: Sunday 6 PM hub refresh stamp. Live recheck by B Dub via WebFetch 11/8 ~6:02-6:10 PM ET. No SEO item status changes. #12 R-009 checklist download still plain text (WebFetch page text). ID25 /managed-telecom-services/ not rechecked this pass (WebFetch 500, jina IP-blocked); last confirmed not live 11/8 ~3:02-3:10 PM ET (WP REST slug []). #4 not rechecked; last confirmed linked 11/8 ~3:02 PM ET (jina). #17 link not rechecked; last confirmed linked 11/8 ~9:08-9:15 AM ET. Waiting Rob Completed.",
+  "lastUpdated": "Mon 11/9 ~9:10 AM ET",
+  "updateNote": "Mon 11/9 ~9:10 AM ET: Monday 9 AM hub refresh stamp. B Dub direct fetch 9:10 AM ET 11/9: ID25 still 404 at /managed-telecom-services/ (HTTP 404). WP REST and homepage links hit the SiteGuard captcha, so ID8, ID4, #4, #17 and R-009 were not rechecked this pass; last confirmed 11/8 (see earlier notes). Homepage text loads via WebFetch but link targets cannot be read there. No SEO item status changes. Waiting Rob Completed on #4, #6, #17.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
