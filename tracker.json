@@ -1,5 +1,5 @@
 {
-  "updated": "Tue 11/10 ~12:15 PM ET",
+  "updated": "Tue 11/10 ~3:15 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -2707,8 +2707,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Tue 11/10 ~12:15 PM ET",
-  "updateNote": "Tue 11/10 ~12:15 PM ET: Tuesday noon scheduled hub refresh. B Dub 11:57 AM-12:00 PM ET: ID25 /managed-telecom-services/ still could not be confirmed live (WebFetch 500), so it stays Sent, not Published. ID8, ID4, #4, #17 and R-009 not rechecked this pass; last confirmed 11/8. B Dub inbox search ~11:58 AM ET still shows only Rob's own 11/9 request to ACCESS Newswire and no confirmation for A-050 (scheduled send 10:03 AM ET today, backup 1:03 PM ET). No status changes. Hold Randy nudges.",
+  "lastUpdated": "Tue 11/10 ~3:15 PM ET",
+  "updateNote": "Tue 11/10 ~3:15 PM ET: Tuesday 3 PM scheduled hub refresh. B Dub 2:58-3:02 PM ET: ID25 /managed-telecom-services/ still could not be confirmed live (WebFetch 500; WordPress REST blocked by the site captcha), so it stays Sent, not Published. ID8, ID4, #4, #17 and R-009 not rechecked this pass; last confirmed 11/8. B Dub inbox search ~3:00 PM ET shows only Rob's own 11/9 request to ACCESS Newswire and no confirmation or reply for A-050 (scheduled for 10:03 AM ET today, backup 1:03 PM ET); I cannot confirm from the inbox whether it went out. No status changes. Hold Randy nudges.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
