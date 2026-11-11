@@ -1,5 +1,5 @@
 {
-  "updated": "Wed 11/11 ~9:15 AM ET",
+  "updated": "Wed 11/11 ~12:15 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -2707,8 +2707,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Wed 11/11 ~9:15 AM ET",
-  "updateNote": "Wed 11/11 ~9:15 AM ET: Wednesday 9 AM scheduled hub refresh. B Dub ~9:00 AM ET: WordPress REST slug check for /managed-telecom-services/ returned an empty list (not found, so ID25 not confirmed live) and stays Sent, not Published. ID8, ID4, #4, #17 and R-009 not rechecked this pass; last confirmed 11/8. B Dub inbox search ~9:00 AM ET found no new mail today. A-050 stays Done (B Dub confirmed it live on ACCESS Newswire 11/10 at 10:03 AM ET via web search, 11/11 ~7:55 AM ET; formal Gartner Content Compliance approval not confirmed in any email B Dub has seen). No new Randy items. Nothing new needs Rob.",
+  "lastUpdated": "Wed 11/11 ~12:15 PM ET",
+  "updateNote": "Wed 11/11 ~12:15 PM ET: Wednesday noon scheduled hub refresh. B Dub ~12:05 PM ET: WordPress REST slug check (pages and posts) for /managed-telecom-services/ returned an empty list (not found, so ID25 not confirmed live) and stays Sent, not Published. ID8, ID4, #4, #17 and R-009 not rechecked this pass; last confirmed 11/8. B Dub inbox search ~12:05 PM ET found no new mail today. A-050 stays Done (B Dub confirmed it live on ACCESS Newswire 11/10 at 10:03 AM ET via web search, 11/11 ~7:55 AM ET; formal Gartner Content Compliance approval not confirmed in any email B Dub has seen). No new Randy items. Nothing new needs Rob.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
