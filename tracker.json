@@ -1,5 +1,5 @@
 {
-  "updated": "Wed 11/11 ~12:15 PM ET",
+  "updated": "Wed 11/11 ~9:55 AM PT",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -213,6 +213,12 @@
       "nextStep": "Rob reviews whether the title-case homepage anchor closes #4 (phrase words present, destination correct). Rechecked about 8:00 AM ET on 11/6. Do not mark Completed until Rob reviews.",
       "updates": [
         {
+          "date": "2026-11-11",
+          "time": "9:55 AM PT",
+          "text": "Wed 11/11 ~9:55 AM PT: Homepage (WP page 14) last modified 11/5 per WP REST, so the 11/8 link confirmation stands; link not re-read this pass. Still Follow up in the tracker; no Rob change to green found in git.",
+          "verified": true
+        },
+        {
           "date": "2026-11-08",
           "time": "9:15 AM",
           "text": "Sun 11/8 ~9:15 AM ET: 9 AM recheck via jina. Title-case \"Telecom Expense Management Services\" still linked on homepage to /telecom-expense-management/ (jina markdown). Item stays Follow up for Rob review before Completed.",
@@ -323,10 +329,10 @@
       ],
       "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
       "lastUpdate": {
-        "date": "2026-11-05",
-        "by": "B Dub browser check"
+        "date": "2026-11-11",
+        "by": "B Dub (WP REST + WebFetch)"
       },
-      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the public homepage. A visible link \"Telecom Expense Management Services\" now goes to /telecom-expense-management/. The exact all-lowercase anchor \"telecom expense management services\" is not used (title case). Nearby links still include \"Telecom Expense Management\", \"TEM Control\", and \"What a TEM delivers\". Randy's remaining homepage-link gap looks closed on case-insensitive phrase match. Item stays Follow up for Rob's review before Completed. 11/6 ~9:10 AM ET scheduled refresh: SiteGuard captcha blocked homepage recheck this pass; prior live confirm stands (waiting Rob Completed). 11/6 ~10:32 AM ET hub refresh: status unchanged (Follow up / waiting Rob). Prior live confirms stand; no new homepage fetch this pass.",
+      "updateText": "Wed 11/11 ~9:55 AM PT: Homepage (WP page 14) last modified 11/5 per WP REST, so the 11/8 link confirmation stands; link not re-read this pass. Still Follow up in the tracker; no Rob change to green found in git.",
       "doneNote": "Randy's part reported done 10/29. Verified: new intro ('Telecom Expense Management services help clients recover an average of 28%...') live, public copy refreshed by 10/30."
     },
     {
@@ -421,7 +427,7 @@
         "dev": "na"
       },
       "waitingOn": "Rob",
-      "verified": "2026-11-05 ~12:25 PM ET (pre R-008): Yoast author meta shows Rob Halik (not transit@twc.com) on five checked posts (B Dub, WordPress REST). Full 300-post scan not rerun. Waiting on Rob review.",
+      "verified": "Wed 11/11 ~9:55 AM PT (B Dub WP REST + WebFetch 11/11 ~9:46-9:52 AM PT): WP REST: Yoast author is Rob Halik on the 20 newest posts, including ID4 (post 53146, 11/6). No transit@twc.com seen. Waiting on Rob to mark Completed.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up pending Rob review after Randy's 11/5 Done report and B Dub's partial live check.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -429,6 +435,12 @@
       },
       "nextStep": "Rob reviews the author fix on the newest posts and marks Completed if it looks good. Newest live spot-check is B Dub 11/5 ~12:25 PM ET (pre R-008).",
       "updates": [
+        {
+          "date": "2026-11-11",
+          "time": "9:55 AM PT",
+          "text": "Wed 11/11 ~9:55 AM PT: WP REST: Yoast author is Rob Halik on the 20 newest posts, including ID4 (post 53146, 11/6). No transit@twc.com seen. Waiting on Rob to mark Completed.",
+          "verified": true
+        },
         {
           "date": "2026-11-05",
           "time": "12:25 PM",
@@ -480,10 +492,10 @@
       ],
       "note": "Randy's implementation is done. Newest verification is the 11/5 ~12:25 PM ET B Dub Yoast spot-check (before R-008). Waiting on Rob to mark Completed.",
       "lastUpdate": {
-        "date": "2026-11-05",
-        "by": "B Dub Yoast spot-check (pre R-008)"
+        "date": "2026-11-11",
+        "by": "B Dub (WP REST + WebFetch)"
       },
-      "updateText": "11/5 ~12:25 PM ET (before Rob's R-008 email ~3:58 PM ET): Randy emailed that #6 is Done (12:16 PM ET); B Dub WordPress/Yoast author metadata spot-check showed Rob Halik (not transit@twc.com) on ID2, ID9, employee-offboarding, utility-expense-management-companies, and how-to-evaluate-a-saas-license-management-provider. Several of the original six problem posts were also saved ~12:06-12:07 PM ET. Full 300-post scan not rerun. Remaining gap: Rob review before Completed. 11/6 ~10:32 AM ET refresh: no new author scan; prior spot-check stands.",
+      "updateText": "Wed 11/11 ~9:55 AM PT: WP REST: Yoast author is Rob Halik on the 20 newest posts, including ID4 (post 53146, 11/6). No transit@twc.com seen. Waiting on Rob to mark Completed.",
       "doneNote": "Randy's part reported done 10/29. Verified: Article schema with a named author on 294 of the 300 newest posts."
     },
     {
@@ -705,7 +717,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "",
+      "verified": "Wed 11/11 ~9:55 AM PT (B Dub WP REST + WebFetch 11/11 ~9:46-9:52 AM PT): Take-control UEM page shows no First Name/Last Name/Email/Organization form in page text (WebFetch) and was last modified 10/14 (WP REST). /utility-expense-management/ still serves the old UEM page (no 301). Not live. Hold Randy nudges per Rob 11/5.",
       "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -715,6 +727,12 @@
       },
       "nextStep": "Randy: copy the guide's download form (First Name, Last Name, Email, Organization, Download PDF) onto /take-control-of-utility-costs-with-proven-uem-expertise/ and test it, then 301 /utility-expense-management/ and /your-guide-to-utility-expense-management/ to it.",
       "updates": [
+        {
+          "date": "2026-11-11",
+          "time": "9:55 AM PT",
+          "text": "Wed 11/11 ~9:55 AM PT: Take-control UEM page shows no First Name/Last Name/Email/Organization form in page text (WebFetch) and was last modified 10/14 (WP REST). /utility-expense-management/ still serves the old UEM page (no 301). Not live. Hold Randy nudges per Rob 11/5.",
+          "verified": true
+        },
         {
           "date": "2026-11-05",
           "time": "6:10 PM",
@@ -783,10 +801,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-11-05",
-        "by": "B Dub browser check"
+        "date": "2026-11-11",
+        "by": "B Dub (WP REST + WebFetch)"
       },
-      "updateText": "11/5 about 6:10 PM ET: B Dub browser check. The take-control UEM page still has no PDF download form (First Name / Last Name / Email / Organization / Download PDF). /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. On /utility-expense-management/, the string \"This is a title\" remains in markup but is hidden; the visible H1 is the efficiencies and savings line. Still waiting on Randy."
+      "updateText": "Wed 11/11 ~9:55 AM PT: Take-control UEM page shows no First Name/Last Name/Email/Organization form in page text (WebFetch) and was last modified 10/14 (WP REST). /utility-expense-management/ still serves the old UEM page (no 301). Not live. Hold Randy nudges per Rob 11/5."
     },
     {
       "id": "10",
@@ -939,7 +957,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy (checklist download only)",
-      "verified": "Inbound audit-guide links: live as of 2026-11-05 ~6:10 PM ET (B Dub browser). Checklist download (R-009): still plain text as of Sun 11/8 ~6:15 PM ET (B Dub via WebFetch 11/8 ~6:02-6:10 PM ET: no download button, form, or PDF in page text). Hold further Randy nudges.",
+      "verified": "Wed 11/11 ~9:55 AM PT (B Dub WP REST + WebFetch 11/11 ~9:46-9:52 AM PT): Audit guide last modified 10/14 per WP REST, before the 11/3 R-009 request, so the checklist download is still not added. Not live. Hold Randy nudges per Rob 11/5.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (audit-guide links still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -947,6 +965,12 @@
       },
       "nextStep": "Only leftover (Randy): add the Telecom Audit Checklist download on the audit guide (button, form, or PDF). Inbound links are already live. Hold further Randy nudges on R-009 per Rob 11/5.",
       "updates": [
+        {
+          "date": "2026-11-11",
+          "time": "9:55 AM PT",
+          "text": "Wed 11/11 ~9:55 AM PT: Audit guide last modified 10/14 per WP REST, before the 11/3 R-009 request, so the checklist download is still not added. Not live. Hold Randy nudges per Rob 11/5.",
+          "verified": true
+        },
         {
           "date": "2026-11-08",
           "time": "6:15 PM",
@@ -1038,10 +1062,10 @@
           "verified": true
         }
       ],
-      "updateText": "11/6 ~10:32 AM ET: inbound audit-guide links from the TEM Guide and TEM service page are treated as live (verified 11/5 ~6:10 PM ET). The only leftover on #12 is the Telecom Audit Checklist download on the audit guide (R-009). B Dub 11/6 ~9:10 AM ET WP REST content check: Download the Telecom Audit Checklist text is present; PDF hrefs were external only; no Tellennium checklist download link or form. Hold further Randy nudges per Rob 11/5.",
+      "updateText": "Wed 11/11 ~9:55 AM PT: Audit guide last modified 10/14 per WP REST, before the 11/3 R-009 request, so the checklist download is still not added. Not live. Hold Randy nudges per Rob 11/5.",
       "lastUpdate": {
-        "date": "2026-11-06",
-        "by": "B Dub + SEO Sunny glance"
+        "date": "2026-11-11",
+        "by": "B Dub (WP REST + WebFetch)"
       },
       "note": "Inbound links done (live 11/5). Remaining gap is checklist download only (R-009). Hold Randy nudges."
     },
@@ -1065,7 +1089,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "2026-10-12: inbound links still missing",
+      "verified": "Wed 11/11 ~9:55 AM PT (B Dub WP REST + WebFetch 11/11 ~9:46-9:52 AM PT): Partial WP REST read of the TEM service page showed no link to Solutions Compared in the part returned (response was cut off). TEM Guide not re-read. Not confirmed; stays Waiting.",
       "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1073,6 +1097,12 @@
       },
       "nextStep": "Randy: add the inbound links from the TEM Guide and service page.",
       "updates": [
+        {
+          "date": "2026-11-11",
+          "time": "9:55 AM PT",
+          "text": "Wed 11/11 ~9:55 AM PT: Partial WP REST read of the TEM service page showed no link to Solutions Compared in the part returned (response was cut off). TEM Guide not re-read. Not confirmed; stays Waiting.",
+          "verified": true
+        },
         {
           "date": "2026-10-12",
           "time": "",
@@ -1085,7 +1115,12 @@
           "text": "Solutions Compared article published.",
           "verified": false
         }
-      ]
+      ],
+      "lastUpdate": {
+        "date": "2026-11-11",
+        "by": "B Dub (WP REST + WebFetch)"
+      },
+      "updateText": "Wed 11/11 ~9:55 AM PT: Partial WP REST read of the TEM service page showed no link to Solutions Compared in the part returned (response was cut off). TEM Guide not re-read. Not confirmed; stays Waiting."
     },
     {
       "id": "14",
@@ -1107,7 +1142,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "2026-11-06 ~10:32 AM ET: SEO Sunny browser check (no captcha). /should-we-outsource-telecom-expense-management/ stays on the same URL with no 301; title/H1 still \"Should we outsource telecom expense management?\" (original 2015-Gartner article, not the 2026 decision framework). Still HTTP 200.",
+      "verified": "Wed 11/11 ~9:55 AM PT (B Dub WP REST + WebFetch 11/11 ~9:46-9:52 AM PT): Old outsourced-TEM URL still serves the old article (WebFetch, no 301); WP REST post 13434 last modified 10/14. On hold, no nudge.",
       "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1115,6 +1150,12 @@
       },
       "nextStep": "Randy: 301 the old outsourced-TEM article to the 2026 decision framework (R-002). On hold; do not nudge.",
       "updates": [
+        {
+          "date": "2026-11-11",
+          "time": "9:55 AM PT",
+          "text": "Wed 11/11 ~9:55 AM PT: Old outsourced-TEM URL still serves the old article (WebFetch, no 301); WP REST post 13434 last modified 10/14. On hold, no nudge.",
+          "verified": true
+        },
         {
           "date": "2026-11-06",
           "time": "~10:32 AM",
@@ -1147,10 +1188,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-11-06",
-        "by": "SEO Sunny browser"
+        "date": "2026-11-11",
+        "by": "B Dub (WP REST + WebFetch)"
       },
-      "updateText": "11/6 ~10:32 AM ET: SEO Sunny browser recheck. Old outsourced-TEM URL still returns 200 with no 301; title/H1 still \"Should we outsource telecom expense management?\" (2015-Gartner article). Prior live check was 10/22 (box browser). Status stays Waiting on Randy; R-002 remains On hold."
+      "updateText": "Wed 11/11 ~9:55 AM PT: Old outsourced-TEM URL still serves the old article (WebFetch, no 301); WP REST post 13434 last modified 10/14. On hold, no nudge."
     },
     {
       "id": "15",
@@ -1276,6 +1317,12 @@
       },
       "nextStep": "Rob reviews the live \"Strong SaaS management\" link on the overspending article and marks Completed if it looks good. Rechecked about 8:00 AM ET on 11/6.",
       "updates": [
+        {
+          "date": "2026-11-11",
+          "time": "9:55 AM PT",
+          "text": "Wed 11/11 ~9:55 AM PT: Overspending article last modified 11/5 per WP REST, so the 11/8 link confirmation stands; link not re-read this pass. Still Follow up; no Rob change to green found in git.",
+          "verified": true
+        },
         {
           "date": "2026-11-08",
           "time": "9:15 AM",
@@ -1434,10 +1481,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-11-05",
-        "by": "B Dub browser check"
+        "date": "2026-11-11",
+        "by": "B Dub (WP REST + WebFetch)"
       },
-      "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the public overspending article. \"Strong SaaS management\" is a real link to https://tellennium.com/saas-license-management/, not plain text. This clears the afternoon cache/plain-text gap from about 3:10 PM ET. Item stays Follow up, waiting on Rob to review and mark Completed. 11/6 ~9:10 AM ET scheduled refresh: SiteGuard captcha blocked overspending-article recheck this pass; prior live confirm stands (waiting Rob Completed). 11/6 ~10:32 AM ET hub refresh: status unchanged (Follow up / waiting Rob). Prior live confirms stand; no new overspending-article fetch this pass."
+      "updateText": "Wed 11/11 ~9:55 AM PT: Overspending article last modified 11/5 per WP REST, so the 11/8 link confirmation stands; link not re-read this pass. Still Follow up; no Rob change to green found in git."
     },
     {
       "id": "18",
@@ -1459,7 +1506,7 @@
         "dev": "waiting"
       },
       "waitingOn": "Randy",
-      "verified": "",
+      "verified": "Wed 11/11 ~9:55 AM PT (B Dub WP REST + WebFetch 11/11 ~9:46-9:52 AM PT): Cost article last modified 10/14 per WP REST, so the calculator sentence is still not added. R-005 On hold.",
       "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Randy.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1790797144264&OR=EXCEL%2DWEB%2EBODY%2ENT&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1467,6 +1514,12 @@
       },
       "nextStep": "Randy: add the calculator link sentence and check the Calculate ROI button (R-005).",
       "updates": [
+        {
+          "date": "2026-11-11",
+          "time": "9:55 AM PT",
+          "text": "Wed 11/11 ~9:55 AM PT: Cost article last modified 10/14 per WP REST, so the calculator sentence is still not added. R-005 On hold.",
+          "verified": true
+        },
         {
           "date": "2026-10-15",
           "time": "",
@@ -1493,10 +1546,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-10-08",
-        "by": "Rob"
+        "date": "2026-11-11",
+        "by": "B Dub (WP REST + WebFetch)"
       },
-      "updateText": "#18 Rob re-sent Randy R-005 (calculator link + Calculate ROI button check). On hold."
+      "updateText": "Wed 11/11 ~9:55 AM PT: Cost article last modified 10/14 per WP REST, so the calculator sentence is still not added. R-005 On hold."
     },
     {
       "id": "19",
@@ -1583,7 +1636,7 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "Sun 11/8 ~6:15 PM ET: not rechecked this pass (B Dub: WebFetch 500, jina IP-blocked, WP REST captcha-blocked); last confirmed not live below. Sun 11/8 ~3:15 PM ET: /managed-telecom-services/ still not live (B Dub, WP REST slug [] via jina http; jina page title Page not found). Sun 11/8 ~12:15 PM ET: /managed-telecom-services/ still not live (B Dub, WP REST slug [] via jina http; direct WebFetch returned a server error page). Sat 11/7 ~9:15 AM ET: /managed-telecom-services/ still 404 via jina http (title Page not found - Tellennium). Exact-title WebSearch empty. WP REST SiteGuard-blocked. Still not built/live.",
+      "verified": "Wed 11/11 ~9:55 AM PT (B Dub WP REST + WebFetch 11/11 ~9:46-9:52 AM PT): WP REST pages and posts slug lookup for managed-telecom-services returned [] and WebFetch of /managed-telecom-services/ returned a 500. Not live. ID25 stays Sent.",
       "sheetDiff": "Sheet says In progress; Rob's part is done, waiting on Randy.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1790797144264&OR=EXCEL%2DWEB%2EBODY%2ENT&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1591,6 +1644,12 @@
       },
       "nextStep": "Randy: build /managed-telecom-services/ from the SEO Item 20 copy; then B Dub checks live.",
       "updates": [
+        {
+          "date": "2026-11-11",
+          "time": "9:55 AM PT",
+          "text": "Wed 11/11 ~9:55 AM PT: WP REST pages and posts slug lookup for managed-telecom-services returned [] and WebFetch of /managed-telecom-services/ returned a 500. Not live. ID25 stays Sent.",
+          "verified": true
+        },
         {
           "date": "2026-11-08",
           "time": "6:15 PM",
@@ -1671,10 +1730,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-11-06",
-        "by": "B Dub WP REST"
+        "date": "2026-11-11",
+        "by": "B Dub (WP REST + WebFetch)"
       },
-      "updateText": "11/6 ~9:10 AM ET: B Dub WP REST (?rest_route=) slug lookup for managed-telecom-services returned []. SEO #20 page still not published. Separate: blog ID25 is Sent (Rob 11/5) with planned post 11/6; same slug empty so the blog is not live either. Publish lag for the blog is not escalated."
+      "updateText": "Wed 11/11 ~9:55 AM PT: WP REST pages and posts slug lookup for managed-telecom-services returned [] and WebFetch of /managed-telecom-services/ returned a 500. Not live. ID25 stays Sent."
     },
     {
       "id": "21",
@@ -2150,6 +2209,12 @@
       "nextStep": "Bhuvi/G2: match the G2 name and description on Capterra and GetApp, change the /TIMS/ slugs, confirm vendor access, answer on Software Advice (Rob emailed 10/23 10:21 AM). If no reply by Wed 10/28, route via G2 Digital Markets (https://www.g2digitalmarkets.com/).",
       "updates": [
         {
+          "date": "2026-11-11",
+          "time": "9:55 AM PT",
+          "text": "Wed 11/11 ~9:55 AM PT: B Dub inbox search 11/11 ~9:47 AM PT: no mail from G2/Bhuvi since 11/9. Still waiting; Rob follow-up on the 10/23 thread is on Today's Focus.",
+          "verified": true
+        },
+        {
           "date": "2026-10-23",
           "time": "10:29 AM",
           "text": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Rob continues on Crunchbase, Capterra and G2, including the employee count of 185 (Optric) on every platform. CONFLICT: the notes say Capterra was updated with current descriptions and logos, but the 10/23 ~10:14 AM box-browser check found Capterra and GetApp still on the old description and /TIMS/ slugs, pending Bhuvi/G2. Status unchanged.",
@@ -2216,8 +2281,11 @@
           "verified": true
         }
       ],
-      "lastUpdate": "2026-10-23",
-      "updateText": "10/23 October Priorities Sync (10:29 AM, notes in the hub meetings folder): Rob continues on Crunchbase, Capterra and G2, including the employee count of 185 (Optric) on every platform. CONFLICT: the notes say Capterra was updated with current descriptions and logos, but the 10/23 ~10:14 AM box-browser check found Capterra and GetApp still on the old description and /TIMS/ slugs, pending Bhuvi/G2. Status unchanged."
+      "lastUpdate": {
+        "date": "2026-11-11",
+        "by": "B Dub (WP REST + WebFetch)"
+      },
+      "updateText": "Wed 11/11 ~9:55 AM PT: B Dub inbox search 11/11 ~9:47 AM PT: no mail from G2/Bhuvi since 11/9. Still waiting; Rob follow-up on the 10/23 thread is on Today's Focus."
     },
     {
       "id": "30",
@@ -2707,8 +2775,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Wed 11/11 ~12:15 PM ET",
-  "updateNote": "Wed 11/11 ~12:15 PM ET: Wednesday noon scheduled hub refresh. B Dub ~12:05 PM ET: WordPress REST slug check (pages and posts) for /managed-telecom-services/ returned an empty list (not found, so ID25 not confirmed live) and stays Sent, not Published. ID8, ID4, #4, #17 and R-009 not rechecked this pass; last confirmed 11/8. B Dub inbox search ~12:05 PM ET found no new mail today. A-050 stays Done (B Dub confirmed it live on ACCESS Newswire 11/10 at 10:03 AM ET via web search, 11/11 ~7:55 AM ET; formal Gartner Content Compliance approval not confirmed in any email B Dub has seen). No new Randy items. Nothing new needs Rob.",
+  "lastUpdated": "Wed 11/11 ~9:55 AM PT",
+  "updateNote": "Wed 11/11 ~9:55 AM PT: full refresh for Rob. B Dub WP REST + WebFetch 11/11 ~9:46-9:52 AM PT. No status changes found in git: Rob's 'moved a few items to green' is not in either repo (latest commits are B Dub refreshes). Randy: nothing new went live (R-002, R-003, R-005, R-007, R-009 target pages not modified since 10/14 to 10/23 per WP REST). New: ID4 went live 11/6 at a new URL (old 2013 article still live, no 301). ID8 and ID25 still not live. #6: Rob Halik author on the 20 newest posts. Inbox since 11/9: only Rob's 11/9 ACCESS Newswire request; nothing from Randy or G2/Bhuvi.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
