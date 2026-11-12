@@ -1,5 +1,5 @@
 {
-  "updated": "Thu 11/12 ~6:00 AM PT",
+  "updated": "Thu 11/12 ~9:05 AM PT",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -2775,8 +2775,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Thu 11/12 ~6:00 AM PT",
-  "updateNote": "Thu 11/12 ~6:00 AM PT: scheduled hub refresh. B Dub WP REST slug check ~6:00 AM PT: managed-telecom-services (pages and posts) still returned an empty list, so ID25 stays Sent, not Published. B Dub inbox search ~6:00 AM PT found no new mail since Rob's 11/9 ACCESS Newswire request. No status changes, nothing new needs Rob. Earlier refreshes: 11/11 ~3:00 PM PT and ~11:55 AM PT (same result) and the 9:55 AM PT full refresh (ID4 live 11/6 at a new URL, old 2013 article still live with no 301, ID8 and ID25 not live).",
+  "lastUpdated": "Thu 11/12 ~9:05 AM PT",
+  "updateNote": "Thu 11/12 ~9:05 AM PT: scheduled hub refresh. B Dub WP REST check ~9:00 AM PT found ID8 live at a new address, https://tellennium.com/technology-expense-waste-what-enterprises-lose-to-unmanaged-spend/ (WP post 53245, published 11/11 7:36 PM PT, title Technology Expense Waste: What Enterprises Lose to Unmanaged Spend, Self-Check mentioned in the text, FAQ and References present). The old /technology-waste-can-cost-companies-millions/ article (post 1686, last modified 10/14) still returns 200 with no 301. The Self-Check PDF link was not found in the REST content, so it is not verified. ID25: managed-telecom-services (pages and posts) still returned an empty list, so it stays Sent, not Published. No new mail in the B Dub inbox since Rob's 11/9 ACCESS Newswire request. Earlier: 11/12 ~6:00 AM PT (no changes) and the 11/11 9:55 AM PT full refresh (ID4 live at a new URL).",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
