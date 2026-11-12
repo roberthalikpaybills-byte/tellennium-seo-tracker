@@ -1,5 +1,5 @@
 {
-  "updated": "Thu 11/12 ~9:05 AM PT",
+  "updated": "Thu 11/12 ~10:40 AM PT",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -204,14 +204,20 @@
         "dev": "na"
       },
       "waitingOn": "Rob",
-      "verified": "Sun 11/8 ~9:15 AM ET (B Dub via WebFetch + jina reader 11/8 ~9:08-9:15 AM ET): homepage shows title-case \"Telecom Expense Management Services\" linked to https://tellennium.com/telecom-expense-management/ (jina markdown, New to TEM section). Status unchanged: Follow up / waiting Rob Completed.",
-      "sheetDiff": "Sheet says Done; dashboard shows Follow up (exact-anchor homepage link still missing after Randy's 11/5 Done report).",
+      "verified": "Thu 11/12 ~10:35 AM PT (B Dub via WP REST API + WebFetch): WP REST page 14 has two title-case \"Telecom Expense Management Services\" links to https://tellennium.com/telecom-expense-management/ (hero and New to TEM). Exact lowercase anchor not used. WebFetch markdown showed the New to TEM phrase; the hero sentence still read \"Telecom Expense Management, or TEM\" without \"Services\". Status unchanged: Follow up / waiting Rob Completed.",
+      "sheetDiff": "Sheet says Done; dashboard shows Follow up (waiting on Rob to mark Completed; title-case homepage anchors confirmed in WP REST 11/12 ~10:35 AM PT).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoactionitem4temservicepageimpleme.vercel.app/"
       },
-      "nextStep": "Rob reviews whether the title-case homepage anchor closes #4 (phrase words present, destination correct). Rechecked about 8:00 AM ET on 11/6. Do not mark Completed until Rob reviews.",
+      "nextStep": "Rob reviews whether the title-case homepage anchor closes #4 (phrase words present, destination correct). Rechecked ~10:35 AM PT on 11/12 (WP REST + WebFetch). Do not mark Completed until Rob reviews.",
       "updates": [
+        {
+          "date": "2026-11-12",
+          "time": "10:35 AM PT",
+          "text": "Thu 11/12 10:33 AM PT: Randy marked SEO #4 done=yes via the FormSubmit form (email 9138602, cc rhalik@tellennium.com). His note: a link on the Home page to /telecom-expense-management/ with the anchor 'telecom expense management services' was added. Thu 11/12 ~10:35 AM PT: B Dub rechecked the homepage. WP REST API (page 14, slug home) showed two title-case \"Telecom Expense Management Services\" anchors linking to https://tellennium.com/telecom-expense-management/ (hero TEM blurb and the New to TEM section). The exact all-lowercase anchor is not used. WP REST listed the homepage as last modified 2026-11-12T18:24:27 (timezone not confirmed this pass; the 11/11 check had last modified 11/5). A same-pass WebFetch of https://tellennium.com/ (markdown) showed bold \"Telecom Expense Management Services\" in the New to TEM sentence; the hero sentence still read \"Telecom Expense Management, or TEM\" without \"Services\" (hrefs are not visible in that markdown). Status stays Follow up. Do not mark Completed until Rob reviews.",
+          "verified": true
+        },
         {
           "date": "2026-11-11",
           "time": "9:55 AM PT",
@@ -329,10 +335,10 @@
       ],
       "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
       "lastUpdate": {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "by": "B Dub (WP REST + WebFetch)"
       },
-      "updateText": "Wed 11/11 ~9:55 AM PT: Homepage (WP page 14) last modified 11/5 per WP REST, so the 11/8 link confirmation stands; link not re-read this pass. Still Follow up in the tracker; no Rob change to green found in git.",
+      "updateText": "Thu 11/12 10:33 AM PT: Randy marked SEO #4 done=yes via the FormSubmit form (email 9138602, cc rhalik@tellennium.com). His note: a link on the Home page to /telecom-expense-management/ with the anchor 'telecom expense management services' was added. Thu 11/12 ~10:35 AM PT: B Dub rechecked the homepage. WP REST API (page 14, slug home) showed two title-case \"Telecom Expense Management Services\" anchors linking to https://tellennium.com/telecom-expense-management/ (hero TEM blurb and the New to TEM section). The exact all-lowercase anchor is not used. WP REST listed the homepage as last modified 2026-11-12T18:24:27 (timezone not confirmed this pass; the 11/11 check had last modified 11/5). A same-pass WebFetch of https://tellennium.com/ (markdown) showed bold \"Telecom Expense Management Services\" in the New to TEM sentence; the hero sentence still read \"Telecom Expense Management, or TEM\" without \"Services\" (hrefs are not visible in that markdown). Status stays Follow up. Do not mark Completed until Rob reviews.",
       "doneNote": "Randy's part reported done 10/29. Verified: new intro ('Telecom Expense Management services help clients recover an average of 28%...') live, public copy refreshed by 10/30."
     },
     {
@@ -2775,8 +2781,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Thu 11/12 ~9:05 AM PT",
-  "updateNote": "Thu 11/12 ~9:05 AM PT: scheduled hub refresh. B Dub WP REST check ~9:00 AM PT found ID8 live at a new address, https://tellennium.com/technology-expense-waste-what-enterprises-lose-to-unmanaged-spend/ (WP post 53245, published 11/11 7:36 PM PT, title Technology Expense Waste: What Enterprises Lose to Unmanaged Spend, Self-Check mentioned in the text, FAQ and References present). The old /technology-waste-can-cost-companies-millions/ article (post 1686, last modified 10/14) still returns 200 with no 301. The Self-Check PDF link was not found in the REST content, so it is not verified. ID25: managed-telecom-services (pages and posts) still returned an empty list, so it stays Sent, not Published. No new mail in the B Dub inbox since Rob's 11/9 ACCESS Newswire request. Earlier: 11/12 ~6:00 AM PT (no changes) and the 11/11 9:55 AM PT full refresh (ID4 live at a new URL).",
+  "lastUpdated": "Thu 11/12 ~10:40 AM PT",
+  "updateNote": "Thu 11/12 10:33 AM PT: Randy marked SEO #4 done=yes via FormSubmit (email 9138602, cc rhalik@tellennium.com), noting a homepage link to /telecom-expense-management/ with the anchor 'telecom expense management services'. B Dub rechecked ~10:35 AM PT via WP REST API (page 14) and WebFetch of the public homepage. WP REST shows two title-case \"Telecom Expense Management Services\" links to that URL (hero and New to TEM); exact lowercase is not used. WebFetch markdown showed the phrase in the New to TEM sentence; the hero sentence still read \"Telecom Expense Management, or TEM\" without \"Services\". #4 stays Follow up pending Rob's review. No other items changed.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
