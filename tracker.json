@@ -726,16 +726,16 @@
       "due": "Jul 25",
       "week": "Wk 04 (Jul 21-25)",
       "sheetStatus": "Done",
-      "status": "Waiting",
+      "status": "Follow up",
       "light": "yellow",
       "parties": {
         "rob": "done",
-        "randy": "open",
+        "randy": "partial",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Randy",
-      "verified": "Wed 11/11 ~9:55 AM PT (B Dub WP REST + WebFetch 11/11 ~9:46-9:52 AM PT): Take-control UEM page shows no First Name/Last Name/Email/Organization form in page text (WebFetch) and was last modified 10/14 (WP REST). /utility-expense-management/ still serves the old UEM page (no 301). Not live. Hold Randy nudges per Rob 11/5.",
+      "waitingOn": "Rob",
+      "verified": "Thu 11/19 ~12:10 PM ET (B Dub WebFetch): Utility Buyer's Guide download button now on the take-control UEM page; form fields and PDF download not confirmed. /utility-expense-management/ still serves the old page (no 301). Randy (11/19 FormSubmit) says he will not do the rest.",
       "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -743,8 +743,14 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Randy: copy the guide's download form (First Name, Last Name, Email, Organization, Download PDF) onto /take-control-of-utility-costs-with-proven-uem-expertise/ and test it, then 301 /utility-expense-management/ and /your-guide-to-utility-expense-management/ to it.",
+      "nextStep": "Rob: decide whether to accept Randy's partial (guide download on the take-control page, no 301s) or push back on consolidating the two old UEM URLs. Good topic for today's Rob/Randy sync. Then Rob or B Dub tests the guide form and PDF download.",
       "updates": [
+        {
+          "date": "2026-11-19",
+          "time": "12:10 PM ET",
+          "text": "Thu 11/19 12:01 PM ET: Randy sent an SEO #9 update via the FormSubmit form (email 12275323, cc rhalik@tellennium.com), done=yes. His note: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\" Thu 11/19 ~12:10 PM ET B Dub WebFetch: the take-control UEM page now has a \"Utility Buyer's Guide\" section (\"Your Guide to Smarter Utility Expense Management\") with a \"Download the Utility Buyer's Guide\" button. The form fields and the PDF download were not visible in page text, so B Dub has not confirmed that the form records a submission or that the right PDF downloads. /utility-expense-management/ still serves the old page (H1 \"This is a title\"), so no 301; Randy says he will not do the rest (the consolidation 301s). Rob decides: accept partial and close, or push back on the 301s. Do not mark Completed until Rob reviews.",
+          "verified": true
+        },
         {
           "date": "2026-11-11",
           "time": "9:55 AM PT",
@@ -819,10 +825,10 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-11-11",
-        "by": "B Dub (WP REST + WebFetch)"
+        "date": "2026-11-19",
+        "by": "B Dub"
       },
-      "updateText": "Wed 11/11 ~9:55 AM PT: Take-control UEM page shows no First Name/Last Name/Email/Organization form in page text (WebFetch) and was last modified 10/14 (WP REST). /utility-expense-management/ still serves the old UEM page (no 301). Not live. Hold Randy nudges per Rob 11/5."
+      "updateText": "Thu 11/19 12:01 PM ET: Randy sent an SEO #9 update via the FormSubmit form (email 12275323, cc rhalik@tellennium.com), done=yes. His note: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\" Thu 11/19 ~12:10 PM ET B Dub WebFetch: the take-control UEM page now has a \"Utility Buyer's Guide\" section (\"Your Guide to Smarter Utility Expense Management\") with a \"Download the Utility Buyer's Guide\" button. The form fields and the PDF download were not visible in page text, so B Dub has not confirmed that the form records a submission or that the right PDF downloads. /utility-expense-management/ still serves the old page (H1 \"This is a title\"), so no 301; Randy says he will not do the rest (the consolidation 301s). Rob decides: accept partial and close, or push back on the 301s. Do not mark Completed until Rob reviews."
     },
     {
       "id": "10",
@@ -3074,9 +3080,9 @@
     },
     {
       "ref": "#9",
-      "who": "Rob/B Dub",
-      "text": "11/5 about 6:10 PM ET: B Dub browser check. The take-control UEM page still has no PDF download form (First Name / Last Name / Email / Organization / Download PDF). /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. On /utility-expense-management/, the string \"This is a title\" remains in markup but is hidden; the visible H1 is the efficiencies and savings line. Still waiting on Randy. 11/5 about 3:10 PM ET: SEO Sunny live check. The take-control UEM page loads at /take-control-of-utility-costs-with-proven-uem-expertise/ with H1 \"Take Control of Utility Costs with Proven UEM Expertise\" (not the placeholder title). There is still no PDF form or downloadable form on that page. /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. The old /utility-expense-management/ page still has an H1 that reads \"This is a title\". The take-control page still has a \"Your Guide to Utility Expense Management\" button pointing at the old guide URL. The homepage still has a \"Utility Expense Management\" link to the old /utility-expense-management/ URL as well as one to the take-control page. Still waiting on Randy. Live check 10/22 1:18 PM: /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load (no redirect), and no PDF form on the take-control UEM page. Re-sent 10/21 4:24 PM. Checked 10/23 9:50 AM (REST): both old URLs still return their own content; take-control page last modified 10/14, so no change.",
-      "next": "On the Rob/Randy sync agenda (later today or Fri 10/23 AM). Once Randy says done: verify the form records, the right PDF downloads, and both 301s."
+      "who": "Rob",
+      "text": "Thu 11/19 12:01 PM ET Randy FormSubmit: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\" ~12:10 PM ET B Dub WebFetch: \"Download the Utility Buyer's Guide\" button now on the take-control UEM page (form fields/PDF not confirmed); /utility-expense-management/ still the old page, no 301. 11/5 about 6:10 PM ET: B Dub browser check. The take-control UEM page still has no PDF download form (First Name / Last Name / Email / Organization / Download PDF). /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. On /utility-expense-management/, the string \"This is a title\" remains in markup but is hidden; the visible H1 is the efficiencies and savings line. Still waiting on Randy. 11/5 about 3:10 PM ET: SEO Sunny live check. The take-control UEM page loads at /take-control-of-utility-costs-with-proven-uem-expertise/ with H1 \"Take Control of Utility Costs with Proven UEM Expertise\" (not the placeholder title). There is still no PDF form or downloadable form on that page. /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as their own pages with no redirect. The old /utility-expense-management/ page still has an H1 that reads \"This is a title\". The take-control page still has a \"Your Guide to Utility Expense Management\" button pointing at the old guide URL. The homepage still has a \"Utility Expense Management\" link to the old /utility-expense-management/ URL as well as one to the take-control page. Still waiting on Randy. Live check 10/22 1:18 PM: /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load (no redirect), and no PDF form on the take-control UEM page. Re-sent 10/21 4:24 PM. Checked 10/23 9:50 AM (REST): both old URLs still return their own content; take-control page last modified 10/14, so no change.",
+      "next": "Rob decides accept partial vs push for the 301s (today's Randy sync). Then test the guide form and PDF."
     },
     {
       "ref": "#17",
