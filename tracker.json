@@ -976,19 +976,25 @@
       "light": "yellow",
       "parties": {
         "rob": "done",
-        "randy": "open",
+        "randy": "reported done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Randy (checklist download only)",
-      "verified": "Wed 11/18 ~2:06 PM ET (B Dub WP REST + WebFetch 11/18 ~2:02-2:05 PM ET): the audit guide (post 51254) was last modified Tue 11/17 3:23 PM ET, but \"Download the Telecom Audit Checklist\" is still plain text with no link, button, form or Tellennium PDF (only outside citation PDFs on worldcc.com and aotmp.com). Steve still needs the checklist file (his 11/12 FormSubmit). B Dub inbox has Rob's 11/3 note to Randy (\"Please fix: Include the Download Asset is in this Article\"), but that copy carries only a screenshot (image.png), not an Enterprise_Telecom_Expense file, so B Dub cannot confirm which file Steve needs. Status stays Follow up.",
+      "waitingOn": "Rob",
+      "verified": "Thu 11/19 ~1:05 PM ET (B Dub WebFetch of WP REST): checklist now linked twice, intro to the SEO-12 Final PDF and the download line to Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf (likely the wrong file). PDFs not opened (captcha).",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (audit-guide links still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-id-12.vercel.app/"
       },
-      "nextStep": "Rob sends Steve the checklist file; Randy links it.",
+      "nextStep": "Rob: open both PDF links on the audit guide. If the download line should use the SEO-12 file, ask Randy to swap it (good for today's sync). Then mark Completed.",
       "updates": [
+        {
+          "date": "2026-11-19",
+          "time": "1:05 PM ET",
+          "text": "Thu 11/19 1:00 PM ET: Randy sent an SEO #12 update via the FormSubmit form (email 12307677, cc rhalik@tellennium.com), done=yes. His note: \"Page up, crosslinks, and Guide link done\". Thu 11/19 ~1:05 PM ET B Dub WebFetch of WP REST (post 51254, last modified 11/19 17:41 site time): the checklist is now linked in two places, but to two different PDFs. The intro line \"A practical Telecom Audit Checklist\" links to /wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. The download line further down (\"Download the Telecom Audit Checklist\") links to /wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf, which by its name looks like the contract audit checklist, not the #12 file. B Dub could not open either PDF (the site's captcha blocks direct downloads from the box). Crosslinks and the guide link were not separately checked. Rob: confirm the download line should point to the SEO-12 file and open both PDFs. Do not mark Completed until Rob reviews.",
+          "verified": true
+        },
         {
           "date": "2026-11-18",
           "time": "2:06 PM ET",
@@ -1098,10 +1104,10 @@
           "verified": true
         }
       ],
-      "updateText": "Wed 11/18 ~2:06 PM ET (B Dub WP REST + WebFetch 11/18 ~2:02-2:05 PM ET): the audit guide (post 51254) was last modified Tue 11/17 3:23 PM ET, but \"Download the Telecom Audit Checklist\" is still plain text with no link, button, form or Tellennium PDF (only outside citation PDFs on worldcc.com and aotmp.com). Steve still needs the checklist file (his 11/12 FormSubmit). B Dub inbox has Rob's 11/3 note to Randy (\"Please fix: Include the Download Asset is in this Article\"), but that copy carries only a screenshot (image.png), not an Enterprise_Telecom_Expense file, so B Dub cannot confirm which file Steve needs. Status stays Follow up.",
+      "updateText": "Thu 11/19 1:00 PM ET: Randy sent an SEO #12 update via the FormSubmit form (email 12307677, cc rhalik@tellennium.com), done=yes. His note: \"Page up, crosslinks, and Guide link done\". Thu 11/19 ~1:05 PM ET B Dub WebFetch of WP REST (post 51254, last modified 11/19 17:41 site time): the checklist is now linked in two places, but to two different PDFs. The intro line \"A practical Telecom Audit Checklist\" links to /wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. The download line further down (\"Download the Telecom Audit Checklist\") links to /wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf, which by its name looks like the contract audit checklist, not the #12 file. B Dub could not open either PDF (the site's captcha blocks direct downloads from the box). Crosslinks and the guide link were not separately checked. Rob: confirm the download line should point to the SEO-12 file and open both PDFs. Do not mark Completed until Rob reviews.",
       "lastUpdate": {
-        "date": "2026-11-18",
-        "by": "B Dub (WP REST + WebFetch)"
+        "date": "2026-11-19",
+        "by": "B Dub"
       },
       "note": "Inbound links done (live 11/5). Remaining gap is checklist download only (R-009). Hold Randy nudges."
     },
@@ -3074,9 +3080,9 @@
     },
     {
       "ref": "Audit guide asset",
-      "who": "Randy",
-      "text": "Wed 11/18 ~2:06 PM ET (B Dub WP REST + WebFetch 11/18 ~2:02-2:05 PM ET): audit guide last modified 11/17 3:23 PM ET, but the checklist line is still plain text; no download link, button, form or checklist PDF. Hold Randy nudges per Rob 11/5.",
-      "next": "Randy adds the asset; B Dub checks the download works live; Rob confirms."
+      "who": "Rob",
+      "text": "Thu 11/19 ~1:05 PM ET (B Dub WebFetch of WP REST, after Randy's 1:00 PM ET #12 FormSubmit): checklist now linked. Intro links the SEO-12 Final PDF; the 'Download the Telecom Audit Checklist' line links the Contract Audit Checklist 26_13 FINAL PDF, likely the wrong file. PDFs not opened (captcha). Wed 11/18 ~2:06 PM ET (B Dub WP REST + WebFetch 11/18 ~2:02-2:05 PM ET): audit guide last modified 11/17 3:23 PM ET, but the checklist line is still plain text; no download link, button, form or checklist PDF. Hold Randy nudges per Rob 11/5.",
+      "next": "Rob opens both PDFs and confirms which file the download line should use; Randy swaps if needed."
     },
     {
       "ref": "#9",
