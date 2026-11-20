@@ -1,5 +1,5 @@
 {
-  "updated": "Thu 11/19 ~6:00 PM ET",
+  "updated": "Fri 11/20 ~9:00 AM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -1179,18 +1179,18 @@
       "light": "yellow",
       "parties": {
         "rob": "done",
-        "randy": "reported done",
+        "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "B Dub/Rob",
-      "verified": "Thu 11/19 ~1:17 PM ET (B Dub WebFetch): Randy reports the 301 done (11/19 1:14 PM ET FormSubmit), but the old URL still returned the old article in WebFetch; curl blocked by captcha. 301 not confirmed.",
+      "waitingOn": "Rob",
+      "verified": "Fri 11/20 ~8:30 AM ET (B Dub WebFetch): the old outsourced-TEM URL now loads the 2026 decision framework, so Randy's 301 is live (R-002 Done - verified live).",
       "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-14.vercel.app/"
       },
-      "nextStep": "B Dub rechecks the old URL redirects to /outsource-vs-in-house-tem-a-2026-decision-framework/ at the next refresh; Rob clicks the old URL to confirm, then marks Completed.",
+      "nextStep": "Rob: click the old URL once to confirm it lands on the 2026 decision framework, then mark #14 Completed.",
       "updates": [
         {
           "date": "2026-11-19",
@@ -1236,7 +1236,7 @@
         }
       ],
       "lastUpdate": {
-        "date": "2026-11-19",
+        "date": "2026-11-20",
         "by": "B Dub"
       },
       "updateText": "Thu 11/19 1:14 PM ET: Randy sent an SEO #14 update via the FormSubmit form (email 12315613, cc rhalik@tellennium.com), done=yes. His note: \"301 Redirect done. Old URL: https://tellennium.com/should-we-outsource-telecom-expense-management/ New URL: https://tellennium.com/outsource-vs-in-house-tem-a-2026-decision-framework/\". Thu 11/19 ~1:17 PM ET B Dub WebFetch of the old URL still returned the old \"Should we outsource telecom expense management?\" article, and curl got the SiteGround captcha (202), so the 301 is not confirmed yet (WebFetch may be serving a cached copy). Recheck at the next refresh. Do not mark Completed until verified and Rob reviews."
@@ -2841,7 +2841,7 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Thu 11/19 ~6:00 PM ET",
+  "lastUpdated": "Fri 11/20 ~9:00 AM ET",
   "updateNote": "Wed 11/18 ~6:00 PM ET: logged Rob's 11/18 ~4:56 PM ET email to Randy as hub R-010 (connect the ID8 Self-Check and ID4 TEM Business Case Worksheet downloads, right before the conclusion). No numbered SEO item changed. Old-URL 301 question was not in the email and stays open for Rob.",
   "seoPipeline": {
     "title": "SEO Pipeline",
