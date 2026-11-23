@@ -1,5 +1,5 @@
 {
-  "updated": "Mon 11/23 ~1:35 PM ET",
+  "updated": "Mon 11/23 ~1:45 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -449,23 +449,29 @@
       "due": "Jul 25",
       "week": "Wk 04 (Jul 21-25)",
       "sheetStatus": "Done",
-      "status": "Rob/B Dub review for final complete",
-      "light": "vgreen",
+      "status": "Follow up",
+      "light": "yellow",
       "parties": {
         "rob": "done",
-        "randy": "done",
+        "randy": "open",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob/B Dub",
-      "verified": "Mon 11/23 ~12:45 PM ET (B Dub WP REST): re-verified 19 of 20 newest posts show Rob Halik (author 5). Post 53245 (ID8, modified 11/19 10:00 AM ET when PDF was added) still shows author 1 (transit@twc.com). ID4 (53146) shows Rob Halik.",
+      "waitingOn": "Randy",
+      "verified": "Mon 11/23 ~12:45 PM ET (B Dub WP REST): 19 of 20 newest posts show Rob Halik; ID8 (post 53245, modified 11/19 10:00 AM ET) still shows transit@twc.com. Rob decided 11/23 ~1:41 PM ET that the author should be Rob Halik.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up pending Rob review after Randy's 11/5 Done report and B Dub's partial live check.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoid6articleschemaimplementationgu.vercel.app/"
       },
-      "nextStep": "Check together: whether ID8 (post 53245, /technology-expense-waste-what-enterprises-lose-to-unmanaged-spend/) should keep author transit@twc.com or be set to Rob Halik. 19 of 20 newest posts already show Rob Halik.",
+      "nextStep": "Randy: set the WordPress author on ID8 (https://tellennium.com/technology-expense-waste-what-enterprises-lose-to-unmanaged-spend/, post 53245) from transit@twc.com to Rob Halik. Include in the next Randy note.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "1:45 PM ET",
+          "text": "Rob decided 11/23: ID8 (post 53245) author should be Rob Halik, not transit@twc.com; include in next Randy note. Moved #6 from Rob/B Dub review for final complete to Follow up (yellow). Remaining gap: set the ID8 author to Rob Halik.",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "1:35 PM ET",
@@ -539,12 +545,12 @@
           "verified": false
         }
       ],
-      "note": "Randy's implementation is done. Newest verification is the 11/5 ~12:25 PM ET B Dub Yoast spot-check (before R-008). Waiting on Rob to mark Completed.",
+      "note": "Rob decided 11/23: ID8 (post 53245) author should be Rob Halik, not transit@twc.com; include in next Randy note.",
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (new completion rule)"
+        "by": "B Dub (Rob decision 11/23)"
       },
-      "updateText": "Moved to Rob/B Dub review for final complete (new rule, Rob 11/23 ~1:30 PM ET). What to check: ID8 (post 53245, modified 11/19 10:00 AM ET) still shows author transit@twc.com; 19 of 20 newest posts show Rob Halik. Re-verified by B Dub WP REST Mon 11/23 ~12:45 PM ET.",
+      "updateText": "Rob decided 11/23: ID8 (post 53245) author should be Rob Halik, not transit@twc.com; include in next Randy note. Moved #6 from Rob/B Dub review for final complete to Follow up (yellow). Remaining gap: set the ID8 author to Rob Halik.",
       "doneNote": "Randy's part reported done 10/29. Verified: Article schema with a named author on 294 of the 300 newest posts."
     },
     {
@@ -1032,8 +1038,14 @@
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-id-12.vercel.app/"
       },
-      "nextStep": "Check together: which PDF the bottom 'Download the Telecom Audit Checklist' line should use (it currently links Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf; the intro already links Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf).",
+      "nextStep": "Rob to check bottom Download link (Contract Audit vs SEO-12), 11/23. Intro already links Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; the bottom line currently links Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "1:45 PM ET",
+          "text": "Rob to check bottom Download link (Contract Audit vs SEO-12), 11/23. Status stays Rob/B Dub review for final complete (pale green). Rob said at 1:41 PM ET that he will look at the audit guide download link.",
+          "verified": false
+        },
         {
           "date": "2026-11-23",
           "time": "1:35 PM ET",
@@ -1161,12 +1173,12 @@
           "verified": true
         }
       ],
-      "updateText": "Moved to Rob/B Dub review for final complete (new rule, Rob 11/23 ~1:30 PM ET). What to check: on the audit guide (51254, modified 11/19 12:41 PM ET), the bottom download line links Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf, while the intro links Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. Crosslinks from the TEM Guide, TEM service page, and 40031 are live (re-verified by B Dub WP REST Mon 11/23 ~12:45 PM ET).",
+      "updateText": "Rob to check bottom Download link (Contract Audit vs SEO-12), 11/23. Status stays Rob/B Dub review for final complete (pale green). Rob said at 1:41 PM ET that he will look at the audit guide download link.",
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (new completion rule)"
+        "by": "B Dub (Rob decision 11/23)"
       },
-      "note": "Inbound links done (live 11/5). Remaining gap is checklist download only (R-009). Hold Randy nudges.",
+      "note": "Rob to check bottom Download link (Contract Audit vs SEO-12), 11/23. Inbound links done (live 11/5). Remaining gap is the bottom checklist file (R-009). Hold Randy nudges.",
       "doneNote": "Randy reported Done 11/19 1:00 PM ET ('Page up, crosslinks, and Guide link done'). Verified live: TEM Guide, TEM service page, and 40031 all link to the audit guide, and intro links SEO-12_Final.pdf. Remaining gap: bottom download line links Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf."
     },
     {
@@ -2967,8 +2979,8 @@
       "updateText": "#36 leftover check 11/23 ~12:45 PM ET (B Dub WP REST): 'Telecom Expence Management' typo still present on TEM Guide (27665) and /telecom-expense-management-faqs/. Main #36 stays Completed; leftover stays with Randy."
     }
   ],
-  "lastUpdated": "Mon 11/23 ~1:35 PM ET",
-  "updateNote": "Mon 11/23 ~1:35 PM ET: new completion rule (Rob). B Dub now marks definitively verified-live items Completed. Joint checks use status 'Rob/B Dub review for final complete' (pale green). Randy declines are Completed with a Randy exception note. Applied today: #4, #14, #17 Completed (verified live 11/23 ~12:45 PM ET); #9 Completed with Randy exception (declined the UEM 301s 11/19); #6 and #12 moved to Rob/B Dub review for final complete; #2 stays Follow up until ID23 Part 2 is live.",
+  "lastUpdated": "Mon 11/23 ~1:45 PM ET",
+  "updateNote": "Mon 11/23 ~1:45 PM ET: Rob decided #6 ID8 author should be Rob Halik, not transit@twc.com; #6 moved from pale green to Follow up for the next Randy note. #12 stays Rob/B Dub review for final complete (Rob to check the bottom Download link, Contract Audit vs SEO-12).",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -3038,6 +3050,11 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-11-23",
+      "time": "1:45 PM ET",
+      "text": "Mon 11/23 ~1:45 PM ET: Rob decided #6 (1:41 PM ET): ID8 (post 53245) author should be Rob Halik, not transit@twc.com; #6 moved to Follow up for the next Randy note. #12 stays Rob/B Dub review for final complete; Rob to check the bottom Download link (Contract Audit vs SEO-12)."
+    },
     {
       "date": "2026-11-23",
       "time": "1:35 PM ET",
@@ -3231,15 +3248,15 @@
   "recheck": [
     {
       "ref": "#6",
-      "who": "Rob/B Dub",
-      "text": "Mon 11/23 ~12:45 PM ET (B Dub WP REST): 19 of 20 newest posts show Rob Halik; ID8 (post 53245, modified 11/19 10:00 AM ET) still shows transit@twc.com.",
-      "next": "Rob/B Dub review for final complete: confirm whether the ID8 author should stay transit@twc.com or be set to Rob Halik."
+      "who": "Randy",
+      "text": "Rob decided 11/23: ID8 (post 53245) author should be Rob Halik, not transit@twc.com; include in next Randy note. B Dub WP REST 11/23 ~12:45 PM ET: ID8 still shows transit@twc.com; 19 of 20 newest posts show Rob Halik.",
+      "next": "Include in the next Randy note: set the ID8 author from transit@twc.com to Rob Halik."
     },
     {
       "ref": "#12",
-      "who": "Rob/B Dub",
+      "who": "Rob",
       "text": "Mon 11/23 ~12:45 PM ET (B Dub WP REST): Audit Guide (51254, modified 11/19 12:41 PM ET) links SEO-12_Final.pdf in the intro and Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf at the bottom 'Download the Telecom Audit Checklist' line. TEM Guide (27665), TEM service page (46835), and 40031 (modified 11/19 12:58 PM ET) all link to the audit guide.",
-      "next": "Rob/B Dub review for final complete: confirm which PDF the bottom download line should use (Contract_Audit_Checklist_26_13_FINAL.pdf vs SEO-12_Final.pdf)."
+      "next": "Rob to check bottom Download link (Contract Audit vs SEO-12), 11/23."
     },
     {
       "ref": "#33",
