@@ -1,5 +1,5 @@
 {
-  "updated": "Sun 11/22 ~6:00 PM ET",
+  "updated": "Sun 11/22 ~7:00 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -2841,8 +2841,8 @@
       "updateText": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy."
     }
   ],
-  "lastUpdated": "Sun 11/22 ~6:00 PM ET",
-  "updateNote": "Sun 11/22 ~6:00 PM ET: scheduled refresh, no new Rob or Randy activity since the 3:00 PM pass (B Dub checked the inbox). No numbered SEO item status changed.",
+  "lastUpdated": "Sun 11/22 ~7:00 PM ET",
+  "updateNote": "Sun 11/22 ~7:00 PM ET: logged ID23 as Sent (dated 11/22, by Rob; Rob confirmed in chat ~6:54 PM ET that ID21 and ID23 are being sent out for review, and that the ID23 email is scheduled for Monday 11/23 morning). ID21 remains Sent 11/22. ID22 remains Sent 11/20 (Rob reconfirmed in the same chat that ID22 had been sent). No numbered SEO item status changed.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -2912,6 +2912,11 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-11-22",
+      "time": "7:00 PM",
+      "text": "Sun 11/22 ~7:00 PM ET: logged ID23 as Sent (dated 11/22, by Rob; Rob confirmed in chat ~6:54 PM ET that ID21 and ID23 are being sent out for review, and that the ID23 email is scheduled for Monday 11/23 morning). ID21 remains Sent 11/22. ID22 remains Sent 11/20 (Rob reconfirmed in the same chat that ID22 had been sent). No numbered SEO item status changed."
+    },
     {
       "date": "2026-11-22",
       "time": "10:50 AM",
