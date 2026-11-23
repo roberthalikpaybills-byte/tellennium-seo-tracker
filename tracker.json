@@ -1,5 +1,5 @@
 {
-  "updated": "Mon 11/23 ~3:05 PM ET",
+  "updated": "Mon 11/23 ~3:20 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -221,6 +221,12 @@
       "updates": [
         {
           "date": "2026-11-23",
+          "time": "3:20 PM ET",
+          "text": "Rob's 11/23 3:09:18 PM ET SEO Items Sync email listed SEO #4 as all set: the homepage 'Telecom Expense Management Services' links to the TEM service page are live. Status stays Completed (verified live by B Dub 11/23 ~12:45 PM ET).",
+          "verified": true
+        },
+        {
+          "date": "2026-11-23",
           "time": "1:35 PM ET",
           "text": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch + WP REST). New rule (Rob, 11/23 ~1:30 PM ET): definitively verified-live items are marked Completed. Homepage anchors and TEM service page rewrite are live.",
           "verified": true
@@ -361,9 +367,9 @@
       "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (new completion rule)"
+        "by": "B Dub (Rob sent 11/23 3:09:18 PM ET)"
       },
-      "updateText": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch + WP REST). New rule (Rob, 11/23 ~1:30 PM ET): definitively verified-live items are marked Completed. Homepage anchors and TEM service page rewrite are live.",
+      "updateText": "Rob's 11/23 3:09:18 PM ET SEO Items Sync email listed SEO #4 as all set: the homepage 'Telecom Expense Management Services' links to the TEM service page are live. Status stays Completed (verified live by B Dub 11/23 ~12:45 PM ET).",
       "doneNote": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET. Both homepage anchors and the TEM service page rewrite are live."
     },
     {
@@ -464,8 +470,14 @@
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoid6articleschemaimplementationgu.vercel.app/"
       },
-      "nextStep": "Randy: set the WordPress author on ID8 (https://tellennium.com/technology-expense-waste-what-enterprises-lose-to-unmanaged-spend/, post 53245) from transit@twc.com to Rob Halik. Include in the next Randy note.",
+      "nextStep": "Randy (asked 11/23 3:09:18 PM ET): on https://tellennium.com/technology-expense-waste-what-enterprises-lose-to-unmanaged-spend/, change the WordPress author from transit@twc.com to Rob Halik.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "3:20 PM ET",
+          "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: on ID8 (post 53245, https://tellennium.com/technology-expense-waste-what-enterprises-lose-to-unmanaged-spend/), change the WordPress author from transit@twc.com to Rob Halik. Status stays Follow up (yellow).",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "1:45 PM ET",
@@ -545,12 +557,12 @@
           "verified": false
         }
       ],
-      "note": "Rob decided 11/23: ID8 (post 53245) author should be Rob Halik, not transit@twc.com; include in next Randy note.",
+      "note": "Asked of Randy in Rob's 11/23 3:09:18 PM ET SEO Items Sync email: set the WordPress author on ID8 (post 53245) from transit@twc.com to Rob Halik.",
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (Rob decision 11/23)"
+        "by": "B Dub (Rob sent 11/23 3:09:18 PM ET)"
       },
-      "updateText": "Rob decided 11/23: ID8 (post 53245) author should be Rob Halik, not transit@twc.com; include in next Randy note. Moved #6 from Rob/B Dub review for final complete to Follow up (yellow). Remaining gap: set the ID8 author to Rob Halik.",
+      "updateText": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: on ID8 (post 53245, https://tellennium.com/technology-expense-waste-what-enterprises-lose-to-unmanaged-spend/), change the WordPress author from transit@twc.com to Rob Halik. Status stays Follow up (yellow).",
       "doneNote": "Randy's part reported done 10/29. Verified: Article schema with a named author on 294 of the 300 newest posts."
     },
     {
@@ -784,6 +796,12 @@
       "updates": [
         {
           "date": "2026-11-23",
+          "time": "3:20 PM ET",
+          "text": "Rob's 11/23 3:09:18 PM ET SEO Items Sync email acknowledged SEO #9 as all set: the Utility Buyer's Guide section is on the UEM page, and the two older utility pages will be kept as they are, per Randy's call. Status stays Completed with Randy exception (per Randy, 11/19).",
+          "verified": true
+        },
+        {
+          "date": "2026-11-23",
           "time": "1:35 PM ET",
           "text": "Completed with Randy exception (Rob's 11/23 ~1:30 PM ET rule). Randy exception (per Randy, 11/19): Added the Utility Buyer's Guide section on 48871 (modified 11/19 11:58 AM ET). Declined the 301s consolidating /utility-expense-management/ and /your-guide-to-utility-expense-management/. His reason, in his words: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\" Re-verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch + WP REST).",
           "verified": true
@@ -875,9 +893,9 @@
       ],
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (new completion rule)"
+        "by": "B Dub (Rob sent 11/23 3:09:18 PM ET)"
       },
-      "updateText": "Completed with Randy exception (Rob's 11/23 ~1:30 PM ET rule). Randy exception (per Randy, 11/19): Added the Utility Buyer's Guide section on 48871 (modified 11/19 11:58 AM ET). Declined the 301s consolidating /utility-expense-management/ and /your-guide-to-utility-expense-management/. His reason, in his words: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\" Re-verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch + WP REST).",
+      "updateText": "Rob's 11/23 3:09:18 PM ET SEO Items Sync email acknowledged SEO #9 as all set: the Utility Buyer's Guide section is on the UEM page, and the two older utility pages will be kept as they are, per Randy's call. Status stays Completed with Randy exception (per Randy, 11/19).",
       "doneNote": "Randy exception (per Randy, 11/19): Added the Utility Buyer's Guide section on 48871 (11/19 11:58 AM ET). Declined the 301s for /utility-expense-management/ and /your-guide-to-utility-expense-management/. His reason, in his words: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\"",
       "note": "Randy exception (per Randy, 11/19): Added the Utility Buyer's Guide section on /take-control-of-utility-costs-with-proven-uem-expertise/ (page 48871, modified 11/19 11:58 AM ET). Declined the 301s consolidating /utility-expense-management/ and /your-guide-to-utility-expense-management/ to that page. His reason, in his words: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\""
     },
@@ -1032,14 +1050,20 @@
         "dev": "na"
       },
       "waitingOn": "Randy",
-      "verified": "Mon 11/23 ~1:46 PM ET (B Dub WP REST content.rendered, post 51254, modified 11/19 12:41 PM ET): the intro 'Telecom Audit Checklist' link is https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. The bottom 'Download the Telecom Audit Checklist' line currently points to https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf. Rob decided 11/23 ~1:46 PM ET that the bottom link should use the same SEO-12 file as the intro.",
+      "verified": "Mon 11/23 ~1:46 PM ET (B Dub WP REST content.rendered, post 51254, modified 11/19 12:41 PM ET): the intro 'Telecom Audit Checklist' link is https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. The bottom 'Download the Telecom Audit Checklist' line currently points to https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf. Rob's 11/23 3:09:18 PM ET email asks Randy to remove the intro PDF link and point the bottom line to the SEO-12 file.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (audit-guide links still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-id-12.vercel.app/"
       },
-      "nextStep": "Randy: on https://tellennium.com/telecom-expense-audit-a-practical-guide-for-enterprises/, point the bottom 'Download the Telecom Audit Checklist' line to https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf (the same file as the intro link). Include in the next Randy note.",
+      "nextStep": "Randy (asked 11/23 3:09:18 PM ET): on https://tellennium.com/telecom-expense-audit-a-practical-guide-for-enterprises/, (1) in the intro, remove only the link to the checklist PDF (all other links stay); (2) on the bottom 'Download the Telecom Audit Checklist' line, link to https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. That leaves one download link on the page, at the bottom.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "3:20 PM ET",
+          "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: in the intro, remove only the link to the checklist PDF (all other links stay); on the bottom 'Download the Telecom Audit Checklist' line, link to https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. The bottom line currently uses https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf. Crosslinks were acknowledged as all set in the same email. Status stays Follow up (yellow).",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "1:50 PM ET",
@@ -1179,12 +1203,12 @@
           "verified": true
         }
       ],
-      "updateText": "Rob decided 11/23: bottom Download link should use Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; include in next Randy note. Moved #12 from Rob/B Dub review for final complete to Follow up (yellow). B Dub WP REST content.rendered 11/23 ~1:46 PM ET (post 51254): intro link is https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; bottom line currently points to https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf. Remaining gap: point the bottom Download line to the SEO-12 file.",
+      "updateText": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: in the intro, remove only the link to the checklist PDF (all other links stay); on the bottom 'Download the Telecom Audit Checklist' line, link to https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. The bottom line currently uses https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf. Crosslinks were acknowledged as all set in the same email. Status stays Follow up (yellow).",
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (Rob decision 11/23)"
+        "by": "B Dub (Rob sent 11/23 3:09:18 PM ET)"
       },
-      "note": "Rob decided 11/23: bottom Download link should use Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; include in next Randy note.",
+      "note": "Asked of Randy in Rob's 11/23 3:09:18 PM ET SEO Items Sync email: remove only the intro link to the checklist PDF; point the bottom Download the Telecom Audit Checklist line to Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf.",
       "doneNote": "Randy reported Done 11/19 1:00 PM ET ('Page up, crosslinks, and Guide link done'). Verified live: TEM Guide, TEM service page, and 40031 all link to the audit guide, and the intro links the SEO-12 file. Remaining gap: the bottom download line still points to Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf and should use the SEO-12 file."
     },
     {
@@ -1198,7 +1222,7 @@
       "due": "Aug 21",
       "week": "Wk 08 (Aug 18-22)",
       "sheetStatus": "Done",
-      "status": "Waiting",
+      "status": "Follow up",
       "light": "yellow",
       "parties": {
         "rob": "done",
@@ -1213,8 +1237,14 @@
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-13v2.vercel.app/"
       },
-      "nextStep": "Randy: add the inbound links from the TEM Guide and service page.",
+      "nextStep": "Randy (asked 11/23 3:09:18 PM ET): add one link to https://tellennium.com/telecom-expense-management-solutions-compared-what-enterprises-are-choosing-today/ from the TEM Guide (https://tellennium.com/your-guide-to-telecom-expense-management/) and one from the TEM service page (https://tellennium.com/telecom-expense-management/).",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "3:20 PM ET",
+          "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: add one link to https://tellennium.com/telecom-expense-management-solutions-compared-what-enterprises-are-choosing-today/ from https://tellennium.com/your-guide-to-telecom-expense-management/ and one from https://tellennium.com/telecom-expense-management/. Article already published. Status moved to Follow up (yellow).",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "12:45 PM ET",
@@ -1242,9 +1272,10 @@
       ],
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (WP REST + WebFetch)"
+        "by": "B Dub (Rob sent 11/23 3:09:18 PM ET)"
       },
-      "updateText": "#13 reset check 11/23 ~12:45 PM ET (B Dub WP REST): neither 46835 nor 27665 links to Solutions Compared (51269). Stays Waiting on Randy."
+      "updateText": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: add one link to https://tellennium.com/telecom-expense-management-solutions-compared-what-enterprises-are-choosing-today/ from https://tellennium.com/your-guide-to-telecom-expense-management/ and one from https://tellennium.com/telecom-expense-management/. Article already published. Status moved to Follow up (yellow).",
+      "note": "Asked of Randy in Rob's 11/23 3:09:18 PM ET SEO Items Sync email: add one inbound link to Solutions Compared from the TEM Guide and one from the TEM service page."
     },
     {
       "id": "14",
@@ -1274,6 +1305,12 @@
       },
       "nextStep": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "3:20 PM ET",
+          "text": "Rob's 11/23 3:09:18 PM ET SEO Items Sync email listed SEO #14 as all set: the outsourced-TEM redirect to the 2026 decision framework is working. Status stays Completed (verified live by B Dub 11/23 ~12:45 PM ET).",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "1:35 PM ET",
@@ -1331,9 +1368,9 @@
       ],
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (new completion rule)"
+        "by": "B Dub (Rob sent 11/23 3:09:18 PM ET)"
       },
-      "updateText": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch). New rule (Rob, 11/23 ~1:30 PM ET): definitively verified-live items are marked Completed. 301 from the old outsourced-TEM URL to the 2026 decision framework is live.",
+      "updateText": "Rob's 11/23 3:09:18 PM ET SEO Items Sync email listed SEO #14 as all set: the outsourced-TEM redirect to the 2026 decision framework is working. Status stays Completed (verified live by B Dub 11/23 ~12:45 PM ET).",
       "doneNote": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET. The old outsourced-TEM URL loads the 2026 decision framework (R-002)."
     },
     {
@@ -1460,6 +1497,12 @@
       },
       "nextStep": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET. (R-007 SaaS Guide cleanups stay tracked separately.)",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "3:20 PM ET",
+          "text": "Rob's 11/23 3:09:18 PM ET SEO Items Sync email listed SEO #17 as all set: the 'Strong SaaS management' link on the SaaS overspending article is live. Status stays Completed (verified live by B Dub 11/23 ~12:45 PM ET).",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "1:35 PM ET",
@@ -1643,9 +1686,9 @@
       ],
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (new completion rule)"
+        "by": "B Dub (Rob sent 11/23 3:09:18 PM ET)"
       },
-      "updateText": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WP REST). New rule (Rob, 11/23 ~1:30 PM ET): definitively verified-live items are marked Completed. 'Strong SaaS management' link on post 46618 is live. R-007 SaaS Guide cleanups stay open separately.",
+      "updateText": "Rob's 11/23 3:09:18 PM ET SEO Items Sync email listed SEO #17 as all set: the 'Strong SaaS management' link on the SaaS overspending article is live. Status stays Completed (verified live by B Dub 11/23 ~12:45 PM ET).",
       "doneNote": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET. 'Strong SaaS management' links to /saas-license-management/ on the overspending article."
     },
     {
@@ -2655,7 +2698,7 @@
       "due": "Oct 23",
       "week": "Wk 14+ (Oct)",
       "sheetStatus": "Not started",
-      "status": "Waiting",
+      "status": "Follow up",
       "light": "yellow",
       "parties": {
         "rob": "done",
@@ -2672,8 +2715,14 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Randy: make the 9 copy changes listed in How to Execute (sent 10/21). FAQ wording waits for #32.",
+      "nextStep": "Randy (asked 11/23 3:09:18 PM ET): on https://tellennium.com/telecom-expense-management/, make the nine Current/New copy edits in the attached doc (and in How to Execute). Hold the FAQ answer 'What expenses does the TEM platform manage?' until SEO #32 is done.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "3:20 PM ET",
+          "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: nine Current/New copy edits on https://tellennium.com/telecom-expense-management/ (same nine from the 10/21 notes; row 6 swaps a section for one line, row 8 deletes two sections). Hold the FAQ answer 'What expenses does the TEM platform manage?' until SEO #32 is done. Status moved to Follow up (yellow).",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "12:45 PM ET",
@@ -2723,12 +2772,12 @@
           "verified": true
         }
       ],
-      "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
+      "note": "Asked of Randy in Rob's 11/23 3:09:18 PM ET SEO Items Sync email: nine Current/New copy edits on the TEM service page (same nine from the 10/21 notes). FAQ answer 'What expenses does the TEM platform manage?' held until #32.",
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (WP REST + WebFetch)"
+        "by": "B Dub (Rob sent 11/23 3:09:18 PM ET)"
       },
-      "updateText": "#33 reset check 11/23 ~12:45 PM ET (B Dub WP REST): 46835 copy edits still not applied (11/13 edit only touched calculator/audit links). Stays Waiting on Randy."
+      "updateText": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: nine Current/New copy edits on https://tellennium.com/telecom-expense-management/ (same nine from the 10/21 notes; row 6 swaps a section for one line, row 8 deletes two sections). Hold the FAQ answer 'What expenses does the TEM platform manage?' until SEO #32 is done. Status moved to Follow up (yellow)."
     },
     {
       "id": "34",
@@ -2892,15 +2941,15 @@
       "due": "Oct 16",
       "week": "Wk 14+ (Oct)",
       "sheetStatus": "Not started",
-      "status": "Completed",
-      "light": "green",
+      "status": "Follow up",
+      "light": "yellow",
       "parties": {
         "rob": "done",
-        "randy": "done",
+        "randy": "open",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Completed (verified live 10/21) · small leftover with Randy",
+      "waitingOn": "Randy",
       "verified": "2026-10-21: Guide title, meta and H2 live",
       "sheetDiff": "",
       "links": {
@@ -2909,8 +2958,14 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Randy (small leftover): change the hidden/collapsed link text 'Telecom Expence Management - Implementation of Outsourced TEM' (to the service page) to 'telecom expense management services'. Rechecked 11/5 about 6:10 PM ET; still there.",
+      "nextStep": "Randy (asked 11/23 3:09:18 PM ET): on https://tellennium.com/your-guide-to-telecom-expense-management/, use the first FAQ list (just above the blue Get Started with Tellennium banner) and open its last question, 'What is a Telecom Expense Management System?'. Change the last-line link text 'Telecom Expence Management - Implementation of Outsourced TEM' to 'telecom expense management services.' The link stays the same. The same question on https://tellennium.com/telecom-expense-management-faqs/ needs the same text change. Title, meta, and H2 work remains verified live 10/21.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "3:20 PM ET",
+          "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: leftover typo link text on the TEM Guide first FAQ list and on https://tellennium.com/telecom-expense-management-faqs/: change 'Telecom Expence Management - Implementation of Outsourced TEM' to 'telecom expense management services.' (link target unchanged). Main title, meta, and H2 work stays verified live 10/21. Status moved from Completed to Follow up (yellow) for this remaining site change.",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "12:45 PM ET",
@@ -2980,13 +3035,14 @@
       ],
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (WP REST + WebFetch)"
+        "by": "B Dub (Rob sent 11/23 3:09:18 PM ET)"
       },
-      "updateText": "#36 leftover check 11/23 ~12:45 PM ET (B Dub WP REST): 'Telecom Expence Management' typo still present on TEM Guide (27665) and /telecom-expense-management-faqs/. Main #36 stays Completed; leftover stays with Randy."
+      "updateText": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: leftover typo link text on the TEM Guide first FAQ list and on https://tellennium.com/telecom-expense-management-faqs/: change 'Telecom Expence Management - Implementation of Outsourced TEM' to 'telecom expense management services.' (link target unchanged). Main title, meta, and H2 work stays verified live 10/21. Status moved from Completed to Follow up (yellow) for this remaining site change.",
+      "note": "Title, meta, and H2 were verified live 10/21 and stay done. The leftover typo was asked of Randy in Rob's 11/23 3:09:18 PM ET SEO Items Sync email: change the first FAQ-list link text 'Telecom Expence Management - Implementation of Outsourced TEM' to 'telecom expense management services' (link target stays the same) on the TEM Guide and the FAQ page."
     }
   ],
-  "lastUpdated": "Mon 11/23 ~1:50 PM ET",
-  "updateNote": "Mon 11/23 ~1:50 PM ET: Rob decided #12 bottom Download link should use the SEO-12 audit checklist (Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf, the same file as the intro link); #12 moved from pale green to Follow up for the next Randy note. #6 remains Follow up for the ID8 author change.",
+  "lastUpdated": "Mon 11/23 ~3:20 PM ET",
+  "updateNote": "Mon 11/23 3:09:18 PM ET: Rob emailed Randy (subject SEO Items Sync, cc received in B Dub inbox) with SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx. Asked: #12 (remove intro checklist PDF link; point the bottom Download line to the SEO-12 file), #6 (ID8 author to Rob Halik), #33 (nine copy edits; FAQ held until #32), #13 (links to Solutions Compared from the TEM Guide and service page), #36 leftover typo link text, and optional R-007 SaaS Guide Further Reading (two articles). The email also logged Recent updates, all set for the ID8/ID4 PDFs, #4, #12 crosslinks, #14, #17, and #9 (keep the two older utility pages as they are, per Randy).",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -3056,6 +3112,11 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-11-23",
+      "time": "3:20 PM ET",
+      "text": "Mon 11/23 3:09:18 PM ET: Rob emailed Randy (subject SEO Items Sync; B Dub inbox copy, message 14051573; attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx) asking for #12, #6, #33, #13, #36 leftover typo, and optional R-007 Further Reading. Same email, Recent updates, all set: ID8 Self-Check and ID4 Worksheet PDFs connected; #4 homepage TEM services links live; #12 Audit Guide crosslinks in; #14 outsourced-TEM redirect working; #17 Strong SaaS management link live; #9 Utility Buyer's Guide on the UEM page, and the two older utility pages kept as they are, per Randy's call. #4, #14, and #17 stay Completed (verified live 11/23 ~12:45 PM ET). #9 stays Completed with Randy exception. #6, #12, #13, #33, and #36 (leftover typo) are Follow up, waiting on Randy."
+    },
     {
       "date": "2026-11-23",
       "time": "1:50 PM ET",
@@ -3258,34 +3319,40 @@
   ],
   "recheck": [
     {
+      "ref": "#13",
+      "who": "Randy",
+      "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: add one link to Solutions Compared (https://tellennium.com/telecom-expense-management-solutions-compared-what-enterprises-are-choosing-today/) from the TEM Guide (https://tellennium.com/your-guide-to-telecom-expense-management/) and one from the TEM service page (https://tellennium.com/telecom-expense-management/). B Dub WP REST 11/23 ~12:45 PM ET: neither 46835 nor 27665 linked to 51269.",
+      "next": "Waiting on Randy (asked 11/23 3:09:18 PM ET). Verify both inbound links live once done."
+    },
+    {
       "ref": "#6",
       "who": "Randy",
-      "text": "Rob decided 11/23: ID8 (post 53245) author should be Rob Halik, not transit@twc.com; include in next Randy note. B Dub WP REST 11/23 ~12:45 PM ET: ID8 still shows transit@twc.com; 19 of 20 newest posts show Rob Halik.",
-      "next": "Include in the next Randy note: set the ID8 author from transit@twc.com to Rob Halik."
+      "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: set the ID8 (post 53245) WordPress author from transit@twc.com to Rob Halik. B Dub WP REST 11/23 ~12:45 PM ET: ID8 still showed transit@twc.com; 19 of 20 newest posts showed Rob Halik.",
+      "next": "Waiting on Randy (asked 11/23 3:09:18 PM ET). Verify the ID8 author live once done."
     },
     {
       "ref": "#12",
       "who": "Randy",
-      "text": "Rob decided 11/23: bottom Download link should use Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; include in next Randy note. B Dub WP REST content.rendered 11/23 ~1:46 PM ET (post 51254): intro is https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; bottom line currently points to https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf.",
-      "next": "Include in the next Randy note: point the bottom Download the Telecom Audit Checklist line to the SEO-12 file already used in the intro."
+      "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: remove only the intro checklist PDF link; point the bottom Download the Telecom Audit Checklist line to https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. B Dub WP REST 11/23 ~1:46 PM ET (post 51254): intro is the SEO-12 file; bottom line currently points to https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf.",
+      "next": "Waiting on Randy (asked 11/23 3:09:18 PM ET). Verify both link changes live once done."
     },
     {
       "ref": "#33",
       "who": "Randy",
-      "text": "11/5 about 6:10 PM ET: B Dub browser check on the TEM service page. The requested #33 wording is still not live. The first body paragraph still starts \"Without proper telecom expense management, you're likely paying for services you don't use...\" rather than \"Without the right telecom expense management services\". No in-body links to /saas-license-management/ or /take-control-of-utility-costs-with-proven-uem-expertise/ (a \"utilities\" link still points at /utility-expense-management/). Still waiting on Randy. 11/5 about 3:10 PM ET: SEO Sunny glanced at the public TEM service page. The requested #33 wording is still not live. The first body paragraph still starts \"Without proper telecom expense management, you're likely paying for services you don't use...\" rather than \"Without the right telecom expense management services\". The headings are still \"What Makes Our TEM Services Different\" and \"How Our TEM Platform Improves Expense Visibility and Control\". There are no in-body links to /saas-license-management/ or /take-control-of-utility-costs-with-proven-uem-expertise/ (a body link \"utilities\" still points at /utility-expense-management/). The FAQ question \"What expenses does the TEM platform manage?\" is still present with the old answer, which is expected until #32. Still waiting on Randy for the nine copy edits. Nine TEM service page edits sent 10/21 4:24 PM; none live at the 10/22 1:18 PM check. FAQ answer held until #32 is done. Checked 10/23 9:50 AM (REST): page last modified 10/16; intro, Ecosystem, MOT Platform Overview and Access Through ServiceNow sections unchanged, so none live.",
-      "next": "On the Rob/Randy sync agenda (due 10/23). Verify the nine edits live once Randy is done; send the FAQ wording after #32."
+      "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: nine Current/New copy edits on the TEM service page; hold the FAQ answer 'What expenses does the TEM platform manage?' until #32. B Dub WP REST 11/23 ~12:45 PM ET: 46835 copy edits still not applied.",
+      "next": "Waiting on Randy (asked 11/23 3:09:18 PM ET). Verify the nine edits live once done. FAQ wording waits for #32."
     },
     {
       "ref": "#36",
       "who": "Randy",
-      "text": "11/5 about 6:10 PM ET: B Dub browser check on the TEM Guide. The leftover typo is still present inside the collapsed FAQ \"What is a Telecom Expense Management System?\": \"Telecom Expence Management - Implementation of Outsourced TEM\" linking to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy. 11/5 about 3:10 PM ET: SEO Sunny rechecked the TEM Guide. The leftover typo is still present: hidden or collapsed link text \"Telecom Expence Management - Implementation of Outsourced TEM\" pointing to /telecom-expense-management/. Main #36 title and meta work stays Completed; this leftover is still with Randy. Leftover: hidden link text 'Telecom Expence Management - Implementation of Outsourced TEM' on the TEM Guide. Sent 10/21 4:24 PM. Checked 10/23 9:50 AM: the TEM Guide was edited 10/23 about 6:54 AM ET, but a site search for 'Expence' still returns it (and the TEM FAQ post).",
-      "next": "Check the page code once Randy fixes it."
+      "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Exact ask: leftover typo link text on the TEM Guide first FAQ list and on https://tellennium.com/telecom-expense-management-faqs/ to 'telecom expense management services.' Title, meta, and H2 remain verified live 10/21. B Dub WP REST 11/23 ~12:45 PM ET: typo still present on 27665 and the FAQ page.",
+      "next": "Waiting on Randy (asked 11/23 3:09:18 PM ET). Verify the link text live once done."
     },
     {
       "ref": "Homepage title",
       "who": "Randy",
-      "text": "Live check 10/22 1:28 PM (found during #3): homepage title shows a doubled suffix, '...Lifecycle Management - Tellennium - Tellennium'. Checked 10/23 9:50 AM: still doubled.",
-      "next": "Small Randy fix: drop the extra ' - Tellennium'. Verify the title live once done."
+      "text": "Re-checked live 11/23 ~3:15 PM ET (B Dub WP REST pages/14 yoast_head, page modified 11/14 11:24 AM ET): the Yoast document title is still 'Enterprise Expense Management - Telecom Expense Management Services - Mobility Management - Lifecycle Management - Tellennium - Tellennium'. og:title ends with a single Tellennium. First found 10/22 1:28 PM ET; still doubled 10/23 9:50 AM ET. Not in the 11/23 SEO Items Sync doc.",
+      "next": "Small Randy fix: drop the extra ' - Tellennium' so the document title ends with a single Tellennium. Verify the title live once done."
     },
     {
       "ref": "#5",
@@ -3319,9 +3386,9 @@
     },
     {
       "ref": "R-007",
-      "who": "Rob",
-      "text": "Mon 11/23 ~12:45 PM ET (B Dub WP REST + WebFetch): SaaS Guide (51317) still unmodified since 10/23. Duplicate Getting Started section was fixed 10/21 (second match in markdown is Table of Contents); remaining items stay open (Further Reading links, optimization post choice, meta/og description).",
-      "next": "Rob picks the optimization post (swap or list both), then the leftovers go in the next Randy note."
+      "who": "Randy",
+      "text": "Asked of Randy in Rob's email 11/23 3:09:18 PM ET (B Dub inbox copy, message 14051573, subject SEO Items Sync, to Randy Nickless, attachment SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx). Optional ask: on https://tellennium.com/your-guide-to-saas-license-management/, add two Tellennium Articles under Further Reading for the Next Conversation: SaaS License Optimization: Right-Sizing Seats and Commitments (https://tellennium.com/saas-license-optimization-right-sizing-seats-and-commitments/) and How to Evaluate a SaaS License Management Provider (https://tellennium.com/how-to-evaluate-a-saas-license-management-provider/). Other R-007 leftovers (optimization post choice, and any remaining cleanups) stay open; the optimization post pick is still Rob's.",
+      "next": "Optional item in the 11/23 3:09:18 PM ET email. Verify the two Further Reading links live if Randy adds them. Rob still picks the optimization post before the rest of R-007 is re-asked."
     },
     {
       "ref": "Verify",
