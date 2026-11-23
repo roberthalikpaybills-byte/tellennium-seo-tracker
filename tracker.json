@@ -1,5 +1,5 @@
 {
-  "updated": "Mon 11/23 ~1:45 PM ET",
+  "updated": "Mon 11/23 ~1:50 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
@@ -1023,23 +1023,29 @@
       "due": "Aug 14",
       "week": "Wk 07 (Aug 11-15)",
       "sheetStatus": "Done",
-      "status": "Rob/B Dub review for final complete",
-      "light": "vgreen",
+      "status": "Follow up",
+      "light": "yellow",
       "parties": {
         "rob": "done",
-        "randy": "reported done",
+        "randy": "open",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob/B Dub",
-      "verified": "Mon 11/23 ~12:45 PM ET (B Dub WP REST + WebFetch): Audit Guide (51254, modified 11/19 12:41 PM ET; /telecom-expense-audit/ redirects to it) links Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf in the intro and Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf at the bottom 'Download the Telecom Audit Checklist' section (Sophie 11/20 flagged as likely wrong file). Inbound links verified live: TEM Guide (27665, modified 11/5 12:54 PM ET) links 'See Also: Telecom Expense Audit: A Practical Guide for Enterprises' to 51254; TEM service page (46835, modified 11/13 3:21 PM ET) links to 51254; and 40031 (modified 11/19 12:58 PM ET) links 'Telecom audits' to /telecom-expense-audit/.",
+      "waitingOn": "Randy",
+      "verified": "Mon 11/23 ~1:46 PM ET (B Dub WP REST content.rendered, post 51254, modified 11/19 12:41 PM ET): the intro 'Telecom Audit Checklist' link is https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. The bottom 'Download the Telecom Audit Checklist' line currently points to https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf. Rob decided 11/23 ~1:46 PM ET that the bottom link should use the same SEO-12 file as the intro.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (audit-guide links still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-id-12.vercel.app/"
       },
-      "nextStep": "Rob to check bottom Download link (Contract Audit vs SEO-12), 11/23. Intro already links Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; the bottom line currently links Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf.",
+      "nextStep": "Randy: on https://tellennium.com/telecom-expense-audit-a-practical-guide-for-enterprises/, point the bottom 'Download the Telecom Audit Checklist' line to https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf (the same file as the intro link). Include in the next Randy note.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "1:50 PM ET",
+          "text": "Rob decided 11/23: bottom Download link should use Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; include in next Randy note. Moved #12 from Rob/B Dub review for final complete to Follow up (yellow). B Dub WP REST content.rendered 11/23 ~1:46 PM ET (post 51254): intro link is https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; bottom line currently points to https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf. Remaining gap: point the bottom Download line to the SEO-12 file.",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "1:45 PM ET",
@@ -1173,13 +1179,13 @@
           "verified": true
         }
       ],
-      "updateText": "Rob to check bottom Download link (Contract Audit vs SEO-12), 11/23. Status stays Rob/B Dub review for final complete (pale green). Rob said at 1:41 PM ET that he will look at the audit guide download link.",
+      "updateText": "Rob decided 11/23: bottom Download link should use Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; include in next Randy note. Moved #12 from Rob/B Dub review for final complete to Follow up (yellow). B Dub WP REST content.rendered 11/23 ~1:46 PM ET (post 51254): intro link is https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; bottom line currently points to https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf. Remaining gap: point the bottom Download line to the SEO-12 file.",
       "lastUpdate": {
         "date": "2026-11-23",
         "by": "B Dub (Rob decision 11/23)"
       },
-      "note": "Rob to check bottom Download link (Contract Audit vs SEO-12), 11/23. Inbound links done (live 11/5). Remaining gap is the bottom checklist file (R-009). Hold Randy nudges.",
-      "doneNote": "Randy reported Done 11/19 1:00 PM ET ('Page up, crosslinks, and Guide link done'). Verified live: TEM Guide, TEM service page, and 40031 all link to the audit guide, and intro links SEO-12_Final.pdf. Remaining gap: bottom download line links Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf."
+      "note": "Rob decided 11/23: bottom Download link should use Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; include in next Randy note.",
+      "doneNote": "Randy reported Done 11/19 1:00 PM ET ('Page up, crosslinks, and Guide link done'). Verified live: TEM Guide, TEM service page, and 40031 all link to the audit guide, and the intro links the SEO-12 file. Remaining gap: the bottom download line still points to Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf and should use the SEO-12 file."
     },
     {
       "id": "13",
@@ -2979,8 +2985,8 @@
       "updateText": "#36 leftover check 11/23 ~12:45 PM ET (B Dub WP REST): 'Telecom Expence Management' typo still present on TEM Guide (27665) and /telecom-expense-management-faqs/. Main #36 stays Completed; leftover stays with Randy."
     }
   ],
-  "lastUpdated": "Mon 11/23 ~1:45 PM ET",
-  "updateNote": "Mon 11/23 ~1:45 PM ET: Rob decided #6 ID8 author should be Rob Halik, not transit@twc.com; #6 moved from pale green to Follow up for the next Randy note. #12 stays Rob/B Dub review for final complete (Rob to check the bottom Download link, Contract Audit vs SEO-12).",
+  "lastUpdated": "Mon 11/23 ~1:50 PM ET",
+  "updateNote": "Mon 11/23 ~1:50 PM ET: Rob decided #12 bottom Download link should use the SEO-12 audit checklist (Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf, the same file as the intro link); #12 moved from pale green to Follow up for the next Randy note. #6 remains Follow up for the ID8 author change.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -3050,6 +3056,11 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-11-23",
+      "time": "1:50 PM ET",
+      "text": "Mon 11/23 ~1:50 PM ET: Rob decided #12 (1:46 PM ET): the bottom Download the Telecom Audit Checklist link should use the SEO-12 file already linked in the intro (Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf). #12 moved to Follow up for the next Randy note. Exact intro URL verified by B Dub via WP REST content.rendered 11/23 ~1:46 PM ET."
+    },
     {
       "date": "2026-11-23",
       "time": "1:45 PM ET",
@@ -3254,9 +3265,9 @@
     },
     {
       "ref": "#12",
-      "who": "Rob",
-      "text": "Mon 11/23 ~12:45 PM ET (B Dub WP REST): Audit Guide (51254, modified 11/19 12:41 PM ET) links SEO-12_Final.pdf in the intro and Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf at the bottom 'Download the Telecom Audit Checklist' line. TEM Guide (27665), TEM service page (46835), and 40031 (modified 11/19 12:58 PM ET) all link to the audit guide.",
-      "next": "Rob to check bottom Download link (Contract Audit vs SEO-12), 11/23."
+      "who": "Randy",
+      "text": "Rob decided 11/23: bottom Download link should use Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; include in next Randy note. B Dub WP REST content.rendered 11/23 ~1:46 PM ET (post 51254): intro is https://tellennium.com/wp-content/uploads/2026/11/Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf; bottom line currently points to https://tellennium.com/wp-content/uploads/2026/11/Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf.",
+      "next": "Include in the next Randy note: point the bottom Download the Telecom Audit Checklist line to the SEO-12 file already used in the intro."
     },
     {
       "ref": "#33",
