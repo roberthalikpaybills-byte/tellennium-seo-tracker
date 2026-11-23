@@ -1,13 +1,16 @@
 """Check tracker.json so the top panels and the table agree. Run before pushing: python3 scripts/check_consistency.py"""
 import json,sys
 d=json.load(open('tracker.json'));bad=[]
+REVIEW='Rob/B Dub review for final complete'
+# Legacy alias kept so older rows still pass until they are migrated.
+REVIEW_STATUSES=(REVIEW,'Verify complete')
 for i in d['items']:
     s=i.get('status','');l=i.get('light')
     if s=='Completed' and l!='green': bad.append(f"#{i['id']}: Completed but light {l}")
-    if s=='Verify complete' and l!='vgreen': bad.append(f"#{i['id']}: Verify complete but light {l}")
-    if s not in('Completed','Verify complete') and l in('green','vgreen'): bad.append(f"#{i['id']}: status {s} but light {l}")
+    if s in REVIEW_STATUSES and l!='vgreen': bad.append(f"#{i['id']}: {s} but light {l}")
+    if s not in(('Completed',)+REVIEW_STATUSES) and l in('green','vgreen'): bad.append(f"#{i['id']}: status {s} but light {l}")
     if s=='Completed' and any(v not in('done','na') for v in (i.get('parties') or {}).values()): bad.append(f"#{i['id']}: Completed but a party is not done")
-    if 'reported Done' in (i.get('updateText') or '') and s!='Completed' and 'remaining gap' not in (i.get('updateText') or '').lower() and s!='Verify complete': bad.append(f"#{i['id']}: says reported Done but is {s} with no remaining gap stated")
+    if 'reported Done' in (i.get('updateText') or '') and s!='Completed' and 'remaining gap' not in (i.get('updateText') or '').lower() and s not in REVIEW_STATUSES: bad.append(f"#{i['id']}: says reported Done but is {s} with no remaining gap stated")
 ids={str(i['id']) for i in d['items']}
 for w in d['seoPipeline']['weeks']+[{'items':d['seoPipeline']['bench']}]:
     for a in w['items']:

@@ -1,10 +1,10 @@
 {
-  "updated": "Mon 11/23 ~1:00 PM ET",
+  "updated": "Mon 11/23 ~1:35 PM ET",
   "title": "Tellennium SEO Action Tracker",
   "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
   "legend": {
-    "parties": "done | open (their step is next) | waiting (next step is theirs, pending) | na",
-    "light": "green = done and verified; yellow = in motion or waiting on others; red = Rob to do / stuck"
+    "parties": "done | open (their step is next) | waiting (next step is theirs, pending) | na | partial",
+    "light": "green = Completed (definitively verified live, or Completed with a Randy exception note); vgreen = Rob/B Dub review for final complete (pale green, joint check); yellow = in motion or waiting on others; red = Rob to do / stuck; gray = on hold"
   },
   "items": [
     {
@@ -202,23 +202,29 @@
       "due": "Jul 25",
       "week": "Wk 04 (Jul 21-25)",
       "sheetStatus": "Done",
-      "status": "Verify complete",
-      "light": "vgreen",
+      "status": "Completed",
+      "light": "green",
       "parties": {
         "rob": "done",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob",
-      "verified": "Mon 11/23 ~12:45 PM ET (B Dub WebFetch + WP REST): re-verified live. TEM service page (46835, modified 11/13 3:21 PM ET) keeps new intro, CTA, 28% and MoT. Homepage (page 14, modified 11/14 11:24 AM ET) still has both title-case 'Telecom Expense Management Services' anchors linking to /telecom-expense-management/. Ready for Rob to mark Completed.",
-      "sheetDiff": "Sheet says Done; dashboard shows Follow up (waiting on Rob to mark Completed; both homepage anchors confirmed live by B Dub 11/18 ~2:05 PM ET).",
+      "waitingOn": "",
+      "verified": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch + WP REST): homepage (page 14, modified 11/14 11:24 AM ET) has both title-case 'Telecom Expense Management Services' anchors linking to /telecom-expense-management/; TEM service page intro, CTA, 28% and MoT remain live.",
+      "sheetDiff": "",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoactionitem4temservicepageimpleme.vercel.app/"
       },
-      "nextStep": "Ready for Rob to mark Completed: review the two live homepage anchors (re-verified 11/23 ~12:45 PM ET by B Dub WebFetch).",
+      "nextStep": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "1:35 PM ET",
+          "text": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch + WP REST). New rule (Rob, 11/23 ~1:30 PM ET): definitively verified-live items are marked Completed. Homepage anchors and TEM service page rewrite are live.",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "12:45 PM ET",
@@ -355,10 +361,10 @@
       "note": "#33 = second pass on the same page as #4 (H2s, trimming, alt, anchors); the intro fix covers both.",
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (WP REST + WebFetch)"
+        "by": "B Dub (new completion rule)"
       },
-      "updateText": "#4 reset check 11/23 ~12:45 PM ET (B Dub WebFetch + WP REST): re-verified live (homepage page 14 modified 11/14 11:24 AM ET, both 'Telecom Expense Management Services' anchors link to /telecom-expense-management/; Randy FormSubmit 11/12 1:33 PM ET). Moved to Verify complete; ready for Rob to mark Completed.",
-      "doneNote": "Randy's part reported done 10/29. Verified: new intro ('Telecom Expense Management services help clients recover an average of 28%...') live, public copy refreshed by 10/30."
+      "updateText": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch + WP REST). New rule (Rob, 11/23 ~1:30 PM ET): definitively verified-live items are marked Completed. Homepage anchors and TEM service page rewrite are live.",
+      "doneNote": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET. Both homepage anchors and the TEM service page rewrite are live."
     },
     {
       "id": "5",
@@ -443,23 +449,29 @@
       "due": "Jul 25",
       "week": "Wk 04 (Jul 21-25)",
       "sheetStatus": "Done",
-      "status": "Follow up",
-      "light": "yellow",
+      "status": "Rob/B Dub review for final complete",
+      "light": "vgreen",
       "parties": {
         "rob": "done",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob",
+      "waitingOn": "Rob/B Dub",
       "verified": "Mon 11/23 ~12:45 PM ET (B Dub WP REST): re-verified 19 of 20 newest posts show Rob Halik (author 5). Post 53245 (ID8, modified 11/19 10:00 AM ET when PDF was added) still shows author 1 (transit@twc.com). ID4 (53146) shows Rob Halik.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up pending Rob review after Randy's 11/5 Done report and B Dub's partial live check.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seoid6articleschemaimplementationgu.vercel.app/"
       },
-      "nextStep": "Rob decides whether to fix ID8 (post 53245) author from transit@twc.com to Rob Halik before marking #6 Completed.",
+      "nextStep": "Check together: whether ID8 (post 53245, /technology-expense-waste-what-enterprises-lose-to-unmanaged-spend/) should keep author transit@twc.com or be set to Rob Halik. 19 of 20 newest posts already show Rob Halik.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "1:35 PM ET",
+          "text": "Moved to Rob/B Dub review for final complete (new rule, Rob 11/23 ~1:30 PM ET). What to check: ID8 (post 53245, modified 11/19 10:00 AM ET) still shows author transit@twc.com; 19 of 20 newest posts show Rob Halik. Re-verified by B Dub WP REST Mon 11/23 ~12:45 PM ET.",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "12:45 PM ET",
@@ -530,9 +542,9 @@
       "note": "Randy's implementation is done. Newest verification is the 11/5 ~12:25 PM ET B Dub Yoast spot-check (before R-008). Waiting on Rob to mark Completed.",
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (WP REST + WebFetch)"
+        "by": "B Dub (new completion rule)"
       },
-      "updateText": "#6 reset check 11/23 ~12:45 PM ET (B Dub WP REST): 19 of 20 newest posts show Rob Halik, remaining gap is ID8 (post 53245, modified 11/19 10:00 AM ET) still showing transit@twc.com. Stays Follow up waiting on Rob decision.",
+      "updateText": "Moved to Rob/B Dub review for final complete (new rule, Rob 11/23 ~1:30 PM ET). What to check: ID8 (post 53245, modified 11/19 10:00 AM ET) still shows author transit@twc.com; 19 of 20 newest posts show Rob Halik. Re-verified by B Dub WP REST Mon 11/23 ~12:45 PM ET.",
       "doneNote": "Randy's part reported done 10/29. Verified: Article schema with a named author on 294 of the 300 newest posts."
     },
     {
@@ -745,16 +757,16 @@
       "due": "Jul 25",
       "week": "Wk 04 (Jul 21-25)",
       "sheetStatus": "Done",
-      "status": "Follow up",
-      "light": "yellow",
+      "status": "Completed",
+      "light": "green",
       "parties": {
         "rob": "done",
-        "randy": "partial",
+        "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob",
-      "verified": "Mon 11/23 ~12:45 PM ET (B Dub WebFetch + WP REST): page 48871 (modified 11/19 11:58 AM ET) shows the Utility Buyer's Guide section at the bottom (form fields/PDF not confirmed). /utility-expense-management/ and /your-guide-to-utility-expense-management/ both still load as separate pages (no 301). Randy declined the 301s in FormSubmit 11/19 12:01 PM ET ('Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.').",
+      "waitingOn": "",
+      "verified": "Completed with Randy exception. B Dub WebFetch + WP REST Mon 11/23 ~12:45 PM ET: 48871 (modified 11/19 11:58 AM ET) shows the Utility Buyer's Guide section (form fields/PDF not confirmed). /utility-expense-management/ and /your-guide-to-utility-expense-management/ still load as separate pages (no 301), matching Randy's 11/19 12:01 PM ET FormSubmit decline.",
       "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -762,8 +774,14 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Rob decides whether to accept Randy's partial (no 301s) or reassign/re-ask consolidating /utility-expense-management/ and /your-guide-to-utility-expense-management/, and verify the Utility Buyer's Guide form/PDF on 48871.",
+      "nextStep": "Completed with Randy exception (11/19). Rob can call this out to Steve: the two old UEM URLs were not 301'd, per Randy.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "1:35 PM ET",
+          "text": "Completed with Randy exception (Rob's 11/23 ~1:30 PM ET rule). Randy exception (per Randy, 11/19): Added the Utility Buyer's Guide section on 48871 (modified 11/19 11:58 AM ET). Declined the 301s consolidating /utility-expense-management/ and /your-guide-to-utility-expense-management/. His reason, in his words: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\" Re-verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch + WP REST).",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "12:45 PM ET",
@@ -851,10 +869,11 @@
       ],
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (WP REST + WebFetch)"
+        "by": "B Dub (new completion rule)"
       },
-      "updateText": "#9 reset check 11/23 ~12:45 PM ET (B Dub WebFetch + WP REST): 48871 last modified 11/19 11:58 AM ET (Utility Buyer's Guide section present; form/PDF not confirmed). Remaining gap: both old UEM URLs still return 200 (no 301), matching Randy's 11/19 12:01 PM ET FormSubmit declining the 301s. Waiting on Rob decision.",
-      "doneNote": "Randy added the Utility Buyer's Guide section on 48871 (11/19 11:58 AM ET). Remaining gap: both old UEM URLs still load with no 301 (Randy declined 11/19 12:01 PM ET)."
+      "updateText": "Completed with Randy exception (Rob's 11/23 ~1:30 PM ET rule). Randy exception (per Randy, 11/19): Added the Utility Buyer's Guide section on 48871 (modified 11/19 11:58 AM ET). Declined the 301s consolidating /utility-expense-management/ and /your-guide-to-utility-expense-management/. His reason, in his words: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\" Re-verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch + WP REST).",
+      "doneNote": "Randy exception (per Randy, 11/19): Added the Utility Buyer's Guide section on 48871 (11/19 11:58 AM ET). Declined the 301s for /utility-expense-management/ and /your-guide-to-utility-expense-management/. His reason, in his words: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\"",
+      "note": "Randy exception (per Randy, 11/19): Added the Utility Buyer's Guide section on /take-control-of-utility-costs-with-proven-uem-expertise/ (page 48871, modified 11/19 11:58 AM ET). Declined the 301s consolidating /utility-expense-management/ and /your-guide-to-utility-expense-management/ to that page. His reason, in his words: \"Did part of this, not doing the rest. Not a good move. Guide Form is on the the page.\""
     },
     {
       "id": "10",
@@ -998,23 +1017,29 @@
       "due": "Aug 14",
       "week": "Wk 07 (Aug 11-15)",
       "sheetStatus": "Done",
-      "status": "Follow up",
-      "light": "yellow",
+      "status": "Rob/B Dub review for final complete",
+      "light": "vgreen",
       "parties": {
         "rob": "done",
         "randy": "reported done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob",
+      "waitingOn": "Rob/B Dub",
       "verified": "Mon 11/23 ~12:45 PM ET (B Dub WP REST + WebFetch): Audit Guide (51254, modified 11/19 12:41 PM ET; /telecom-expense-audit/ redirects to it) links Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf in the intro and Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf at the bottom 'Download the Telecom Audit Checklist' section (Sophie 11/20 flagged as likely wrong file). Inbound links verified live: TEM Guide (27665, modified 11/5 12:54 PM ET) links 'See Also: Telecom Expense Audit: A Practical Guide for Enterprises' to 51254; TEM service page (46835, modified 11/13 3:21 PM ET) links to 51254; and 40031 (modified 11/19 12:58 PM ET) links 'Telecom audits' to /telecom-expense-audit/.",
       "sheetDiff": "Sheet says Done; dashboard shows Follow up (audit-guide links still missing after Randy's 11/5 Done report).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-id-12.vercel.app/"
       },
-      "nextStep": "Rob opens both PDF links on the audit guide: if the bottom download line should use SEO-12_Final.pdf instead of Contract_Audit_Checklist_26_13_FINAL.pdf, include the swap in the consolidated Randy note; otherwise mark #12 Completed.",
+      "nextStep": "Check together: which PDF the bottom 'Download the Telecom Audit Checklist' line should use (it currently links Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf; the intro already links Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf).",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "1:35 PM ET",
+          "text": "Moved to Rob/B Dub review for final complete (new rule, Rob 11/23 ~1:30 PM ET). What to check: on the audit guide (51254, modified 11/19 12:41 PM ET), the bottom download line links Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf, while the intro links Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. Crosslinks from the TEM Guide, TEM service page, and 40031 are live (re-verified by B Dub WP REST Mon 11/23 ~12:45 PM ET).",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "12:45 PM ET",
@@ -1136,10 +1161,10 @@
           "verified": true
         }
       ],
-      "updateText": "#12 reset check 11/23 ~12:45 PM ET (B Dub WP REST + WebFetch): confirmed TEM Guide (27665) and TEM service page (46835) both link to 51254, and Randy also edited 40031 on 11/19 12:58 PM ET to link 'Telecom audits' to /telecom-expense-audit/. Remaining gap: bottom download line on 51254 links Contract_Audit_Checklist_26_13_FINAL.pdf instead of SEO-12_Final.pdf (PDFs behind captcha). Waiting on Rob check.",
+      "updateText": "Moved to Rob/B Dub review for final complete (new rule, Rob 11/23 ~1:30 PM ET). What to check: on the audit guide (51254, modified 11/19 12:41 PM ET), the bottom download line links Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf, while the intro links Enterprise_Telecom_Expense_Audit_Checklist_Tellennium_SEO-12_Final.pdf. Crosslinks from the TEM Guide, TEM service page, and 40031 are live (re-verified by B Dub WP REST Mon 11/23 ~12:45 PM ET).",
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (WP REST + WebFetch)"
+        "by": "B Dub (new completion rule)"
       },
       "note": "Inbound links done (live 11/5). Remaining gap is checklist download only (R-009). Hold Randy nudges.",
       "doneNote": "Randy reported Done 11/19 1:00 PM ET ('Page up, crosslinks, and Guide link done'). Verified live: TEM Guide, TEM service page, and 40031 all link to the audit guide, and intro links SEO-12_Final.pdf. Remaining gap: bottom download line links Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf."
@@ -1214,23 +1239,29 @@
       "due": "Aug 21",
       "week": "Wk 08 (Aug 18-22)",
       "sheetStatus": "Done",
-      "status": "Verify complete",
-      "light": "vgreen",
+      "status": "Completed",
+      "light": "green",
       "parties": {
         "rob": "done",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob",
-      "verified": "Mon 11/23 ~12:45 PM ET (B Dub WebFetch): re-verified live. /should-we-outsource-telecom-expense-management/ loads 'Outsource vs. In-House TEM: A 2026 Decision Framework' (Randy reported 301 done 11/19 1:14 PM ET; first verified 11/20 ~8:30 AM ET). R-002 Done - verified live.",
+      "waitingOn": "",
+      "verified": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch): /should-we-outsource-telecom-expense-management/ loads 'Outsource vs. In-House TEM: A 2026 Decision Framework' (Randy reported the 301 done 11/19 1:14 PM ET; first verified 11/20 ~8:30 AM ET).",
       "sheetDiff": "Sheet says Done; dashboard shows Waiting (follow-up still open).",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
         "legacyVercelRevisions": "https://seo-14.vercel.app/"
       },
-      "nextStep": "Ready for Rob to mark Completed: old outsourced-TEM URL redirects to the 2026 decision framework (re-verified 11/23 ~12:45 PM ET by B Dub WebFetch).",
+      "nextStep": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET.",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "1:35 PM ET",
+          "text": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch). New rule (Rob, 11/23 ~1:30 PM ET): definitively verified-live items are marked Completed. 301 from the old outsourced-TEM URL to the 2026 decision framework is live.",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "12:45 PM ET",
@@ -1282,10 +1313,10 @@
       ],
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (WP REST + WebFetch)"
+        "by": "B Dub (new completion rule)"
       },
-      "updateText": "#14 reset check 11/23 ~12:45 PM ET (B Dub WebFetch): re-verified 301 redirect live from /should-we-outsource-telecom-expense-management/ to 2026 decision framework. Moved to Verify complete; ready for Rob to mark Completed.",
-      "doneNote": "Randy reported 301 done 11/19 1:14 PM ET via FormSubmit; verified live 11/20 and re-verified 11/23."
+      "updateText": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WebFetch). New rule (Rob, 11/23 ~1:30 PM ET): definitively verified-live items are marked Completed. 301 from the old outsourced-TEM URL to the 2026 decision framework is live.",
+      "doneNote": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET. The old outsourced-TEM URL loads the 2026 decision framework (R-002)."
     },
     {
       "id": "15",
@@ -1392,16 +1423,16 @@
       "due": "Sep 25",
       "week": "Wk 13 (Sep 22-26)",
       "sheetStatus": "In progress",
-      "status": "Verify complete",
-      "light": "vgreen",
+      "status": "Completed",
+      "light": "green",
       "parties": {
         "rob": "done",
         "randy": "done",
         "steve": "na",
         "dev": "na"
       },
-      "waitingOn": "Rob",
-      "verified": "Mon 11/23 ~12:45 PM ET (B Dub WP REST): re-verified live. Overspending post (46618, modified 11/5 12:11 PM ET) still has 'Strong SaaS management' linking to https://tellennium.com/saas-license-management/. (Separate R-007 SaaS Guide cleanups stay tracked in randy/requests.json.)",
+      "waitingOn": "",
+      "verified": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WP REST): overspending post 46618 (modified 11/5 12:11 PM ET) has 'Strong SaaS management' linking to https://tellennium.com/saas-license-management/. (R-007 SaaS Guide cleanups stay separate and open.)",
       "sheetDiff": "Sheet said In progress; Randy reported Done 11/5 and B Dub verified the remaining-gap link. Dashboard shows Follow up pending Rob review.",
       "links": {
         "wordDoc": "https://tellennium.sharepoint.com/sites/TellenniumHome/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTellenniumHome%2FShared%20Documents%2FMarketing%2FMarketing%20Team%2FMarketing%20Efforts%2FInternet%20%26%20Website%20Posts%2FPosts%20and%20Pages%2F1%2E%20Pending%20Approval%2FSEO%20%2D%20Cannibalization%20Effort%202026&viewid=430d3415%2D051f%2D4ec4%2D9061%2D95b9fdd42f77&SLSync=F&CT=1784243484979&OR=OWA%2DNT%2DMail&CID=952c03ec%2Ddc3c%2Db4d5%2D68e2%2D4a296dd4429b&SI=SentItems",
@@ -1409,8 +1440,14 @@
         "sent": "/sent/2026-10-21-randy/",
         "sentLabel": "Sent to Randy 10/21"
       },
-      "nextStep": "Ready for Rob to mark Completed: live 'Strong SaaS management' link on the overspending article re-verified 11/23 ~12:45 PM ET by B Dub WP REST.",
+      "nextStep": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET. (R-007 SaaS Guide cleanups stay tracked separately.)",
       "updates": [
+        {
+          "date": "2026-11-23",
+          "time": "1:35 PM ET",
+          "text": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WP REST). New rule (Rob, 11/23 ~1:30 PM ET): definitively verified-live items are marked Completed. 'Strong SaaS management' link on post 46618 is live. R-007 SaaS Guide cleanups stay open separately.",
+          "verified": true
+        },
         {
           "date": "2026-11-23",
           "time": "12:45 PM ET",
@@ -1588,10 +1625,10 @@
       ],
       "lastUpdate": {
         "date": "2026-11-23",
-        "by": "B Dub (WP REST + WebFetch)"
+        "by": "B Dub (new completion rule)"
       },
-      "updateText": "#17 reset check 11/23 ~12:45 PM ET (B Dub WP REST): re-verified 'Strong SaaS management' link on post 46618 is live. Moved to Verify complete; ready for Rob to mark Completed. (R-007 SaaS Guide cleanups stay tracked separately in randy/requests.json.)",
-      "doneNote": "Randy reported done 11/5 12:15 PM ET (FormSubmit fallback email); verified live 11/5, 11/18, and re-verified 11/23."
+      "updateText": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET (WP REST). New rule (Rob, 11/23 ~1:30 PM ET): definitively verified-live items are marked Completed. 'Strong SaaS management' link on post 46618 is live. R-007 SaaS Guide cleanups stay open separately.",
+      "doneNote": "Completed - verified live by B Dub Mon 11/23 ~12:45 PM ET. 'Strong SaaS management' links to /saas-license-management/ on the overspending article."
     },
     {
       "id": "18",
@@ -2930,8 +2967,8 @@
       "updateText": "#36 leftover check 11/23 ~12:45 PM ET (B Dub WP REST): 'Telecom Expence Management' typo still present on TEM Guide (27665) and /telecom-expense-management-faqs/. Main #36 stays Completed; leftover stays with Randy."
     }
   ],
-  "lastUpdated": "Mon 11/23 ~1:00 PM ET",
-  "updateNote": "Mon 11/23 ~1:00 PM ET full SEO tracker reset: processed all Randy replies (11/5, 11/12, 11/19) and re-verified open items via WP REST and WebFetch (~12:45 PM ET). Moved #4, #14, #17 to Verify complete (pale green, ready for Rob to mark Completed). Reopened #2 from Completed to Follow up (Page 5 / post 25865 still carries 'MMS vs MDM' title over 2023 MMS vs TEM body until ID23 + Part 2 go live). Verified R-010 (ID8 Self-Check and ID4 Worksheet PDFs) went live 11/19 10:00-10:15 AM ET and #12 crosslink on 40031 went live 11/19 12:58 PM ET. #6 (ID8 author transit@twc.com), #9 (Randy declined 301s 11/19), and #12 (bottom download links Contract Audit Checklist 26_13_FINAL.pdf) await Rob decisions.",
+  "lastUpdated": "Mon 11/23 ~1:35 PM ET",
+  "updateNote": "Mon 11/23 ~1:35 PM ET: new completion rule (Rob). B Dub now marks definitively verified-live items Completed. Joint checks use status 'Rob/B Dub review for final complete' (pale green). Randy declines are Completed with a Randy exception note. Applied today: #4, #14, #17 Completed (verified live 11/23 ~12:45 PM ET); #9 Completed with Randy exception (declined the UEM 301s 11/19); #6 and #12 moved to Rob/B Dub review for final complete; #2 stays Follow up until ID23 Part 2 is live.",
   "seoPipeline": {
     "title": "SEO Pipeline",
     "subtitle": "Top three focus for full green close this week.",
@@ -3001,6 +3038,11 @@
   },
   "banner": "Updates log backfilled for all 36 items, Oct 13, 2026",
   "systemUpdates": [
+    {
+      "date": "2026-11-23",
+      "time": "1:35 PM ET",
+      "text": "Mon 11/23 ~1:35 PM ET: new completion rule (Rob). Definitively verified-live items are marked Completed; joint checks use 'Rob/B Dub review for final complete' (pale green); Randy declines are Completed with a Randy exception note. Applied: #4, #14, #17 Completed (verified live by B Dub 11/23 ~12:45 PM ET); #9 Completed with Randy exception (declined the UEM 301s 11/19, in his words: 'Did part of this, not doing the rest. Not a good move.'); #6 and #12 set to Rob/B Dub review for final complete; #2 stays Follow up until ID23 Part 2 is live. Only Randy decline found: #9 / R-003."
+    },
     {
       "date": "2026-11-23",
       "time": "1:00 PM",
@@ -3188,22 +3230,16 @@
   ],
   "recheck": [
     {
-      "ref": "Audit guide asset",
-      "who": "Rob",
+      "ref": "#6",
+      "who": "Rob/B Dub",
+      "text": "Mon 11/23 ~12:45 PM ET (B Dub WP REST): 19 of 20 newest posts show Rob Halik; ID8 (post 53245, modified 11/19 10:00 AM ET) still shows transit@twc.com.",
+      "next": "Rob/B Dub review for final complete: confirm whether the ID8 author should stay transit@twc.com or be set to Rob Halik."
+    },
+    {
+      "ref": "#12",
+      "who": "Rob/B Dub",
       "text": "Mon 11/23 ~12:45 PM ET (B Dub WP REST): Audit Guide (51254, modified 11/19 12:41 PM ET) links SEO-12_Final.pdf in the intro and Tellennium_Telecom_Contract_Audit_Checklist_26_13_FINAL.pdf at the bottom 'Download the Telecom Audit Checklist' line. TEM Guide (27665), TEM service page (46835), and 40031 (modified 11/19 12:58 PM ET) all link to the audit guide.",
-      "next": "Rob opens both PDFs and confirms which file the download line should use; Randy swaps if needed."
-    },
-    {
-      "ref": "#9",
-      "who": "Rob",
-      "text": "Mon 11/23 ~12:45 PM ET (B Dub WebFetch + WP REST): 48871 (modified 11/19 11:58 AM ET) shows Utility Buyer's Guide section at the bottom (form fields/PDF not confirmed). /utility-expense-management/ and /your-guide-to-utility-expense-management/ both still load as separate pages (no 301). Randy declined the 301s 11/19 12:01 PM ET.",
-      "next": "Rob decides whether to accept partial (no 301s) or reassign/re-ask consolidating the two old UEM URLs."
-    },
-    {
-      "ref": "#17",
-      "who": "Rob",
-      "text": "Overspending article: re-verified live Mon 11/23 ~12:45 PM ET (B Dub WP REST, post 46618). 'Strong SaaS management' links to https://tellennium.com/saas-license-management/. Moved to Verify complete.",
-      "next": "Ready for Rob to mark #17 Completed."
+      "next": "Rob/B Dub review for final complete: confirm which PDF the bottom download line should use (Contract_Audit_Checklist_26_13_FINAL.pdf vs SEO-12_Final.pdf)."
     },
     {
       "ref": "#33",

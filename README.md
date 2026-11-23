@@ -13,3 +13,11 @@ Standalone page for Rob, Steve, Randy and the team. No links into the private hu
 
 - Send an update form (top of page): posts to FormSubmit (endpoint id in index.html, activated to bdub@mail.grokbot.com, cc rhalik@tellennium.com). Submissions never edit the tracker; the B Dub inbox is the review queue. Rob or B Dub approves an update by adding it to that item's `updates` in tracker.json.
 - Form fallback (10/29): if FormSubmit cannot send (outage, network, non-2xx), the form says the update was not sent and shows a prefilled email link To rhalik@tellennium.com, CC bdub@mail.grokbot.com, with the same subject 'SEO tracker update: #N from NAME'. Same fallback on the QBR answers app (subject 'QBR answer: REF from NAME').
+
+- Completion rule (Rob, 23 Nov 2026): this replaces the old rule that Rob reviews every item before it can be marked Completed.
+  - **Completed (green):** B Dub marks an item Completed when it can be definitively verified live, with a note such as `Completed - verified live by B Dub <date/time ET>`.
+  - **Rob/B Dub review for final complete (pale green / `vgreen`):** items that need a joint check use this exact status, with a one-line note on what to check. Rob and B Dub then agree it is complete.
+  - **Randy exception:** if Randy declined part of an item, mark it Completed and add a note: `Randy exception (per Randy, <date>): <what he did, what he declined, his reason in his words>`. Rob can then call that out to Steve.
+  - Leave items that are genuinely still open (not done on the site) in their open/yellow status.
+  - Run `python3 scripts/check_consistency.py` before pushing. `Completed` must use `light: "green"`. `Rob/B Dub review for final complete` must use `light: "vgreen"`.
+

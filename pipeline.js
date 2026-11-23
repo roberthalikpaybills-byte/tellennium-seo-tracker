@@ -14,10 +14,11 @@ var CSS='.sp{background:#152038;border:1px solid #2a3b5c;border-left:4px solid #
 var ST=['Queued','Randy working','Live (B Dub verify)','Green'];
 function e(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function today(){var n=new Date(new Date().toLocaleString('en-US',{timeZone:'America/New_York'}));return n.getFullYear()+'-'+String(n.getMonth()+1).padStart(2,'0')+'-'+String(n.getDate()).padStart(2,'0')}
-/* One source of truth: the row light follows status. Completed = green, Verify complete = pale green, anything else cannot show green. */
-function normalize(D){(D.items||[]).forEach(function(i){var s=i.status||'';if(/^completed$/i.test(s)){i.light='green';i.waitingOn='';var p=i.parties||{};Object.keys(p).forEach(function(k){if(p[k]!='na')p[k]='done'})}else if(/^verify complete$/i.test(s))i.light='vgreen';else if(i.light=='green'||i.light=='vgreen')i.light='yellow'});return D}
+/* One source of truth: the row light follows status. Completed = green, Rob/B Dub review for final complete (legacy: Verify complete) = pale green, anything else cannot show green. */
+function isReview(s){s=s||'';return /^rob\/b dub review for final complete$/i.test(s)||/^verify complete$/i.test(s)}
+function normalize(D){(D.items||[]).forEach(function(i){var s=i.status||'';if(/^completed$/i.test(s)){i.light='green';i.waitingOn='';var p=i.parties||{};Object.keys(p).forEach(function(k){if(p[k]!='na')p[k]='done'})}else if(isReview(s))i.light='vgreen';else if(i.light=='green'||i.light=='vgreen')i.light='yellow'});return D}
 function green(i){return /^completed$/i.test(i.status||'')}
-function stage(i,monday){if(green(i))return 3;var p=i.parties||{};if(/^verify complete$/i.test(i.status||'')||p.randy=='done')return 2;if(p.randy=='working'||p.randy=='ongoing'||today()>=monday)return 1;return 0}
+function stage(i,monday){if(green(i))return 3;var p=i.parties||{};if(isReview(i.status||'')||p.randy=='done')return 2;if(p.randy=='working'||p.randy=='ongoing'||today()>=monday)return 1;return 0}
 function pick(D){var P=D.seoPipeline,by={};D.items.forEach(function(i){by[String(i.id)]=i});var t=today(),W=P.weeks.slice().sort(function(a,b){return a.monday<b.monday?-1:1}),cur=W.filter(function(w){return w.monday<=t}).pop()||W[0];
 var ids=cur.items.map(function(a){return String(a.id)}),open=cur.items.filter(function(a){return !(by[a.id]&&green(by[a.id]))}).length,promo=(P.bench||[]).filter(function(b){return ids.indexOf(String(b.id))<0&&!(by[b.id]&&green(by[b.id]))}).slice(0,Math.max(0,cur.items.length-open));
 return {by:by,t:t,W:W,cur:cur,promo:promo}}
