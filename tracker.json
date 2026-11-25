@@ -1,5 +1,5 @@
 {
- "updated": "Wed 11/25 ~3:05 PM ET",
+ "updated": "Wed 11/25 ~6:05 PM ET",
  "title": "Tellennium SEO Action Tracker",
  "about": "Single source for the shared SEO tracker. Edit this file, commit, push.",
  "legend": {
@@ -3065,7 +3065,7 @@
    "note": "Title, meta, and H2 were verified live 10/21 and stay done. The leftover typo was asked of Randy in Rob's 11/23 3:09:18 PM ET SEO Items Sync email: change the first FAQ-list link text 'Telecom Expence Management - Implementation of Outsourced TEM' to 'telecom expense management services' (link target stays the same) on the TEM Guide and the FAQ page."
   }
  ],
- "lastUpdated": "Wed 11/25 ~3:05 PM ET",
+ "lastUpdated": "Wed 11/25 ~6:05 PM ET",
  "updateNote": "Wed 11/25 ~3:05 PM ET: B Dub live check via WordPress REST. No posts or pages changed since 11/24 4:15 PM ET, so no tracker status moved. No new Rob or Randy emails since the 12:16 PM pass. Wed 11/25 ~11:45 AM ET: B Dub live recheck. #6 ID8 byline and Yoast schema still show Written by Rob Halik (post 53245, modified 11/24 7:37 AM ET). #12 audit guide still has only the SEO-12 checklist PDF on the Download line; intro PDF link still gone (post 51254, modified 11/24 8:12 AM ET). #13 Solutions Compared links confirmed on the TEM Guide (post 27665, modified 11/24 11:08 AM ET) and the TEM service page (page 46835, modified 11/24 9:14 AM ET). All three stay Follow up, ready for Rob to mark Completed. This week's SEO Pipeline priorities set to #12, #6 and #13. No status moved to Completed. Tue 11/24 ~12:10 PM ET: B Dub live check. #36 Guide FAQ link text partly fixed by Randy (typo Expence remains; faqs page unchanged); stays Follow up. No other status changes. Tue 11/24 ~9:10 AM ET: B Dub live check. #6 ID8 byline now Rob Halik and #12 audit guide links now point to the SEO-12 file; both left at Follow up for Rob to mark Completed. No other status changes. Mon 11/23 ~3:25 PM ET: logged Re: Quick Sync (Rob screenshot; Randy 3:11 PM ET / Rob 3:14 PM ET). No status changes. Mon 11/23 3:09:18 PM ET: Rob emailed Randy (subject SEO Items Sync, cc received in B Dub inbox) with SEO_Randy_Sync_Items_Week_of_11-23_Q426.docx. Asked: #12 (remove intro checklist PDF link; point the bottom Download line to the SEO-12 file), #6 (ID8 author to Rob Halik), #33 (nine copy edits; FAQ held until #32), #13 (links to Solutions Compared from the TEM Guide and service page), #36 leftover typo link text, and optional R-007 SaaS Guide Further Reading (two articles). The email also logged Recent updates, all set for the ID8/ID4 PDFs, #4, #12 crosslinks, #14, #17, and #9 (keep the two older utility pages as they are, per Randy).",
  "seoPipeline": {
   "title": "SEO Pipeline",
